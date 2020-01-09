@@ -1,0 +1,103 @@
+{
+    "name": "Kitchener",
+    "win": 4,
+    "loss": 4,
+    "tie": 0,
+    "for": 29,
+    "against": 26,
+    "elo": 1493.4173591066672,
+    "results": [
+        {
+            "id": "nepean_ringette_u14a_7",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Fri Nov 15",
+            "visitor": "Kitchener",
+            "visitorScore": "1",
+            "home": "Gloucester Cumberland - B",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_9",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Fri Nov 15",
+            "visitor": "City of Ottawa",
+            "visitorScore": "2",
+            "home": "Kitchener",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_14",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Sat Nov 16",
+            "visitor": "Kitchener",
+            "visitorScore": "7",
+            "home": "Upper Ottawa Valley",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_18",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Sat Nov 16",
+            "visitor": "Nepean",
+            "visitorScore": "3",
+            "home": "Kitchener",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "st_marys_ringette_u14a_1",
+            "tournament": "st_marys_ringette",
+            "type": "RR",
+            "date": "Fri Dec 6",
+            "visitor": "St. Marys",
+            "visitorScore": "6",
+            "home": "Kitchener",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "st_marys_ringette_u14a_4",
+            "tournament": "st_marys_ringette",
+            "type": "RR",
+            "date": "Fri Dec 6",
+            "visitor": "Kitchener",
+            "visitorScore": "3",
+            "home": "Mississauga",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "st_marys_ringette_u14a_6",
+            "tournament": "st_marys_ringette",
+            "type": "RR",
+            "date": "Sat Dec 7",
+            "visitor": "Kitchener",
+            "visitorScore": "6",
+            "home": "Barrie",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "st_marys_ringette_u14a_9",
+            "tournament": "st_marys_ringette",
+            "type": "RR",
+            "date": "Sat Dec 7",
+            "visitor": "Guelph",
+            "visitorScore": "7",
+            "home": "Kitchener",
+            "homeScore": "5",
+            "status": "Official"
+        }
+    ],
+    "pct": 0.5,
+    "points": 8,
+    "games": 8,
+    "image": "Kitchener.png"
+}

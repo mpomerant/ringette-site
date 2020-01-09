@@ -1,0 +1,59 @@
+{
+    "name": "Waterloo",
+    "win": 2,
+    "loss": 2,
+    "tie": 0,
+    "for": 13,
+    "against": 15,
+    "elo": 1498.5092179498342,
+    "results": [
+        {
+            "id": "pickering_ringette_u14a_2",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "Nepean",
+            "visitorScore": "8",
+            "home": "Waterloo",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_8",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "Waterloo",
+            "visitorScore": "5",
+            "home": "Gloucester Cumberland - D",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_17",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "Whitby",
+            "visitorScore": "4",
+            "home": "Waterloo",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_23",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "Waterloo",
+            "visitorScore": "4",
+            "home": "Ajax",
+            "homeScore": "1",
+            "status": "Official"
+        }
+    ],
+    "pct": 0.5,
+    "points": 4,
+    "games": 4,
+    "image": "Waterloo.png"
+}

@@ -1,0 +1,114 @@
+{
+    "name": "St. Marys",
+    "win": 4,
+    "loss": 5,
+    "tie": 0,
+    "for": 23,
+    "against": 28,
+    "elo": 1489.6781972190813,
+    "results": [
+        {
+            "id": "london_ringette_u14a_3",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Fri Nov 8",
+            "visitor": "St. Marys",
+            "visitorScore": "1",
+            "home": "Markham - F",
+            "homeScore": "4",
+            "status": "Official"
+        },
+        {
+            "id": "london_ringette_u14a_8",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Fri Nov 8",
+            "visitor": "Richmond Hill",
+            "visitorScore": "4",
+            "home": "St. Marys",
+            "homeScore": "0",
+            "status": "Official"
+        },
+        {
+            "id": "london_ringette_u14a_12",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Sat Nov 9",
+            "visitor": "St. Marys",
+            "visitorScore": "0",
+            "home": "Forest",
+            "homeScore": "7",
+            "status": "Official"
+        },
+        {
+            "id": "london_ringette_u14a_14",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Sat Nov 9",
+            "visitor": "Markham - A",
+            "visitorScore": "5",
+            "home": "St. Marys",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "st_marys_ringette_u14a_1",
+            "tournament": "st_marys_ringette",
+            "type": "RR",
+            "date": "Fri Dec 6",
+            "visitor": "St. Marys",
+            "visitorScore": "6",
+            "home": "Kitchener",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "st_marys_ringette_u14a_3",
+            "tournament": "st_marys_ringette",
+            "type": "RR",
+            "date": "Fri Dec 6",
+            "visitor": "Barrie",
+            "visitorScore": "1",
+            "home": "St. Marys",
+            "homeScore": "4",
+            "status": "Official"
+        },
+        {
+            "id": "st_marys_ringette_u14a_10",
+            "tournament": "st_marys_ringette",
+            "type": "RR",
+            "date": "Sat Dec 7",
+            "visitor": "Mississauga",
+            "visitorScore": "1",
+            "home": "St. Marys",
+            "homeScore": "5",
+            "status": "Official"
+        },
+        {
+            "id": "st_marys_ringette_u14a_7",
+            "tournament": "st_marys_ringette",
+            "type": "RR",
+            "date": "Sat Dec 7",
+            "visitor": "St. Marys",
+            "visitorScore": "3",
+            "home": "Guelph",
+            "homeScore": "4",
+            "status": "Official"
+        },
+        {
+            "id": "st_marys_ringette_u14a_11",
+            "tournament": "st_marys_ringette",
+            "type": "GS",
+            "date": "Sun Dec 8",
+            "visitor": "St. Marys",
+            "visitorScore": "3",
+            "home": "Guelph",
+            "homeScore": "0",
+            "status": "Official"
+        }
+    ],
+    "pct": 0.4444444444444444,
+    "points": 8,
+    "games": 9,
+    "image": "St. Marys.png"
+}

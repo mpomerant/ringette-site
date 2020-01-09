@@ -1,0 +1,103 @@
+{
+    "name": "London",
+    "win": 3,
+    "loss": 4,
+    "tie": 1,
+    "for": 25,
+    "against": 31,
+    "elo": 1485.4890502420476,
+    "results": [
+        {
+            "id": "london_ringette_u14a_4",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Fri Nov 8",
+            "visitor": "Ajax",
+            "visitorScore": "3",
+            "home": "London",
+            "homeScore": "5",
+            "status": "Official"
+        },
+        {
+            "id": "london_ringette_u14a_7",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Fri Nov 8",
+            "visitor": "Markham - F",
+            "visitorScore": "6",
+            "home": "London",
+            "homeScore": "4",
+            "status": "Official"
+        },
+        {
+            "id": "london_ringette_u14a_10",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Sat Nov 9",
+            "visitor": "London",
+            "visitorScore": "0",
+            "home": "Richmond Hill",
+            "homeScore": "7",
+            "status": "Official"
+        },
+        {
+            "id": "london_ringette_u14a_16",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Sat Nov 9",
+            "visitor": "London",
+            "visitorScore": "0",
+            "home": "Whitby",
+            "homeScore": "5",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_10",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "Oshawa",
+            "visitorScore": "3",
+            "home": "London",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_6",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "London",
+            "visitorScore": "3",
+            "home": "Metcalfe",
+            "homeScore": "4",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_13",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "Gloucester Cumberland - D",
+            "visitorScore": "2",
+            "home": "London",
+            "homeScore": "7",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_21",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "London",
+            "visitorScore": "3",
+            "home": "Nepean",
+            "homeScore": "1",
+            "status": "Official"
+        }
+    ],
+    "pct": 0.4375,
+    "points": 7,
+    "games": 8,
+    "image": "London.png"
+}

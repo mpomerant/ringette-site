@@ -1,0 +1,103 @@
+{
+    "name": "Sudbury",
+    "win": 0,
+    "loss": 8,
+    "tie": 0,
+    "for": 16,
+    "against": 67,
+    "elo": 1390.744129920176,
+    "results": [
+        {
+            "id": "nepean_ringette_u14a_11",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Fri Nov 15",
+            "visitor": "Metcalfe",
+            "visitorScore": "9",
+            "home": "Sudbury",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_4",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Fri Nov 15",
+            "visitor": "Sudbury",
+            "visitorScore": "3",
+            "home": "City of Ottawa",
+            "homeScore": "7",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_15",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Sat Nov 16",
+            "visitor": "Sudbury",
+            "visitorScore": "2",
+            "home": "Gloucester Cumberland - D",
+            "homeScore": "9",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_19",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Sat Nov 16",
+            "visitor": "Gloucester Cumberland - B",
+            "visitorScore": "8",
+            "home": "Sudbury",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_11",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "Richmond Hill",
+            "visitorScore": "10",
+            "home": "Sudbury",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_5",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "Sudbury",
+            "visitorScore": "2",
+            "home": "Whitby",
+            "homeScore": "7",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_18",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "West Ottawa - F",
+            "visitorScore": "9",
+            "home": "Sudbury",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_22",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "Sudbury",
+            "visitorScore": "1",
+            "home": "Markham - A",
+            "homeScore": "8",
+            "status": "Official"
+        }
+    ],
+    "pct": 0,
+    "points": 0,
+    "games": 8,
+    "image": "Sudbury.png"
+}

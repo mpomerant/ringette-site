@@ -1,0 +1,169 @@
+{
+    "name": "Markham - F",
+    "win": 7,
+    "loss": 4,
+    "tie": 3,
+    "for": 53,
+    "against": 44,
+    "elo": 1541.7898277303998,
+    "results": [
+        {
+            "id": "london_ringette_u14a_3",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Fri Nov 8",
+            "visitor": "St. Marys",
+            "visitorScore": "1",
+            "home": "Markham - F",
+            "homeScore": "4",
+            "status": "Official"
+        },
+        {
+            "id": "london_ringette_u14a_7",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Fri Nov 8",
+            "visitor": "Markham - F",
+            "visitorScore": "6",
+            "home": "London",
+            "homeScore": "4",
+            "status": "Official"
+        },
+        {
+            "id": "london_ringette_u14a_11",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Sat Nov 9",
+            "visitor": "Markham - F",
+            "visitorScore": "1",
+            "home": "Ajax",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "london_ringette_u14a_13",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Sat Nov 9",
+            "visitor": "Richmond Hill",
+            "visitorScore": "1",
+            "home": "Markham - F",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "london_ringette_u14a_17",
+            "tournament": "london_ringette",
+            "type": "S1",
+            "date": "Sun Nov 10",
+            "visitor": "Forest",
+            "visitorScore": "9",
+            "home": "Markham - F",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "mississauga_ringette_u14a_3",
+            "tournament": "mississauga_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "Markham - F",
+            "visitorScore": "3",
+            "home": "Sault Ste Marie",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "mississauga_ringette_u14a_5",
+            "tournament": "mississauga_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "Mississauga",
+            "visitorScore": "0",
+            "home": "Markham - F",
+            "homeScore": "7",
+            "status": "Official"
+        },
+        {
+            "id": "mississauga_ringette_u14a_11",
+            "tournament": "mississauga_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "Markham - F",
+            "visitorScore": "5",
+            "home": "West Ottawa - G",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "mississauga_ringette_u14a_7",
+            "tournament": "mississauga_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "City of Ottawa",
+            "visitorScore": "1",
+            "home": "Markham - F",
+            "homeScore": "8",
+            "status": "Official"
+        },
+        {
+            "id": "mississauga_ringette_u14a_14",
+            "tournament": "mississauga_ringette",
+            "type": "GS",
+            "date": "Sun Dec 1",
+            "visitor": "Forest",
+            "visitorScore": "6",
+            "home": "Markham - F",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_2",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Fri Jan 3",
+            "visitor": "Gloucester Cumberland - B",
+            "visitorScore": "4",
+            "home": "Markham - F",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_9",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Fri Jan 3",
+            "visitor": "Markham - F",
+            "visitorScore": "10",
+            "home": "Upper Ottawa Valley",
+            "homeScore": "5",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_14",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Sat Jan 4",
+            "visitor": "Timmins",
+            "visitorScore": "4",
+            "home": "Markham - F",
+            "homeScore": "0",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_20",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Sat Jan 4",
+            "visitor": "Markham - F",
+            "visitorScore": "2",
+            "home": "West Ottawa - G",
+            "homeScore": "2",
+            "status": "Official"
+        }
+    ],
+    "pct": 0.6071428571428571,
+    "points": 17,
+    "games": 14,
+    "image": "Markham.png"
+}

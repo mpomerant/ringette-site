@@ -1,0 +1,103 @@
+{
+    "name": "Upper Ottawa Valley",
+    "win": 1,
+    "loss": 7,
+    "tie": 0,
+    "for": 23,
+    "against": 46,
+    "elo": 1421.6436154504681,
+    "results": [
+        {
+            "id": "nepean_ringette_u14a_3",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Fri Nov 15",
+            "visitor": "Upper Ottawa Valley",
+            "visitorScore": "1",
+            "home": "Gloucester Cumberland - B",
+            "homeScore": "7",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_6",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Fri Nov 15",
+            "visitor": "West Ottawa  - F",
+            "visitorScore": "4",
+            "home": "Upper Ottawa Valley",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_14",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Sat Nov 16",
+            "visitor": "Kitchener",
+            "visitorScore": "7",
+            "home": "Upper Ottawa Valley",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_20",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Sat Nov 16",
+            "visitor": "Upper Ottawa Valley",
+            "visitorScore": "1",
+            "home": "City of Ottawa",
+            "homeScore": "4",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_4",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Fri Jan 3",
+            "visitor": "Upper Ottawa Valley",
+            "visitorScore": "3",
+            "home": "Whitby",
+            "homeScore": "6",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_9",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Fri Jan 3",
+            "visitor": "Markham - F",
+            "visitorScore": "10",
+            "home": "Upper Ottawa Valley",
+            "homeScore": "5",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_15",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Sat Jan 4",
+            "visitor": "Upper Ottawa Valley",
+            "visitorScore": "6",
+            "home": "Barrie",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_18",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Sat Jan 4",
+            "visitor": "Forest",
+            "visitorScore": "7",
+            "home": "Upper Ottawa Valley",
+            "homeScore": "2",
+            "status": "Official"
+        }
+    ],
+    "pct": 0.125,
+    "points": 2,
+    "games": 8,
+    "image": "Upper Ottawa Valley.png"
+}

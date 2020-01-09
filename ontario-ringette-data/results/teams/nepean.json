@@ -1,0 +1,103 @@
+{
+    "name": "Nepean",
+    "win": 4,
+    "loss": 4,
+    "tie": 0,
+    "for": 30,
+    "against": 29,
+    "elo": 1501.683613264466,
+    "results": [
+        {
+            "id": "nepean_ringette_u14a_1",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Thu Nov 14",
+            "visitor": "Nepean",
+            "visitorScore": "0",
+            "home": "Metcalfe",
+            "homeScore": "4",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_2",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Fri Nov 15",
+            "visitor": "Gloucester Cumberland - D",
+            "visitorScore": "1",
+            "home": "Nepean",
+            "homeScore": "8",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_5",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Fri Nov 15",
+            "visitor": "Timmins",
+            "visitorScore": "8",
+            "home": "Nepean",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_18",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Sat Nov 16",
+            "visitor": "Nepean",
+            "visitorScore": "3",
+            "home": "Kitchener",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_2",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "Nepean",
+            "visitorScore": "8",
+            "home": "Waterloo",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_7",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "Nepean",
+            "visitorScore": "6",
+            "home": "Ajax",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_16",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "Markham - A",
+            "visitorScore": "5",
+            "home": "Nepean",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_21",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "London",
+            "visitorScore": "3",
+            "home": "Nepean",
+            "homeScore": "1",
+            "status": "Official"
+        }
+    ],
+    "pct": 0.5,
+    "points": 8,
+    "games": 8,
+    "image": "Nepean.png"
+}

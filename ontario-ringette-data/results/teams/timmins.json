@@ -1,0 +1,136 @@
+{
+    "name": "Timmins",
+    "win": 9,
+    "loss": 2,
+    "tie": 0,
+    "for": 50,
+    "against": 17,
+    "elo": 1591.124031422305,
+    "results": [
+        {
+            "id": "nepean_ringette_u14a_10",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Fri Nov 15",
+            "visitor": "Timmins",
+            "visitorScore": "5",
+            "home": "West Ottawa  - F",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_5",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Fri Nov 15",
+            "visitor": "Timmins",
+            "visitorScore": "8",
+            "home": "Nepean",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_13",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Sat Nov 16",
+            "visitor": "Gloucester Cumberland - B",
+            "visitorScore": "1",
+            "home": "Timmins",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_17",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Sat Nov 16",
+            "visitor": "Metcalfe",
+            "visitorScore": "3",
+            "home": "Timmins",
+            "homeScore": "6",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_22",
+            "tournament": "nepean_ringette",
+            "type": "S2",
+            "date": "Sun Nov 17",
+            "visitor": "West Ottawa  - F",
+            "visitorScore": "1",
+            "home": "Timmins",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_23",
+            "tournament": "nepean_ringette",
+            "type": "GS",
+            "date": "Sun Nov 17",
+            "visitor": "Gloucester Cumberland - B",
+            "visitorScore": "3",
+            "home": "Timmins",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_1",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Fri Jan 3",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "3",
+            "home": "Timmins",
+            "homeScore": "5",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_7",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Fri Jan 3",
+            "visitor": "Timmins",
+            "visitorScore": "7",
+            "home": "Ajax",
+            "homeScore": "0",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_14",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Sat Jan 4",
+            "visitor": "Timmins",
+            "visitorScore": "4",
+            "home": "Markham - F",
+            "homeScore": "0",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_19",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Sat Jan 4",
+            "visitor": "Barrie",
+            "visitorScore": "0",
+            "home": "Timmins",
+            "homeScore": "7",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_21",
+            "tournament": "whitby_ringette",
+            "type": "S1",
+            "date": "Sun Jan 5",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "4",
+            "home": "Timmins",
+            "homeScore": "2",
+            "status": "Official"
+        }
+    ],
+    "pct": 0.8181818181818182,
+    "points": 18,
+    "games": 11,
+    "image": "Timmins.png"
+}

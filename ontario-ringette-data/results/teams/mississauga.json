@@ -1,0 +1,103 @@
+{
+    "name": "Mississauga",
+    "win": 0,
+    "loss": 7,
+    "tie": 1,
+    "for": 13,
+    "against": 44,
+    "elo": 1402.0012738719156,
+    "results": [
+        {
+            "id": "mississauga_ringette_u14a_2",
+            "tournament": "mississauga_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "5",
+            "home": "Mississauga",
+            "homeScore": "0",
+            "status": "Official"
+        },
+        {
+            "id": "mississauga_ringette_u14a_5",
+            "tournament": "mississauga_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "Mississauga",
+            "visitorScore": "0",
+            "home": "Markham - F",
+            "homeScore": "7",
+            "status": "Official"
+        },
+        {
+            "id": "mississauga_ringette_u14a_12",
+            "tournament": "mississauga_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "Mississauga",
+            "visitorScore": "2",
+            "home": "Forest",
+            "homeScore": "9",
+            "status": "Official"
+        },
+        {
+            "id": "mississauga_ringette_u14a_8",
+            "tournament": "mississauga_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "Sault Ste Marie",
+            "visitorScore": "2",
+            "home": "Mississauga",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "st_marys_ringette_u14a_2",
+            "tournament": "st_marys_ringette",
+            "type": "RR",
+            "date": "Fri Dec 6",
+            "visitor": "Guelph",
+            "visitorScore": "7",
+            "home": "Mississauga",
+            "homeScore": "4",
+            "status": "Official"
+        },
+        {
+            "id": "st_marys_ringette_u14a_4",
+            "tournament": "st_marys_ringette",
+            "type": "RR",
+            "date": "Fri Dec 6",
+            "visitor": "Kitchener",
+            "visitorScore": "3",
+            "home": "Mississauga",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "st_marys_ringette_u14a_10",
+            "tournament": "st_marys_ringette",
+            "type": "RR",
+            "date": "Sat Dec 7",
+            "visitor": "Mississauga",
+            "visitorScore": "1",
+            "home": "St. Marys",
+            "homeScore": "5",
+            "status": "Official"
+        },
+        {
+            "id": "st_marys_ringette_u14a_8",
+            "tournament": "st_marys_ringette",
+            "type": "RR",
+            "date": "Sat Dec 7",
+            "visitor": "Mississauga",
+            "visitorScore": "3",
+            "home": "Barrie",
+            "homeScore": "6",
+            "status": "Official"
+        }
+    ],
+    "pct": 0.0625,
+    "points": 1,
+    "games": 8,
+    "image": "Mississauga.png"
+}

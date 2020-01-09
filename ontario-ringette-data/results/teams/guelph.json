@@ -1,0 +1,114 @@
+{
+    "name": "Guelph",
+    "win": 5,
+    "loss": 4,
+    "tie": 0,
+    "for": 36,
+    "against": 29,
+    "elo": 1514.9877201525783,
+    "results": [
+        {
+            "id": "oshawa_ringette_u14a_3",
+            "tournament": "oshawa_ringette",
+            "type": "RR",
+            "date": "Fri Nov 1",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "5",
+            "home": "Guelph",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "oshawa_ringette_u14a_5",
+            "tournament": "oshawa_ringette",
+            "type": "RR",
+            "date": "Fri Nov 1",
+            "visitor": "Barrie",
+            "visitorScore": "2",
+            "home": "Guelph",
+            "homeScore": "7",
+            "status": "Official"
+        },
+        {
+            "id": "oshawa_ringette_u14a_11",
+            "tournament": "oshawa_ringette",
+            "type": "RR",
+            "date": "Sat Nov 2",
+            "visitor": "Guelph",
+            "visitorScore": "3",
+            "home": "Sault Ste Marie",
+            "homeScore": "0",
+            "status": "Official"
+        },
+        {
+            "id": "oshawa_ringette_u14a_8",
+            "tournament": "oshawa_ringette",
+            "type": "RR",
+            "date": "Sat Nov 2",
+            "visitor": "Guelph",
+            "visitorScore": "2",
+            "home": "Gloucester Cumberland - B",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "st_marys_ringette_u14a_2",
+            "tournament": "st_marys_ringette",
+            "type": "RR",
+            "date": "Fri Dec 6",
+            "visitor": "Guelph",
+            "visitorScore": "7",
+            "home": "Mississauga",
+            "homeScore": "4",
+            "status": "Official"
+        },
+        {
+            "id": "st_marys_ringette_u14a_5",
+            "tournament": "st_marys_ringette",
+            "type": "RR",
+            "date": "Fri Dec 6",
+            "visitor": "Barrie",
+            "visitorScore": "4",
+            "home": "Guelph",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "st_marys_ringette_u14a_7",
+            "tournament": "st_marys_ringette",
+            "type": "RR",
+            "date": "Sat Dec 7",
+            "visitor": "St. Marys",
+            "visitorScore": "3",
+            "home": "Guelph",
+            "homeScore": "4",
+            "status": "Official"
+        },
+        {
+            "id": "st_marys_ringette_u14a_9",
+            "tournament": "st_marys_ringette",
+            "type": "RR",
+            "date": "Sat Dec 7",
+            "visitor": "Guelph",
+            "visitorScore": "7",
+            "home": "Kitchener",
+            "homeScore": "5",
+            "status": "Official"
+        },
+        {
+            "id": "st_marys_ringette_u14a_11",
+            "tournament": "st_marys_ringette",
+            "type": "GS",
+            "date": "Sun Dec 8",
+            "visitor": "St. Marys",
+            "visitorScore": "3",
+            "home": "Guelph",
+            "homeScore": "0",
+            "status": "Official"
+        }
+    ],
+    "pct": 0.5555555555555556,
+    "points": 10,
+    "games": 9,
+    "image": "Guelph.png"
+}

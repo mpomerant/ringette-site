@@ -1,0 +1,103 @@
+{
+    "name": "Oshawa",
+    "win": 0,
+    "loss": 7,
+    "tie": 1,
+    "for": 17,
+    "against": 49,
+    "elo": 1402.420003894239,
+    "results": [
+        {
+            "id": "oshawa_ringette_u14a_2",
+            "tournament": "oshawa_ringette",
+            "type": "RR",
+            "date": "Fri Nov 1",
+            "visitor": "Sault Ste Marie",
+            "visitorScore": "3",
+            "home": "Oshawa",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "oshawa_ringette_u14a_4",
+            "tournament": "oshawa_ringette",
+            "type": "RR",
+            "date": "Fri Nov 1",
+            "visitor": "Oshawa",
+            "visitorScore": "1",
+            "home": "West Ottawa - G",
+            "homeScore": "8",
+            "status": "Official"
+        },
+        {
+            "id": "oshawa_ringette_u14a_10",
+            "tournament": "oshawa_ringette",
+            "type": "RR",
+            "date": "Sat Nov 2",
+            "visitor": "Gloucester Cumberland - B",
+            "visitorScore": "8",
+            "home": "Oshawa",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "oshawa_ringette_u14a_7",
+            "tournament": "oshawa_ringette",
+            "type": "RR",
+            "date": "Sat Nov 2",
+            "visitor": "Oshawa",
+            "visitorScore": "2",
+            "home": "Barrie",
+            "homeScore": "8",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_1",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "Ajax",
+            "visitorScore": "5",
+            "home": "Oshawa",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_10",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "Oshawa",
+            "visitorScore": "3",
+            "home": "London",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_14",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "Richmond Hill",
+            "visitorScore": "8",
+            "home": "Oshawa",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_19",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "Oshawa",
+            "visitorScore": "5",
+            "home": "Gloucester Cumberland - D",
+            "homeScore": "6",
+            "status": "Official"
+        }
+    ],
+    "pct": 0.0625,
+    "points": 1,
+    "games": 8,
+    "image": "Oshawa.png"
+}

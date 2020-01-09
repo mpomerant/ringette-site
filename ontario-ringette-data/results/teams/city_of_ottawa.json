@@ -1,0 +1,103 @@
+{
+    "name": "City of Ottawa",
+    "win": 2,
+    "loss": 6,
+    "tie": 0,
+    "for": 15,
+    "against": 36,
+    "elo": 1450.3998573245808,
+    "results": [
+        {
+            "id": "nepean_ringette_u14a_4",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Fri Nov 15",
+            "visitor": "Sudbury",
+            "visitorScore": "3",
+            "home": "City of Ottawa",
+            "homeScore": "7",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_9",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Fri Nov 15",
+            "visitor": "City of Ottawa",
+            "visitorScore": "2",
+            "home": "Kitchener",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_16",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Sat Nov 16",
+            "visitor": "City of Ottawa",
+            "visitorScore": "0",
+            "home": "West Ottawa  - F",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_20",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Sat Nov 16",
+            "visitor": "Upper Ottawa Valley",
+            "visitorScore": "1",
+            "home": "City of Ottawa",
+            "homeScore": "4",
+            "status": "Official"
+        },
+        {
+            "id": "mississauga_ringette_u14a_1",
+            "tournament": "mississauga_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "City of Ottawa",
+            "visitorScore": "1",
+            "home": "Forest",
+            "homeScore": "8",
+            "status": "Official"
+        },
+        {
+            "id": "mississauga_ringette_u14a_6",
+            "tournament": "mississauga_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "7",
+            "home": "City of Ottawa",
+            "homeScore": "0",
+            "status": "Official"
+        },
+        {
+            "id": "mississauga_ringette_u14a_10",
+            "tournament": "mississauga_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "Sault Ste Marie",
+            "visitorScore": "4",
+            "home": "City of Ottawa",
+            "homeScore": "0",
+            "status": "Official"
+        },
+        {
+            "id": "mississauga_ringette_u14a_7",
+            "tournament": "mississauga_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "City of Ottawa",
+            "visitorScore": "1",
+            "home": "Markham - F",
+            "homeScore": "8",
+            "status": "Official"
+        }
+    ],
+    "pct": 0.25,
+    "points": 4,
+    "games": 8,
+    "image": "City of Ottawa.png"
+}

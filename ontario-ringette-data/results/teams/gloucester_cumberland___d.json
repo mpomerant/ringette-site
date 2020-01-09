@@ -1,0 +1,147 @@
+{
+    "name": "Gloucester Cumberland - D",
+    "win": 4,
+    "loss": 8,
+    "tie": 0,
+    "for": 41,
+    "against": 73,
+    "elo": 1449.7056235717328,
+    "results": [
+        {
+            "id": "nepean_ringette_u14a_2",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Fri Nov 15",
+            "visitor": "Gloucester Cumberland - D",
+            "visitorScore": "1",
+            "home": "Nepean",
+            "homeScore": "8",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_8",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Fri Nov 15",
+            "visitor": "Gloucester Cumberland - D",
+            "visitorScore": "3",
+            "home": "Metcalfe",
+            "homeScore": "10",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_12",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Sat Nov 16",
+            "visitor": "West Ottawa  - F",
+            "visitorScore": "5",
+            "home": "Gloucester Cumberland - D",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_15",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Sat Nov 16",
+            "visitor": "Sudbury",
+            "visitorScore": "2",
+            "home": "Gloucester Cumberland - D",
+            "homeScore": "9",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_3",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "Gloucester Cumberland - D",
+            "visitorScore": "3",
+            "home": "Markham - A",
+            "homeScore": "9",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_8",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "Waterloo",
+            "visitorScore": "5",
+            "home": "Gloucester Cumberland - D",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_13",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "Gloucester Cumberland - D",
+            "visitorScore": "2",
+            "home": "London",
+            "homeScore": "7",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_19",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "Oshawa",
+            "visitorScore": "5",
+            "home": "Gloucester Cumberland - D",
+            "homeScore": "6",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_5",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Fri Jan 3",
+            "visitor": "Gloucester Cumberland - D",
+            "visitorScore": "5",
+            "home": "Ajax",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_8",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Fri Jan 3",
+            "visitor": "Barrie",
+            "visitorScore": "4",
+            "home": "Gloucester Cumberland - D",
+            "homeScore": "6",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_11",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Sat Jan 4",
+            "visitor": "Gloucester Cumberland - D",
+            "visitorScore": "1",
+            "home": "Forest",
+            "homeScore": "8",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_17",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Sat Jan 4",
+            "visitor": "Whitby",
+            "visitorScore": "8",
+            "home": "Gloucester Cumberland - D",
+            "homeScore": "2",
+            "status": "Official"
+        }
+    ],
+    "pct": 0.3333333333333333,
+    "points": 8,
+    "games": 12,
+    "image": "Gloucester Cumberland.png"
+}

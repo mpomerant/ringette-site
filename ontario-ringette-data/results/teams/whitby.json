@@ -1,0 +1,169 @@
+{
+    "name": "Whitby",
+    "win": 7,
+    "loss": 7,
+    "tie": 0,
+    "for": 50,
+    "against": 44,
+    "elo": 1504.5947140217904,
+    "results": [
+        {
+            "id": "london_ringette_u14a_2",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Fri Nov 8",
+            "visitor": "Whitby",
+            "visitorScore": "2",
+            "home": "Richmond Hill",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "london_ringette_u14a_5",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Fri Nov 8",
+            "visitor": "Forest",
+            "visitorScore": "7",
+            "home": "Whitby",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "london_ringette_u14a_16",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Sat Nov 9",
+            "visitor": "London",
+            "visitorScore": "0",
+            "home": "Whitby",
+            "homeScore": "5",
+            "status": "Official"
+        },
+        {
+            "id": "london_ringette_u14a_9",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Sat Nov 9",
+            "visitor": "Whitby",
+            "visitorScore": "1",
+            "home": "Markham - A",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "london_ringette_u14a_18",
+            "tournament": "london_ringette",
+            "type": "S2",
+            "date": "Sun Nov 10",
+            "visitor": "Whitby",
+            "visitorScore": "1",
+            "home": "Markham - A",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_12",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "Metcalfe",
+            "visitorScore": "5",
+            "home": "Whitby",
+            "homeScore": "6",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_5",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "Sudbury",
+            "visitorScore": "2",
+            "home": "Whitby",
+            "homeScore": "7",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_17",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "Whitby",
+            "visitorScore": "4",
+            "home": "Waterloo",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_24",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "Whitby",
+            "visitorScore": "1",
+            "home": "West Ottawa - F",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_25",
+            "tournament": "pickering_ringette",
+            "type": "S1",
+            "date": "Sun Dec 1",
+            "visitor": "Whitby",
+            "visitorScore": "2",
+            "home": "Richmond Hill",
+            "homeScore": "5",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_10",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Fri Jan 3",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "7",
+            "home": "Whitby",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_4",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Fri Jan 3",
+            "visitor": "Upper Ottawa Valley",
+            "visitorScore": "3",
+            "home": "Whitby",
+            "homeScore": "6",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_13",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Sat Jan 4",
+            "visitor": "Whitby",
+            "visitorScore": "3",
+            "home": "Gloucester Cumberland - B",
+            "homeScore": "4",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_17",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Sat Jan 4",
+            "visitor": "Whitby",
+            "visitorScore": "8",
+            "home": "Gloucester Cumberland - D",
+            "homeScore": "2",
+            "status": "Official"
+        }
+    ],
+    "pct": 0.5,
+    "points": 14,
+    "games": 14,
+    "image": "Whitby.png"
+}

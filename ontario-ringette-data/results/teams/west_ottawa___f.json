@@ -1,0 +1,114 @@
+{
+    "name": "West Ottawa - F",
+    "win": 5,
+    "loss": 4,
+    "tie": 0,
+    "for": 28,
+    "against": 24,
+    "elo": 1512.7272551969768,
+    "results": [
+        {
+            "id": "nepean_ringette_u14a_10",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Fri Nov 15",
+            "visitor": "Timmins",
+            "visitorScore": "5",
+            "home": "West Ottawa  - F",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_6",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Fri Nov 15",
+            "visitor": "West Ottawa  - F",
+            "visitorScore": "4",
+            "home": "Upper Ottawa Valley",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_12",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Sat Nov 16",
+            "visitor": "West Ottawa  - F",
+            "visitorScore": "5",
+            "home": "Gloucester Cumberland - D",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_16",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Sat Nov 16",
+            "visitor": "City of Ottawa",
+            "visitorScore": "0",
+            "home": "West Ottawa  - F",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "nepean_ringette_u14a_22",
+            "tournament": "nepean_ringette",
+            "type": "S2",
+            "date": "Sun Nov 17",
+            "visitor": "West Ottawa  - F",
+            "visitorScore": "1",
+            "home": "Timmins",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_4",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "West Ottawa - F",
+            "visitorScore": "2",
+            "home": "Richmond Hill",
+            "homeScore": "6",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_9",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "Markham - A",
+            "visitorScore": "4",
+            "home": "West Ottawa - F",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_18",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "West Ottawa - F",
+            "visitorScore": "9",
+            "home": "Sudbury",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_24",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "Whitby",
+            "visitorScore": "1",
+            "home": "West Ottawa - F",
+            "homeScore": "3",
+            "status": "Official"
+        }
+    ],
+    "pct": 0.5555555555555556,
+    "points": 10,
+    "games": 9,
+    "image": "West Ottawa.png"
+}

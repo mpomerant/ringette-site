@@ -1,0 +1,125 @@
+{
+    "name": "Markham - A",
+    "win": 9,
+    "loss": 1,
+    "tie": 0,
+    "for": 48,
+    "against": 18,
+    "elo": 1603.2745198246128,
+    "results": [
+        {
+            "id": "london_ringette_u14a_1",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Fri Nov 8",
+            "visitor": "Markham - A",
+            "visitorScore": "6",
+            "home": "Forest",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "london_ringette_u14a_6",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Fri Nov 8",
+            "visitor": "Ajax",
+            "visitorScore": "0",
+            "home": "Markham - A",
+            "homeScore": "5",
+            "status": "Official"
+        },
+        {
+            "id": "london_ringette_u14a_14",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Sat Nov 9",
+            "visitor": "Markham - A",
+            "visitorScore": "5",
+            "home": "St. Marys",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "london_ringette_u14a_9",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Sat Nov 9",
+            "visitor": "Whitby",
+            "visitorScore": "1",
+            "home": "Markham - A",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "london_ringette_u14a_18",
+            "tournament": "london_ringette",
+            "type": "S2",
+            "date": "Sun Nov 10",
+            "visitor": "Whitby",
+            "visitorScore": "1",
+            "home": "Markham - A",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "london_ringette_u14a_19",
+            "tournament": "london_ringette",
+            "type": "GS",
+            "date": "Sun Nov 10",
+            "visitor": "Forest",
+            "visitorScore": "4",
+            "home": "Markham - A",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_3",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "Gloucester Cumberland - D",
+            "visitorScore": "3",
+            "home": "Markham - A",
+            "homeScore": "9",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_9",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "Markham - A",
+            "visitorScore": "4",
+            "home": "West Ottawa - F",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_16",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "Markham - A",
+            "visitorScore": "5",
+            "home": "Nepean",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_22",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "Sudbury",
+            "visitorScore": "1",
+            "home": "Markham - A",
+            "homeScore": "8",
+            "status": "Official"
+        }
+    ],
+    "pct": 0.9,
+    "points": 18,
+    "games": 10,
+    "image": "Markham.png"
+}

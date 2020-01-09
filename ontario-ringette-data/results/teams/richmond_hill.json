@@ -1,0 +1,125 @@
+{
+    "name": "Richmond Hill",
+    "win": 7,
+    "loss": 2,
+    "tie": 1,
+    "for": 47,
+    "against": 16,
+    "elo": 1568.3442783853363,
+    "results": [
+        {
+            "id": "london_ringette_u14a_2",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Fri Nov 8",
+            "visitor": "Whitby",
+            "visitorScore": "2",
+            "home": "Richmond Hill",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "london_ringette_u14a_8",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Fri Nov 8",
+            "visitor": "Richmond Hill",
+            "visitorScore": "4",
+            "home": "St. Marys",
+            "homeScore": "0",
+            "status": "Official"
+        },
+        {
+            "id": "london_ringette_u14a_10",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Sat Nov 9",
+            "visitor": "London",
+            "visitorScore": "0",
+            "home": "Richmond Hill",
+            "homeScore": "7",
+            "status": "Official"
+        },
+        {
+            "id": "london_ringette_u14a_13",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Sat Nov 9",
+            "visitor": "Richmond Hill",
+            "visitorScore": "1",
+            "home": "Markham - F",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_11",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "Richmond Hill",
+            "visitorScore": "10",
+            "home": "Sudbury",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_4",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "West Ottawa - F",
+            "visitorScore": "2",
+            "home": "Richmond Hill",
+            "homeScore": "6",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_14",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "Richmond Hill",
+            "visitorScore": "8",
+            "home": "Oshawa",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_20",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "Metcalfe",
+            "visitorScore": "3",
+            "home": "Richmond Hill",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_25",
+            "tournament": "pickering_ringette",
+            "type": "S1",
+            "date": "Sun Dec 1",
+            "visitor": "Whitby",
+            "visitorScore": "2",
+            "home": "Richmond Hill",
+            "homeScore": "5",
+            "status": "Official"
+        },
+        {
+            "id": "pickering_ringette_u14a_27",
+            "tournament": "pickering_ringette",
+            "type": "GS",
+            "date": "Sun Dec 1",
+            "visitor": "Metcalfe",
+            "visitorScore": "1",
+            "home": "Richmond Hill",
+            "homeScore": "2",
+            "status": "Official"
+        }
+    ],
+    "pct": 0.75,
+    "points": 15,
+    "games": 10,
+    "image": "Richmond Hill.png"
+}

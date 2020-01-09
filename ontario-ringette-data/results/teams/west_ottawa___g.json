@@ -1,0 +1,191 @@
+{
+    "name": "West Ottawa - G",
+    "win": 11,
+    "loss": 4,
+    "tie": 1,
+    "for": 75,
+    "against": 34,
+    "elo": 1610.0552220887284,
+    "results": [
+        {
+            "id": "oshawa_ringette_u14a_3",
+            "tournament": "oshawa_ringette",
+            "type": "RR",
+            "date": "Fri Nov 1",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "5",
+            "home": "Guelph",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "oshawa_ringette_u14a_4",
+            "tournament": "oshawa_ringette",
+            "type": "RR",
+            "date": "Fri Nov 1",
+            "visitor": "Oshawa",
+            "visitorScore": "1",
+            "home": "West Ottawa - G",
+            "homeScore": "8",
+            "status": "Official"
+        },
+        {
+            "id": "oshawa_ringette_u14a_12",
+            "tournament": "oshawa_ringette",
+            "type": "RR",
+            "date": "Sat Nov 2",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "8",
+            "home": "Barrie",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "oshawa_ringette_u14a_9",
+            "tournament": "oshawa_ringette",
+            "type": "RR",
+            "date": "Sat Nov 2",
+            "visitor": "Sault Ste Marie",
+            "visitorScore": "0",
+            "home": "West Ottawa - G",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "oshawa_ringette_u14a_13",
+            "tournament": "oshawa_ringette",
+            "type": "GS",
+            "date": "Sun Nov 3",
+            "visitor": "Gloucester Cumberland - B",
+            "visitorScore": "2",
+            "home": "West Ottawa - G",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "mississauga_ringette_u14a_2",
+            "tournament": "mississauga_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "5",
+            "home": "Mississauga",
+            "homeScore": "0",
+            "status": "Official"
+        },
+        {
+            "id": "mississauga_ringette_u14a_6",
+            "tournament": "mississauga_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "7",
+            "home": "City of Ottawa",
+            "homeScore": "0",
+            "status": "Official"
+        },
+        {
+            "id": "mississauga_ringette_u14a_11",
+            "tournament": "mississauga_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "Markham - F",
+            "visitorScore": "5",
+            "home": "West Ottawa - G",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "mississauga_ringette_u14a_9",
+            "tournament": "mississauga_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "Forest",
+            "visitorScore": "3",
+            "home": "West Ottawa - G",
+            "homeScore": "6",
+            "status": "Official"
+        },
+        {
+            "id": "mississauga_ringette_u14a_13",
+            "tournament": "mississauga_ringette",
+            "type": "S1",
+            "date": "Sun Dec 1",
+            "visitor": "Forest",
+            "visitorScore": "4",
+            "home": "West Ottawa - G",
+            "homeScore": "3",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_1",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Fri Jan 3",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "3",
+            "home": "Timmins",
+            "homeScore": "5",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_10",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Fri Jan 3",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "7",
+            "home": "Whitby",
+            "homeScore": "1",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_12",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Sat Jan 4",
+            "visitor": "Ajax",
+            "visitorScore": "0",
+            "home": "West Ottawa - G",
+            "homeScore": "6",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_20",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Sat Jan 4",
+            "visitor": "Markham - F",
+            "visitorScore": "2",
+            "home": "West Ottawa - G",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_21",
+            "tournament": "whitby_ringette",
+            "type": "S1",
+            "date": "Sun Jan 5",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "4",
+            "home": "Timmins",
+            "homeScore": "2",
+            "status": "Official"
+        },
+        {
+            "id": "whitby_ringette_u14a_23",
+            "tournament": "whitby_ringette",
+            "type": "GS",
+            "date": "Sun Jan 5",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "6",
+            "home": "Forest",
+            "homeScore": "5",
+            "status": "Official"
+        }
+    ],
+    "pct": 0.71875,
+    "points": 23,
+    "games": 16,
+    "image": "West Ottawa.png"
+}
