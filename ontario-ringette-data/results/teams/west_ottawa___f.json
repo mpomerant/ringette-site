@@ -5,7 +5,7 @@
     "tie": 0,
     "for": 28,
     "against": 24,
-    "elo": 1512.7272551969768,
+    "elo": 1517.8662566619373,
     "results": [
         {
             "id": "nepean_ringette_u14a_10",
@@ -19,15 +19,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1500,
+                    "opp": 1516.0339081301693,
                     "elo": 1500,
-                    "probability": 0.512622317608554
+                    "probability": 0.4892572324131865
                 },
                 "postgame": {
-                    "opp": 1516,
-                    "elo": 1484
+                    "opp": 1531.296043123496,
+                    "elo": 1484.7378650066732
                 }
-            }
+            },
+            "record": "0 - 1 - 0"
         },
         {
             "id": "nepean_ringette_u14a_6",
@@ -41,15 +42,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1452.7182836056184,
-                    "elo": 1499.680849674771,
-                    "probability": 0.5555921500366328
+                    "opp": 1500,
+                    "elo": 1484.7378650066732,
+                    "probability": 0.49038162494547577
                 },
                 "postgame": {
-                    "opp": 1438.8679138699495,
-                    "elo": 1513.53121941044
+                    "opp": 1483.297604447537,
+                    "elo": 1501.4402605591363
                 }
-            }
+            },
+            "record": "1 - 1 - 0"
         },
         {
             "id": "nepean_ringette_u14a_12",
@@ -63,15 +65,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1500,
-                    "elo": 1484,
-                    "probability": 0.48930663080347925
+                    "opp": 1469.4602177467552,
+                    "elo": 1501.4402605591363,
+                    "probability": 0.5339336687275043
                 },
                 "postgame": {
-                    "opp": 1483.263693206478,
-                    "elo": 1500.736306793522
+                    "opp": 1454.9288079610299,
+                    "elo": 1515.9716703448616
                 }
-            }
+            },
+            "record": "2 - 1 - 0"
         },
         {
             "id": "nepean_ringette_u14a_16",
@@ -85,15 +88,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1444.3239003536562,
-                    "elo": 1500.736306793522,
-                    "probability": 0.56915007637543
+                    "opp": 1514.6930662411241,
+                    "elo": 1515.9716703448616,
+                    "probability": 0.489240226860419
                 },
                 "postgame": {
-                    "opp": 1430.8991962070102,
-                    "elo": 1514.1610109401681
+                    "opp": 1498.75194787029,
+                    "elo": 1531.9127887156958
                 }
-            }
+            },
+            "record": "3 - 1 - 0"
         },
         {
             "id": "nepean_ringette_u14a_22",
@@ -107,37 +111,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1547.263693206478,
-                    "elo": 1514.1610109401681,
-                    "probability": 0.4644379882423384
+                    "opp": 1565.6517745951305,
+                    "elo": 1531.9127887156958,
+                    "probability": 0.4635153899295583
                 },
                 "postgame": {
-                    "opp": 1561.743854471875,
-                    "elo": 1499.680849674771
+                    "opp": 1580.1029024818001,
+                    "elo": 1517.4616608290262
                 }
-            }
-        },
-        {
-            "id": "pickering_ringette_u14a_4",
-            "tournament": "pickering_ringette",
-            "type": "RR",
-            "date": "Fri Nov 29",
-            "visitor": "West Ottawa - F",
-            "visitorScore": "2",
-            "home": "Richmond Hill",
-            "homeScore": "6",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1552.8791826533866,
-                    "elo": 1541.2595538084665,
-                    "probability": 0.4956894977512696
-                },
-                "postgame": {
-                    "opp": 1568.3442783853363,
-                    "elo": 1525.7944580765168
-                }
-            }
+            },
+            "record": "3 - 2 - 0"
         },
         {
             "id": "pickering_ringette_u14a_9",
@@ -151,15 +134,39 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1590.2073169450728,
-                    "elo": 1525.7944580765168,
-                    "probability": 0.41945112833062925
+                    "opp": 1554.6057359107815,
+                    "elo": 1517.4616608290262,
+                    "probability": 0.45858263220090945
                 },
                 "postgame": {
-                    "opp": 1603.2745198246128,
-                    "elo": 1512.7272551969768
+                    "opp": 1568.90167533338,
+                    "elo": 1503.1657214064278
                 }
-            }
+            },
+            "record": "3 - 3 - 0"
+        },
+        {
+            "id": "pickering_ringette_u14a_4",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "West Ottawa - F",
+            "visitorScore": "2",
+            "home": "Richmond Hill",
+            "homeScore": "6",
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1512.5912871082294,
+                    "elo": 1503.1657214064278,
+                    "probability": 0.49888723982677474
+                },
+                "postgame": {
+                    "opp": 1528.1573302227014,
+                    "elo": 1487.5996782919558
+                }
+            },
+            "record": "3 - 4 - 0"
         },
         {
             "id": "pickering_ringette_u14a_18",
@@ -173,15 +180,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1423.9889956531401,
-                    "elo": 1513.53121941044,
-                    "probability": 0.6157460984084127
+                    "opp": 1414.779208035714,
+                    "elo": 1487.5996782919558,
+                    "probability": 0.5924356298147899
                 },
                 "postgame": {
-                    "opp": 1412.0236319624355,
-                    "elo": 1525.4965831011446
+                    "opp": 1402.084456241434,
+                    "elo": 1500.2944300862357
                 }
-            }
+            },
+            "record": "4 - 4 - 0"
         },
         {
             "id": "pickering_ringette_u14a_24",
@@ -195,19 +203,28 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1520.3491808289536,
-                    "elo": 1525.4965831011446,
-                    "probability": 0.4948775180403545
+                    "opp": 1534.5366519018992,
+                    "elo": 1500.2944300862357,
+                    "probability": 0.4627859075071674
                 },
                 "postgame": {
-                    "opp": 1504.5862101216317,
-                    "elo": 1541.2595538084665
+                    "opp": 1516.9648253261976,
+                    "elo": 1517.8662566619373
                 }
-            }
+            },
+            "record": "5 - 4 - 0"
         }
     ],
     "pct": 0.5555555555555556,
     "points": 10,
     "games": 9,
+    "opponentRecord": {
+        "w": 47,
+        "l": 43,
+        "t": 1,
+        "g": 91
+    },
+    "strengthOfSchedule": 0.5274342191672869,
+    "record": "5 - 4 - 0",
     "image": "West Ottawa.png"
 }

@@ -10,15 +10,31 @@ export default ({ data }) => {
   const team = data.teamsJson
   const results = team.results.map(result => {
     const isHome = team.name === result.home;
-    const winProbability = (result.elo.pregame.probability * 100).toFixed(1) 
-    const isFavorite = winProbability > 0.5;
+    const winProbability = (result.elo.pregame.probability * 100).toFixed(1);
+    const opponent = isHome ? result.visitor : result.home;
+    const opponentLink = isHome ? allTeams[result.visitor] : allTeams[result.home];
+ 
+    const calculateResult = (isHome, homeScore, visitorScore) => {
+      
+        if (homeScore > visitorScore) {
+          return isHome ? 'W' : 'L';
+        } else if (homeScore < visitorScore) {
+          return isHome ? 'L' : 'W';
+        } else {
+          return 'T';
+        }
 
+      
+    }
+    
+    const gameResult = calculateResult(isHome, result.homeScore, result.visitorScore);
+    const score = result.homeScore > result.visitorScore ? `${result.homeScore} - ${result.visitorScore}` : `${result.visitorScore} - ${result.homeScore}`
     return (
       <tr>
-        <td><Link to={allTeams[result.home]}>{result.home}</Link> </td>
-        <td>{result.homeScore}</td>
-        <td>{result.visitorScore}</td>
-        <td><Link to={allTeams[result.visitor]}>{result.visitor}</Link></td>
+        <td><span>{isHome ? 'vs' : '@'} </span><Link to={opponentLink}>{opponent}</Link></td>
+        <td>{gameResult}</td>
+        <td>{score}</td>
+        <td>{result.record}</td>
         <td>{winProbability}</td>
     </tr>
     )
@@ -30,18 +46,19 @@ export default ({ data }) => {
         <h1>{team.win} - {team.loss} - {team.tie}</h1>
         <h2>Goals For: {team.for}</h2>
         <h2>Goals Against: {team.against}</h2>
+        <h2>Opponent Record: {team.opponentRecord.w} -  {team.opponentRecord.l} -  {team.opponentRecord.t}</h2>
         <table>
           <tr>
             <th>
-              Home
+              Opponent
             </th>
             <th>
-
+              Result
             </th>
             <th>
-
+              Score
             </th>
-            <th>Visitor</th>
+            <th>Record</th>
             <th>Win Probability</th>
           </tr>
           {results}
@@ -69,11 +86,18 @@ export const query = graphql`
         name
         for
         against
+        opponentRecord {
+          w
+          l
+          t
+        }
         results{
           home
           visitor
           homeScore
           visitorScore
+          record
+          
           elo {
             pregame {
               probability

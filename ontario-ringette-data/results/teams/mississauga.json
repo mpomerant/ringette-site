@@ -5,30 +5,8 @@
     "tie": 1,
     "for": 13,
     "against": 44,
-    "elo": 1402.0012738719156,
+    "elo": 1404.2929996809378,
     "results": [
-        {
-            "id": "mississauga_ringette_u14a_2",
-            "tournament": "mississauga_ringette",
-            "type": "RR",
-            "date": "Fri Nov 29",
-            "visitor": "West Ottawa - G",
-            "visitorScore": "5",
-            "home": "Mississauga",
-            "homeScore": "0",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1474.025234189486,
-                    "elo": 1487.4833399993217,
-                    "probability": 0.5069897338403235
-                },
-                "postgame": {
-                    "opp": 1490.6446930760671,
-                    "elo": 1470.8638811127405
-                }
-            }
-        },
         {
             "id": "mississauga_ringette_u14a_5",
             "tournament": "mississauga_ringette",
@@ -41,15 +19,39 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1530.3672488850675,
-                    "elo": 1470.8638811127405,
-                    "probability": 0.4264366346192259
+                    "opp": 1525.8065549673279,
+                    "elo": 1500,
+                    "probability": 0.4750327288547682
                 },
                 "postgame": {
-                    "opp": 1543.653498596631,
-                    "elo": 1457.577631401177
+                    "opp": 1540.6202999555535,
+                    "elo": 1485.1862550117744
                 }
-            }
+            },
+            "record": "0 - 1 - 0"
+        },
+        {
+            "id": "mississauga_ringette_u14a_2",
+            "tournament": "mississauga_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "5",
+            "home": "Mississauga",
+            "homeScore": "0",
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1556.3191483285505,
+                    "elo": 1485.1862550117744,
+                    "probability": 0.40994209260482006
+                },
+                "postgame": {
+                    "opp": 1569.0883735732004,
+                    "elo": 1472.4170297671244
+                }
+            },
+            "record": "0 - 2 - 0"
         },
         {
             "id": "mississauga_ringette_u14a_12",
@@ -63,15 +65,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1576.8699816152468,
-                    "elo": 1500,
-                    "probability": 0.4018766043361124
+                    "opp": 1586.9804434592133,
+                    "elo": 1472.4170297671244,
+                    "probability": 0.3503719413555382
                 },
                 "postgame": {
-                    "opp": 1589.386641615925,
-                    "elo": 1487.4833399993217
+                    "opp": 1597.8878491294165,
+                    "elo": 1461.5096240969212
                 }
-            }
+            },
+            "record": "0 - 3 - 0"
         },
         {
             "id": "mississauga_ringette_u14a_8",
@@ -85,15 +88,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1504.5185311839014,
-                    "elo": 1457.577631401177,
-                    "probability": 0.4444390384216197
+                    "opp": 1486.0341529159728,
+                    "elo": 1461.5096240969212,
+                    "probability": 0.47689696201345577
                 },
                 "postgame": {
-                    "opp": 1502.3698806869738,
-                    "elo": 1459.7262818981046
+                    "opp": 1484.906628658128,
+                    "elo": 1462.637148354766
                 }
-            }
+            },
+            "record": "0 - 3 - 1"
         },
         {
             "id": "st_marys_ringette_u14a_2",
@@ -107,15 +111,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1485.029903479975,
-                    "elo": 1443.6615347021138,
-                    "probability": 0.4524745094173157
+                    "opp": 1484.6723590695221,
+                    "elo": 1462.637148354766,
+                    "probability": 0.48051854768837476
                 },
                 "postgame": {
-                    "opp": 1499.1337718028353,
-                    "elo": 1429.5576663792535
+                    "opp": 1499.6589585202564,
+                    "elo": 1447.6505489040317
                 }
-            }
+            },
+            "record": "0 - 4 - 1"
         },
         {
             "id": "st_marys_ringette_u14a_4",
@@ -129,37 +134,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1481.139700937289,
-                    "elo": 1429.5576663792535,
-                    "probability": 0.43776854761929296
+                    "opp": 1481.5955826436866,
+                    "elo": 1447.6505489040317,
+                    "probability": 0.46321668732863364
                 },
                 "postgame": {
-                    "opp": 1494.781560988291,
-                    "elo": 1415.9158063282516
+                    "opp": 1496.037311137577,
+                    "elo": 1433.2088204101412
                 }
-            }
-        },
-        {
-            "id": "st_marys_ringette_u14a_10",
-            "tournament": "st_marys_ringette",
-            "type": "RR",
-            "date": "Sat Dec 7",
-            "visitor": "Mississauga",
-            "visitorScore": "1",
-            "home": "St. Marys",
-            "homeScore": "5",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1458.3203067265476,
-                    "elo": 1459.7262818981046,
-                    "probability": 0.4894257856961074
-                },
-                "postgame": {
-                    "opp": 1474.3850539225384,
-                    "elo": 1443.6615347021138
-                }
-            }
+            },
+            "record": "0 - 5 - 1"
         },
         {
             "id": "st_marys_ringette_u14a_8",
@@ -173,19 +157,51 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1461.4602553037141,
-                    "elo": 1415.9158063282516,
-                    "probability": 0.4464501316759273
+                    "opp": 1454.926147894686,
+                    "elo": 1433.2088204101412,
+                    "probability": 0.48098117570491583
                 },
                 "postgame": {
-                    "opp": 1475.3747877600501,
-                    "elo": 1402.0012738719156
+                    "opp": 1469.9273285233753,
+                    "elo": 1418.207639781452
                 }
-            }
+            },
+            "record": "0 - 6 - 1"
+        },
+        {
+            "id": "st_marys_ringette_u14a_10",
+            "tournament": "st_marys_ringette",
+            "type": "RR",
+            "date": "Sat Dec 7",
+            "visitor": "Mississauga",
+            "visitorScore": "1",
+            "home": "St. Marys",
+            "homeScore": "5",
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1463.7497108980083,
+                    "elo": 1418.207639781452,
+                    "probability": 0.4464535576546851
+                },
+                "postgame": {
+                    "opp": 1477.6643509985224,
+                    "elo": 1404.2929996809378
+                }
+            },
+            "record": "0 - 7 - 1"
         }
     ],
     "pct": 0.0625,
     "points": 1,
     "games": 8,
+    "opponentRecord": {
+        "w": 52,
+        "l": 36,
+        "t": 6,
+        "g": 94
+    },
+    "strengthOfSchedule": 0.5726836174779959,
+    "record": "0 - 7 - 1",
     "image": "Mississauga.png"
 }

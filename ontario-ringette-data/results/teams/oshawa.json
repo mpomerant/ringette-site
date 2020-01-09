@@ -5,7 +5,7 @@
     "tie": 1,
     "for": 17,
     "against": 49,
-    "elo": 1402.420003894239,
+    "elo": 1400.8671251447138,
     "results": [
         {
             "id": "oshawa_ringette_u14a_2",
@@ -19,15 +19,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1486.260745340706,
-                    "elo": 1487.3825026149052,
-                    "probability": 0.4890117307349868
+                    "opp": 1500,
+                    "elo": 1500,
+                    "probability": 0.512622317608554
                 },
                 "postgame": {
-                    "opp": 1502.312403992754,
-                    "elo": 1471.3308439628572
+                    "opp": 1516,
+                    "elo": 1484
                 }
-            }
+            },
+            "record": "0 - 1 - 0"
         },
         {
             "id": "oshawa_ringette_u14a_4",
@@ -41,37 +42,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1542.8213222935021,
-                    "elo": 1471.3308439628572,
-                    "probability": 0.4094379152606056
+                    "opp": 1516,
+                    "elo": 1484,
+                    "probability": 0.4660373777626652
                 },
                 "postgame": {
-                    "opp": 1555.5747548537126,
-                    "elo": 1458.5774114026467
+                    "opp": 1530.5304984710244,
+                    "elo": 1469.4695015289756
                 }
-            }
-        },
-        {
-            "id": "oshawa_ringette_u14a_10",
-            "tournament": "oshawa_ringette",
-            "type": "RR",
-            "date": "Sat Nov 2",
-            "visitor": "Gloucester Cumberland - B",
-            "visitorScore": "8",
-            "home": "Oshawa",
-            "homeScore": "1",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1574.5746511327327,
-                    "elo": 1500,
-                    "probability": 0.40509738711726295
-                },
-                "postgame": {
-                    "opp": 1587.1921485178275,
-                    "elo": 1487.3825026149052
-                }
-            }
+            },
+            "record": "0 - 2 - 0"
         },
         {
             "id": "oshawa_ringette_u14a_7",
@@ -85,15 +65,39 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1457.9299489035031,
-                    "elo": 1458.5774114026467,
-                    "probability": 0.4883208014023641
+                    "opp": 1467.3315091622376,
+                    "elo": 1469.4695015289756,
+                    "probability": 0.49049227008264173
                 },
                 "postgame": {
-                    "opp": 1473.9597656189633,
-                    "elo": 1442.5475946871866
+                    "opp": 1483.4299661065281,
+                    "elo": 1453.371044584685
                 }
-            }
+            },
+            "record": "0 - 3 - 0"
+        },
+        {
+            "id": "oshawa_ringette_u14a_10",
+            "tournament": "oshawa_ringette",
+            "type": "RR",
+            "date": "Sat Nov 2",
+            "visitor": "Gloucester Cumberland - B",
+            "visitorScore": "8",
+            "home": "Oshawa",
+            "homeScore": "1",
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1516.6716138778988,
+                    "elo": 1453.371044584685,
+                    "probability": 0.42103103690517163
+                },
+                "postgame": {
+                    "opp": 1529.788347454999,
+                    "elo": 1440.2543110075849
+                }
+            },
+            "record": "0 - 4 - 0"
         },
         {
             "id": "pickering_ringette_u14a_1",
@@ -107,15 +111,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1454.149062956932,
-                    "elo": 1442.5475946871866,
-                    "probability": 0.49571596483441627
+                    "opp": 1456.8879045253761,
+                    "elo": 1440.2543110075849,
+                    "probability": 0.48838362814404324
                 },
                 "postgame": {
-                    "opp": 1469.6149940810017,
-                    "elo": 1427.081663563117
+                    "opp": 1472.1224839398878,
+                    "elo": 1425.0197315930732
                 }
-            }
+            },
+            "record": "0 - 5 - 0"
         },
         {
             "id": "pickering_ringette_u14a_10",
@@ -129,15 +134,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1470.8105234942666,
-                    "elo": 1427.081663563117,
-                    "probability": 0.4490674587311829
+                    "opp": 1467.3899906707172,
+                    "elo": 1425.0197315930732,
+                    "probability": 0.4510278529572518
                 },
                 "postgame": {
-                    "opp": 1468.8073017232493,
-                    "elo": 1429.0848853341342
+                    "opp": 1465.448383888762,
+                    "elo": 1426.9613383750284
                 }
-            }
+            },
+            "record": "0 - 5 - 1"
         },
         {
             "id": "pickering_ringette_u14a_14",
@@ -151,15 +157,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1511.1917110872957,
-                    "elo": 1429.0848853341342,
-                    "probability": 0.3945603469305361
+                    "opp": 1528.1573302227014,
+                    "elo": 1426.9613383750284,
+                    "probability": 0.36831026991731086
                 },
                 "postgame": {
-                    "opp": 1523.4794047427952,
-                    "elo": 1416.7971916786348
+                    "opp": 1539.62454394894,
+                    "elo": 1415.4941246487897
                 }
-            }
+            },
+            "record": "0 - 6 - 1"
         },
         {
             "id": "pickering_ringette_u14a_19",
@@ -173,19 +180,28 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1452.1576989974078,
-                    "elo": 1416.7971916786348,
-                    "probability": 0.4611654342138297
+                    "opp": 1445.3819588019228,
+                    "elo": 1415.4941246487897,
+                    "probability": 0.46910289917157555
                 },
                 "postgame": {
-                    "opp": 1466.5348867818036,
-                    "elo": 1402.420003894239
+                    "opp": 1460.0089583059987,
+                    "elo": 1400.8671251447138
                 }
-            }
+            },
+            "record": "0 - 7 - 1"
         }
     ],
     "pct": 0.0625,
     "points": 1,
     "games": 8,
+    "opponentRecord": {
+        "w": 44,
+        "l": 44,
+        "t": 6,
+        "g": 94
+    },
+    "strengthOfSchedule": 0.5114671693371033,
+    "record": "0 - 7 - 1",
     "image": "Oshawa.png"
 }

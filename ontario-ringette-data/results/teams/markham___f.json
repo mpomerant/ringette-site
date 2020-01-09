@@ -5,30 +5,8 @@
     "tie": 3,
     "for": 53,
     "against": 44,
-    "elo": 1541.7898277303998,
+    "elo": 1537.227455111094,
     "results": [
-        {
-            "id": "london_ringette_u14a_3",
-            "tournament": "london_ringette",
-            "type": "RR",
-            "date": "Fri Nov 8",
-            "visitor": "St. Marys",
-            "visitorScore": "1",
-            "home": "Markham - F",
-            "homeScore": "4",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1468.766810297684,
-                    "elo": 1500.7347452664258,
-                    "probability": 0.5339161027858191
-                },
-                "postgame": {
-                    "opp": 1454.2348476209606,
-                    "elo": 1515.2667079431492
-                }
-            }
-        },
         {
             "id": "london_ringette_u14a_7",
             "tournament": "london_ringette",
@@ -41,15 +19,39 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1485.4403324764987,
-                    "elo": 1515.2667079431492,
-                    "probability": 0.5308078658541338
+                    "opp": 1516,
+                    "elo": 1500,
+                    "probability": 0.48930663080347925
                 },
                 "postgame": {
-                    "opp": 1470.8105234942666,
-                    "elo": 1529.8965169253813
+                    "opp": 1499.263693206478,
+                    "elo": 1516.736306793522
                 }
-            }
+            },
+            "record": "1 - 0 - 0"
+        },
+        {
+            "id": "london_ringette_u14a_3",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Fri Nov 8",
+            "visitor": "St. Marys",
+            "visitorScore": "1",
+            "home": "Markham - F",
+            "homeScore": "4",
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1484,
+                    "elo": 1516.736306793522,
+                    "probability": 0.5350306806159859
+                },
+                "postgame": {
+                    "opp": 1469.5031170912061,
+                    "elo": 1531.233189702316
+                }
+            },
+            "record": "2 - 0 - 0"
         },
         {
             "id": "london_ringette_u14a_11",
@@ -63,15 +65,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1500,
-                    "elo": 1500,
-                    "probability": 0.48737768239144597
+                    "opp": 1468.736306793522,
+                    "elo": 1531.233189702316,
+                    "probability": 0.57782638869858
                 },
                 "postgame": {
-                    "opp": 1500,
-                    "elo": 1500
+                    "opp": 1471.5837491034981,
+                    "elo": 1528.38574739234
                 }
-            }
+            },
+            "record": "2 - 0 - 1"
         },
         {
             "id": "london_ringette_u14a_13",
@@ -85,15 +88,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1516,
-                    "elo": 1500,
-                    "probability": 0.48930663080347925
+                    "opp": 1498.5304984710244,
+                    "elo": 1528.38574739234,
+                    "probability": 0.5308497889285274
                 },
                 "postgame": {
-                    "opp": 1499.263693206478,
-                    "elo": 1516.736306793522
+                    "opp": 1483.9020093997276,
+                    "elo": 1543.0142364636367
                 }
-            }
+            },
+            "record": "3 - 0 - 1"
         },
         {
             "id": "london_ringette_u14a_17",
@@ -107,15 +111,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1516.7023986633528,
-                    "elo": 1516.736306793522,
-                    "probability": 0.4874270721185938
+                    "opp": 1546.0451180392815,
+                    "elo": 1543.0142364636367,
+                    "probability": 0.5082067530092299
                 },
                 "postgame": {
-                    "opp": 1532.703960190449,
-                    "elo": 1500.7347452664258
+                    "opp": 1561.9055443251275,
+                    "elo": 1527.1538101777908
                 }
-            }
+            },
+            "record": "3 - 1 - 1"
         },
         {
             "id": "mississauga_ringette_u14a_3",
@@ -129,15 +134,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1515.3972094441908,
-                    "elo": 1531.0894104570173,
-                    "probability": 0.5102449488824464
+                    "opp": 1497.8290972359946,
+                    "elo": 1527.1538101777908,
+                    "probability": 0.5300794035040012
                 },
                 "postgame": {
-                    "opp": 1516.1193710161406,
-                    "elo": 1530.3672488850675
+                    "opp": 1499.1763524464575,
+                    "elo": 1525.8065549673279
                 }
-            }
+            },
+            "record": "3 - 1 - 2"
         },
         {
             "id": "mississauga_ringette_u14a_5",
@@ -151,15 +157,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1470.8638811127405,
-                    "elo": 1530.3672488850675,
-                    "probability": 0.5735633653807741
+                    "opp": 1500,
+                    "elo": 1525.8065549673279,
+                    "probability": 0.5249672711452318
                 },
                 "postgame": {
-                    "opp": 1457.577631401177,
-                    "elo": 1543.653498596631
+                    "opp": 1485.1862550117744,
+                    "elo": 1540.6202999555535
                 }
-            }
+            },
+            "record": "4 - 1 - 2"
         },
         {
             "id": "mississauga_ringette_u14a_11",
@@ -173,15 +180,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1500,
-                    "elo": 1529.8965169253813,
-                    "probability": 0.5309097076253064
+                    "opp": 1569.0883735732004,
+                    "elo": 1540.6202999555535,
+                    "probability": 0.4711648140231651
                 },
                 "postgame": {
-                    "opp": 1485.3733974070528,
-                    "elo": 1544.5231195183285
+                    "opp": 1551.7802964088717,
+                    "elo": 1557.9283771198823
                 }
-            }
+            },
+            "record": "5 - 1 - 2"
         },
         {
             "id": "mississauga_ringette_u14a_7",
@@ -195,15 +203,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1456.3875874390253,
-                    "elo": 1543.653498596631,
-                    "probability": 0.6126013808819353
+                    "opp": 1472.8149465990614,
+                    "elo": 1557.9283771198823,
+                    "probability": 0.6096190745822918
                 },
                 "postgame": {
-                    "opp": 1444.3239003536562,
-                    "elo": 1555.717185682
+                    "opp": 1460.6579927819978,
+                    "elo": 1570.0853309369459
                 }
-            }
+            },
+            "record": "6 - 1 - 2"
         },
         {
             "id": "mississauga_ringette_u14a_14",
@@ -217,37 +226,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1600.734804833492,
-                    "elo": 1544.5231195183285,
-                    "probability": 0.4311369022493935
+                    "opp": 1595.3217676643558,
+                    "elo": 1570.0853309369459,
+                    "probability": 0.47586167228424925
                 },
                 "postgame": {
-                    "opp": 1614.1685138948033,
-                    "elo": 1531.0894104570173
+                    "opp": 1610.161626401273,
+                    "elo": 1555.2454722000286
                 }
-            }
-        },
-        {
-            "id": "whitby_ringette_u14a_2",
-            "tournament": "whitby_ringette",
-            "type": "RR",
-            "date": "Fri Jan 3",
-            "visitor": "Gloucester Cumberland - B",
-            "visitorScore": "4",
-            "home": "Markham - F",
-            "homeScore": "2",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1613.019533565136,
-                    "elo": 1540.6045347286242,
-                    "probability": 0.40813527129548777
-                },
-                "postgame": {
-                    "opp": 1625.732165465359,
-                    "elo": 1527.8919028284013
-                }
-            }
+            },
+            "record": "6 - 2 - 2"
         },
         {
             "id": "whitby_ringette_u14a_9",
@@ -261,37 +249,39 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1433.2959086942446,
-                    "elo": 1530.1375344866233,
-                    "probability": 0.6257639975659315
+                    "opp": 1441.4985075664008,
+                    "elo": 1555.2454722000286,
+                    "probability": 0.64854388126496
                 },
                 "postgame": {
-                    "opp": 1421.6436154504681,
-                    "elo": 1541.7898277303998
+                    "opp": 1430.5572868153204,
+                    "elo": 1566.186692951109
                 }
-            }
+            },
+            "record": "7 - 2 - 2"
         },
         {
-            "id": "whitby_ringette_u14a_14",
+            "id": "whitby_ringette_u14a_2",
             "tournament": "whitby_ringette",
             "type": "RR",
-            "date": "Sat Jan 4",
-            "visitor": "Timmins",
+            "date": "Fri Jan 3",
+            "visitor": "Gloucester Cumberland - B",
             "visitorScore": "4",
             "home": "Markham - F",
-            "homeScore": "0",
+            "homeScore": "2",
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1575.0055169207783,
-                    "elo": 1555.717185682,
-                    "probability": 0.4845172087159344
+                    "opp": 1582.4227009336605,
+                    "elo": 1566.186692951109,
+                    "probability": 0.48896281161651145
                 },
                 "postgame": {
-                    "opp": 1590.118167874154,
-                    "elo": 1540.6045347286242
+                    "opp": 1597.67554892865,
+                    "elo": 1550.9338449561196
                 }
-            }
+            },
+            "record": "7 - 3 - 2"
         },
         {
             "id": "whitby_ringette_u14a_20",
@@ -305,19 +295,51 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1576.9792038453713,
-                    "elo": 1527.8919028284013,
-                    "probability": 0.44135147507098416
+                    "opp": 1553.1421767758175,
+                    "elo": 1550.9338449561196,
+                    "probability": 0.509405246836415
                 },
                 "postgame": {
-                    "opp": 1574.7335721871493,
-                    "elo": 1530.1375344866233
+                    "opp": 1553.0404807067482,
+                    "elo": 1551.0355410251889
                 }
-            }
+            },
+            "record": "7 - 3 - 3"
+        },
+        {
+            "id": "whitby_ringette_u14a_14",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Sat Jan 4",
+            "visitor": "Timmins",
+            "visitorScore": "4",
+            "home": "Markham - F",
+            "homeScore": "0",
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1598.9335073295224,
+                    "elo": 1551.0355410251889,
+                    "probability": 0.4430617691527685
+                },
+                "postgame": {
+                    "opp": 1612.7415932436172,
+                    "elo": 1537.227455111094
+                }
+            },
+            "record": "7 - 4 - 3"
         }
     ],
     "pct": 0.6071428571428571,
     "points": 17,
     "games": 14,
+    "opponentRecord": {
+        "w": 94,
+        "l": 64,
+        "t": 8,
+        "g": 166
+    },
+    "strengthOfSchedule": 0.5792594729401559,
+    "record": "7 - 4 - 3",
     "image": "Markham.png"
 }

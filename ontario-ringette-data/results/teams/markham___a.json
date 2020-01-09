@@ -5,30 +5,8 @@
     "tie": 0,
     "for": 48,
     "against": 18,
-    "elo": 1603.2745198246128,
+    "elo": 1601.6741754496354,
     "results": [
-        {
-            "id": "london_ringette_u14a_1",
-            "tournament": "london_ringette",
-            "type": "RR",
-            "date": "Fri Nov 8",
-            "visitor": "Markham - A",
-            "visitorScore": "6",
-            "home": "Forest",
-            "homeScore": "3",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1500,
-                    "elo": 1500,
-                    "probability": 0.48737768239144597
-                },
-                "postgame": {
-                    "opp": 1484,
-                    "elo": 1516
-                }
-            }
-        },
         {
             "id": "london_ringette_u14a_6",
             "tournament": "london_ringette",
@@ -41,15 +19,39 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1467.3298824471926,
-                    "elo": 1529.1932006392499,
-                    "probability": 0.5769250824909158
+                    "opp": 1484,
+                    "elo": 1500,
+                    "probability": 0.5106933691965208
                 },
                 "postgame": {
-                    "opp": 1454.149062956932,
-                    "elo": 1542.3740201295104
+                    "opp": 1468.736306793522,
+                    "elo": 1515.263693206478
                 }
-            }
+            },
+            "record": "1 - 0 - 0"
+        },
+        {
+            "id": "london_ringette_u14a_1",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Fri Nov 8",
+            "visitor": "Markham - A",
+            "visitorScore": "6",
+            "home": "Forest",
+            "homeScore": "3",
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1516,
+                    "elo": 1515.263693206478,
+                    "probability": 0.5115497779105124
+                },
+                "postgame": {
+                    "opp": 1499.9660918698307,
+                    "elo": 1531.2976013366472
+                }
+            },
+            "record": "2 - 0 - 0"
         },
         {
             "id": "london_ringette_u14a_14",
@@ -63,15 +65,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1483.263693206478,
-                    "elo": 1516,
-                    "probability": 0.5350306806159859
+                    "opp": 1469.5031170912061,
+                    "elo": 1531.2976013366472,
+                    "probability": 0.5768271286825156
                 },
                 "postgame": {
-                    "opp": 1468.766810297684,
-                    "elo": 1530.4968829087939
+                    "opp": 1456.3192259867553,
+                    "elo": 1544.481492441098
                 }
-            }
+            },
+            "record": "3 - 0 - 0"
         },
         {
             "id": "london_ringette_u14a_9",
@@ -85,15 +88,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1501.464697614687,
-                    "elo": 1542.3740201295104,
-                    "probability": 0.5468623914591537
+                    "opp": 1517.3679216665578,
+                    "elo": 1544.481492441098,
+                    "probability": 0.5268671260702746
                 },
                 "postgame": {
-                    "opp": 1487.339983070709,
-                    "elo": 1556.4987346734886
+                    "opp": 1502.6140191488428,
+                    "elo": 1559.235394958813
                 }
-            }
+            },
+            "record": "4 - 0 - 0"
         },
         {
             "id": "london_ringette_u14a_18",
@@ -107,15 +111,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1515.263693206478,
-                    "elo": 1530.4968829087939,
-                    "probability": 0.509576202836215
+                    "opp": 1502.6140191488428,
+                    "elo": 1559.235394958813,
+                    "probability": 0.5694487984851816
                 },
                 "postgame": {
-                    "opp": 1499.964758343066,
-                    "elo": 1545.7958177722057
+                    "opp": 1489.1986881771181,
+                    "elo": 1572.6507259305376
                 }
-            }
+            },
+            "record": "5 - 0 - 0"
         },
         {
             "id": "london_ringette_u14a_19",
@@ -129,37 +134,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1532.703960190449,
-                    "elo": 1545.7958177722057,
-                    "probability": 0.5064560236046918
+                    "opp": 1528.0001280195254,
+                    "elo": 1572.6507259305376,
+                    "probability": 0.5522616672701528
                 },
                 "postgame": {
-                    "opp": 1549.3065773234048,
-                    "elo": 1529.1932006392499
+                    "opp": 1546.0451180392815,
+                    "elo": 1554.6057359107815
                 }
-            }
-        },
-        {
-            "id": "pickering_ringette_u14a_3",
-            "tournament": "pickering_ringette",
-            "type": "RR",
-            "date": "Fri Nov 29",
-            "visitor": "Gloucester Cumberland - D",
-            "visitorScore": "3",
-            "home": "Markham - A",
-            "homeScore": "9",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1466.5348867818036,
-                    "elo": 1579.2221305064834,
-                    "probability": 0.6471343721187437
-                },
-                "postgame": {
-                    "opp": 1455.5497003432142,
-                    "elo": 1590.2073169450728
-                }
-            }
+            },
+            "record": "5 - 1 - 0"
         },
         {
             "id": "pickering_ringette_u14a_9",
@@ -173,15 +157,39 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1525.7944580765168,
-                    "elo": 1590.2073169450728,
-                    "probability": 0.5805488716693707
+                    "opp": 1517.4616608290262,
+                    "elo": 1554.6057359107815,
+                    "probability": 0.5414173677990906
                 },
                 "postgame": {
-                    "opp": 1512.7272551969768,
-                    "elo": 1603.2745198246128
+                    "opp": 1503.1657214064278,
+                    "elo": 1568.90167533338
                 }
-            }
+            },
+            "record": "6 - 1 - 0"
+        },
+        {
+            "id": "pickering_ringette_u14a_3",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "Gloucester Cumberland - D",
+            "visitorScore": "3",
+            "home": "Markham - A",
+            "homeScore": "9",
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1456.3737628642118,
+                    "elo": 1568.90167533338,
+                    "probability": 0.6469222271743846
+                },
+                "postgame": {
+                    "opp": 1445.3819588019228,
+                    "elo": 1579.893479395669
+                }
+            },
+            "record": "7 - 1 - 0"
         },
         {
             "id": "pickering_ringette_u14a_16",
@@ -195,15 +203,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1502.5803534862257,
-                    "elo": 1556.4987346734886,
-                    "probability": 0.5655810361427599
+                    "opp": 1531.9755156859417,
+                    "elo": 1579.893479395669,
+                    "probability": 0.556966998910849
                 },
                 "postgame": {
-                    "opp": 1489.043643249784,
-                    "elo": 1570.0354449099302
+                    "opp": 1518.1683333959818,
+                    "elo": 1593.7006616856288
                 }
-            }
+            },
+            "record": "8 - 1 - 0"
         },
         {
             "id": "pickering_ringette_u14a_22",
@@ -217,19 +226,28 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1412.0236319624355,
-                    "elo": 1570.0354449099302,
-                    "probability": 0.7048931775815385
+                    "opp": 1402.084456241434,
+                    "elo": 1593.7006616856288,
+                    "probability": 0.7439540740254407
                 },
                 "postgame": {
-                    "opp": 1402.8369463658823,
-                    "elo": 1579.2221305064834
+                    "opp": 1394.1109424774274,
+                    "elo": 1601.6741754496354
                 }
-            }
+            },
+            "record": "9 - 1 - 0"
         }
     ],
     "pct": 0.9,
     "points": 18,
     "games": 10,
+    "opponentRecord": {
+        "w": 62,
+        "l": 59,
+        "t": 1,
+        "g": 122
+    },
+    "strengthOfSchedule": 0.5303776382879314,
+    "record": "9 - 1 - 0",
     "image": "Markham.png"
 }

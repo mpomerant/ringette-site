@@ -5,7 +5,7 @@
     "tie": 1,
     "for": 75,
     "against": 34,
-    "elo": 1610.0552220887284,
+    "elo": 1599.988111862866,
     "results": [
         {
             "id": "oshawa_ringette_u14a_3",
@@ -19,15 +19,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1516.1091353462677,
-                    "elo": 1527.3382627368464,
-                    "probability": 0.5037413833404967
+                    "opp": 1500,
+                    "elo": 1500,
+                    "probability": 0.48737768239144597
                 },
                 "postgame": {
-                    "opp": 1500.626075789612,
-                    "elo": 1542.8213222935021
+                    "opp": 1484,
+                    "elo": 1516
                 }
-            }
+            },
+            "record": "1 - 0 - 0"
         },
         {
             "id": "oshawa_ringette_u14a_4",
@@ -41,37 +42,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1471.3308439628572,
-                    "elo": 1542.8213222935021,
-                    "probability": 0.5905620847393944
+                    "opp": 1484,
+                    "elo": 1516,
+                    "probability": 0.5339626222373348
                 },
                 "postgame": {
-                    "opp": 1458.5774114026467,
-                    "elo": 1555.5747548537126
+                    "opp": 1469.4695015289756,
+                    "elo": 1530.5304984710244
                 }
-            }
-        },
-        {
-            "id": "oshawa_ringette_u14a_12",
-            "tournament": "oshawa_ringette",
-            "type": "RR",
-            "date": "Sat Nov 2",
-            "visitor": "West Ottawa - G",
-            "visitorScore": "8",
-            "home": "Barrie",
-            "homeScore": "1",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1486.7972469182748,
-                    "elo": 1527.0809373873642,
-                    "probability": 0.5459583893081632
-                },
-                "postgame": {
-                    "opp": 1472.644110771232,
-                    "elo": 1541.2340735344071
-                }
-            }
+            },
+            "record": "2 - 0 - 0"
         },
         {
             "id": "oshawa_ringette_u14a_9",
@@ -85,15 +65,39 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1522.7424699965138,
-                    "elo": 1555.5747548537126,
-                    "probability": 0.5351698792580808
+                    "opp": 1531.263693206478,
+                    "elo": 1530.5304984710244,
+                    "probability": 0.5115543113139289
                 },
                 "postgame": {
-                    "opp": 1508.2499679182245,
-                    "elo": 1570.067256932002
+                    "opp": 1515.2299283912382,
+                    "elo": 1546.5642632862641
                 }
-            }
+            },
+            "record": "3 - 0 - 0"
+        },
+        {
+            "id": "oshawa_ringette_u14a_12",
+            "tournament": "oshawa_ringette",
+            "type": "RR",
+            "date": "Sat Nov 2",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "8",
+            "home": "Barrie",
+            "homeScore": "1",
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1483.4299661065281,
+                    "elo": 1546.5642632862641,
+                    "probability": 0.5787326484812501
+                },
+                "postgame": {
+                    "opp": 1470.3058234307957,
+                    "elo": 1559.6884059619965
+                }
+            },
+            "record": "4 - 0 - 0"
         },
         {
             "id": "oshawa_ringette_u14a_13",
@@ -107,37 +111,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1587.1921485178275,
-                    "elo": 1541.2340735344071,
-                    "probability": 0.44585426402011785
+                    "opp": 1529.788347454999,
+                    "elo": 1559.6884059619965,
+                    "probability": 0.5309148497504773
                 },
                 "postgame": {
-                    "opp": 1601.0879593153882,
-                    "elo": 1527.3382627368464
+                    "opp": 1547.1619067560725,
+                    "elo": 1542.314846660923
                 }
-            }
-        },
-        {
-            "id": "mississauga_ringette_u14a_2",
-            "tournament": "mississauga_ringette",
-            "type": "RR",
-            "date": "Fri Nov 29",
-            "visitor": "West Ottawa - G",
-            "visitorScore": "5",
-            "home": "Mississauga",
-            "homeScore": "0",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1487.4833399993217,
-                    "elo": 1474.025234189486,
-                    "probability": 0.49301026615967647
-                },
-                "postgame": {
-                    "opp": 1470.8638811127405,
-                    "elo": 1490.6446930760671
-                }
-            }
+            },
+            "record": "4 - 1 - 0"
         },
         {
             "id": "mississauga_ringette_u14a_6",
@@ -151,15 +134,39 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1471.5071617935093,
-                    "elo": 1490.6446930760671,
-                    "probability": 0.5152632081234142
+                    "opp": 1498.75194787029,
+                    "elo": 1542.314846660923,
+                    "probability": 0.5506931510814437
                 },
                 "postgame": {
-                    "opp": 1456.3875874390253,
-                    "elo": 1505.7642674305512
+                    "opp": 1484.7476462026625,
+                    "elo": 1556.3191483285505
                 }
-            }
+            },
+            "record": "5 - 1 - 0"
+        },
+        {
+            "id": "mississauga_ringette_u14a_2",
+            "tournament": "mississauga_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "5",
+            "home": "Mississauga",
+            "homeScore": "0",
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1485.1862550117744,
+                    "elo": 1556.3191483285505,
+                    "probability": 0.5900579073951799
+                },
+                "postgame": {
+                    "opp": 1472.4170297671244,
+                    "elo": 1569.0883735732004
+                }
+            },
+            "record": "6 - 1 - 0"
         },
         {
             "id": "mississauga_ringette_u14a_11",
@@ -173,15 +180,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1529.8965169253813,
-                    "elo": 1500,
-                    "probability": 0.4690902923746936
+                    "opp": 1540.6202999555535,
+                    "elo": 1569.0883735732004,
+                    "probability": 0.5288351859768349
                 },
                 "postgame": {
-                    "opp": 1544.5231195183285,
-                    "elo": 1485.3733974070528
+                    "opp": 1557.9283771198823,
+                    "elo": 1551.7802964088717
                 }
-            }
+            },
+            "record": "6 - 2 - 0"
         },
         {
             "id": "mississauga_ringette_u14a_9",
@@ -195,15 +203,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1625.7693537270425,
-                    "elo": 1505.7642674305512,
-                    "probability": 0.34318569480264616
+                    "opp": 1597.8878491294165,
+                    "elo": 1551.7802964088717,
+                    "probability": 0.44563896528903124
                 },
                 "postgame": {
-                    "opp": 1604.4526837702294,
-                    "elo": 1527.0809373873642
+                    "opp": 1579.7768956620787,
+                    "elo": 1569.8912498762095
                 }
-            }
+            },
+            "record": "7 - 2 - 0"
         },
         {
             "id": "mississauga_ringette_u14a_13",
@@ -217,15 +226,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1589.386641615925,
-                    "elo": 1485.3733974070528,
-                    "probability": 0.3644972957128294
+                    "opp": 1579.7768956620787,
+                    "elo": 1569.8912498762095,
+                    "probability": 0.49821667882899234
                 },
                 "postgame": {
-                    "opp": 1600.734804833492,
-                    "elo": 1474.025234189486
+                    "opp": 1595.3217676643558,
+                    "elo": 1554.3463778739324
                 }
-            }
+            },
+            "record": "7 - 3 - 0"
         },
         {
             "id": "whitby_ringette_u14a_1",
@@ -239,15 +249,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1558.4717209317248,
-                    "elo": 1570.067256932002,
-                    "probability": 0.5042753895162929
+                    "opp": 1564.1875444403636,
+                    "elo": 1554.3463778739324,
+                    "probability": 0.49828150649626013
                 },
                 "postgame": {
-                    "opp": 1575.0055169207783,
-                    "elo": 1553.5334609429485
+                    "opp": 1579.7344631364251,
+                    "elo": 1538.7994591778709
                 }
-            }
+            },
+            "record": "7 - 4 - 0"
         },
         {
             "id": "whitby_ringette_u14a_10",
@@ -261,37 +272,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1501.5227068214754,
-                    "elo": 1553.5334609429485,
-                    "probability": 0.5628465354557783
+                    "opp": 1502.6824929610045,
+                    "elo": 1538.7994591778709,
+                    "probability": 0.5399302641388977
                 },
                 "postgame": {
-                    "opp": 1487.900157651622,
-                    "elo": 1567.1560101128018
+                    "opp": 1488.339775363058,
+                    "elo": 1553.1421767758175
                 }
-            }
-        },
-        {
-            "id": "whitby_ringette_u14a_12",
-            "tournament": "whitby_ringette",
-            "type": "RR",
-            "date": "Sat Jan 4",
-            "visitor": "Ajax",
-            "visitorScore": "0",
-            "home": "West Ottawa - G",
-            "homeScore": "6",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1425.6974927894983,
-                    "elo": 1567.1560101128018,
-                    "probability": 0.6844294186403239
-                },
-                "postgame": {
-                    "opp": 1415.8742990569287,
-                    "elo": 1576.9792038453713
-                }
-            }
+            },
+            "record": "8 - 4 - 0"
         },
         {
             "id": "whitby_ringette_u14a_20",
@@ -305,37 +295,39 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1527.8919028284013,
-                    "elo": 1576.9792038453713,
-                    "probability": 0.5586485249290158
+                    "opp": 1550.9338449561196,
+                    "elo": 1553.1421767758175,
+                    "probability": 0.49059475316358503
                 },
                 "postgame": {
-                    "opp": 1530.1375344866233,
-                    "elo": 1574.7335721871493
+                    "opp": 1551.0355410251889,
+                    "elo": 1553.0404807067482
                 }
-            }
+            },
+            "record": "8 - 4 - 1"
         },
         {
-            "id": "whitby_ringette_u14a_21",
+            "id": "whitby_ringette_u14a_12",
             "tournament": "whitby_ringette",
-            "type": "S1",
-            "date": "Sun Jan 5",
-            "visitor": "West Ottawa - G",
-            "visitorScore": "4",
-            "home": "Timmins",
-            "homeScore": "2",
+            "type": "RR",
+            "date": "Sat Jan 4",
+            "visitor": "Ajax",
+            "visitorScore": "0",
+            "home": "West Ottawa - G",
+            "homeScore": "6",
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1600.299141429438,
-                    "elo": 1574.7335721871493,
-                    "probability": 0.47538310198753386
+                    "opp": 1406.7999121861728,
+                    "elo": 1553.0404807067482,
+                    "probability": 0.6904197748368688
                 },
                 "postgame": {
-                    "opp": 1583.123923782977,
-                    "elo": 1591.9087898336102
+                    "opp": 1397.163117137675,
+                    "elo": 1562.677275755246
                 }
-            }
+            },
+            "record": "9 - 4 - 1"
         },
         {
             "id": "whitby_ringette_u14a_23",
@@ -349,19 +341,51 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1638.8006374139593,
-                    "elo": 1591.9087898336102,
-                    "probability": 0.44450965031941747
+                    "opp": 1649.7142056185564,
+                    "elo": 1562.677275755246,
+                    "probability": 0.38771548087302743
                 },
                 "postgame": {
-                    "opp": 1620.654205158841,
-                    "elo": 1610.0552220887284
+                    "opp": 1629.7878010459694,
+                    "elo": 1582.603680327833
                 }
-            }
+            },
+            "record": "10 - 4 - 1"
+        },
+        {
+            "id": "whitby_ringette_u14a_21",
+            "tournament": "whitby_ringette",
+            "type": "S1",
+            "date": "Sun Jan 5",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "4",
+            "home": "Timmins",
+            "homeScore": "2",
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1612.7415932436172,
+                    "elo": 1582.603680327833,
+                    "probability": 0.4687398176077593
+                },
+                "postgame": {
+                    "opp": 1595.3571617085843,
+                    "elo": 1599.988111862866
+                }
+            },
+            "record": "11 - 4 - 1"
         }
     ],
     "pct": 0.71875,
     "points": 23,
     "games": 16,
+    "opponentRecord": {
+        "w": 110,
+        "l": 78,
+        "t": 11,
+        "g": 199
+    },
+    "strengthOfSchedule": 0.5746307098652659,
+    "record": "11 - 4 - 1",
     "image": "West Ottawa.png"
 }

@@ -5,30 +5,8 @@
     "tie": 0,
     "for": 13,
     "against": 15,
-    "elo": 1498.5092179498342,
+    "elo": 1497.2900169923669,
     "results": [
-        {
-            "id": "pickering_ringette_u14a_2",
-            "tournament": "pickering_ringette",
-            "type": "RR",
-            "date": "Fri Nov 29",
-            "visitor": "Nepean",
-            "visitorScore": "8",
-            "home": "Waterloo",
-            "homeScore": "3",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1489.043643249784,
-                    "elo": 1484.209943378664,
-                    "probability": 0.505579650809207
-                },
-                "postgame": {
-                    "opp": 1504.8210575053258,
-                    "elo": 1468.4325291231225
-                }
-            }
-        },
         {
             "id": "pickering_ringette_u14a_8",
             "tournament": "pickering_ringette",
@@ -41,15 +19,39 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1455.5497003432142,
-                    "elo": 1483.8076843209137,
-                    "probability": 0.5285299879865247
+                    "opp": 1471.0433383627817,
+                    "elo": 1500,
+                    "probability": 0.529544875834364
                 },
                 "postgame": {
-                    "opp": 1440.8481667142937,
-                    "elo": 1498.5092179498342
+                    "opp": 1456.3737628642118,
+                    "elo": 1514.6695754985699
                 }
-            }
+            },
+            "record": "1 - 0 - 0"
+        },
+        {
+            "id": "pickering_ringette_u14a_2",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "Nepean",
+            "visitorScore": "8",
+            "home": "Waterloo",
+            "homeScore": "3",
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1501.4721946992245,
+                    "elo": 1514.6695754985699,
+                    "probability": 0.5066097974370272
+                },
+                "postgame": {
+                    "opp": 1518.0796644068262,
+                    "elo": 1498.0621057909682
+                }
+            },
+            "record": "1 - 1 - 0"
         },
         {
             "id": "pickering_ringette_u14a_17",
@@ -63,15 +65,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1504.5591242076177,
-                    "elo": 1500,
-                    "probability": 0.5059797913431839
+                    "opp": 1519.5237415867175,
+                    "elo": 1498.0621057909682,
+                    "probability": 0.48135331761978195
                 },
                 "postgame": {
-                    "opp": 1520.3491808289536,
-                    "elo": 1484.209943378664
+                    "opp": 1534.5366519018992,
+                    "elo": 1483.0491954757865
                 }
-            }
+            },
+            "record": "1 - 2 - 0"
         },
         {
             "id": "pickering_ringette_u14a_23",
@@ -85,19 +88,28 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1454.8572925381723,
-                    "elo": 1468.4325291231225,
-                    "probability": 0.5071604177610556
+                    "opp": 1444.6940640175221,
+                    "elo": 1483.0491954757865,
+                    "probability": 0.5431698512175003
                 },
                 "postgame": {
-                    "opp": 1439.482137340381,
-                    "elo": 1483.8076843209137
+                    "opp": 1430.4532425009418,
+                    "elo": 1497.2900169923669
                 }
-            }
+            },
+            "record": "2 - 2 - 0"
         }
     ],
     "pct": 0.5,
     "points": 4,
     "games": 4,
+    "opponentRecord": {
+        "w": 16,
+        "l": 29,
+        "t": 1,
+        "g": 46
+    },
+    "strengthOfSchedule": 0.4276721014492753,
+    "record": "2 - 2 - 0",
     "image": "Waterloo.png"
 }

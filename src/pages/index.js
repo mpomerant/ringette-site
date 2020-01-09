@@ -16,6 +16,7 @@ const IndexPage = ({data}) => {
         <td>{team.points}</td>
         <td>{team.pct.toFixed(3)}</td>
         <td>{team.elo.toFixed(3)}</td>
+        <td>{team.strengthOfSchedule.toFixed(3)}</td>
       </tr>
     )
    });
@@ -30,6 +31,7 @@ const IndexPage = ({data}) => {
   <th>Points</th>
   <th>%</th>
   <th>Power Ranking</th>
+  <th>Strength of Schedule</th>
 </tr>
       {items}
       </table>
@@ -54,6 +56,7 @@ export const query = graphql`
           points
           pct
           elo
+          strengthOfSchedule
           games
           fields {
             slug

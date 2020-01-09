@@ -5,30 +5,8 @@
     "tie": 0,
     "for": 15,
     "against": 36,
-    "elo": 1450.3998573245808,
+    "elo": 1445.772874090915,
     "results": [
-        {
-            "id": "nepean_ringette_u14a_4",
-            "tournament": "nepean_ringette",
-            "type": "RR",
-            "date": "Fri Nov 15",
-            "visitor": "Sudbury",
-            "visitorScore": "3",
-            "home": "City of Ottawa",
-            "homeScore": "7",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1453.4079140295644,
-                    "elo": 1449.3257142986204,
-                    "probability": 0.506674797340801
-                },
-                "postgame": {
-                    "opp": 1437.2199304349908,
-                    "elo": 1465.513697893194
-                }
-            }
-        },
         {
             "id": "nepean_ringette_u14a_9",
             "tournament": "nepean_ringette",
@@ -41,37 +19,39 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1484.7761173743934,
-                    "elo": 1465.513697893194,
-                    "probability": 0.4845549389778283
+                    "opp": 1500,
+                    "elo": 1500,
+                    "probability": 0.48737768239144597
                 },
                 "postgame": {
-                    "opp": 1499.8899579430065,
-                    "elo": 1450.3998573245808
+                    "opp": 1516,
+                    "elo": 1484
                 }
-            }
+            },
+            "record": "0 - 1 - 0"
         },
         {
-            "id": "nepean_ringette_u14a_16",
+            "id": "nepean_ringette_u14a_4",
             "tournament": "nepean_ringette",
             "type": "RR",
-            "date": "Sat Nov 16",
-            "visitor": "City of Ottawa",
-            "visitorScore": "0",
-            "home": "West Ottawa  - F",
-            "homeScore": "2",
+            "date": "Fri Nov 15",
+            "visitor": "Sudbury",
+            "visitorScore": "3",
+            "home": "City of Ottawa",
+            "homeScore": "7",
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1500.736306793522,
-                    "elo": 1444.3239003536562,
-                    "probability": 0.43084992362457
+                    "opp": 1484.736306793522,
+                    "elo": 1484,
+                    "probability": 0.5115497779105124
                 },
                 "postgame": {
-                    "opp": 1514.1610109401681,
-                    "elo": 1430.8991962070102
+                    "opp": 1468.7023986633528,
+                    "elo": 1500.0339081301693
                 }
-            }
+            },
+            "record": "1 - 1 - 0"
         },
         {
             "id": "nepean_ringette_u14a_20",
@@ -85,37 +65,39 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1484,
-                    "elo": 1430.8991962070102,
-                    "probability": 0.43559044688035686
+                    "opp": 1470.8494483935394,
+                    "elo": 1500.0339081301693,
+                    "probability": 0.5298757192684671
                 },
                 "postgame": {
-                    "opp": 1465.5734819083898,
-                    "elo": 1449.3257142986204
+                    "opp": 1456.1902902825846,
+                    "elo": 1514.6930662411241
                 }
-            }
+            },
+            "record": "2 - 1 - 0"
         },
         {
-            "id": "mississauga_ringette_u14a_1",
-            "tournament": "mississauga_ringette",
+            "id": "nepean_ringette_u14a_16",
+            "tournament": "nepean_ringette",
             "type": "RR",
-            "date": "Fri Nov 29",
+            "date": "Sat Nov 16",
             "visitor": "City of Ottawa",
-            "visitorScore": "1",
-            "home": "Forest",
-            "homeScore": "8",
+            "visitorScore": "0",
+            "home": "West Ottawa  - F",
+            "homeScore": "2",
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1563.774352852947,
-                    "elo": 1500,
-                    "probability": 0.420357869715829
+                    "opp": 1515.9716703448616,
+                    "elo": 1514.6930662411241,
+                    "probability": 0.510759773139581
                 },
                 "postgame": {
-                    "opp": 1576.8699816152468,
-                    "elo": 1486.9043712377002
+                    "opp": 1531.9127887156958,
+                    "elo": 1498.75194787029
                 }
-            }
+            },
+            "record": "2 - 2 - 0"
         },
         {
             "id": "mississauga_ringette_u14a_6",
@@ -129,37 +111,39 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1490.6446930760671,
-                    "elo": 1471.5071617935093,
-                    "probability": 0.4847367918765858
+                    "opp": 1542.314846660923,
+                    "elo": 1498.75194787029,
+                    "probability": 0.4493068489185563
                 },
                 "postgame": {
-                    "opp": 1505.7642674305512,
-                    "elo": 1456.3875874390253
+                    "opp": 1556.3191483285505,
+                    "elo": 1484.7476462026625
                 }
-            }
+            },
+            "record": "2 - 3 - 0"
         },
         {
-            "id": "mississauga_ringette_u14a_10",
+            "id": "mississauga_ringette_u14a_1",
             "tournament": "mississauga_ringette",
             "type": "RR",
-            "date": "Sat Nov 30",
-            "visitor": "Sault Ste Marie",
-            "visitorScore": "4",
-            "home": "City of Ottawa",
-            "homeScore": "0",
+            "date": "Fri Nov 29",
+            "visitor": "City of Ottawa",
+            "visitorScore": "1",
+            "home": "Forest",
+            "homeScore": "8",
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1500,
-                    "elo": 1486.9043712377002,
-                    "probability": 0.49353848081682816
+                    "opp": 1575.0477438556122,
+                    "elo": 1484.7476462026625,
+                    "probability": 0.38320903052240496
                 },
                 "postgame": {
-                    "opp": 1515.3972094441908,
-                    "elo": 1471.5071617935093
+                    "opp": 1586.9804434592133,
+                    "elo": 1472.8149465990614
                 }
-            }
+            },
+            "record": "2 - 4 - 0"
         },
         {
             "id": "mississauga_ringette_u14a_7",
@@ -173,19 +157,51 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1543.653498596631,
-                    "elo": 1456.3875874390253,
-                    "probability": 0.3873986191180647
+                    "opp": 1557.9283771198823,
+                    "elo": 1472.8149465990614,
+                    "probability": 0.3903809254177082
                 },
                 "postgame": {
-                    "opp": 1555.717185682,
-                    "elo": 1444.3239003536562
+                    "opp": 1570.0853309369459,
+                    "elo": 1460.6579927819978
                 }
-            }
+            },
+            "record": "2 - 5 - 0"
+        },
+        {
+            "id": "mississauga_ringette_u14a_10",
+            "tournament": "mississauga_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "visitor": "Sault Ste Marie",
+            "visitorScore": "4",
+            "home": "City of Ottawa",
+            "homeScore": "0",
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1484.906628658128,
+                    "elo": 1460.6579927819978,
+                    "probability": 0.47729823228864277
+                },
+                "postgame": {
+                    "opp": 1499.791747349211,
+                    "elo": 1445.772874090915
+                }
+            },
+            "record": "2 - 6 - 0"
         }
     ],
     "pct": 0.25,
     "points": 4,
     "games": 8,
+    "opponentRecord": {
+        "w": 46,
+        "l": 37,
+        "t": 6,
+        "g": 89
+    },
+    "strengthOfSchedule": 0.5521728619572356,
+    "record": "2 - 6 - 0",
     "image": "City of Ottawa.png"
 }

@@ -5,7 +5,7 @@
     "tie": 0,
     "for": 16,
     "against": 67,
-    "elo": 1390.744129920176,
+    "elo": 1394.1109424774274,
     "results": [
         {
             "id": "nepean_ringette_u14a_11",
@@ -27,7 +27,8 @@
                     "opp": 1531.263693206478,
                     "elo": 1484.736306793522
                 }
-            }
+            },
+            "record": "0 - 1 - 0"
         },
         {
             "id": "nepean_ringette_u14a_4",
@@ -41,37 +42,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1449.3257142986204,
-                    "elo": 1453.4079140295644,
-                    "probability": 0.493325202659199
-                },
-                "postgame": {
-                    "opp": 1465.513697893194,
-                    "elo": 1437.2199304349908
-                }
-            }
-        },
-        {
-            "id": "nepean_ringette_u14a_15",
-            "tournament": "nepean_ringette",
-            "type": "RR",
-            "date": "Sat Nov 16",
-            "visitor": "Sudbury",
-            "visitorScore": "2",
-            "home": "Gloucester Cumberland - D",
-            "homeScore": "9",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1483.263693206478,
+                    "opp": 1484,
                     "elo": 1484.736306793522,
-                    "probability": 0.489522868144322
+                    "probability": 0.48845022208948763
                 },
                 "postgame": {
-                    "opp": 1499.3315091622376,
-                    "elo": 1468.6684908377624
+                    "opp": 1500.0339081301693,
+                    "elo": 1468.7023986633528
                 }
-            }
+            },
+            "record": "0 - 2 - 0"
         },
         {
             "id": "nepean_ringette_u14a_19",
@@ -85,37 +65,39 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1484.736306793522,
-                    "elo": 1468.6684908377624,
-                    "probability": 0.4892078346764228
+                    "opp": 1574.178839742246,
+                    "elo": 1468.7023986633528,
+                    "probability": 0.36252360684650187
                 },
                 "postgame": {
-                    "opp": 1499.9968836017201,
-                    "elo": 1453.4079140295644
+                    "opp": 1585.4653918915556,
+                    "elo": 1457.4158465140433
                 }
-            }
+            },
+            "record": "0 - 3 - 0"
         },
         {
-            "id": "pickering_ringette_u14a_11",
-            "tournament": "pickering_ringette",
+            "id": "nepean_ringette_u14a_15",
+            "tournament": "nepean_ringette",
             "type": "RR",
-            "date": "Fri Nov 29",
-            "visitor": "Richmond Hill",
-            "visitorScore": "10",
-            "home": "Sudbury",
-            "homeScore": "3",
+            "date": "Sat Nov 16",
+            "visitor": "Sudbury",
+            "visitorScore": "2",
+            "home": "Gloucester Cumberland - D",
+            "homeScore": "9",
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1497.960776305445,
-                    "elo": 1437.2199304349908,
-                    "probability": 0.42467299569207695
+                    "opp": 1454.9288079610299,
+                    "elo": 1457.4158465140433,
+                    "probability": 0.49100083061083744
                 },
                 "postgame": {
-                    "opp": 1511.1917110872957,
-                    "elo": 1423.9889956531401
+                    "opp": 1471.0433383627817,
+                    "elo": 1441.3013161122915
                 }
-            }
+            },
+            "record": "0 - 4 - 0"
         },
         {
             "id": "pickering_ringette_u14a_5",
@@ -129,15 +111,39 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1489.429890375769,
-                    "elo": 1402.8369463658823,
-                    "probability": 0.3883301340180071
+                    "opp": 1489.1986881771181,
+                    "elo": 1441.3013161122915,
+                    "probability": 0.443062624025512
                 },
                 "postgame": {
-                    "opp": 1501.5227068214754,
-                    "elo": 1390.744129920176
+                    "opp": 1503.0068009433724,
+                    "elo": 1427.4932033460373
                 }
-            }
+            },
+            "record": "0 - 5 - 0"
+        },
+        {
+            "id": "pickering_ringette_u14a_11",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "visitor": "Richmond Hill",
+            "visitorScore": "10",
+            "home": "Sudbury",
+            "homeScore": "3",
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1499.877291797906,
+                    "elo": 1427.4932033460373,
+                    "probability": 0.4081788031070581
+                },
+                "postgame": {
+                    "opp": 1512.5912871082294,
+                    "elo": 1414.779208035714
+                }
+            },
+            "record": "0 - 6 - 0"
         },
         {
             "id": "pickering_ringette_u14a_18",
@@ -151,15 +157,16 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1513.53121941044,
-                    "elo": 1423.9889956531401,
-                    "probability": 0.38425390159158734
+                    "opp": 1487.5996782919558,
+                    "elo": 1414.779208035714,
+                    "probability": 0.4075643701852101
                 },
                 "postgame": {
-                    "opp": 1525.4965831011446,
-                    "elo": 1412.0236319624355
+                    "opp": 1500.2944300862357,
+                    "elo": 1402.084456241434
                 }
-            }
+            },
+            "record": "0 - 7 - 0"
         },
         {
             "id": "pickering_ringette_u14a_22",
@@ -173,19 +180,28 @@
             "status": "Official",
             "elo": {
                 "pregame": {
-                    "opp": 1570.0354449099302,
-                    "elo": 1412.0236319624355,
-                    "probability": 0.29510682241846153
+                    "opp": 1593.7006616856288,
+                    "elo": 1402.084456241434,
+                    "probability": 0.25604592597455933
                 },
                 "postgame": {
-                    "opp": 1579.2221305064834,
-                    "elo": 1402.8369463658823
+                    "opp": 1601.6741754496354,
+                    "elo": 1394.1109424774274
                 }
-            }
+            },
+            "record": "0 - 8 - 0"
         }
     ],
     "pct": 0,
     "points": 0,
     "games": 8,
+    "opponentRecord": {
+        "w": 51,
+        "l": 36,
+        "t": 2,
+        "g": 89
+    },
+    "strengthOfSchedule": 0.5645990192671532,
+    "record": "0 - 8 - 0",
     "image": "Sudbury.png"
 }
