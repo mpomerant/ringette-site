@@ -76,9 +76,9 @@ const teams = games.reduce((acc, curr) => {
     acc[home] = acc[home] || new Team(home);
 
     acc[visitor] = acc[visitor] || new Team(visitor);
-    acc[home].results.push(curr);
+    
 
-    acc[visitor].results.push(curr);
+    
 
     acc[home].for += homeScore;
     acc[visitor].against += homeScore;
@@ -99,9 +99,40 @@ const teams = games.reduce((acc, curr) => {
         winner = EloUtils.RESULT.TIE;
     }
 
+    const homeGame = {...curr};
+    const visitorGame = {...curr};
+    
+    const probability = EloUtils.probabilty(acc[home].elo, acc[visitor].elo);
+    homeGame.elo = {
+        pregame: {
+            opp: acc[visitor].elo,
+            elo: acc[home].elo,
+            probability: probability.r1
+        }
+    };
+    visitorGame.elo = {
+        pregame: {
+            opp: acc[home].elo,
+            elo: acc[visitor].elo,
+            probability: probability.r2
+        }
+    };
     const elo = EloUtils.elo(acc[home].elo, acc[visitor].elo, winner);
     acc[home].elo = elo.R1;
     acc[visitor].elo = elo.R2;
+
+    homeGame.elo.postgame = {
+        opp: elo.R2,
+        elo: elo.R1
+    }
+    visitorGame.elo.postgame = {
+        opp: elo.R1,
+        elo: elo.R2
+    };
+    
+
+    acc[home].results.push(homeGame);
+    acc[visitor].results.push(visitorGame);
     return acc;
 }, {});
 

@@ -16,7 +16,18 @@
             "visitorScore": "8",
             "home": "Waterloo",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1489.043643249784,
+                    "elo": 1484.209943378664,
+                    "probability": 0.505579650809207
+                },
+                "postgame": {
+                    "opp": 1504.8210575053258,
+                    "elo": 1468.4325291231225
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_8",
@@ -27,7 +38,18 @@
             "visitorScore": "5",
             "home": "Gloucester Cumberland - D",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1455.5497003432142,
+                    "elo": 1483.8076843209137,
+                    "probability": 0.5285299879865247
+                },
+                "postgame": {
+                    "opp": 1440.8481667142937,
+                    "elo": 1498.5092179498342
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_17",
@@ -38,7 +60,18 @@
             "visitorScore": "4",
             "home": "Waterloo",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1504.5591242076177,
+                    "elo": 1500,
+                    "probability": 0.5059797913431839
+                },
+                "postgame": {
+                    "opp": 1520.3491808289536,
+                    "elo": 1484.209943378664
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_23",
@@ -49,7 +82,18 @@
             "visitorScore": "4",
             "home": "Ajax",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1454.8572925381723,
+                    "elo": 1468.4325291231225,
+                    "probability": 0.5071604177610556
+                },
+                "postgame": {
+                    "opp": 1439.482137340381,
+                    "elo": 1483.8076843209137
+                }
+            }
         }
     ],
     "pct": 0.5,

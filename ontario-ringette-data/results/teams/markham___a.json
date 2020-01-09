@@ -16,7 +16,18 @@
             "visitorScore": "6",
             "home": "Forest",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1500,
+                    "probability": 0.48737768239144597
+                },
+                "postgame": {
+                    "opp": 1484,
+                    "elo": 1516
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_6",
@@ -27,7 +38,18 @@
             "visitorScore": "0",
             "home": "Markham - A",
             "homeScore": "5",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1467.3298824471926,
+                    "elo": 1529.1932006392499,
+                    "probability": 0.5769250824909158
+                },
+                "postgame": {
+                    "opp": 1454.149062956932,
+                    "elo": 1542.3740201295104
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_14",
@@ -38,7 +60,18 @@
             "visitorScore": "5",
             "home": "St. Marys",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1483.263693206478,
+                    "elo": 1516,
+                    "probability": 0.5350306806159859
+                },
+                "postgame": {
+                    "opp": 1468.766810297684,
+                    "elo": 1530.4968829087939
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_9",
@@ -49,7 +82,18 @@
             "visitorScore": "1",
             "home": "Markham - A",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1501.464697614687,
+                    "elo": 1542.3740201295104,
+                    "probability": 0.5468623914591537
+                },
+                "postgame": {
+                    "opp": 1487.339983070709,
+                    "elo": 1556.4987346734886
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_18",
@@ -60,7 +104,18 @@
             "visitorScore": "1",
             "home": "Markham - A",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1515.263693206478,
+                    "elo": 1530.4968829087939,
+                    "probability": 0.509576202836215
+                },
+                "postgame": {
+                    "opp": 1499.964758343066,
+                    "elo": 1545.7958177722057
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_19",
@@ -71,7 +126,18 @@
             "visitorScore": "4",
             "home": "Markham - A",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1532.703960190449,
+                    "elo": 1545.7958177722057,
+                    "probability": 0.5064560236046918
+                },
+                "postgame": {
+                    "opp": 1549.3065773234048,
+                    "elo": 1529.1932006392499
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_3",
@@ -82,7 +148,18 @@
             "visitorScore": "3",
             "home": "Markham - A",
             "homeScore": "9",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1466.5348867818036,
+                    "elo": 1579.2221305064834,
+                    "probability": 0.6471343721187437
+                },
+                "postgame": {
+                    "opp": 1455.5497003432142,
+                    "elo": 1590.2073169450728
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_9",
@@ -93,7 +170,18 @@
             "visitorScore": "4",
             "home": "West Ottawa - F",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1525.7944580765168,
+                    "elo": 1590.2073169450728,
+                    "probability": 0.5805488716693707
+                },
+                "postgame": {
+                    "opp": 1512.7272551969768,
+                    "elo": 1603.2745198246128
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_16",
@@ -104,7 +192,18 @@
             "visitorScore": "5",
             "home": "Nepean",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1502.5803534862257,
+                    "elo": 1556.4987346734886,
+                    "probability": 0.5655810361427599
+                },
+                "postgame": {
+                    "opp": 1489.043643249784,
+                    "elo": 1570.0354449099302
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_22",
@@ -115,7 +214,18 @@
             "visitorScore": "1",
             "home": "Markham - A",
             "homeScore": "8",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1412.0236319624355,
+                    "elo": 1570.0354449099302,
+                    "probability": 0.7048931775815385
+                },
+                "postgame": {
+                    "opp": 1402.8369463658823,
+                    "elo": 1579.2221305064834
+                }
+            }
         }
     ],
     "pct": 0.9,

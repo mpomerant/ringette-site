@@ -16,7 +16,18 @@
             "visitorScore": "5",
             "home": "West Ottawa  - F",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1500,
+                    "probability": 0.48737768239144597
+                },
+                "postgame": {
+                    "opp": 1484,
+                    "elo": 1516
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_5",
@@ -27,7 +38,18 @@
             "visitorScore": "8",
             "home": "Nepean",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1517.371044584685,
+                    "elo": 1543.6810298332655,
+                    "probability": 0.5256991370501807
+                },
+                "postgame": {
+                    "opp": 1502.5803534862257,
+                    "elo": 1558.4717209317248
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_13",
@@ -38,7 +60,18 @@
             "visitorScore": "1",
             "home": "Timmins",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1516,
+                    "probability": 0.5106933691965208
+                },
+                "postgame": {
+                    "opp": 1484.736306793522,
+                    "elo": 1531.263693206478
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_17",
@@ -49,7 +82,18 @@
             "visitorScore": "3",
             "home": "Timmins",
             "homeScore": "6",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1531.263693206478,
+                    "elo": 1531.263693206478,
+                    "probability": 0.512622317608554
+                },
+                "postgame": {
+                    "opp": 1515.263693206478,
+                    "elo": 1547.263693206478
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_22",
@@ -60,7 +104,18 @@
             "visitorScore": "1",
             "home": "Timmins",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1514.1610109401681,
+                    "elo": 1547.263693206478,
+                    "probability": 0.5355620117576616
+                },
+                "postgame": {
+                    "opp": 1499.680849674771,
+                    "elo": 1561.743854471875
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_23",
@@ -71,7 +126,18 @@
             "visitorScore": "3",
             "home": "Timmins",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1516.6994940129955,
+                    "elo": 1561.743854471875,
+                    "probability": 0.5528292378128168
+                },
+                "postgame": {
+                    "opp": 1534.762318651605,
+                    "elo": 1543.6810298332655
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_1",
@@ -82,7 +148,18 @@
             "visitorScore": "3",
             "home": "Timmins",
             "homeScore": "5",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1570.067256932002,
+                    "elo": 1558.4717209317248,
+                    "probability": 0.4957246104837071
+                },
+                "postgame": {
+                    "opp": 1553.5334609429485,
+                    "elo": 1575.0055169207783
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_7",
@@ -93,7 +170,18 @@
             "visitorScore": "7",
             "home": "Ajax",
             "homeScore": "0",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1392.27853835888,
+                    "elo": 1583.123923782977,
+                    "probability": 0.7430971127768466
+                },
+                "postgame": {
+                    "opp": 1384.278430719552,
+                    "elo": 1591.124031422305
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_14",
@@ -104,7 +192,18 @@
             "visitorScore": "4",
             "home": "Markham - F",
             "homeScore": "0",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1555.717185682,
+                    "elo": 1575.0055169207783,
+                    "probability": 0.5154827912840656
+                },
+                "postgame": {
+                    "opp": 1540.6045347286242,
+                    "elo": 1590.118167874154
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_19",
@@ -115,7 +214,18 @@
             "visitorScore": "0",
             "home": "Timmins",
             "homeScore": "7",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1457.6997441643744,
+                    "elo": 1590.118167874154,
+                    "probability": 0.6729371119291622
+                },
+                "postgame": {
+                    "opp": 1447.5187706090906,
+                    "elo": 1600.299141429438
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_21",
@@ -126,7 +236,18 @@
             "visitorScore": "4",
             "home": "Timmins",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1574.7335721871493,
+                    "elo": 1600.299141429438,
+                    "probability": 0.5246168980124661
+                },
+                "postgame": {
+                    "opp": 1591.9087898336102,
+                    "elo": 1583.123923782977
+                }
+            }
         }
     ],
     "pct": 0.8181818181818182,

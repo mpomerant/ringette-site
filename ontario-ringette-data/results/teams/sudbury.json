@@ -16,7 +16,18 @@
             "visitorScore": "9",
             "home": "Sudbury",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1516,
+                    "elo": 1500,
+                    "probability": 0.48930663080347925
+                },
+                "postgame": {
+                    "opp": 1531.263693206478,
+                    "elo": 1484.736306793522
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_4",
@@ -27,7 +38,18 @@
             "visitorScore": "3",
             "home": "City of Ottawa",
             "homeScore": "7",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1449.3257142986204,
+                    "elo": 1453.4079140295644,
+                    "probability": 0.493325202659199
+                },
+                "postgame": {
+                    "opp": 1465.513697893194,
+                    "elo": 1437.2199304349908
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_15",
@@ -38,7 +60,18 @@
             "visitorScore": "2",
             "home": "Gloucester Cumberland - D",
             "homeScore": "9",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1483.263693206478,
+                    "elo": 1484.736306793522,
+                    "probability": 0.489522868144322
+                },
+                "postgame": {
+                    "opp": 1499.3315091622376,
+                    "elo": 1468.6684908377624
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_19",
@@ -49,7 +82,18 @@
             "visitorScore": "8",
             "home": "Sudbury",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1484.736306793522,
+                    "elo": 1468.6684908377624,
+                    "probability": 0.4892078346764228
+                },
+                "postgame": {
+                    "opp": 1499.9968836017201,
+                    "elo": 1453.4079140295644
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_11",
@@ -60,7 +104,18 @@
             "visitorScore": "10",
             "home": "Sudbury",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1497.960776305445,
+                    "elo": 1437.2199304349908,
+                    "probability": 0.42467299569207695
+                },
+                "postgame": {
+                    "opp": 1511.1917110872957,
+                    "elo": 1423.9889956531401
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_5",
@@ -71,7 +126,18 @@
             "visitorScore": "2",
             "home": "Whitby",
             "homeScore": "7",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1489.429890375769,
+                    "elo": 1402.8369463658823,
+                    "probability": 0.3883301340180071
+                },
+                "postgame": {
+                    "opp": 1501.5227068214754,
+                    "elo": 1390.744129920176
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_18",
@@ -82,7 +148,18 @@
             "visitorScore": "9",
             "home": "Sudbury",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1513.53121941044,
+                    "elo": 1423.9889956531401,
+                    "probability": 0.38425390159158734
+                },
+                "postgame": {
+                    "opp": 1525.4965831011446,
+                    "elo": 1412.0236319624355
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_22",
@@ -93,7 +170,18 @@
             "visitorScore": "1",
             "home": "Markham - A",
             "homeScore": "8",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1570.0354449099302,
+                    "elo": 1412.0236319624355,
+                    "probability": 0.29510682241846153
+                },
+                "postgame": {
+                    "opp": 1579.2221305064834,
+                    "elo": 1402.8369463658823
+                }
+            }
         }
     ],
     "pct": 0,

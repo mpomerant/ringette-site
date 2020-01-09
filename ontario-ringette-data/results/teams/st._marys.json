@@ -16,7 +16,18 @@
             "visitorScore": "1",
             "home": "Markham - F",
             "homeScore": "4",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500.7347452664258,
+                    "elo": 1468.766810297684,
+                    "probability": 0.46608389721418086
+                },
+                "postgame": {
+                    "opp": 1515.2667079431492,
+                    "elo": 1454.2348476209606
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_8",
@@ -27,7 +38,18 @@
             "visitorScore": "4",
             "home": "St. Marys",
             "homeScore": "0",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1483.2959784053146,
+                    "elo": 1454.2348476209606,
+                    "probability": 0.47030339476269545
+                },
+                "postgame": {
+                    "opp": 1497.960776305445,
+                    "elo": 1439.5700497208302
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_12",
@@ -38,7 +60,18 @@
             "visitorScore": "0",
             "home": "Forest",
             "homeScore": "7",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1484,
+                    "elo": 1500,
+                    "probability": 0.5106933691965208
+                },
+                "postgame": {
+                    "opp": 1500.736306793522,
+                    "elo": 1483.263693206478
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_14",
@@ -49,7 +82,18 @@
             "visitorScore": "5",
             "home": "St. Marys",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1516,
+                    "elo": 1483.263693206478,
+                    "probability": 0.4649693193840141
+                },
+                "postgame": {
+                    "opp": 1530.4968829087939,
+                    "elo": 1468.766810297684
+                }
+            }
         },
         {
             "id": "st_marys_ringette_u14a_1",
@@ -60,7 +104,18 @@
             "visitorScore": "6",
             "home": "Kitchener",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1499.8899579430065,
+                    "elo": 1439.5700497208302,
+                    "probability": 0.42527269811297763
+                },
+                "postgame": {
+                    "opp": 1481.139700937289,
+                    "elo": 1458.3203067265476
+                }
+            }
         },
         {
             "id": "st_marys_ringette_u14a_3",
@@ -71,7 +126,18 @@
             "visitorScore": "1",
             "home": "St. Marys",
             "homeScore": "4",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1473.9597656189633,
+                    "elo": 1491.668433371951,
+                    "probability": 0.5131823276519569
+                },
+                "postgame": {
+                    "opp": 1458.7745744303404,
+                    "elo": 1506.853624560574
+                }
+            }
         },
         {
             "id": "st_marys_ringette_u14a_10",
@@ -82,7 +148,18 @@
             "visitorScore": "1",
             "home": "St. Marys",
             "homeScore": "5",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1459.7262818981046,
+                    "elo": 1458.3203067265476,
+                    "probability": 0.5105742143038926
+                },
+                "postgame": {
+                    "opp": 1443.6615347021138,
+                    "elo": 1474.3850539225384
+                }
+            }
         },
         {
             "id": "st_marys_ringette_u14a_7",
@@ -93,7 +170,18 @@
             "visitorScore": "3",
             "home": "Guelph",
             "homeScore": "4",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1481.2834771445757,
+                    "elo": 1506.853624560574,
+                    "probability": 0.5246235545219002
+                },
+                "postgame": {
+                    "opp": 1498.4589044860684,
+                    "elo": 1489.6781972190813
+                }
+            }
         },
         {
             "id": "st_marys_ringette_u14a_11",
@@ -104,7 +192,18 @@
             "visitorScore": "3",
             "home": "Guelph",
             "homeScore": "0",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1502.3132829293877,
+                    "elo": 1474.3850539225384,
+                    "probability": 0.4719490911972162
+                },
+                "postgame": {
+                    "opp": 1485.029903479975,
+                    "elo": 1491.668433371951
+                }
+            }
         }
     ],
     "pct": 0.4444444444444444,

@@ -16,7 +16,18 @@
             "visitorScore": "3",
             "home": "Oshawa",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1487.3825026149052,
+                    "elo": 1486.260745340706,
+                    "probability": 0.5109882692650132
+                },
+                "postgame": {
+                    "opp": 1471.3308439628572,
+                    "elo": 1502.312403992754
+                }
+            }
         },
         {
             "id": "oshawa_ringette_u14a_6",
@@ -27,7 +38,18 @@
             "visitorScore": "2",
             "home": "Sault Ste Marie",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1601.0879593153882,
+                    "elo": 1502.312403992754,
+                    "probability": 0.37159939564659483
+                },
+                "postgame": {
+                    "opp": 1580.6578933116284,
+                    "elo": 1522.7424699965138
+                }
+            }
         },
         {
             "id": "oshawa_ringette_u14a_11",
@@ -38,7 +60,18 @@
             "visitorScore": "3",
             "home": "Sault Ste Marie",
             "homeScore": "0",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1502.3698806869738,
+                    "probability": 0.4908301293922188
+                },
+                "postgame": {
+                    "opp": 1516.1091353462677,
+                    "elo": 1486.260745340706
+                }
+            }
         },
         {
             "id": "oshawa_ringette_u14a_9",
@@ -49,7 +82,18 @@
             "visitorScore": "0",
             "home": "West Ottawa - G",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1555.5747548537126,
+                    "elo": 1522.7424699965138,
+                    "probability": 0.4648301207419192
+                },
+                "postgame": {
+                    "opp": 1570.067256932002,
+                    "elo": 1508.2499679182245
+                }
+            }
         },
         {
             "id": "mississauga_ringette_u14a_3",
@@ -60,7 +104,18 @@
             "visitorScore": "3",
             "home": "Sault Ste Marie",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1531.0894104570173,
+                    "elo": 1515.3972094441908,
+                    "probability": 0.4897550511175536
+                },
+                "postgame": {
+                    "opp": 1530.3672488850675,
+                    "elo": 1516.1193710161406
+                }
+            }
         },
         {
             "id": "mississauga_ringette_u14a_4",
@@ -71,7 +126,18 @@
             "visitorScore": "6",
             "home": "Sault Ste Marie",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1614.1685138948033,
+                    "elo": 1516.1193710161406,
+                    "probability": 0.3725888573648506
+                },
+                "postgame": {
+                    "opp": 1625.7693537270425,
+                    "elo": 1504.5185311839014
+                }
+            }
         },
         {
             "id": "mississauga_ringette_u14a_10",
@@ -82,7 +148,18 @@
             "visitorScore": "4",
             "home": "City of Ottawa",
             "homeScore": "0",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1486.9043712377002,
+                    "elo": 1500,
+                    "probability": 0.5064615191831718
+                },
+                "postgame": {
+                    "opp": 1471.5071617935093,
+                    "elo": 1515.3972094441908
+                }
+            }
         },
         {
             "id": "mississauga_ringette_u14a_8",
@@ -93,7 +170,18 @@
             "visitorScore": "2",
             "home": "Mississauga",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1457.577631401177,
+                    "elo": 1504.5185311839014,
+                    "probability": 0.5555609615783803
+                },
+                "postgame": {
+                    "opp": 1459.7262818981046,
+                    "elo": 1502.3698806869738
+                }
+            }
         }
     ],
     "pct": 0.5,

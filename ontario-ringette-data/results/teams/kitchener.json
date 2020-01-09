@@ -16,7 +16,18 @@
             "visitorScore": "1",
             "home": "Gloucester Cumberland - B",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1547.6175169543765,
+                    "elo": 1498.5304984710244,
+                    "probability": 0.4413518811980808
+                },
+                "postgame": {
+                    "opp": 1561.3718980510075,
+                    "elo": 1484.7761173743934
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_9",
@@ -27,7 +38,18 @@
             "visitorScore": "2",
             "home": "Kitchener",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1465.513697893194,
+                    "elo": 1484.7761173743934,
+                    "probability": 0.5154450610221717
+                },
+                "postgame": {
+                    "opp": 1450.3998573245808,
+                    "elo": 1499.8899579430065
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_14",
@@ -38,7 +60,18 @@
             "visitorScore": "7",
             "home": "Upper Ottawa Valley",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1500,
+                    "probability": 0.48737768239144597
+                },
+                "postgame": {
+                    "opp": 1484,
+                    "elo": 1516
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_18",
@@ -49,7 +82,18 @@
             "visitorScore": "3",
             "home": "Kitchener",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1484,
+                    "elo": 1516,
+                    "probability": 0.5339626222373348
+                },
+                "postgame": {
+                    "opp": 1501.4695015289756,
+                    "elo": 1498.5304984710244
+                }
+            }
         },
         {
             "id": "st_marys_ringette_u14a_1",
@@ -60,7 +104,18 @@
             "visitorScore": "6",
             "home": "Kitchener",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1439.5700497208302,
+                    "elo": 1499.8899579430065,
+                    "probability": 0.5747273018870224
+                },
+                "postgame": {
+                    "opp": 1458.3203067265476,
+                    "elo": 1481.139700937289
+                }
+            }
         },
         {
             "id": "st_marys_ringette_u14a_4",
@@ -71,7 +126,18 @@
             "visitorScore": "3",
             "home": "Mississauga",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1429.5576663792535,
+                    "elo": 1481.139700937289,
+                    "probability": 0.562231452380707
+                },
+                "postgame": {
+                    "opp": 1415.9158063282516,
+                    "elo": 1494.781560988291
+                }
+            }
         },
         {
             "id": "st_marys_ringette_u14a_6",
@@ -82,7 +148,18 @@
             "visitorScore": "6",
             "home": "Barrie",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1476.6248690886,
+                    "elo": 1494.781560988291,
+                    "probability": 0.5138348461135626
+                },
+                "postgame": {
+                    "opp": 1461.4602553037141,
+                    "elo": 1509.946174773177
+                }
+            }
         },
         {
             "id": "st_marys_ringette_u14a_9",
@@ -93,7 +170,18 @@
             "visitorScore": "7",
             "home": "Kitchener",
             "homeScore": "5",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1498.4589044860684,
+                    "elo": 1509.946174773177,
+                    "probability": 0.5041176033562673
+                },
+                "postgame": {
+                    "opp": 1514.9877201525783,
+                    "elo": 1493.4173591066672
+                }
+            }
         }
     ],
     "pct": 0.5,

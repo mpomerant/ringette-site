@@ -16,7 +16,18 @@
             "visitorScore": "5",
             "home": "Guelph",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1516.1091353462677,
+                    "elo": 1527.3382627368464,
+                    "probability": 0.5037413833404967
+                },
+                "postgame": {
+                    "opp": 1500.626075789612,
+                    "elo": 1542.8213222935021
+                }
+            }
         },
         {
             "id": "oshawa_ringette_u14a_4",
@@ -27,7 +38,18 @@
             "visitorScore": "1",
             "home": "West Ottawa - G",
             "homeScore": "8",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1471.3308439628572,
+                    "elo": 1542.8213222935021,
+                    "probability": 0.5905620847393944
+                },
+                "postgame": {
+                    "opp": 1458.5774114026467,
+                    "elo": 1555.5747548537126
+                }
+            }
         },
         {
             "id": "oshawa_ringette_u14a_12",
@@ -38,7 +60,18 @@
             "visitorScore": "8",
             "home": "Barrie",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1486.7972469182748,
+                    "elo": 1527.0809373873642,
+                    "probability": 0.5459583893081632
+                },
+                "postgame": {
+                    "opp": 1472.644110771232,
+                    "elo": 1541.2340735344071
+                }
+            }
         },
         {
             "id": "oshawa_ringette_u14a_9",
@@ -49,7 +82,18 @@
             "visitorScore": "0",
             "home": "West Ottawa - G",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1522.7424699965138,
+                    "elo": 1555.5747548537126,
+                    "probability": 0.5351698792580808
+                },
+                "postgame": {
+                    "opp": 1508.2499679182245,
+                    "elo": 1570.067256932002
+                }
+            }
         },
         {
             "id": "oshawa_ringette_u14a_13",
@@ -60,7 +104,18 @@
             "visitorScore": "2",
             "home": "West Ottawa - G",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1587.1921485178275,
+                    "elo": 1541.2340735344071,
+                    "probability": 0.44585426402011785
+                },
+                "postgame": {
+                    "opp": 1601.0879593153882,
+                    "elo": 1527.3382627368464
+                }
+            }
         },
         {
             "id": "mississauga_ringette_u14a_2",
@@ -71,7 +126,18 @@
             "visitorScore": "5",
             "home": "Mississauga",
             "homeScore": "0",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1487.4833399993217,
+                    "elo": 1474.025234189486,
+                    "probability": 0.49301026615967647
+                },
+                "postgame": {
+                    "opp": 1470.8638811127405,
+                    "elo": 1490.6446930760671
+                }
+            }
         },
         {
             "id": "mississauga_ringette_u14a_6",
@@ -82,7 +148,18 @@
             "visitorScore": "7",
             "home": "City of Ottawa",
             "homeScore": "0",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1471.5071617935093,
+                    "elo": 1490.6446930760671,
+                    "probability": 0.5152632081234142
+                },
+                "postgame": {
+                    "opp": 1456.3875874390253,
+                    "elo": 1505.7642674305512
+                }
+            }
         },
         {
             "id": "mississauga_ringette_u14a_11",
@@ -93,7 +170,18 @@
             "visitorScore": "5",
             "home": "West Ottawa - G",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1529.8965169253813,
+                    "elo": 1500,
+                    "probability": 0.4690902923746936
+                },
+                "postgame": {
+                    "opp": 1544.5231195183285,
+                    "elo": 1485.3733974070528
+                }
+            }
         },
         {
             "id": "mississauga_ringette_u14a_9",
@@ -104,7 +192,18 @@
             "visitorScore": "3",
             "home": "West Ottawa - G",
             "homeScore": "6",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1625.7693537270425,
+                    "elo": 1505.7642674305512,
+                    "probability": 0.34318569480264616
+                },
+                "postgame": {
+                    "opp": 1604.4526837702294,
+                    "elo": 1527.0809373873642
+                }
+            }
         },
         {
             "id": "mississauga_ringette_u14a_13",
@@ -115,7 +214,18 @@
             "visitorScore": "4",
             "home": "West Ottawa - G",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1589.386641615925,
+                    "elo": 1485.3733974070528,
+                    "probability": 0.3644972957128294
+                },
+                "postgame": {
+                    "opp": 1600.734804833492,
+                    "elo": 1474.025234189486
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_1",
@@ -126,7 +236,18 @@
             "visitorScore": "3",
             "home": "Timmins",
             "homeScore": "5",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1558.4717209317248,
+                    "elo": 1570.067256932002,
+                    "probability": 0.5042753895162929
+                },
+                "postgame": {
+                    "opp": 1575.0055169207783,
+                    "elo": 1553.5334609429485
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_10",
@@ -137,7 +258,18 @@
             "visitorScore": "7",
             "home": "Whitby",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1501.5227068214754,
+                    "elo": 1553.5334609429485,
+                    "probability": 0.5628465354557783
+                },
+                "postgame": {
+                    "opp": 1487.900157651622,
+                    "elo": 1567.1560101128018
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_12",
@@ -148,7 +280,18 @@
             "visitorScore": "0",
             "home": "West Ottawa - G",
             "homeScore": "6",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1425.6974927894983,
+                    "elo": 1567.1560101128018,
+                    "probability": 0.6844294186403239
+                },
+                "postgame": {
+                    "opp": 1415.8742990569287,
+                    "elo": 1576.9792038453713
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_20",
@@ -159,7 +302,18 @@
             "visitorScore": "2",
             "home": "West Ottawa - G",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1527.8919028284013,
+                    "elo": 1576.9792038453713,
+                    "probability": 0.5586485249290158
+                },
+                "postgame": {
+                    "opp": 1530.1375344866233,
+                    "elo": 1574.7335721871493
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_21",
@@ -170,7 +324,18 @@
             "visitorScore": "4",
             "home": "Timmins",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1600.299141429438,
+                    "elo": 1574.7335721871493,
+                    "probability": 0.47538310198753386
+                },
+                "postgame": {
+                    "opp": 1583.123923782977,
+                    "elo": 1591.9087898336102
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_23",
@@ -181,7 +346,18 @@
             "visitorScore": "6",
             "home": "Forest",
             "homeScore": "5",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1638.8006374139593,
+                    "elo": 1591.9087898336102,
+                    "probability": 0.44450965031941747
+                },
+                "postgame": {
+                    "opp": 1620.654205158841,
+                    "elo": 1610.0552220887284
+                }
+            }
         }
     ],
     "pct": 0.71875,

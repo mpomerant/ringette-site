@@ -16,7 +16,18 @@
             "visitorScore": "1",
             "home": "Gloucester Cumberland - B",
             "homeScore": "7",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1534.762318651605,
+                    "elo": 1465.5734819083898,
+                    "probability": 0.4126864044526024
+                },
+                "postgame": {
+                    "opp": 1547.6175169543765,
+                    "elo": 1452.7182836056184
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_6",
@@ -27,7 +38,18 @@
             "visitorScore": "4",
             "home": "Upper Ottawa Valley",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1499.680849674771,
+                    "elo": 1452.7182836056184,
+                    "probability": 0.44440784996336724
+                },
+                "postgame": {
+                    "opp": 1513.53121941044,
+                    "elo": 1438.8679138699495
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_14",
@@ -38,7 +60,18 @@
             "visitorScore": "7",
             "home": "Upper Ottawa Valley",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1500,
+                    "probability": 0.512622317608554
+                },
+                "postgame": {
+                    "opp": 1516,
+                    "elo": 1484
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_20",
@@ -49,7 +82,18 @@
             "visitorScore": "1",
             "home": "City of Ottawa",
             "homeScore": "4",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1430.8991962070102,
+                    "elo": 1484,
+                    "probability": 0.5644095531196431
+                },
+                "postgame": {
+                    "opp": 1449.3257142986204,
+                    "elo": 1465.5734819083898
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_4",
@@ -60,7 +104,18 @@
             "visitorScore": "3",
             "home": "Whitby",
             "homeScore": "6",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1490.5768152654912,
+                    "elo": 1447.313807450544,
+                    "probability": 0.4497394853109653
+                },
+                "postgame": {
+                    "opp": 1504.5947140217904,
+                    "elo": 1433.2959086942446
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_9",
@@ -71,7 +126,18 @@
             "visitorScore": "10",
             "home": "Upper Ottawa Valley",
             "homeScore": "5",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1530.1375344866233,
+                    "elo": 1433.2959086942446,
+                    "probability": 0.3742360024340685
+                },
+                "postgame": {
+                    "opp": 1541.7898277303998,
+                    "elo": 1421.6436154504681
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_15",
@@ -82,7 +148,18 @@
             "visitorScore": "6",
             "home": "Barrie",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1475.3747877600501,
+                    "elo": 1438.8679138699495,
+                    "probability": 0.4595051213075534
+                },
+                "postgame": {
+                    "opp": 1457.6997441643744,
+                    "elo": 1456.5429574656252
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_18",
@@ -93,7 +170,18 @@
             "visitorScore": "7",
             "home": "Upper Ottawa Valley",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1613.4299722185226,
+                    "elo": 1456.5429574656252,
+                    "probability": 0.29647275126033246
+                },
+                "postgame": {
+                    "opp": 1622.659122233604,
+                    "elo": 1447.313807450544
+                }
+            }
         }
     ],
     "pct": 0.125,

@@ -16,7 +16,18 @@
             "visitorScore": "3",
             "home": "London",
             "homeScore": "5",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1484.0339081301693,
+                    "elo": 1468.736306793522,
+                    "probability": 0.49032995198186535
+                },
+                "postgame": {
+                    "opp": 1467.3298824471926,
+                    "elo": 1485.4403324764987
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_7",
@@ -27,7 +38,18 @@
             "visitorScore": "6",
             "home": "London",
             "homeScore": "4",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1515.2667079431492,
+                    "elo": 1485.4403324764987,
+                    "probability": 0.46919213414586625
+                },
+                "postgame": {
+                    "opp": 1529.8965169253813,
+                    "elo": 1470.8105234942666
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_10",
@@ -38,7 +60,18 @@
             "visitorScore": "0",
             "home": "Richmond Hill",
             "homeScore": "7",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1500,
+                    "probability": 0.48737768239144597
+                },
+                "postgame": {
+                    "opp": 1516,
+                    "elo": 1484
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_16",
@@ -49,7 +82,18 @@
             "visitorScore": "0",
             "home": "Whitby",
             "homeScore": "5",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1484,
+                    "probability": 0.48930663080347925
+                },
+                "postgame": {
+                    "opp": 1515.263693206478,
+                    "elo": 1468.736306793522
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_10",
@@ -60,7 +104,18 @@
             "visitorScore": "3",
             "home": "London",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1427.081663563117,
+                    "elo": 1470.8105234942666,
+                    "probability": 0.5509325412688171
+                },
+                "postgame": {
+                    "opp": 1429.0848853341342,
+                    "elo": 1468.8073017232493
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_6",
@@ -71,7 +126,18 @@
             "visitorScore": "3",
             "home": "Metcalfe",
             "homeScore": "4",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1497.159811571346,
+                    "elo": 1501.6980310891608,
+                    "probability": 0.493989744451639
+                },
+                "postgame": {
+                    "opp": 1513.3687924184592,
+                    "elo": 1485.4890502420476
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_13",
@@ -82,7 +148,18 @@
             "visitorScore": "2",
             "home": "London",
             "homeScore": "7",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1468.1263395715766,
+                    "elo": 1468.8073017232493,
+                    "probability": 0.48836960061703594
+                },
+                "postgame": {
+                    "opp": 1452.1576989974078,
+                    "elo": 1484.7759422974182
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_21",
@@ -93,7 +170,18 @@
             "visitorScore": "3",
             "home": "Nepean",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1504.8210575053258,
+                    "elo": 1484.7759422974182,
+                    "probability": 0.4834153307813529
+                },
+                "postgame": {
+                    "opp": 1487.8989687135831,
+                    "elo": 1501.6980310891608
+                }
+            }
         }
     ],
     "pct": 0.4375,

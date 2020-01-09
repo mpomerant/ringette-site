@@ -16,7 +16,18 @@
             "visitorScore": "2",
             "home": "Richmond Hill",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1499.964758343066,
+                    "elo": 1499.263693206478,
+                    "probability": 0.5116011150958182
+                },
+                "postgame": {
+                    "opp": 1515.9324731442293,
+                    "elo": 1483.2959784053146
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_8",
@@ -27,7 +38,18 @@
             "visitorScore": "4",
             "home": "St. Marys",
             "homeScore": "0",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1454.2348476209606,
+                    "elo": 1483.2959784053146,
+                    "probability": 0.5296966052373046
+                },
+                "postgame": {
+                    "opp": 1439.5700497208302,
+                    "elo": 1497.960776305445
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_10",
@@ -38,7 +60,18 @@
             "visitorScore": "0",
             "home": "Richmond Hill",
             "homeScore": "7",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1500,
+                    "probability": 0.512622317608554
+                },
+                "postgame": {
+                    "opp": 1484,
+                    "elo": 1516
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_13",
@@ -49,7 +82,18 @@
             "visitorScore": "1",
             "home": "Markham - F",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1516,
+                    "probability": 0.5106933691965208
+                },
+                "postgame": {
+                    "opp": 1516.736306793522,
+                    "elo": 1499.263693206478
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_11",
@@ -60,7 +104,18 @@
             "visitorScore": "10",
             "home": "Sudbury",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1437.2199304349908,
+                    "elo": 1497.960776305445,
+                    "probability": 0.575327004307923
+                },
+                "postgame": {
+                    "opp": 1423.9889956531401,
+                    "elo": 1511.1917110872957
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_4",
@@ -71,7 +126,18 @@
             "visitorScore": "2",
             "home": "Richmond Hill",
             "homeScore": "6",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1541.2595538084665,
+                    "elo": 1552.8791826533866,
+                    "probability": 0.5043105022487304
+                },
+                "postgame": {
+                    "opp": 1525.7944580765168,
+                    "elo": 1568.3442783853363
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_14",
@@ -82,7 +148,18 @@
             "visitorScore": "8",
             "home": "Oshawa",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1429.0848853341342,
+                    "elo": 1511.1917110872957,
+                    "probability": 0.6054396530694639
+                },
+                "postgame": {
+                    "opp": 1416.7971916786348,
+                    "elo": 1523.4794047427952
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_20",
@@ -93,7 +170,18 @@
             "visitorScore": "3",
             "home": "Richmond Hill",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1511.4032697360747,
+                    "elo": 1523.4794047427952,
+                    "probability": 0.5049758025039256
+                },
+                "postgame": {
+                    "opp": 1511.9591724587378,
+                    "elo": 1522.923502020132
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_25",
@@ -104,7 +192,18 @@
             "visitorScore": "2",
             "home": "Richmond Hill",
             "homeScore": "5",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1504.5862101216317,
+                    "elo": 1522.923502020132,
+                    "probability": 0.5140978652284133
+                },
+                "postgame": {
+                    "opp": 1489.429890375769,
+                    "elo": 1538.0798217659947
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_27",
@@ -115,7 +214,18 @@
             "visitorScore": "1",
             "home": "Richmond Hill",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1511.9591724587378,
+                    "elo": 1538.0798217659947,
+                    "probability": 0.5254239011546609
+                },
+                "postgame": {
+                    "opp": 1497.159811571346,
+                    "elo": 1552.8791826533866
+                }
+            }
         }
     ],
     "pct": 0.75,

@@ -16,7 +16,18 @@
             "visitorScore": "0",
             "home": "Metcalfe",
             "homeScore": "4",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1500,
+                    "probability": 0.512622317608554
+                },
+                "postgame": {
+                    "opp": 1484,
+                    "elo": 1516
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_11",
@@ -27,7 +38,18 @@
             "visitorScore": "9",
             "home": "Sudbury",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1516,
+                    "probability": 0.5106933691965208
+                },
+                "postgame": {
+                    "opp": 1484.736306793522,
+                    "elo": 1531.263693206478
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_8",
@@ -38,7 +60,18 @@
             "visitorScore": "3",
             "home": "Metcalfe",
             "homeScore": "10",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1483.4299661065281,
+                    "elo": 1498.5610827952025,
+                    "probability": 0.5094274851472638
+                },
+                "postgame": {
+                    "opp": 1468.1263395715766,
+                    "elo": 1513.864709330154
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_17",
@@ -49,7 +82,18 @@
             "visitorScore": "3",
             "home": "Timmins",
             "homeScore": "6",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1531.263693206478,
+                    "elo": 1531.263693206478,
+                    "probability": 0.48737768239144597
+                },
+                "postgame": {
+                    "opp": 1547.263693206478,
+                    "elo": 1515.263693206478
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_21",
@@ -60,7 +104,18 @@
             "visitorScore": "5",
             "home": "Metcalfe",
             "homeScore": "4",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1499.9968836017201,
+                    "elo": 1515.263693206478,
+                    "probability": 0.5096251857776402
+                },
+                "postgame": {
+                    "opp": 1516.6994940129955,
+                    "elo": 1498.5610827952025
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_12",
@@ -71,7 +126,18 @@
             "visitorScore": "5",
             "home": "Whitby",
             "homeScore": "6",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1487.339983070709,
+                    "elo": 1513.864709330154,
+                    "probability": 0.5260112851513783
+                },
+                "postgame": {
+                    "opp": 1504.5591242076177,
+                    "elo": 1496.6455681932453
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_6",
@@ -82,7 +148,18 @@
             "visitorScore": "3",
             "home": "Metcalfe",
             "homeScore": "4",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1501.6980310891608,
+                    "elo": 1497.159811571346,
+                    "probability": 0.506010255548361
+                },
+                "postgame": {
+                    "opp": 1485.4890502420476,
+                    "elo": 1513.3687924184592
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_15",
@@ -93,7 +170,18 @@
             "visitorScore": "1",
             "home": "Metcalfe",
             "homeScore": "4",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1469.6149940810017,
+                    "elo": 1496.6455681932453,
+                    "probability": 0.5267465061475495
+                },
+                "postgame": {
+                    "opp": 1454.8572925381723,
+                    "elo": 1511.4032697360747
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_20",
@@ -104,7 +192,18 @@
             "visitorScore": "3",
             "home": "Richmond Hill",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1523.4794047427952,
+                    "elo": 1511.4032697360747,
+                    "probability": 0.4950241974960744
+                },
+                "postgame": {
+                    "opp": 1522.923502020132,
+                    "elo": 1511.9591724587378
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_27",
@@ -115,7 +214,18 @@
             "visitorScore": "1",
             "home": "Richmond Hill",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1538.0798217659947,
+                    "elo": 1511.9591724587378,
+                    "probability": 0.47457609884533913
+                },
+                "postgame": {
+                    "opp": 1552.8791826533866,
+                    "elo": 1497.159811571346
+                }
+            }
         }
     ],
     "pct": 0.55,

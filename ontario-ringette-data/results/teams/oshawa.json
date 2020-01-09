@@ -16,7 +16,18 @@
             "visitorScore": "3",
             "home": "Oshawa",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1486.260745340706,
+                    "elo": 1487.3825026149052,
+                    "probability": 0.4890117307349868
+                },
+                "postgame": {
+                    "opp": 1502.312403992754,
+                    "elo": 1471.3308439628572
+                }
+            }
         },
         {
             "id": "oshawa_ringette_u14a_4",
@@ -27,7 +38,18 @@
             "visitorScore": "1",
             "home": "West Ottawa - G",
             "homeScore": "8",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1542.8213222935021,
+                    "elo": 1471.3308439628572,
+                    "probability": 0.4094379152606056
+                },
+                "postgame": {
+                    "opp": 1555.5747548537126,
+                    "elo": 1458.5774114026467
+                }
+            }
         },
         {
             "id": "oshawa_ringette_u14a_10",
@@ -38,7 +60,18 @@
             "visitorScore": "8",
             "home": "Oshawa",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1574.5746511327327,
+                    "elo": 1500,
+                    "probability": 0.40509738711726295
+                },
+                "postgame": {
+                    "opp": 1587.1921485178275,
+                    "elo": 1487.3825026149052
+                }
+            }
         },
         {
             "id": "oshawa_ringette_u14a_7",
@@ -49,7 +82,18 @@
             "visitorScore": "2",
             "home": "Barrie",
             "homeScore": "8",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1457.9299489035031,
+                    "elo": 1458.5774114026467,
+                    "probability": 0.4883208014023641
+                },
+                "postgame": {
+                    "opp": 1473.9597656189633,
+                    "elo": 1442.5475946871866
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_1",
@@ -60,7 +104,18 @@
             "visitorScore": "5",
             "home": "Oshawa",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1454.149062956932,
+                    "elo": 1442.5475946871866,
+                    "probability": 0.49571596483441627
+                },
+                "postgame": {
+                    "opp": 1469.6149940810017,
+                    "elo": 1427.081663563117
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_10",
@@ -71,7 +126,18 @@
             "visitorScore": "3",
             "home": "London",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1470.8105234942666,
+                    "elo": 1427.081663563117,
+                    "probability": 0.4490674587311829
+                },
+                "postgame": {
+                    "opp": 1468.8073017232493,
+                    "elo": 1429.0848853341342
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_14",
@@ -82,7 +148,18 @@
             "visitorScore": "8",
             "home": "Oshawa",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1511.1917110872957,
+                    "elo": 1429.0848853341342,
+                    "probability": 0.3945603469305361
+                },
+                "postgame": {
+                    "opp": 1523.4794047427952,
+                    "elo": 1416.7971916786348
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_19",
@@ -93,7 +170,18 @@
             "visitorScore": "5",
             "home": "Gloucester Cumberland - D",
             "homeScore": "6",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1452.1576989974078,
+                    "elo": 1416.7971916786348,
+                    "probability": 0.4611654342138297
+                },
+                "postgame": {
+                    "opp": 1466.5348867818036,
+                    "elo": 1402.420003894239
+                }
+            }
         }
     ],
     "pct": 0.0625,

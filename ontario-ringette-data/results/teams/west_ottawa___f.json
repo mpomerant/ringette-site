@@ -16,7 +16,18 @@
             "visitorScore": "5",
             "home": "West Ottawa  - F",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1500,
+                    "probability": 0.512622317608554
+                },
+                "postgame": {
+                    "opp": 1516,
+                    "elo": 1484
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_6",
@@ -27,7 +38,18 @@
             "visitorScore": "4",
             "home": "Upper Ottawa Valley",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1452.7182836056184,
+                    "elo": 1499.680849674771,
+                    "probability": 0.5555921500366328
+                },
+                "postgame": {
+                    "opp": 1438.8679138699495,
+                    "elo": 1513.53121941044
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_12",
@@ -38,7 +60,18 @@
             "visitorScore": "5",
             "home": "Gloucester Cumberland - D",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1484,
+                    "probability": 0.48930663080347925
+                },
+                "postgame": {
+                    "opp": 1483.263693206478,
+                    "elo": 1500.736306793522
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_16",
@@ -49,7 +82,18 @@
             "visitorScore": "0",
             "home": "West Ottawa  - F",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1444.3239003536562,
+                    "elo": 1500.736306793522,
+                    "probability": 0.56915007637543
+                },
+                "postgame": {
+                    "opp": 1430.8991962070102,
+                    "elo": 1514.1610109401681
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_22",
@@ -60,7 +104,18 @@
             "visitorScore": "1",
             "home": "Timmins",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1547.263693206478,
+                    "elo": 1514.1610109401681,
+                    "probability": 0.4644379882423384
+                },
+                "postgame": {
+                    "opp": 1561.743854471875,
+                    "elo": 1499.680849674771
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_4",
@@ -71,7 +126,18 @@
             "visitorScore": "2",
             "home": "Richmond Hill",
             "homeScore": "6",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1552.8791826533866,
+                    "elo": 1541.2595538084665,
+                    "probability": 0.4956894977512696
+                },
+                "postgame": {
+                    "opp": 1568.3442783853363,
+                    "elo": 1525.7944580765168
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_9",
@@ -82,7 +148,18 @@
             "visitorScore": "4",
             "home": "West Ottawa - F",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1590.2073169450728,
+                    "elo": 1525.7944580765168,
+                    "probability": 0.41945112833062925
+                },
+                "postgame": {
+                    "opp": 1603.2745198246128,
+                    "elo": 1512.7272551969768
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_18",
@@ -93,7 +170,18 @@
             "visitorScore": "9",
             "home": "Sudbury",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1423.9889956531401,
+                    "elo": 1513.53121941044,
+                    "probability": 0.6157460984084127
+                },
+                "postgame": {
+                    "opp": 1412.0236319624355,
+                    "elo": 1525.4965831011446
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_24",
@@ -104,7 +192,18 @@
             "visitorScore": "1",
             "home": "West Ottawa - F",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1520.3491808289536,
+                    "elo": 1525.4965831011446,
+                    "probability": 0.4948775180403545
+                },
+                "postgame": {
+                    "opp": 1504.5862101216317,
+                    "elo": 1541.2595538084665
+                }
+            }
         }
     ],
     "pct": 0.5555555555555556,

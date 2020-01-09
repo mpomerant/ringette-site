@@ -16,7 +16,18 @@
             "visitorScore": "1",
             "home": "Nepean",
             "homeScore": "8",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1501.4695015289756,
+                    "elo": 1499.3315091622376,
+                    "probability": 0.5095077299173583
+                },
+                "postgame": {
+                    "opp": 1517.371044584685,
+                    "elo": 1483.4299661065281
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_8",
@@ -27,7 +38,18 @@
             "visitorScore": "3",
             "home": "Metcalfe",
             "homeScore": "10",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1498.5610827952025,
+                    "elo": 1483.4299661065281,
+                    "probability": 0.49057251485273623
+                },
+                "postgame": {
+                    "opp": 1513.864709330154,
+                    "elo": 1468.1263395715766
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_12",
@@ -38,7 +60,18 @@
             "visitorScore": "5",
             "home": "Gloucester Cumberland - D",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1484,
+                    "elo": 1500,
+                    "probability": 0.5106933691965208
+                },
+                "postgame": {
+                    "opp": 1500.736306793522,
+                    "elo": 1483.263693206478
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_15",
@@ -49,7 +82,18 @@
             "visitorScore": "2",
             "home": "Gloucester Cumberland - D",
             "homeScore": "9",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1484.736306793522,
+                    "elo": 1483.263693206478,
+                    "probability": 0.510477131855678
+                },
+                "postgame": {
+                    "opp": 1468.6684908377624,
+                    "elo": 1499.3315091622376
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_3",
@@ -60,7 +104,18 @@
             "visitorScore": "3",
             "home": "Markham - A",
             "homeScore": "9",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1579.2221305064834,
+                    "elo": 1466.5348867818036,
+                    "probability": 0.3528656278812563
+                },
+                "postgame": {
+                    "opp": 1590.2073169450728,
+                    "elo": 1455.5497003432142
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_8",
@@ -71,7 +126,18 @@
             "visitorScore": "5",
             "home": "Gloucester Cumberland - D",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1483.8076843209137,
+                    "elo": 1455.5497003432142,
+                    "probability": 0.47147001201347527
+                },
+                "postgame": {
+                    "opp": 1498.5092179498342,
+                    "elo": 1440.8481667142937
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_13",
@@ -82,7 +148,18 @@
             "visitorScore": "2",
             "home": "London",
             "homeScore": "7",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1468.8073017232493,
+                    "elo": 1468.1263395715766,
+                    "probability": 0.5116303993829641
+                },
+                "postgame": {
+                    "opp": 1484.7759422974182,
+                    "elo": 1452.1576989974078
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_19",
@@ -93,7 +170,18 @@
             "visitorScore": "5",
             "home": "Gloucester Cumberland - D",
             "homeScore": "6",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1416.7971916786348,
+                    "elo": 1452.1576989974078,
+                    "probability": 0.5388345657861703
+                },
+                "postgame": {
+                    "opp": 1402.420003894239,
+                    "elo": 1466.5348867818036
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_5",
@@ -104,7 +192,18 @@
             "visitorScore": "5",
             "home": "Ajax",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1407.8132055938765,
+                    "elo": 1417.9206285896291,
+                    "probability": 0.5021065565521575
+                },
+                "postgame": {
+                    "opp": 1392.27853835888,
+                    "elo": 1433.4552958246256
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_8",
@@ -115,7 +214,18 @@
             "visitorScore": "4",
             "home": "Gloucester Cumberland - D",
             "homeScore": "6",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1438.891537378577,
+                    "elo": 1433.4552958246256,
+                    "probability": 0.5047015393610353
+                },
+                "postgame": {
+                    "opp": 1422.6412096314698,
+                    "elo": 1449.7056235717328
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_11",
@@ -126,7 +236,18 @@
             "visitorScore": "1",
             "home": "Forest",
             "homeScore": "8",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1604.4526837702294,
+                    "elo": 1440.8481667142937,
+                    "probability": 0.2883698771133387
+                },
+                "postgame": {
+                    "opp": 1613.4299722185226,
+                    "elo": 1431.8708782660005
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_17",
@@ -137,7 +258,18 @@
             "visitorScore": "8",
             "home": "Gloucester Cumberland - D",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1476.6265655891198,
+                    "elo": 1431.8708782660005,
+                    "probability": 0.4475868431449552
+                },
+                "postgame": {
+                    "opp": 1490.5768152654912,
+                    "elo": 1417.9206285896291
+                }
+            }
         }
     ],
     "pct": 0.3333333333333333,

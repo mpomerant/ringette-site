@@ -9,13 +9,18 @@ export default ({ data }) => {
   }, {});
   const team = data.teamsJson
   const results = team.results.map(result => {
+    const isHome = team.name === result.home;
+    const winProbability = (result.elo.pregame.probability * 100).toFixed(1) 
+    const isFavorite = winProbability > 0.5;
+
     return (
       <tr>
-        <td><Link to={allTeams[result.home]}>{result.home}</Link></td>
+        <td><Link to={allTeams[result.home]}>{result.home}</Link> </td>
         <td>{result.homeScore}</td>
         <td>{result.visitorScore}</td>
         <td><Link to={allTeams[result.visitor]}>{result.visitor}</Link></td>
-      </tr>
+        <td>{winProbability}</td>
+    </tr>
     )
   })
   return (
@@ -37,6 +42,7 @@ export default ({ data }) => {
 
             </th>
             <th>Visitor</th>
+            <th>Win Probability</th>
           </tr>
           {results}
         </table>
@@ -68,6 +74,11 @@ export const query = graphql`
           visitor
           homeScore
           visitorScore
+          elo {
+            pregame {
+              probability
+            }
+          }
         }
     }
   }

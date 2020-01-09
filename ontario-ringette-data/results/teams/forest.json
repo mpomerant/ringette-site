@@ -16,7 +16,18 @@
             "visitorScore": "6",
             "home": "Forest",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1500,
+                    "probability": 0.512622317608554
+                },
+                "postgame": {
+                    "opp": 1516,
+                    "elo": 1484
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_5",
@@ -27,7 +38,18 @@
             "visitorScore": "7",
             "home": "Whitby",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1515.9324731442293,
+                    "elo": 1549.3065773234048,
+                    "probability": 0.5359555857861915
+                },
+                "postgame": {
+                    "opp": 1501.464697614687,
+                    "elo": 1563.774352852947
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_12",
@@ -38,7 +60,18 @@
             "visitorScore": "0",
             "home": "Forest",
             "homeScore": "7",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1484,
+                    "probability": 0.48930663080347925
+                },
+                "postgame": {
+                    "opp": 1483.263693206478,
+                    "elo": 1500.736306793522
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_15",
@@ -49,7 +82,18 @@
             "visitorScore": "7",
             "home": "Ajax",
             "homeScore": "0",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1500.736306793522,
+                    "probability": 0.48845022208948763
+                },
+                "postgame": {
+                    "opp": 1484.0339081301693,
+                    "elo": 1516.7023986633528
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_17",
@@ -60,7 +104,18 @@
             "visitorScore": "9",
             "home": "Markham - F",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1516.736306793522,
+                    "elo": 1516.7023986633528,
+                    "probability": 0.5125729278814062
+                },
+                "postgame": {
+                    "opp": 1500.7347452664258,
+                    "elo": 1532.703960190449
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_19",
@@ -71,7 +126,18 @@
             "visitorScore": "4",
             "home": "Markham - A",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1545.7958177722057,
+                    "elo": 1532.703960190449,
+                    "probability": 0.4935439763953082
+                },
+                "postgame": {
+                    "opp": 1529.1932006392499,
+                    "elo": 1549.3065773234048
+                }
+            }
         },
         {
             "id": "mississauga_ringette_u14a_1",
@@ -82,7 +148,18 @@
             "visitorScore": "1",
             "home": "Forest",
             "homeScore": "8",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1563.774352852947,
+                    "probability": 0.579642130284171
+                },
+                "postgame": {
+                    "opp": 1486.9043712377002,
+                    "elo": 1576.8699816152468
+                }
+            }
         },
         {
             "id": "mississauga_ringette_u14a_4",
@@ -93,7 +170,18 @@
             "visitorScore": "6",
             "home": "Sault Ste Marie",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1516.1193710161406,
+                    "elo": 1614.1685138948033,
+                    "probability": 0.6274111426351494
+                },
+                "postgame": {
+                    "opp": 1504.5185311839014,
+                    "elo": 1625.7693537270425
+                }
+            }
         },
         {
             "id": "mississauga_ringette_u14a_12",
@@ -104,7 +192,18 @@
             "visitorScore": "2",
             "home": "Forest",
             "homeScore": "9",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1576.8699816152468,
+                    "probability": 0.5981233956638876
+                },
+                "postgame": {
+                    "opp": 1487.4833399993217,
+                    "elo": 1589.386641615925
+                }
+            }
         },
         {
             "id": "mississauga_ringette_u14a_9",
@@ -115,7 +214,18 @@
             "visitorScore": "3",
             "home": "West Ottawa - G",
             "homeScore": "6",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1505.7642674305512,
+                    "elo": 1625.7693537270425,
+                    "probability": 0.6568143051973538
+                },
+                "postgame": {
+                    "opp": 1527.0809373873642,
+                    "elo": 1604.4526837702294
+                }
+            }
         },
         {
             "id": "mississauga_ringette_u14a_13",
@@ -126,7 +236,18 @@
             "visitorScore": "4",
             "home": "West Ottawa - G",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1485.3733974070528,
+                    "elo": 1589.386641615925,
+                    "probability": 0.6355027042871706
+                },
+                "postgame": {
+                    "opp": 1474.025234189486,
+                    "elo": 1600.734804833492
+                }
+            }
         },
         {
             "id": "mississauga_ringette_u14a_14",
@@ -137,7 +258,18 @@
             "visitorScore": "6",
             "home": "Markham - F",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1544.5231195183285,
+                    "elo": 1600.734804833492,
+                    "probability": 0.5688630977506065
+                },
+                "postgame": {
+                    "opp": 1531.0894104570173,
+                    "elo": 1614.1685138948033
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_3",
@@ -148,7 +280,18 @@
             "visitorScore": "7",
             "home": "Barrie",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1447.5187706090906,
+                    "elo": 1620.654205158841,
+                    "probability": 0.722897422990181
+                },
+                "postgame": {
+                    "opp": 1438.891537378577,
+                    "elo": 1629.2814383893547
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_6",
@@ -159,7 +302,18 @@
             "visitorScore": "3",
             "home": "Forest",
             "homeScore": "4",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1609.5906502850037,
+                    "elo": 1629.2814383893547,
+                    "probability": 0.51606878815569
+                },
+                "postgame": {
+                    "opp": 1594.4964749548944,
+                    "elo": 1644.375613719464
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_11",
@@ -170,7 +324,18 @@
             "visitorScore": "1",
             "home": "Forest",
             "homeScore": "8",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1440.8481667142937,
+                    "elo": 1604.4526837702294,
+                    "probability": 0.7116301228866613
+                },
+                "postgame": {
+                    "opp": 1431.8708782660005,
+                    "elo": 1613.4299722185226
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_18",
@@ -181,7 +346,18 @@
             "visitorScore": "7",
             "home": "Upper Ottawa Valley",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1456.5429574656252,
+                    "elo": 1613.4299722185226,
+                    "probability": 0.7035272487396675
+                },
+                "postgame": {
+                    "opp": 1447.313807450544,
+                    "elo": 1622.659122233604
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_22",
@@ -192,7 +368,18 @@
             "visitorScore": "3",
             "home": "Forest",
             "homeScore": "4",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1625.732165465359,
+                    "elo": 1622.659122233604,
+                    "probability": 0.5081453188268217
+                },
+                "postgame": {
+                    "opp": 1609.5906502850037,
+                    "elo": 1638.8006374139593
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_23",
@@ -203,7 +390,18 @@
             "visitorScore": "6",
             "home": "Forest",
             "homeScore": "5",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1591.9087898336102,
+                    "elo": 1638.8006374139593,
+                    "probability": 0.5554903496805825
+                },
+                "postgame": {
+                    "opp": 1610.0552220887284,
+                    "elo": 1620.654205158841
+                }
+            }
         }
     ],
     "pct": 0.8333333333333334,

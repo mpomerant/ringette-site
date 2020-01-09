@@ -16,7 +16,18 @@
             "visitorScore": "0",
             "home": "Metcalfe",
             "homeScore": "4",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1500,
+                    "probability": 0.48737768239144597
+                },
+                "postgame": {
+                    "opp": 1516,
+                    "elo": 1484
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_2",
@@ -27,7 +38,18 @@
             "visitorScore": "1",
             "home": "Nepean",
             "homeScore": "8",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1499.3315091622376,
+                    "elo": 1501.4695015289756,
+                    "probability": 0.49049227008264173
+                },
+                "postgame": {
+                    "opp": 1483.4299661065281,
+                    "elo": 1517.371044584685
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_5",
@@ -38,7 +60,18 @@
             "visitorScore": "8",
             "home": "Nepean",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1543.6810298332655,
+                    "elo": 1517.371044584685,
+                    "probability": 0.4743008629498193
+                },
+                "postgame": {
+                    "opp": 1558.4717209317248,
+                    "elo": 1502.5803534862257
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_18",
@@ -49,7 +82,18 @@
             "visitorScore": "3",
             "home": "Kitchener",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1516,
+                    "elo": 1484,
+                    "probability": 0.4660373777626652
+                },
+                "postgame": {
+                    "opp": 1498.5304984710244,
+                    "elo": 1501.4695015289756
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_2",
@@ -60,7 +104,18 @@
             "visitorScore": "8",
             "home": "Waterloo",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1484.209943378664,
+                    "elo": 1489.043643249784,
+                    "probability": 0.49442034919079303
+                },
+                "postgame": {
+                    "opp": 1468.4325291231225,
+                    "elo": 1504.8210575053258
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_7",
@@ -71,7 +126,18 @@
             "visitorScore": "6",
             "home": "Ajax",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1439.482137340381,
+                    "elo": 1487.8989687135831,
+                    "probability": 0.5576845406922197
+                },
+                "postgame": {
+                    "opp": 1425.6974927894983,
+                    "elo": 1501.683613264466
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_16",
@@ -82,7 +148,18 @@
             "visitorScore": "5",
             "home": "Nepean",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1556.4987346734886,
+                    "elo": 1502.5803534862257,
+                    "probability": 0.4344189638572401
+                },
+                "postgame": {
+                    "opp": 1570.0354449099302,
+                    "elo": 1489.043643249784
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_21",
@@ -93,7 +170,18 @@
             "visitorScore": "3",
             "home": "Nepean",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1484.7759422974182,
+                    "elo": 1504.8210575053258,
+                    "probability": 0.5165846692186471
+                },
+                "postgame": {
+                    "opp": 1501.6980310891608,
+                    "elo": 1487.8989687135831
+                }
+            }
         }
     ],
     "pct": 0.5,

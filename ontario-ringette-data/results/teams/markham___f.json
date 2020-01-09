@@ -16,7 +16,18 @@
             "visitorScore": "1",
             "home": "Markham - F",
             "homeScore": "4",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1468.766810297684,
+                    "elo": 1500.7347452664258,
+                    "probability": 0.5339161027858191
+                },
+                "postgame": {
+                    "opp": 1454.2348476209606,
+                    "elo": 1515.2667079431492
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_7",
@@ -27,7 +38,18 @@
             "visitorScore": "6",
             "home": "London",
             "homeScore": "4",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1485.4403324764987,
+                    "elo": 1515.2667079431492,
+                    "probability": 0.5308078658541338
+                },
+                "postgame": {
+                    "opp": 1470.8105234942666,
+                    "elo": 1529.8965169253813
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_11",
@@ -38,7 +60,18 @@
             "visitorScore": "1",
             "home": "Ajax",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1500,
+                    "probability": 0.48737768239144597
+                },
+                "postgame": {
+                    "opp": 1500,
+                    "elo": 1500
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_13",
@@ -49,7 +82,18 @@
             "visitorScore": "1",
             "home": "Markham - F",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1516,
+                    "elo": 1500,
+                    "probability": 0.48930663080347925
+                },
+                "postgame": {
+                    "opp": 1499.263693206478,
+                    "elo": 1516.736306793522
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_17",
@@ -60,7 +104,18 @@
             "visitorScore": "9",
             "home": "Markham - F",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1516.7023986633528,
+                    "elo": 1516.736306793522,
+                    "probability": 0.4874270721185938
+                },
+                "postgame": {
+                    "opp": 1532.703960190449,
+                    "elo": 1500.7347452664258
+                }
+            }
         },
         {
             "id": "mississauga_ringette_u14a_3",
@@ -71,7 +126,18 @@
             "visitorScore": "3",
             "home": "Sault Ste Marie",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1515.3972094441908,
+                    "elo": 1531.0894104570173,
+                    "probability": 0.5102449488824464
+                },
+                "postgame": {
+                    "opp": 1516.1193710161406,
+                    "elo": 1530.3672488850675
+                }
+            }
         },
         {
             "id": "mississauga_ringette_u14a_5",
@@ -82,7 +148,18 @@
             "visitorScore": "0",
             "home": "Markham - F",
             "homeScore": "7",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1470.8638811127405,
+                    "elo": 1530.3672488850675,
+                    "probability": 0.5735633653807741
+                },
+                "postgame": {
+                    "opp": 1457.577631401177,
+                    "elo": 1543.653498596631
+                }
+            }
         },
         {
             "id": "mississauga_ringette_u14a_11",
@@ -93,7 +170,18 @@
             "visitorScore": "5",
             "home": "West Ottawa - G",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1529.8965169253813,
+                    "probability": 0.5309097076253064
+                },
+                "postgame": {
+                    "opp": 1485.3733974070528,
+                    "elo": 1544.5231195183285
+                }
+            }
         },
         {
             "id": "mississauga_ringette_u14a_7",
@@ -104,7 +192,18 @@
             "visitorScore": "1",
             "home": "Markham - F",
             "homeScore": "8",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1456.3875874390253,
+                    "elo": 1543.653498596631,
+                    "probability": 0.6126013808819353
+                },
+                "postgame": {
+                    "opp": 1444.3239003536562,
+                    "elo": 1555.717185682
+                }
+            }
         },
         {
             "id": "mississauga_ringette_u14a_14",
@@ -115,7 +214,18 @@
             "visitorScore": "6",
             "home": "Markham - F",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1600.734804833492,
+                    "elo": 1544.5231195183285,
+                    "probability": 0.4311369022493935
+                },
+                "postgame": {
+                    "opp": 1614.1685138948033,
+                    "elo": 1531.0894104570173
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_2",
@@ -126,7 +236,18 @@
             "visitorScore": "4",
             "home": "Markham - F",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1613.019533565136,
+                    "elo": 1540.6045347286242,
+                    "probability": 0.40813527129548777
+                },
+                "postgame": {
+                    "opp": 1625.732165465359,
+                    "elo": 1527.8919028284013
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_9",
@@ -137,7 +258,18 @@
             "visitorScore": "10",
             "home": "Upper Ottawa Valley",
             "homeScore": "5",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1433.2959086942446,
+                    "elo": 1530.1375344866233,
+                    "probability": 0.6257639975659315
+                },
+                "postgame": {
+                    "opp": 1421.6436154504681,
+                    "elo": 1541.7898277303998
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_14",
@@ -148,7 +280,18 @@
             "visitorScore": "4",
             "home": "Markham - F",
             "homeScore": "0",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1575.0055169207783,
+                    "elo": 1555.717185682,
+                    "probability": 0.4845172087159344
+                },
+                "postgame": {
+                    "opp": 1590.118167874154,
+                    "elo": 1540.6045347286242
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_20",
@@ -159,7 +302,18 @@
             "visitorScore": "2",
             "home": "West Ottawa - G",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1576.9792038453713,
+                    "elo": 1527.8919028284013,
+                    "probability": 0.44135147507098416
+                },
+                "postgame": {
+                    "opp": 1574.7335721871493,
+                    "elo": 1530.1375344866233
+                }
+            }
         }
     ],
     "pct": 0.6071428571428571,

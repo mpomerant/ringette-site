@@ -16,7 +16,18 @@
             "visitorScore": "2",
             "home": "Richmond Hill",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1499.263693206478,
+                    "elo": 1499.964758343066,
+                    "probability": 0.4883988849041818
+                },
+                "postgame": {
+                    "opp": 1483.2959784053146,
+                    "elo": 1515.9324731442293
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_5",
@@ -27,7 +38,18 @@
             "visitorScore": "7",
             "home": "Whitby",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1549.3065773234048,
+                    "elo": 1515.9324731442293,
+                    "probability": 0.4640444142138085
+                },
+                "postgame": {
+                    "opp": 1563.774352852947,
+                    "elo": 1501.464697614687
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_16",
@@ -38,7 +60,18 @@
             "visitorScore": "0",
             "home": "Whitby",
             "homeScore": "5",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1484,
+                    "elo": 1500,
+                    "probability": 0.5106933691965208
+                },
+                "postgame": {
+                    "opp": 1468.736306793522,
+                    "elo": 1515.263693206478
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_9",
@@ -49,7 +82,18 @@
             "visitorScore": "1",
             "home": "Markham - A",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1542.3740201295104,
+                    "elo": 1501.464697614687,
+                    "probability": 0.4531376085408463
+                },
+                "postgame": {
+                    "opp": 1556.4987346734886,
+                    "elo": 1487.339983070709
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_18",
@@ -60,7 +104,18 @@
             "visitorScore": "1",
             "home": "Markham - A",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1530.4968829087939,
+                    "elo": 1515.263693206478,
+                    "probability": 0.49042379716378504
+                },
+                "postgame": {
+                    "opp": 1545.7958177722057,
+                    "elo": 1499.964758343066
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_12",
@@ -71,7 +126,18 @@
             "visitorScore": "5",
             "home": "Whitby",
             "homeScore": "6",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1513.864709330154,
+                    "elo": 1487.339983070709,
+                    "probability": 0.4739887148486217
+                },
+                "postgame": {
+                    "opp": 1496.6455681932453,
+                    "elo": 1504.5591242076177
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_5",
@@ -82,7 +148,18 @@
             "visitorScore": "2",
             "home": "Whitby",
             "homeScore": "7",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1402.8369463658823,
+                    "elo": 1489.429890375769,
+                    "probability": 0.6116698659819929
+                },
+                "postgame": {
+                    "opp": 1390.744129920176,
+                    "elo": 1501.5227068214754
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_17",
@@ -93,7 +170,18 @@
             "visitorScore": "4",
             "home": "Waterloo",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1504.5591242076177,
+                    "probability": 0.49402020865681606
+                },
+                "postgame": {
+                    "opp": 1484.209943378664,
+                    "elo": 1520.3491808289536
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_24",
@@ -104,7 +192,18 @@
             "visitorScore": "1",
             "home": "West Ottawa - F",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1525.4965831011446,
+                    "elo": 1520.3491808289536,
+                    "probability": 0.5051224819596455
+                },
+                "postgame": {
+                    "opp": 1541.2595538084665,
+                    "elo": 1504.5862101216317
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_25",
@@ -115,7 +214,18 @@
             "visitorScore": "2",
             "home": "Richmond Hill",
             "homeScore": "5",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1522.923502020132,
+                    "elo": 1504.5862101216317,
+                    "probability": 0.4859021347715867
+                },
+                "postgame": {
+                    "opp": 1538.0798217659947,
+                    "elo": 1489.429890375769
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_10",
@@ -126,7 +236,18 @@
             "visitorScore": "7",
             "home": "Whitby",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1553.5334609429485,
+                    "elo": 1501.5227068214754,
+                    "probability": 0.43715346454422166
+                },
+                "postgame": {
+                    "opp": 1567.1560101128018,
+                    "elo": 1487.900157651622
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_4",
@@ -137,7 +258,18 @@
             "visitorScore": "3",
             "home": "Whitby",
             "homeScore": "6",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1447.313807450544,
+                    "elo": 1490.5768152654912,
+                    "probability": 0.5502605146890347
+                },
+                "postgame": {
+                    "opp": 1433.2959086942446,
+                    "elo": 1504.5947140217904
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_13",
@@ -148,7 +280,18 @@
             "visitorScore": "3",
             "home": "Gloucester Cumberland - B",
             "homeScore": "4",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1593.6848480395815,
+                    "elo": 1487.900157651622,
+                    "probability": 0.3621084008031602
+                },
+                "postgame": {
+                    "opp": 1604.9584401020838,
+                    "elo": 1476.6265655891198
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_17",
@@ -159,7 +302,18 @@
             "visitorScore": "8",
             "home": "Gloucester Cumberland - D",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1431.8708782660005,
+                    "elo": 1476.6265655891198,
+                    "probability": 0.5524131568550448
+                },
+                "postgame": {
+                    "opp": 1417.9206285896291,
+                    "elo": 1490.5768152654912
+                }
+            }
         }
     ],
     "pct": 0.5,

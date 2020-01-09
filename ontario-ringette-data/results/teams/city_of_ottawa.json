@@ -16,7 +16,18 @@
             "visitorScore": "3",
             "home": "City of Ottawa",
             "homeScore": "7",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1453.4079140295644,
+                    "elo": 1449.3257142986204,
+                    "probability": 0.506674797340801
+                },
+                "postgame": {
+                    "opp": 1437.2199304349908,
+                    "elo": 1465.513697893194
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_9",
@@ -27,7 +38,18 @@
             "visitorScore": "2",
             "home": "Kitchener",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1484.7761173743934,
+                    "elo": 1465.513697893194,
+                    "probability": 0.4845549389778283
+                },
+                "postgame": {
+                    "opp": 1499.8899579430065,
+                    "elo": 1450.3998573245808
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_16",
@@ -38,7 +60,18 @@
             "visitorScore": "0",
             "home": "West Ottawa  - F",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500.736306793522,
+                    "elo": 1444.3239003536562,
+                    "probability": 0.43084992362457
+                },
+                "postgame": {
+                    "opp": 1514.1610109401681,
+                    "elo": 1430.8991962070102
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_20",
@@ -49,7 +82,18 @@
             "visitorScore": "1",
             "home": "City of Ottawa",
             "homeScore": "4",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1484,
+                    "elo": 1430.8991962070102,
+                    "probability": 0.43559044688035686
+                },
+                "postgame": {
+                    "opp": 1465.5734819083898,
+                    "elo": 1449.3257142986204
+                }
+            }
         },
         {
             "id": "mississauga_ringette_u14a_1",
@@ -60,7 +104,18 @@
             "visitorScore": "1",
             "home": "Forest",
             "homeScore": "8",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1563.774352852947,
+                    "elo": 1500,
+                    "probability": 0.420357869715829
+                },
+                "postgame": {
+                    "opp": 1576.8699816152468,
+                    "elo": 1486.9043712377002
+                }
+            }
         },
         {
             "id": "mississauga_ringette_u14a_6",
@@ -71,7 +126,18 @@
             "visitorScore": "7",
             "home": "City of Ottawa",
             "homeScore": "0",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1490.6446930760671,
+                    "elo": 1471.5071617935093,
+                    "probability": 0.4847367918765858
+                },
+                "postgame": {
+                    "opp": 1505.7642674305512,
+                    "elo": 1456.3875874390253
+                }
+            }
         },
         {
             "id": "mississauga_ringette_u14a_10",
@@ -82,7 +148,18 @@
             "visitorScore": "4",
             "home": "City of Ottawa",
             "homeScore": "0",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1486.9043712377002,
+                    "probability": 0.49353848081682816
+                },
+                "postgame": {
+                    "opp": 1515.3972094441908,
+                    "elo": 1471.5071617935093
+                }
+            }
         },
         {
             "id": "mississauga_ringette_u14a_7",
@@ -93,7 +170,18 @@
             "visitorScore": "1",
             "home": "Markham - F",
             "homeScore": "8",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1543.653498596631,
+                    "elo": 1456.3875874390253,
+                    "probability": 0.3873986191180647
+                },
+                "postgame": {
+                    "opp": 1555.717185682,
+                    "elo": 1444.3239003536562
+                }
+            }
         }
     ],
     "pct": 0.25,

@@ -16,7 +16,18 @@
             "visitorScore": "2",
             "home": "Gloucester Cumberland - B",
             "homeScore": "9",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1561.3718980510075,
+                    "probability": 0.576225637388869
+                },
+                "postgame": {
+                    "opp": 1486.7972469182748,
+                    "elo": 1574.5746511327327
+                }
+            }
         },
         {
             "id": "oshawa_ringette_u14a_6",
@@ -27,7 +38,18 @@
             "visitorScore": "2",
             "home": "Sault Ste Marie",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1502.312403992754,
+                    "elo": 1601.0879593153882,
+                    "probability": 0.6284006043534052
+                },
+                "postgame": {
+                    "opp": 1522.7424699965138,
+                    "elo": 1580.6578933116284
+                }
+            }
         },
         {
             "id": "oshawa_ringette_u14a_10",
@@ -38,7 +60,18 @@
             "visitorScore": "8",
             "home": "Oshawa",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1574.5746511327327,
+                    "probability": 0.594902612882737
+                },
+                "postgame": {
+                    "opp": 1487.3825026149052,
+                    "elo": 1587.1921485178275
+                }
+            }
         },
         {
             "id": "oshawa_ringette_u14a_8",
@@ -49,7 +82,18 @@
             "visitorScore": "2",
             "home": "Gloucester Cumberland - B",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1515.3402376573408,
+                    "elo": 1580.6578933116284,
+                    "probability": 0.5818328398474542
+                },
+                "postgame": {
+                    "opp": 1502.3132829293877,
+                    "elo": 1593.6848480395815
+                }
+            }
         },
         {
             "id": "oshawa_ringette_u14a_13",
@@ -60,7 +104,18 @@
             "visitorScore": "2",
             "home": "West Ottawa - G",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1541.2340735344071,
+                    "elo": 1587.1921485178275,
+                    "probability": 0.5541457359798821
+                },
+                "postgame": {
+                    "opp": 1527.3382627368464,
+                    "elo": 1601.0879593153882
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_3",
@@ -71,7 +126,18 @@
             "visitorScore": "1",
             "home": "Gloucester Cumberland - B",
             "homeScore": "7",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1465.5734819083898,
+                    "elo": 1534.762318651605,
+                    "probability": 0.5873135955473976
+                },
+                "postgame": {
+                    "opp": 1452.7182836056184,
+                    "elo": 1547.6175169543765
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_7",
@@ -82,7 +148,18 @@
             "visitorScore": "1",
             "home": "Gloucester Cumberland - B",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1498.5304984710244,
+                    "elo": 1547.6175169543765,
+                    "probability": 0.5586481188019192
+                },
+                "postgame": {
+                    "opp": 1484.7761173743934,
+                    "elo": 1561.3718980510075
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_13",
@@ -93,7 +170,18 @@
             "visitorScore": "1",
             "home": "Timmins",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1516,
+                    "elo": 1500,
+                    "probability": 0.48930663080347925
+                },
+                "postgame": {
+                    "opp": 1531.263693206478,
+                    "elo": 1484.736306793522
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_19",
@@ -104,7 +192,18 @@
             "visitorScore": "8",
             "home": "Sudbury",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1468.6684908377624,
+                    "elo": 1484.736306793522,
+                    "probability": 0.5107921653235772
+                },
+                "postgame": {
+                    "opp": 1453.4079140295644,
+                    "elo": 1499.9968836017201
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_21",
@@ -115,7 +214,18 @@
             "visitorScore": "5",
             "home": "Metcalfe",
             "homeScore": "4",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1515.263693206478,
+                    "elo": 1499.9968836017201,
+                    "probability": 0.49037481422235984
+                },
+                "postgame": {
+                    "opp": 1498.5610827952025,
+                    "elo": 1516.6994940129955
+                }
+            }
         },
         {
             "id": "nepean_ringette_u14a_23",
@@ -126,7 +236,18 @@
             "visitorScore": "3",
             "home": "Timmins",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1561.743854471875,
+                    "elo": 1516.6994940129955,
+                    "probability": 0.4471707621871832
+                },
+                "postgame": {
+                    "opp": 1543.6810298332655,
+                    "elo": 1534.762318651605
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_2",
@@ -137,7 +258,18 @@
             "visitorScore": "4",
             "home": "Markham - F",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1540.6045347286242,
+                    "elo": 1613.019533565136,
+                    "probability": 0.5918647287045122
+                },
+                "postgame": {
+                    "opp": 1527.8919028284013,
+                    "elo": 1625.732165465359
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_6",
@@ -148,7 +280,18 @@
             "visitorScore": "3",
             "home": "Forest",
             "homeScore": "4",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1629.2814383893547,
+                    "elo": 1609.5906502850037,
+                    "probability": 0.48393121184431
+                },
+                "postgame": {
+                    "opp": 1644.375613719464,
+                    "elo": 1594.4964749548944
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_13",
@@ -159,7 +302,18 @@
             "visitorScore": "3",
             "home": "Gloucester Cumberland - B",
             "homeScore": "4",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1487.900157651622,
+                    "elo": 1593.6848480395815,
+                    "probability": 0.6378915991968398
+                },
+                "postgame": {
+                    "opp": 1476.6265655891198,
+                    "elo": 1604.9584401020838
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_16",
@@ -170,7 +324,18 @@
             "visitorScore": "0",
             "home": "Gloucester Cumberland - B",
             "homeScore": "5",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1415.8742990569287,
+                    "elo": 1604.9584401020838,
+                    "probability": 0.7411320142899382
+                },
+                "postgame": {
+                    "opp": 1407.8132055938765,
+                    "elo": 1613.019533565136
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_22",
@@ -181,7 +346,18 @@
             "visitorScore": "3",
             "home": "Forest",
             "homeScore": "4",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1622.659122233604,
+                    "elo": 1625.732165465359,
+                    "probability": 0.4918546811731783
+                },
+                "postgame": {
+                    "opp": 1638.8006374139593,
+                    "elo": 1609.5906502850037
+                }
+            }
         }
     ],
     "pct": 0.75,

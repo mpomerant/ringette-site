@@ -16,7 +16,18 @@
             "visitorScore": "5",
             "home": "Guelph",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1527.3382627368464,
+                    "elo": 1516.1091353462677,
+                    "probability": 0.4962586166595033
+                },
+                "postgame": {
+                    "opp": 1542.8213222935021,
+                    "elo": 1500.626075789612
+                }
+            }
         },
         {
             "id": "oshawa_ringette_u14a_5",
@@ -27,7 +38,18 @@
             "visitorScore": "2",
             "home": "Guelph",
             "homeScore": "7",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1472.644110771232,
+                    "elo": 1500.626075789612,
+                    "probability": 0.528128981846655
+                },
+                "postgame": {
+                    "opp": 1457.9299489035031,
+                    "elo": 1515.3402376573408
+                }
+            }
         },
         {
             "id": "oshawa_ringette_u14a_11",
@@ -38,7 +60,18 @@
             "visitorScore": "3",
             "home": "Sault Ste Marie",
             "homeScore": "0",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1502.3698806869738,
+                    "elo": 1500,
+                    "probability": 0.5091698706077812
+                },
+                "postgame": {
+                    "opp": 1486.260745340706,
+                    "elo": 1516.1091353462677
+                }
+            }
         },
         {
             "id": "oshawa_ringette_u14a_8",
@@ -49,7 +82,18 @@
             "visitorScore": "2",
             "home": "Gloucester Cumberland - B",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1580.6578933116284,
+                    "elo": 1515.3402376573408,
+                    "probability": 0.41816716015254585
+                },
+                "postgame": {
+                    "opp": 1593.6848480395815,
+                    "elo": 1502.3132829293877
+                }
+            }
         },
         {
             "id": "st_marys_ringette_u14a_2",
@@ -60,7 +104,18 @@
             "visitorScore": "7",
             "home": "Mississauga",
             "homeScore": "4",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1443.6615347021138,
+                    "elo": 1485.029903479975,
+                    "probability": 0.5475254905826843
+                },
+                "postgame": {
+                    "opp": 1429.5576663792535,
+                    "elo": 1499.1337718028353
+                }
+            }
         },
         {
             "id": "st_marys_ringette_u14a_5",
@@ -71,7 +126,18 @@
             "visitorScore": "4",
             "home": "Guelph",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1458.7745744303404,
+                    "elo": 1499.1337718028353,
+                    "probability": 0.5460675086206302
+                },
+                "postgame": {
+                    "opp": 1476.6248690886,
+                    "elo": 1481.2834771445757
+                }
+            }
         },
         {
             "id": "st_marys_ringette_u14a_7",
@@ -82,7 +148,18 @@
             "visitorScore": "3",
             "home": "Guelph",
             "homeScore": "4",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1506.853624560574,
+                    "elo": 1481.2834771445757,
+                    "probability": 0.47537644547809976
+                },
+                "postgame": {
+                    "opp": 1489.6781972190813,
+                    "elo": 1498.4589044860684
+                }
+            }
         },
         {
             "id": "st_marys_ringette_u14a_9",
@@ -93,7 +170,18 @@
             "visitorScore": "7",
             "home": "Kitchener",
             "homeScore": "5",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1509.946174773177,
+                    "elo": 1498.4589044860684,
+                    "probability": 0.4958823966437327
+                },
+                "postgame": {
+                    "opp": 1493.4173591066672,
+                    "elo": 1514.9877201525783
+                }
+            }
         },
         {
             "id": "st_marys_ringette_u14a_11",
@@ -104,7 +192,18 @@
             "visitorScore": "3",
             "home": "Guelph",
             "homeScore": "0",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1474.3850539225384,
+                    "elo": 1502.3132829293877,
+                    "probability": 0.5280509088027838
+                },
+                "postgame": {
+                    "opp": 1491.668433371951,
+                    "elo": 1485.029903479975
+                }
+            }
         }
     ],
     "pct": 0.5555555555555556,

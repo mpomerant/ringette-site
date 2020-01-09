@@ -16,7 +16,18 @@
             "visitorScore": "3",
             "home": "London",
             "homeScore": "5",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1468.736306793522,
+                    "elo": 1484.0339081301693,
+                    "probability": 0.5096700480181346
+                },
+                "postgame": {
+                    "opp": 1485.4403324764987,
+                    "elo": 1467.3298824471926
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_6",
@@ -27,7 +38,18 @@
             "visitorScore": "0",
             "home": "Markham - A",
             "homeScore": "5",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1529.1932006392499,
+                    "elo": 1467.3298824471926,
+                    "probability": 0.4230749175090842
+                },
+                "postgame": {
+                    "opp": 1542.3740201295104,
+                    "elo": 1454.149062956932
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_11",
@@ -38,7 +60,18 @@
             "visitorScore": "1",
             "home": "Ajax",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1500,
+                    "probability": 0.512622317608554
+                },
+                "postgame": {
+                    "opp": 1500,
+                    "elo": 1500
+                }
+            }
         },
         {
             "id": "london_ringette_u14a_15",
@@ -49,7 +82,18 @@
             "visitorScore": "7",
             "home": "Ajax",
             "homeScore": "0",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1500.736306793522,
+                    "elo": 1500,
+                    "probability": 0.5115497779105124
+                },
+                "postgame": {
+                    "opp": 1516.7023986633528,
+                    "elo": 1484.0339081301693
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_1",
@@ -60,7 +104,18 @@
             "visitorScore": "5",
             "home": "Oshawa",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1442.5475946871866,
+                    "elo": 1454.149062956932,
+                    "probability": 0.5042840351655837
+                },
+                "postgame": {
+                    "opp": 1427.081663563117,
+                    "elo": 1469.6149940810017
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_7",
@@ -71,7 +126,18 @@
             "visitorScore": "6",
             "home": "Ajax",
             "homeScore": "3",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1487.8989687135831,
+                    "elo": 1439.482137340381,
+                    "probability": 0.44231545930778027
+                },
+                "postgame": {
+                    "opp": 1501.683613264466,
+                    "elo": 1425.6974927894983
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_15",
@@ -82,7 +148,18 @@
             "visitorScore": "1",
             "home": "Metcalfe",
             "homeScore": "4",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1496.6455681932453,
+                    "elo": 1469.6149940810017,
+                    "probability": 0.4732534938524505
+                },
+                "postgame": {
+                    "opp": 1511.4032697360747,
+                    "elo": 1454.8572925381723
+                }
+            }
         },
         {
             "id": "pickering_ringette_u14a_23",
@@ -93,7 +170,18 @@
             "visitorScore": "4",
             "home": "Ajax",
             "homeScore": "1",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1468.4325291231225,
+                    "elo": 1454.8572925381723,
+                    "probability": 0.4928395822389444
+                },
+                "postgame": {
+                    "opp": 1483.8076843209137,
+                    "elo": 1439.482137340381
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_5",
@@ -104,7 +192,18 @@
             "visitorScore": "5",
             "home": "Ajax",
             "homeScore": "2",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1417.9206285896291,
+                    "elo": 1407.8132055938765,
+                    "probability": 0.4978934434478425
+                },
+                "postgame": {
+                    "opp": 1433.4552958246256,
+                    "elo": 1392.27853835888
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_7",
@@ -115,7 +214,18 @@
             "visitorScore": "7",
             "home": "Ajax",
             "homeScore": "0",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1583.123923782977,
+                    "elo": 1392.27853835888,
+                    "probability": 0.25690288722315335
+                },
+                "postgame": {
+                    "opp": 1591.124031422305,
+                    "elo": 1384.278430719552
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_12",
@@ -126,7 +236,18 @@
             "visitorScore": "0",
             "home": "West Ottawa - G",
             "homeScore": "6",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1567.1560101128018,
+                    "elo": 1425.6974927894983,
+                    "probability": 0.3155705813596761
+                },
+                "postgame": {
+                    "opp": 1576.9792038453713,
+                    "elo": 1415.8742990569287
+                }
+            }
         },
         {
             "id": "whitby_ringette_u14a_16",
@@ -137,7 +258,18 @@
             "visitorScore": "0",
             "home": "Gloucester Cumberland - B",
             "homeScore": "5",
-            "status": "Official"
+            "status": "Official",
+            "elo": {
+                "pregame": {
+                    "opp": 1604.9584401020838,
+                    "elo": 1415.8742990569287,
+                    "probability": 0.25886798571006175
+                },
+                "postgame": {
+                    "opp": 1613.019533565136,
+                    "elo": 1407.8132055938765
+                }
+            }
         }
     ],
     "pct": 0.125,
