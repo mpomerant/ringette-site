@@ -8,7 +8,6 @@ export default ({ data }) => {
     return acc;
   }, {});
   const team = data.teamsJson
-  console.log(team);
   const results = team.results.map(result => {
     return (
       <tr>

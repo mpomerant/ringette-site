@@ -5,7 +5,7 @@ const gamesFiles = fs.readdirSync('results/games');
 const games = gamesFiles.map((file) => {
     return JSON.parse(fs.readFileSync(`results/games/${file}`));
 });
-console.log(games);
+
 
 const teams = games.reduce((acc, curr) => {
     function normalizeName(name) {

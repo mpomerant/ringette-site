@@ -6,7 +6,6 @@ import Image from "../components/image"
 import SEO from "../components/seo"
 
 const IndexPage = ({data}) => {
-  console.log(data);
   const games = data.allTeamsJson.edges;
   const items = games.map(item => {
     const team = item.node;
