@@ -16,7 +16,10 @@ const fs = require('fs');
         const optionMap = await page.evaluate(() => {
             const options = Array.from(document.querySelectorAll('select[name="ctl00$DropDownListEvents"]>option'));
             const map = options.reduce((acc, curr) => {
-                acc[curr.textContent.trim()] = curr.value;
+                const name = curr.textContent.trim();
+                if (name.indexOf('2020') > -1){
+                    acc[name] = curr.value;
+                }
                 return acc;
             }, {});
             return map;
@@ -91,6 +94,8 @@ const fs = require('fs');
                     fs.writeFileSync(`results/games/${game.id}.json`, JSON.stringify(game, null, 4));
                 })
                 
+            } else {
+                console.log('NO GAMES');
             }
             } else {
                 console.log(`No U14A Division in ${tournament}`)
@@ -114,7 +119,7 @@ const fs = require('fs');
 try {
     await Promise.all(promises);
 } catch (e) {
-    console.log(e);
+    console.log('CLOSING BROWSER');
     await browser.close();
 }
 await browser.close();
