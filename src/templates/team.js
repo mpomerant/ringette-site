@@ -71,6 +71,7 @@ export default ({ data }) => {
       opponentLink,
       opponent,
       gameResult,
+      date: result.date,
       resultClass,
       score,
       record: result.record,
@@ -161,6 +162,14 @@ export default ({ data }) => {
               textAlign: 'center'
               
             } },
+            { title: "Date", 
+            field: "date",
+            cellStyle: {
+              textAlign: 'center'
+              
+            },
+            whiteSpace: 'nowrap' 
+          },
             { title: "Record", field: "record",cellStyle: {
               textAlign: 'center',
               whiteSpace: 'nowrap'
