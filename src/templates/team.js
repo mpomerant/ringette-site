@@ -92,10 +92,12 @@ export default ({ data }) => {
         headerStyle: {
           backgroundColor: '#44bac8',
           color: '#FFF',
-          textAlign: 'center'
+          textAlign: 'center',
+          whiteSpace: 'nowrap'
         },
         cellStyle: {
-          textAlign: 'center'
+          textAlign: 'center',
+          whiteSpace: 'nowrap'
         }
       }}
           columns={[
@@ -107,21 +109,21 @@ export default ({ data }) => {
             },
             render: game => <span>{game.isHome ? 'vs' : '@'} <Link to={game.opponentLink}>{game.opponent}</Link></span> },
             { title: "Result", field: "gameResult",cellStyle: {
-              textAlign: 'center',
-              maxWidth: '30px'
-            }, headerStyle:{maxWidth: '30px'}},
+              textAlign: 'center'
+              
+            }},
             { title: "Score", field: "score",cellStyle: {
-              textAlign: 'center',
-              maxWidth: '50px'
-            }, headerStyle:{maxWidth: '50px'} },
+              textAlign: 'center'
+              
+            } },
             { title: "Record", field: "record",cellStyle: {
               textAlign: 'center',
-              maxWidth: '70px'
-            }, headerStyle:{maxWidth: '70px'}},
+              whiteSpace: 'nowrap'
+            }},
             { title: "Win Probability", field: "winProbability",cellStyle: {
-              textAlign: 'center',
-              maxWidth: '50px'
-            }, headerStyle:{maxWidth: '50px'}}
+              textAlign: 'center'
+              
+            }}
           ]}
           data={results}
           title="Game Results"

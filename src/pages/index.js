@@ -35,11 +35,12 @@ export default function Index({data}) {
         headerStyle: {
           backgroundColor: '#44bac8',
           color: '#FFF',
-          maxWidth: '50px',
-          textAlign: 'center'
+          textAlign: 'center',
+          whitSpace: 'nowrap'
         },
         cellStyle: {
-         textAlign: 'center'
+         textAlign: 'center',
+         whitSpace: 'nowrap'
         }
         
       }}
