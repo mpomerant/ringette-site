@@ -62,10 +62,9 @@ export default function Index({data}) {
             { title: "Record", field: "record",cellStyle: {
               maxWidth: '50px'
             } },
-            { title: "PTS", field: "points", type: "numeric", hidden: matches},
+            { title: "PTS", field: "points", type: "numeric"},
             { title: "%", field: "pct", type: "numeric",
-            render: team => <span>{team.pct.toFixed(3)}</span>,
-            hidden: matches},
+            render: team => <span>{team.pct.toFixed(3)}</span> },
             { title: "Ranking", field: "elo", type: "numeric",
             render: team => <span>{team.elo.toFixed(3)}</span> },
             { title: "SoS", field: "strengthOfSchedule", type: "numeric",
