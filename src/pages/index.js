@@ -5,7 +5,7 @@ import Box from '@material-ui/core/Box';
 import MuiLink from '@material-ui/core/Link';
 import {  graphql } from "gatsby"
 import Layout from "../components/layout"
-import Link from '../components/Link';
+import Link from '../components/link';
 import MaterialTable from "material-table";
 import useMediaQuery from '@material-ui/core/useMediaQuery';
 import { useTheme } from '@material-ui/core/styles';
