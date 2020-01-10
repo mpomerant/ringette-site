@@ -1,6 +1,6 @@
 .team-image {
-    max-width: 200px;
-    min-width: 200px;
+    max-width: 100px;
+    min-width: 100px;
 
 
     
@@ -8,5 +8,46 @@
 
 .team-card {
     
-    align-content: center;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   flex-wrap: wrap;
+}
+
+.team-name {
+    font-weight: bold;
+    font-size: x-large;
+    vertical-align:middle
+}
+
+.team-record {
+    font-weight: bold;
+    font-size: large;
+    vertical-align:middle
+}
+
+
+
+.team-details {
+   
+}
+
+.team-stats {
+    display: flex;
+    flex-direction: row;
+}
+
+.game-loss {
+    color: red;
+    font-weight: bold;
+}
+
+.game-win {
+    color: green;
+    font-weight: bold;
+}
+
+.game-tie {
+    color: blue;
+    font-weight: bold;
 }

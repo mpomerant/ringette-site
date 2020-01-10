@@ -1,16 +1,26 @@
 import React from "react"
 import {  graphql } from "gatsby"
+import { makeStyles } from '@material-ui/core/styles';
 import Layout from "../components/layout"
 import Link from '../components/link';
 import MaterialTable from "material-table";
-import Card from '@material-ui/core/Card';
+import {Card, CardHeader, CardContent, Typography} from '@material-ui/core';
 import useMediaQuery from '@material-ui/core/useMediaQuery';
 import { useTheme } from '@material-ui/core/styles';
 import Img from 'gatsby-image';
 import './team.css';
 
+const useStyles = makeStyles({
+  card: {
+    maxWidth: 120,
+    minWidth: 120,
+    
+    marginRight: '10px'
+  }
+});
 const {useState} = React;
 export default ({ data }) => {
+  const classes = useStyles();
   const theme = useTheme();
   const matches = useMediaQuery(theme.breakpoints.down('sm'));
   const allTeams = data.allTeamsJson.edges.reduce((acc, curr) => {
@@ -54,12 +64,14 @@ export default ({ data }) => {
     }
     
     const gameResult = calculateResult(isHome, hs, vs);
+    const resultClass = gameResult === 'W' ? 'game-win' : gameResult === 'L' ? 'game-loss' : 'game-tie';
     const score = hs > vs ? `${result.homeScore} - ${result.visitorScore}` : `${result.visitorScore} - ${result.homeScore}`
     return {
       isHome,
       opponentLink,
       opponent,
       gameResult,
+      resultClass,
       score,
       record: result.record,
       winProbability
@@ -71,18 +83,48 @@ export default ({ data }) => {
       
       <div>
         <Card>
+          
         <div class="team-card">
           <div class="team-image"><Img fluid={data.allFile.edges[0].node.childImageSharp.fluid} alt="No Image Found"></Img></div>
-          <h1>{team.name}</h1>
+          <div class="team-details">
+            <div class="team-name">{team.name}</div>
+            <div class="team-record">Record: {team.win} - {team.loss} - {team.tie}</div>
+            <div class="team-record">Opponents: {team.opponentRecord.w} -  {team.opponentRecord.l} -  {team.opponentRecord.t}</div>
+            
+          </div> 
+          <div class="team-stats">
+            <Card className={classes.card}>
+              <CardHeader titleTypographyProps={{align: 'center'}} title="For">
+              </CardHeader>
+              <CardContent>
+              <Typography align="center" gutterBottom variant="h6" component="h2">
+                {team.for}
+              </Typography>
+                
+                </CardContent>
+              
+            </Card>
+            <Card className={classes.card}>
+              <CardHeader titleTypographyProps={{align: 'center'}} title="Against">
+              </CardHeader>
+              <CardContent>
+              
+                <Typography align="center" gutterBottom variant="h6" component="h2">
+                {team.against}
+              </Typography>
+              </CardContent>
+     
+            </Card>
+          </div> 
+          
         </div>
 
         </Card>
         
        
-        <h1>{team.win} - {team.loss} - {team.tie}</h1>
-        <h2>Goals For: {team.for}</h2>
-        <h2>Goals Against: {team.against}</h2>
-        <h2>Opponent Record: {team.opponentRecord.w} -  {team.opponentRecord.l} -  {team.opponentRecord.t}</h2>
+        
+        
+        
         <MaterialTable
       options={{
         sorting: false,
@@ -108,10 +150,13 @@ export default ({ data }) => {
               maxWidth: '150px'
             },
             render: game => <span>{game.isHome ? 'vs' : '@'} <Link to={game.opponentLink}>{game.opponent}</Link></span> },
-            { title: "Result", field: "gameResult",cellStyle: {
-              textAlign: 'center'
-              
-            }},
+            { 
+              title: "Result",
+              cellStyle: {
+                textAlign: 'center',
+              },
+              render: game => <span class={game.resultClass}>{game.gameResult}</span>
+          },
             { title: "Score", field: "score",cellStyle: {
               textAlign: 'center'
               
