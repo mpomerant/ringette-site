@@ -3,8 +3,11 @@ import {  graphql } from "gatsby"
 import Layout from "../components/layout"
 import Link from '../components/link';
 import MaterialTable from "material-table";
+import Card from '@material-ui/core/Card';
 import useMediaQuery from '@material-ui/core/useMediaQuery';
 import { useTheme } from '@material-ui/core/styles';
+import Img from 'gatsby-image';
+import './team.css';
 
 const {useState} = React;
 export default ({ data }) => {
@@ -35,7 +38,8 @@ export default ({ data }) => {
     const winProbability = (result.elo.pregame.probability * 100).toFixed(1);
     const opponent = isHome ? result.visitor : result.home;
     const opponentLink = isHome ? allTeams[result.visitor] : allTeams[result.home];
- 
+    const hs = parseInt(result.homeScore);
+    const vs = parseInt(result.visitorScore);
     const calculateResult = (isHome, homeScore, visitorScore) => {
       
         if (homeScore > visitorScore) {
@@ -49,8 +53,8 @@ export default ({ data }) => {
       
     }
     
-    const gameResult = calculateResult(isHome, result.homeScore, result.visitorScore);
-    const score = result.homeScore > result.visitorScore ? `${result.homeScore} - ${result.visitorScore}` : `${result.visitorScore} - ${result.homeScore}`
+    const gameResult = calculateResult(isHome, hs, vs);
+    const score = hs > vs ? `${result.homeScore} - ${result.visitorScore}` : `${result.visitorScore} - ${result.homeScore}`
     return {
       isHome,
       opponentLink,
@@ -66,7 +70,15 @@ export default ({ data }) => {
     <Layout>
       
       <div>
-        <h1>{team.name}</h1>
+        <Card>
+        <div class="team-card">
+          <div class="team-image"><Img fluid={data.allFile.edges[0].node.childImageSharp.fluid} alt="No Image Found"></Img></div>
+          <h1>{team.name}</h1>
+        </div>
+
+        </Card>
+        
+       
         <h1>{team.win} - {team.loss} - {team.tie}</h1>
         <h2>Goals For: {team.for}</h2>
         <h2>Goals Against: {team.against}</h2>
@@ -78,21 +90,38 @@ export default ({ data }) => {
         paging: false,
         pageSize: 100,
         headerStyle: {
-          backgroundColor: '#000',
-          color: '#FFF'
+          backgroundColor: '#44bac8',
+          color: '#FFF',
+          textAlign: 'center'
+        },
+        cellStyle: {
+          textAlign: 'center'
         }
       }}
           columns={[
             { title: "Opponent",
             cellStyle: {
               backgroundColor: '#F7F7F7',
-              color: '#556cd6'
+              color: '#556cd6',
+              maxWidth: '150px'
             },
             render: game => <span>{game.isHome ? 'vs' : '@'} <Link to={game.opponentLink}>{game.opponent}</Link></span> },
-            { title: "Result", field: "gameResult" },
-            { title: "Score", field: "score" },
-            { title: "Record", field: "record"},
-            { title: "Win Probability", field: "winProbability"}
+            { title: "Result", field: "gameResult",cellStyle: {
+              textAlign: 'center',
+              maxWidth: '30px'
+            }, headerStyle:{maxWidth: '30px'}},
+            { title: "Score", field: "score",cellStyle: {
+              textAlign: 'center',
+              maxWidth: '50px'
+            }, headerStyle:{maxWidth: '50px'} },
+            { title: "Record", field: "record",cellStyle: {
+              textAlign: 'center',
+              maxWidth: '70px'
+            }, headerStyle:{maxWidth: '70px'}},
+            { title: "Win Probability", field: "winProbability",cellStyle: {
+              textAlign: 'center',
+              maxWidth: '50px'
+            }, headerStyle:{maxWidth: '50px'}}
           ]}
           data={results}
           title="Game Results"
@@ -102,7 +131,19 @@ export default ({ data }) => {
   )
 }
 export const query = graphql`
-  query($slug: String!) {
+  query($name: String!, $slug: String!) {
+    allFile(filter: {name: {eq: $name}, extension: {eq: "png"}, relativeDirectory: {eq: "team"}}) {
+      edges {
+        node {
+          name
+          childImageSharp {
+            fluid(maxHeight: 200) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
+      }
+    }
     allTeamsJson {
       edges {
           node {

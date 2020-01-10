@@ -23,7 +23,15 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
         name: `slug`,
         value: slug,
         });
-      }
+
+    
+        const name = node.name.indexOf('-') > 0 ? node.name.substring(0, node.name.lastIndexOf('-')).trim() : node.name;
+        createNodeField({
+        node,
+        name: `name`,
+        value: name,
+        });
+      } 
 
       
     
@@ -49,6 +57,7 @@ exports.createPages = async ({ graphql, actions }) => {
               node {
                 fields {
                   slug
+                  name
                 }
               }
             }
@@ -75,7 +84,7 @@ exports.createPages = async ({ graphql, actions }) => {
             // Data passed to context is available
             // in page queries as GraphQL variables.
             slug: node.fields.slug,
-            image: node.fields.image
+            name: node.fields.name
           },
         })
       })

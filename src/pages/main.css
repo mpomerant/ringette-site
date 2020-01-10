@@ -1,0 +1,13 @@
+.team-thumb {
+    max-width: 50px;
+ 
+    min-width: 50px;
+    padding-right: 5px;
+    display: inline-block;
+    vertical-align:middle
+}
+
+.team-link {
+    font-size: 1.1em;
+}
+
