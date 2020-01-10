@@ -33,7 +33,7 @@
   ],
   "license": "MIT",
   "scripts": {
-    "scrape": "cd ontario-ringette-standings && node games.js && node teams.js",
+    "scrape": "cd ontario-ringette-data && node games.js && node teams.js",
     "build": "npm run scrape && gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
