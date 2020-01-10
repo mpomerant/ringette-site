@@ -27,7 +27,7 @@ const fs = require('fs');
     }
     const tournamentAction = async function(tournament, optionMap){
 
-        
+        try {
         const page = await browser.newPage();
         page.setViewport({
             width: 1024,
@@ -97,6 +97,9 @@ const fs = require('fs');
             }
         } else {
             console.log(`${tournament} is not a provincial tournament`);
+        }
+        } catch (e) {
+          console.log(e);
         }
     }
     
