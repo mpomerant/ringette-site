@@ -2,6 +2,7 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 
 (async () => {
+    
     const browser = await puppeteer.launch({
         headless: true
     });
@@ -64,7 +65,21 @@ const fs = require('fs');
             await page.screenshot({
                 path: `screenshots/${id}_schedule_page.png`
             });
-            const resultMap = await page.evaluate((id) => {
+
+            const resultMap = await page.evaluate((id, tournament) => {
+                const corrections = {
+                    "2020 Waterloo Ringette Tournament": {
+                        "West Ottawa": "West Ottawa - F"
+                    }
+                };
+            
+                const correctName = function(tournament, name){
+                    if (corrections[tournament] && corrections[tournament][name]){
+                        return corrections[tournament][name];
+                    }
+            
+                    return name;
+                }
                 const games = Array.from(document.querySelectorAll('#MainContent_GridViewSchedule>tbody>tr')).filter((game) => {
                     return game.className !== 'mytableMobileScheduleHdr';
                 });
@@ -79,21 +94,20 @@ const fs = require('fs');
                         tournament: id,
                         type: gameData[1].textContent.trim(),
                         date: gameData[2].textContent.trim(),
-                        visitor: gameData[5].querySelector('a').textContent.trim(),
+                        visitor: correctName(tournament, gameData[5].querySelector('a').textContent.trim()),
                         visitorScore: gameData[6].textContent.trim(),
-                        home: gameData[7].querySelector('a').textContent.trim(),
+                        home: correctName(tournament, gameData[7].querySelector('a').textContent.trim()),
                         homeScore: gameData[8].textContent.trim(),
                         status: gameData[9].textContent.trim(),
                     }
                 });
-            }, id);
+            }, id, tournament);
             if (resultMap.length){
                 console.table(resultMap);
                 fs.mkdirSync('results/games', {recursive: true});
                 resultMap.forEach(game => {
                     fs.writeFileSync(`results/games/${game.id}.json`, JSON.stringify(game, null, 4));
                 })
-                
             } else {
                 console.log('NO GAMES');
             }

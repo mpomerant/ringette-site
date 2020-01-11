@@ -15,12 +15,21 @@ const useStyles = makeStyles({
     maxWidth: 120,
     minWidth: 120,
     
-    marginRight: '10px'
+    marginRight: '10px',
+    marginBottom: '20ps'
+  }
+});
+
+const useStylesTeamCard = makeStyles({
+  card: {
+    padding: '20px',
+    marginBottom: '20px'
   }
 });
 const {useState} = React;
 export default ({ data }) => {
   const classes = useStyles();
+  const teamCardClasses = useStylesTeamCard();
   const theme = useTheme();
   const matches = useMediaQuery(theme.breakpoints.down('sm'));
   const allTeams = data.allTeamsJson.edges.reduce((acc, curr) => {
@@ -83,7 +92,7 @@ export default ({ data }) => {
     <Layout>
       
       <div>
-        <Card>
+        <Card className={teamCardClasses.card}>
           
         <div class="team-card">
           <div class="team-image"><Img fluid={data.allFile.edges[0].node.childImageSharp.fluid} alt="No Image Found"></Img></div>
