@@ -4,10 +4,11 @@
     "type": "S1",
     "date": "Sun Jan 12",
     "time": "7:30A",
-    "visitor": "Not Available",
+    "visitor": "City of Ottawa",
     "visitorScore": "0",
-    "home": "Not Available",
+    "home": "Metcalfe",
     "homeScore": "0",
     "status": "",
-    "isoDate": 1578796200000
+    "isoDate": 1578796200000,
+    "tournamentName": "Waterloo"
 }

@@ -1,53 +1,12 @@
 {
     "name": "Oshawa",
     "win": 0,
-    "loss": 9,
+    "loss": 11,
     "tie": 1,
-    "for": 19,
-    "against": 60,
-    "elo": 1378.6355736400028,
-    "upcoming": [
-        {
-            "id": "waterloo_ringette_u14a_10",
-            "tournament": "waterloo_ringette",
-            "type": "RR",
-            "date": "Sat Jan 11",
-            "time": "7:00A",
-            "visitor": "Nepean",
-            "visitorScore": "0",
-            "home": "Oshawa",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1578708000000,
-            "elo": {
-                "pregame": {
-                    "opp": 1524.0701651492739,
-                    "elo": 1378.6355736400028,
-                    "probability": 0.31058545553915007
-                }
-            }
-        },
-        {
-            "id": "waterloo_ringette_u14a_15",
-            "tournament": "waterloo_ringette",
-            "type": "RR",
-            "date": "Sat Jan 11",
-            "time": "1:00P",
-            "visitor": "Oshawa",
-            "visitorScore": "0",
-            "home": "City of Ottawa",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1578729600000,
-            "elo": {
-                "pregame": {
-                    "opp": 1417.5497915683218,
-                    "elo": 1378.6355736400028,
-                    "probability": 0.4560214692319644
-                }
-            }
-        }
-    ],
+    "for": 22,
+    "against": 69,
+    "elo": 1355.8348073934822,
+    "upcoming": [],
     "results": [
         {
             "id": "oshawa_ringette_u14a_2",
@@ -61,6 +20,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1572585300000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -86,6 +46,7 @@
             "homeScore": "8",
             "status": "Official",
             "isoDate": 1572599700000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1516,
@@ -111,6 +72,7 @@
             "homeScore": "8",
             "status": "Official",
             "isoDate": 1572663600000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1468,
@@ -136,6 +98,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1572679800000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1516,
@@ -161,6 +124,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1575000000000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1458.3164796371152,
@@ -186,6 +150,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1575032400000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1454.1238125078175,
@@ -211,6 +176,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1575086400000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1529.243709168849,
@@ -236,6 +202,7 @@
             "homeScore": "6",
             "status": "Official",
             "isoDate": 1575108000000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1428.2152058838142,
@@ -261,6 +228,7 @@
             "homeScore": "5",
             "status": "Official",
             "isoDate": 1578628800000,
+            "tournamentName": "Waterloo",
             "elo": {
                 "pregame": {
                     "opp": 1515.7932334302284,
@@ -286,6 +254,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1578650400000,
+            "tournamentName": "Waterloo",
             "elo": {
                 "pregame": {
                     "opp": 1521.949094048438,
@@ -298,18 +267,70 @@
                 }
             },
             "record": "0 - 9 - 1"
+        },
+        {
+            "id": "waterloo_ringette_u14a_10",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Sat Jan 11",
+            "time": "7:00A",
+            "visitor": "Nepean",
+            "visitorScore": "5",
+            "home": "Oshawa",
+            "homeScore": "1",
+            "status": "Official",
+            "isoDate": 1578708000000,
+            "tournamentName": "Waterloo",
+            "elo": {
+                "pregame": {
+                    "opp": 1524.0701651492739,
+                    "elo": 1378.6355736400028,
+                    "probability": 0.31058545553915007
+                },
+                "postgame": {
+                    "opp": 1533.7382350392609,
+                    "elo": 1368.9675037500158
+                }
+            },
+            "record": "0 - 10 - 1"
+        },
+        {
+            "id": "waterloo_ringette_u14a_15",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Sat Jan 11",
+            "time": "1:00P",
+            "visitor": "Oshawa",
+            "visitorScore": "2",
+            "home": "City of Ottawa",
+            "homeScore": "4",
+            "status": "Official",
+            "isoDate": 1578729600000,
+            "tournamentName": "Waterloo",
+            "elo": {
+                "pregame": {
+                    "opp": 1431.9098781111977,
+                    "elo": 1368.9675037500158,
+                    "probability": 0.42154016709894604
+                },
+                "postgame": {
+                    "opp": 1445.0425744677314,
+                    "elo": 1355.8348073934822
+                }
+            },
+            "record": "0 - 11 - 1"
         }
     ],
-    "pct": 0.05,
+    "pct": 0.041666666666666664,
     "points": 1,
-    "games": 10,
+    "games": 12,
     "opponentRecord": {
-        "w": 59,
-        "l": 53,
+        "w": 74,
+        "l": 68,
         "t": 7,
-        "g": 119
+        "g": 149
     },
-    "strengthOfSchedule": 0.5233284618195104,
-    "record": "0 - 9 - 1",
+    "strengthOfSchedule": 0.5146318961728986,
+    "record": "0 - 11 - 1",
     "image": "Oshawa.png"
 }

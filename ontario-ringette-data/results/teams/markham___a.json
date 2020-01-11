@@ -8,6 +8,27 @@
     "elo": 1600.4058598885986,
     "upcoming": [
         {
+            "id": "pickering_ringette_u14a_26",
+            "tournament": "pickering_ringette",
+            "type": "S2",
+            "date": "Sun Dec 1",
+            "time": "9:30A",
+            "visitor": "Metcalfe",
+            "visitorScore": "0",
+            "home": "Markham - A",
+            "homeScore": "0",
+            "status": "Official (OT1)",
+            "isoDate": 1575174600000,
+            "tournamentName": "Pickering",
+            "elo": {
+                "pregame": {
+                    "opp": 1525.377968487844,
+                    "elo": 1600.4058598885986,
+                    "probability": 0.5955392518450537
+                }
+            }
+        },
+        {
             "id": "richmond_hill_ringette_u14a_1",
             "tournament": "richmond_hill_ringette",
             "type": "RR",
@@ -19,6 +40,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580392800000,
+            "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
                     "opp": 1569.426721929002,
@@ -39,6 +61,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580465400000,
+            "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
                     "opp": 1509.5059575542887,
@@ -59,11 +82,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580526900000,
+            "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1532.1003672509423,
+                    "opp": 1561.0948619577882,
                     "elo": 1600.4058598885986,
-                    "probability": 0.5860648238334527
+                    "probability": 0.5445523049554399
                 }
             }
         },
@@ -79,6 +103,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580543400000,
+            "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
                     "opp": 1486.6560277714414,
@@ -101,6 +126,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1573185600000,
+            "tournamentName": "London",
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -126,6 +152,7 @@
             "homeScore": "5",
             "status": "Official",
             "isoDate": 1573201800000,
+            "tournamentName": "London",
             "elo": {
                 "pregame": {
                     "opp": 1484,
@@ -151,6 +178,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1573272000000,
+            "tournamentName": "London",
             "elo": {
                 "pregame": {
                     "opp": 1498.5304984710244,
@@ -176,6 +204,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1573289100000,
+            "tournamentName": "London",
             "elo": {
                 "pregame": {
                     "opp": 1453.5365772771745,
@@ -201,6 +230,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1573355700000,
+            "tournamentName": "London",
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -226,6 +256,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1573373700000,
+            "tournamentName": "London",
             "elo": {
                 "pregame": {
                     "opp": 1546.607344753355,
@@ -251,6 +282,7 @@
             "homeScore": "9",
             "status": "Official",
             "isoDate": 1575007200000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1470.9077792074463,
@@ -276,6 +308,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1575028800000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1498.2893143934787,
@@ -301,6 +334,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1575097200000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1532.1073550410952,
@@ -326,6 +360,7 @@
             "homeScore": "8",
             "status": "Official",
             "isoDate": 1575118800000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1403.1920445805476,
@@ -344,12 +379,12 @@
     "points": 18,
     "games": 10,
     "opponentRecord": {
-        "w": 65,
-        "l": 60,
+        "w": 67,
+        "l": 62,
         "t": 1,
-        "g": 126
+        "g": 130
     },
-    "strengthOfSchedule": 0.5318230318230318,
+    "strengthOfSchedule": 0.5283817920649859,
     "record": "9 - 1 - 0",
     "image": "Markham.png"
 }

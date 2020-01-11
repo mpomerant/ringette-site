@@ -34,7 +34,7 @@ export default function Index({data}) {
     game.gameDate = `${game.date} ${game.time}`;
     return game;
   });
-const lastGames = games.slice(Math.max(games.length - 5, 1));
+const lastGames = games.slice(Math.max(games.length - 10, 1));
 
 const unoffialGames = data.allGamesJson.edges.map(team => team.node)
   .filter(game => game.status !== 'Official')
@@ -134,6 +134,14 @@ const nextGames = unoffialGames.slice(0, 5);
         
       }}
           columns={[
+            { title: "Tournament", 
+            field: "tournamentName",
+            cellStyle: {
+              textAlign: 'center'
+              
+            },
+            whiteSpace: 'nowrap' 
+          },
             { title: "Date", 
             field: "gameDate",
             },
@@ -153,7 +161,7 @@ const nextGames = unoffialGames.slice(0, 5);
           data={lastGames}
 
           
-          title="Last 5 Results"
+          title="Last 10 Results"
         />
         </TabPanel>
         <TabPanel value={value} index={2}>
@@ -175,6 +183,14 @@ const nextGames = unoffialGames.slice(0, 5);
         
       }}
           columns={[
+            { title: "Tournament", 
+            field: "tournamentName",
+            cellStyle: {
+              textAlign: 'center'
+              
+            },
+            whiteSpace: 'nowrap' 
+          },
             { title: "Date", 
             field: "gameDate",
             },
@@ -226,7 +242,8 @@ export const query = graphql`
           status
           visitor
           homeScore
-          visitorScore
+          visitorScore,
+          tournamentName
         }
       }
     }

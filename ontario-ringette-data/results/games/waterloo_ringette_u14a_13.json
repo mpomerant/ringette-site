@@ -7,7 +7,8 @@
     "visitor": "Nepean",
     "visitorScore": "0",
     "home": "Sault Ste Marie",
-    "homeScore": "0",
-    "status": "",
-    "isoDate": 1578722400000
+    "homeScore": "2",
+    "status": "Official",
+    "isoDate": 1578722400000,
+    "tournamentName": "Waterloo"
 }

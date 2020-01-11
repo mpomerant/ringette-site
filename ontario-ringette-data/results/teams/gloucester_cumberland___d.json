@@ -19,11 +19,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580394600000,
+            "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
-                    "opp": 1417.5497915683218,
+                    "opp": 1445.0425744677314,
                     "elo": 1451.247825339559,
-                    "probability": 0.5364252396634359
+                    "probability": 0.49641921436480707
                 }
             }
         },
@@ -39,6 +40,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580463000000,
+            "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -59,6 +61,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580535000000,
+            "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
                     "opp": 1599.6196665104226,
@@ -79,6 +82,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580556600000,
+            "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
                     "opp": 1427.4227472937864,
@@ -101,6 +105,7 @@
             "homeScore": "8",
             "status": "Official",
             "isoDate": 1573786800000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1484,
@@ -126,6 +131,7 @@
             "homeScore": "10",
             "status": "Official",
             "isoDate": 1573810200000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1516,
@@ -151,6 +157,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1573878600000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1499.3926126143633,
@@ -176,6 +183,7 @@
             "homeScore": "9",
             "status": "Official",
             "isoDate": 1573893000000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1470.128568082602,
@@ -201,6 +209,7 @@
             "homeScore": "9",
             "status": "Official",
             "isoDate": 1575007200000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1553.2506787716266,
@@ -226,6 +235,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1575025200000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1484.1039400017034,
@@ -251,6 +261,7 @@
             "homeScore": "7",
             "status": "Official",
             "isoDate": 1575082800000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1452.7896245026973,
@@ -276,6 +287,7 @@
             "homeScore": "6",
             "status": "Official",
             "isoDate": 1575108000000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1415.0207226124262,
@@ -301,6 +313,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1578039300000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1431.623266469739,
@@ -326,6 +339,7 @@
             "homeScore": "6",
             "status": "Official",
             "isoDate": 1578057300000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1463.2592075045893,
@@ -351,6 +365,7 @@
             "homeScore": "8",
             "status": "Official",
             "isoDate": 1578106800000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1639.1301599500814,
@@ -376,6 +391,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1578128400000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1487.265797352913,
@@ -394,12 +410,12 @@
     "points": 8,
     "games": 12,
     "opponentRecord": {
-        "w": 60,
-        "l": 67,
+        "w": 64,
+        "l": 73,
         "t": 4,
-        "g": 131
+        "g": 141
     },
-    "strengthOfSchedule": 0.4905990964048809,
+    "strengthOfSchedule": 0.48501642293771835,
     "record": "4 - 8 - 0",
     "image": "Gloucester Cumberland.png"
 }

@@ -1,49 +1,30 @@
 {
     "name": "Sault Ste Marie",
-    "win": 5,
-    "loss": 3,
+    "win": 6,
+    "loss": 4,
     "tie": 2,
-    "for": 25,
-    "against": 19,
-    "elo": 1533.6246639340468,
+    "for": 29,
+    "against": 22,
+    "elo": 1534.2992193812445,
     "upcoming": [
         {
-            "id": "waterloo_ringette_u14a_9",
+            "id": "waterloo_ringette_u14a_18",
             "tournament": "waterloo_ringette",
-            "type": "RR",
-            "date": "Sat Jan 11",
-            "time": "7:00A",
-            "visitor": "Sault Ste Marie",
-            "visitorScore": "0",
-            "home": "Metcalfe",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1578708000000,
-            "elo": {
-                "pregame": {
-                    "opp": 1532.1003672509423,
-                    "elo": 1533.6246639340468,
-                    "probability": 0.4895981634188036
-                }
-            }
-        },
-        {
-            "id": "waterloo_ringette_u14a_13",
-            "tournament": "waterloo_ringette",
-            "type": "RR",
-            "date": "Sat Jan 11",
-            "time": "11:00A",
+            "type": "S2",
+            "date": "Sun Jan 12",
+            "time": "7:30A",
             "visitor": "Nepean",
             "visitorScore": "0",
             "home": "Sault Ste Marie",
             "homeScore": "0",
             "status": "",
-            "isoDate": 1578722400000,
+            "isoDate": 1578796200000,
+            "tournamentName": "Waterloo",
             "elo": {
                 "pregame": {
-                    "opp": 1524.0701651492739,
-                    "elo": 1533.6246639340468,
-                    "probability": 0.5013006790448686
+                    "opp": 1516.9934835860488,
+                    "elo": 1534.2992193812445,
+                    "probability": 0.5125954446304146
                 }
             }
         }
@@ -61,6 +42,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1572585300000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -86,6 +68,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1572600600000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1516,
@@ -111,6 +94,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1572667200000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1530.5304984710244,
@@ -136,6 +120,7 @@
             "homeScore": "0",
             "status": "Official",
             "isoDate": 1572683400000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1484,
@@ -161,6 +146,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1575000900000,
+            "tournamentName": "Mississauga",
             "elo": {
                 "pregame": {
                     "opp": 1527.8732618303961,
@@ -186,6 +172,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1575018900000,
+            "tournamentName": "Mississauga",
             "elo": {
                 "pregame": {
                     "opp": 1576.7139370434547,
@@ -211,6 +198,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1575082800000,
+            "tournamentName": "Mississauga",
             "elo": {
                 "pregame": {
                     "opp": 1471.8008077303396,
@@ -236,6 +224,7 @@
             "homeScore": "0",
             "status": "Official",
             "isoDate": 1575102600000,
+            "tournamentName": "Mississauga",
             "elo": {
                 "pregame": {
                     "opp": 1459.4473832157091,
@@ -261,6 +250,7 @@
             "homeScore": "0",
             "status": "Official",
             "isoDate": 1578628800000,
+            "tournamentName": "Waterloo",
             "elo": {
                 "pregame": {
                     "opp": 1498.062963931835,
@@ -286,6 +276,7 @@
             "homeScore": "5",
             "status": "Official",
             "isoDate": 1578657600000,
+            "tournamentName": "Waterloo",
             "elo": {
                 "pregame": {
                     "opp": 1526.634445663959,
@@ -298,18 +289,70 @@
                 }
             },
             "record": "5 - 3 - 2"
+        },
+        {
+            "id": "waterloo_ringette_u14a_9",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Sat Jan 11",
+            "time": "7:00A",
+            "visitor": "Sault Ste Marie",
+            "visitorScore": "2",
+            "home": "Metcalfe",
+            "homeScore": "3",
+            "status": "Official",
+            "isoDate": 1578708000000,
+            "tournamentName": "Waterloo",
+            "elo": {
+                "pregame": {
+                    "opp": 1532.1003672509423,
+                    "elo": 1533.6246639340468,
+                    "probability": 0.4895981634188036
+                },
+                "postgame": {
+                    "opp": 1548.1705632569567,
+                    "elo": 1517.5544679280324
+                }
+            },
+            "record": "5 - 4 - 2"
+        },
+        {
+            "id": "waterloo_ringette_u14a_13",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Sat Jan 11",
+            "time": "11:00A",
+            "visitor": "Nepean",
+            "visitorScore": "0",
+            "home": "Sault Ste Marie",
+            "homeScore": "2",
+            "status": "Official",
+            "isoDate": 1578722400000,
+            "tournamentName": "Waterloo",
+            "elo": {
+                "pregame": {
+                    "opp": 1533.7382350392609,
+                    "elo": 1517.5544679280324,
+                    "probability": 0.4890389158398267
+                },
+                "postgame": {
+                    "opp": 1516.9934835860488,
+                    "elo": 1534.2992193812445
+                }
+            },
+            "record": "6 - 4 - 2"
         }
     ],
-    "pct": 0.6,
-    "points": 12,
-    "games": 10,
+    "pct": 0.5833333333333334,
+    "points": 14,
+    "games": 12,
     "opponentRecord": {
-        "w": 61,
-        "l": 53,
-        "t": 6,
-        "g": 120
+        "w": 81,
+        "l": 68,
+        "t": 7,
+        "g": 156
     },
-    "strengthOfSchedule": 0.5350786972105345,
-    "record": "5 - 3 - 2",
+    "strengthOfSchedule": 0.5324317995550872,
+    "record": "6 - 4 - 2",
     "image": "Sault Ste Marie.png"
 }

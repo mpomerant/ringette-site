@@ -5,9 +5,10 @@
     "date": "Sat Jan 11",
     "time": "12:00P",
     "visitor": "Mississauga",
-    "visitorScore": "0",
+    "visitorScore": "4",
     "home": "West Ottawa - F",
-    "homeScore": "0",
-    "status": "",
-    "isoDate": 1578726000000
+    "homeScore": "3",
+    "status": "Official",
+    "isoDate": 1578726000000,
+    "tournamentName": "Waterloo"
 }

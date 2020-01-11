@@ -51,6 +51,7 @@ const fs = require('fs');
             console.log('---------------------------------------------------------');
             console.log(`${tournament}`);
             const id = matches[2].split(' ').join('_').split('-').join('_').toLowerCase();
+            const tournamentName = matches[2].replace('Ringette', '').trim();
             await page.select('select[name="ctl00$DropDownListEvents"]', optionMap[tournament]);
             await page.waitForNavigation();
             await Promise.all([
@@ -188,6 +189,7 @@ const fs = require('fs');
                         
                     
                     game.isoDate = iso.getTime();
+                    game.tournamentName = tournamentName;
                     fs.writeFileSync(`results/games/${game.id}.json`, JSON.stringify(game, null, 4));
                 })
             } else {

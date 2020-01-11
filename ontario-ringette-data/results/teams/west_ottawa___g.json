@@ -19,11 +19,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580443200000,
+            "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
-                    "opp": 1417.5497915683218,
+                    "opp": 1445.0425744677314,
                     "elo": 1599.6196665104226,
-                    "probability": 0.7332094226037598
+                    "probability": 0.7007107010572221
                 }
             }
         },
@@ -39,6 +40,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580459400000,
+            "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
                     "opp": 1600.8672435115193,
@@ -59,6 +61,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580535000000,
+            "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
                     "opp": 1451.247825339559,
@@ -79,11 +82,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580560200000,
+            "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
-                    "opp": 1524.0701651492739,
+                    "opp": 1516.9934835860488,
                     "elo": 1599.6196665104226,
-                    "probability": 0.5962715276908575
+                    "probability": 0.6061627225401162
                 }
             }
         }
@@ -101,6 +105,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1572585300000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -126,6 +131,7 @@
             "homeScore": "8",
             "status": "Official",
             "isoDate": 1572599700000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1484,
@@ -151,6 +157,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1572667200000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1532,
@@ -176,6 +183,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1572684300000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1484.0676726427585,
@@ -201,6 +209,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1572755400000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1529.1480411622226,
@@ -226,6 +235,7 @@
             "homeScore": "0",
             "status": "Official",
             "isoDate": 1575000000000,
+            "tournamentName": "Mississauga",
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -251,6 +261,7 @@
             "homeScore": "0",
             "status": "Official",
             "isoDate": 1575019200000,
+            "tournamentName": "Mississauga",
             "elo": {
                 "pregame": {
                     "opp": 1485.1028590495682,
@@ -276,6 +287,7 @@
             "homeScore": "6",
             "status": "Official",
             "isoDate": 1575083700000,
+            "tournamentName": "Mississauga",
             "elo": {
                 "pregame": {
                     "opp": 1589.2294123447332,
@@ -301,6 +313,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1575108300000,
+            "tournamentName": "Mississauga",
             "elo": {
                 "pregame": {
                     "opp": 1553.5554668086172,
@@ -326,6 +339,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1575174300000,
+            "tournamentName": "Mississauga",
             "elo": {
                 "pregame": {
                     "opp": 1583.833177328315,
@@ -351,6 +365,7 @@
             "homeScore": "5",
             "status": "Official",
             "isoDate": 1578032100000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1564.053491170765,
@@ -376,6 +391,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1578060900000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1513.803325130823,
@@ -401,6 +417,7 @@
             "homeScore": "6",
             "status": "Official",
             "isoDate": 1578107700000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1407.1894423056694,
@@ -426,6 +443,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1578135600000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1538.774828391736,
@@ -451,6 +469,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1578193200000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1611.5435656199238,
@@ -476,6 +495,7 @@
             "homeScore": "5",
             "status": "Official",
             "isoDate": 1578208500000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1669.4941616469773,
@@ -494,12 +514,12 @@
     "points": 23,
     "games": 16,
     "opponentRecord": {
-        "w": 112,
-        "l": 84,
+        "w": 116,
+        "l": 88,
         "t": 11,
-        "g": 207
+        "g": 215
     },
-    "strengthOfSchedule": 0.5655225391386663,
+    "strengthOfSchedule": 0.5618199156364636,
     "record": "11 - 4 - 1",
     "image": "West Ottawa.png"
 }

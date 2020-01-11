@@ -1,52 +1,12 @@
 {
     "name": "Waterloo",
     "win": 3,
-    "loss": 3,
+    "loss": 5,
     "tie": 0,
-    "for": 15,
-    "against": 20,
-    "elo": 1495.8821836239877,
+    "for": 17,
+    "against": 29,
+    "elo": 1467.616853901771,
     "upcoming": [
-        {
-            "id": "waterloo_ringette_u14a_12",
-            "tournament": "waterloo_ringette",
-            "type": "RR",
-            "date": "Sat Jan 11",
-            "time": "8:00A",
-            "visitor": "West Ottawa - F",
-            "visitorScore": "0",
-            "home": "Waterloo",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1578711600000,
-            "elo": {
-                "pregame": {
-                    "opp": 1510.1996121617778,
-                    "elo": 1495.8821836239877,
-                    "probability": 0.4917580945138239
-                }
-            }
-        },
-        {
-            "id": "waterloo_ringette_u14a_16",
-            "tournament": "waterloo_ringette",
-            "type": "RR",
-            "date": "Sat Jan 11",
-            "time": "1:30P",
-            "visitor": "Waterloo",
-            "visitorScore": "0",
-            "home": "Metcalfe",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1578731400000,
-            "elo": {
-                "pregame": {
-                    "opp": 1532.1003672509423,
-                    "elo": 1495.8821836239877,
-                    "probability": 0.4599231558107755
-                }
-            }
-        },
         {
             "id": "kitchener_ringette_u14a_2",
             "tournament": "kitchener_ringette",
@@ -59,11 +19,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580446800000,
+            "tournamentName": "Kitchener",
             "elo": {
                 "pregame": {
                     "opp": 1539.85900161892,
-                    "elo": 1495.8821836239877,
-                    "probability": 0.4487098363001345
+                    "elo": 1467.616853901771,
+                    "probability": 0.4083787200228588
                 }
             }
         },
@@ -79,11 +40,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580461200000,
+            "tournamentName": "Kitchener",
             "elo": {
                 "pregame": {
                     "opp": 1649.442994780456,
-                    "elo": 1495.8821836239877,
-                    "probability": 0.3005333200446918
+                    "elo": 1467.616853901771,
+                    "probability": 0.26706863013484683
                 }
             }
         },
@@ -99,11 +61,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580522400000,
+            "tournamentName": "Kitchener",
             "elo": {
                 "pregame": {
                     "opp": 1495.614176514694,
-                    "elo": 1495.8821836239877,
-                    "probability": 0.4877680614338513
+                    "elo": 1467.616853901771,
+                    "probability": 0.4718487053589713
                 }
             }
         },
@@ -119,11 +82,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580536800000,
+            "tournamentName": "Kitchener",
             "elo": {
                 "pregame": {
                     "opp": 1395.133417184345,
-                    "elo": 1495.8821836239877,
-                    "probability": 0.6310829077344848
+                    "elo": 1467.616853901771,
+                    "probability": 0.5919611062302572
                 }
             }
         }
@@ -141,6 +105,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1575003600000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1502.2570602100657,
@@ -166,6 +131,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1575025200000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1458.6303702800994,
@@ -191,6 +157,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1575099000000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1517.8288018438914,
@@ -216,6 +183,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1575122400000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1445.8839642858522,
@@ -241,6 +209,7 @@
             "homeScore": "0",
             "status": "Official",
             "isoDate": 1578628800000,
+            "tournamentName": "Waterloo",
             "elo": {
                 "pregame": {
                     "opp": 1501.3407747186868,
@@ -266,6 +235,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1578655800000,
+            "tournamentName": "Waterloo",
             "elo": {
                 "pregame": {
                     "opp": 1431.2180669736533,
@@ -278,18 +248,70 @@
                 }
             },
             "record": "3 - 3 - 0"
+        },
+        {
+            "id": "waterloo_ringette_u14a_12",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Sat Jan 11",
+            "time": "8:00A",
+            "visitor": "West Ottawa - F",
+            "visitorScore": "2",
+            "home": "Waterloo",
+            "homeScore": "0",
+            "status": "Official",
+            "isoDate": 1578711600000,
+            "tournamentName": "Waterloo",
+            "elo": {
+                "pregame": {
+                    "opp": 1510.1996121617778,
+                    "elo": 1495.8821836239877,
+                    "probability": 0.4917580945138239
+                },
+                "postgame": {
+                    "opp": 1525.540643183163,
+                    "elo": 1480.5411526026026
+                }
+            },
+            "record": "3 - 4 - 0"
+        },
+        {
+            "id": "waterloo_ringette_u14a_16",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Sat Jan 11",
+            "time": "1:30P",
+            "visitor": "Waterloo",
+            "visitorScore": "2",
+            "home": "Metcalfe",
+            "homeScore": "7",
+            "status": "Official",
+            "isoDate": 1578731400000,
+            "tournamentName": "Waterloo",
+            "elo": {
+                "pregame": {
+                    "opp": 1548.1705632569567,
+                    "elo": 1480.5411526026026,
+                    "probability": 0.4148916931711857
+                },
+                "postgame": {
+                    "opp": 1561.0948619577882,
+                    "elo": 1467.616853901771
+                }
+            },
+            "record": "3 - 5 - 0"
         }
     ],
-    "pct": 0.5,
+    "pct": 0.375,
     "points": 6,
-    "games": 6,
+    "games": 8,
     "opponentRecord": {
-        "w": 25,
-        "l": 40,
-        "t": 3,
-        "g": 68
+        "w": 45,
+        "l": 52,
+        "t": 4,
+        "g": 101
     },
-    "strengthOfSchedule": 0.44342347242728003,
-    "record": "3 - 3 - 0",
+    "strengthOfSchedule": 0.4794379099213901,
+    "record": "3 - 5 - 0",
     "image": "Waterloo.png"
 }

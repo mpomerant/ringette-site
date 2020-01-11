@@ -47,6 +47,7 @@ export default ({ data }) => {
       const opponentRecord = oppData ? oppData.record : "Not Available"
       return {
         isHome,
+        tournament: result.tournamentName,
         opponentLink,
         opponent,
         opponentRecord,
@@ -57,6 +58,8 @@ export default ({ data }) => {
     })
 
   const nextGames = upcoming.slice(0, Math.min(5, upcoming.length))
+  const nextGame = upcoming[0] || {};
+  console.log(nextGame);
   const results = team.results
     .sort((a, b) => {
       return a.isoDate - b.isoDate
@@ -95,6 +98,7 @@ export default ({ data }) => {
         opponentLink,
         opponent,
         gameResult,
+        tournament: result.tournamentName,
         date: result.date,
         time: result.time,
         isoDate: result.isoDate,
@@ -107,7 +111,7 @@ export default ({ data }) => {
   return (
     <Layout>
       <div>
-        <TeamCard team={team} image={data.allFile.edges[0].node.childImageSharp}></TeamCard>
+        <TeamCard team={team} next={nextGame} image={data.allFile.edges[0].node.childImageSharp}></TeamCard>
         
         <Tabs value={value} onChange={handleChange} aria-label="simple tabs example">
           <Tab label="Results"></Tab>
@@ -171,6 +175,7 @@ export const query = graphql`
       }
       upcoming {
         isoDate
+        tournamentName
         home
         visitor
         date
@@ -183,6 +188,7 @@ export const query = graphql`
       }
       results {
         home
+        tournamentName
         visitor
         homeScore
         visitorScore

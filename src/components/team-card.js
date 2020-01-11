@@ -22,7 +22,7 @@ const useStylesTeamCard = makeStyles({
   },
 })
 
-const TeamCard = ({ team, image }) => {
+const TeamCard = ({ team, image, next }) => {
     const classes = useStyles();
     const teamCardClasses = useStylesTeamCard();
     const theme = useTheme()
@@ -42,6 +42,9 @@ const TeamCard = ({ team, image }) => {
                     <div class="team-record">
                         Opponents: {team.opponentRecord.w} - {team.opponentRecord.l} -{" "}
                         {team.opponentRecord.t}
+                    </div>
+                    <div class="team-record">
+                        Next: {next.isHome ? 'vs' : '@'}  {next.opponent} {next.date}
                     </div>
                 </div>
                 <div class="team-stats">

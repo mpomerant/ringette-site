@@ -1,49 +1,30 @@
 {
     "name": "City of Ottawa",
-    "win": 2,
+    "win": 4,
     "loss": 8,
     "tie": 0,
-    "for": 18,
-    "against": 41,
-    "elo": 1417.5497915683218,
+    "for": 24,
+    "against": 44,
+    "elo": 1445.0425744677314,
     "upcoming": [
         {
-            "id": "waterloo_ringette_u14a_11",
+            "id": "waterloo_ringette_u14a_17",
             "tournament": "waterloo_ringette",
-            "type": "RR",
-            "date": "Sat Jan 11",
-            "time": "8:00A",
+            "type": "S1",
+            "date": "Sun Jan 12",
+            "time": "7:30A",
             "visitor": "City of Ottawa",
             "visitorScore": "0",
-            "home": "Mississauga",
+            "home": "Metcalfe",
             "homeScore": "0",
             "status": "",
-            "isoDate": 1578711600000,
+            "isoDate": 1578796200000,
+            "tournamentName": "Waterloo",
             "elo": {
                 "pregame": {
-                    "opp": 1381.8140344196815,
-                    "elo": 1417.5497915683218,
-                    "probability": 0.5393781466829158
-                }
-            }
-        },
-        {
-            "id": "waterloo_ringette_u14a_15",
-            "tournament": "waterloo_ringette",
-            "type": "RR",
-            "date": "Sat Jan 11",
-            "time": "1:00P",
-            "visitor": "Oshawa",
-            "visitorScore": "0",
-            "home": "City of Ottawa",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1578729600000,
-            "elo": {
-                "pregame": {
-                    "opp": 1378.6355736400028,
-                    "elo": 1417.5497915683218,
-                    "probability": 0.5439785307680356
+                    "opp": 1561.0948619577882,
+                    "elo": 1445.0425744677314,
+                    "probability": 0.3483988185300988
                 }
             }
         },
@@ -59,11 +40,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580394600000,
+            "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
                     "opp": 1451.247825339559,
-                    "elo": 1417.5497915683218,
-                    "probability": 0.4635747603365641
+                    "elo": 1445.0425744677314,
+                    "probability": 0.5035807856351929
                 }
             }
         },
@@ -79,11 +61,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580443200000,
+            "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
                     "opp": 1599.6196665104226,
-                    "elo": 1417.5497915683218,
-                    "probability": 0.26679057739624024
+                    "elo": 1445.0425744677314,
+                    "probability": 0.2992892989427779
                 }
             }
         },
@@ -99,11 +82,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580531400000,
+            "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
                     "opp": 1427.4227472937864,
-                    "elo": 1417.5497915683218,
-                    "probability": 0.4982351743591804
+                    "elo": 1445.0425744677314,
+                    "probability": 0.5130529316319048
                 }
             }
         },
@@ -119,11 +103,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580546700000,
+            "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
                     "opp": 1600.8672435115193,
-                    "elo": 1417.5497915683218,
-                    "probability": 0.26537022374097974
+                    "elo": 1445.0425744677314,
+                    "probability": 0.29776619198502696
                 }
             }
         }
@@ -141,6 +126,7 @@
             "homeScore": "7",
             "status": "Official",
             "isoDate": 1573801200000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -166,6 +152,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1573821000000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1486.7548421248987,
@@ -191,6 +178,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1573896600000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1513.9858838830762,
@@ -216,6 +204,7 @@
             "homeScore": "4",
             "status": "Official",
             "isoDate": 1573911000000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1456.2996469124596,
@@ -241,6 +230,7 @@
             "homeScore": "8",
             "status": "Official",
             "isoDate": 1575000000000,
+            "tournamentName": "Mississauga",
             "elo": {
                 "pregame": {
                     "opp": 1563.698669031989,
@@ -266,6 +256,7 @@
             "homeScore": "0",
             "status": "Official",
             "isoDate": 1575019200000,
+            "tournamentName": "Mississauga",
             "elo": {
                 "pregame": {
                     "opp": 1556.4032274950537,
@@ -291,6 +282,7 @@
             "homeScore": "8",
             "status": "Official",
             "isoDate": 1575082800000,
+            "tournamentName": "Mississauga",
             "elo": {
                 "pregame": {
                     "opp": 1540.661818888183,
@@ -316,6 +308,7 @@
             "homeScore": "0",
             "status": "Official",
             "isoDate": 1575102600000,
+            "tournamentName": "Mississauga",
             "elo": {
                 "pregame": {
                     "opp": 1486.5881154373956,
@@ -341,6 +334,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1578632400000,
+            "tournamentName": "Waterloo",
             "elo": {
                 "pregame": {
                     "opp": 1499.949602251843,
@@ -366,6 +360,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1578655800000,
+            "tournamentName": "Waterloo",
             "elo": {
                 "pregame": {
                     "opp": 1482.2139082186561,
@@ -378,18 +373,70 @@
                 }
             },
             "record": "2 - 8 - 0"
+        },
+        {
+            "id": "waterloo_ringette_u14a_11",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Sat Jan 11",
+            "time": "8:00A",
+            "visitor": "City of Ottawa",
+            "visitorScore": "2",
+            "home": "Mississauga",
+            "homeScore": "1",
+            "status": "Official",
+            "isoDate": 1578711600000,
+            "tournamentName": "Waterloo",
+            "elo": {
+                "pregame": {
+                    "opp": 1381.8140344196815,
+                    "elo": 1417.5497915683218,
+                    "probability": 0.5393781466829158
+                },
+                "postgame": {
+                    "opp": 1367.4539478768056,
+                    "elo": 1431.9098781111977
+                }
+            },
+            "record": "3 - 8 - 0"
+        },
+        {
+            "id": "waterloo_ringette_u14a_15",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Sat Jan 11",
+            "time": "1:00P",
+            "visitor": "Oshawa",
+            "visitorScore": "2",
+            "home": "City of Ottawa",
+            "homeScore": "4",
+            "status": "Official",
+            "isoDate": 1578729600000,
+            "tournamentName": "Waterloo",
+            "elo": {
+                "pregame": {
+                    "opp": 1368.9675037500158,
+                    "elo": 1431.9098781111977,
+                    "probability": 0.578459832901054
+                },
+                "postgame": {
+                    "opp": 1355.8348073934822,
+                    "elo": 1445.0425744677314
+                }
+            },
+            "record": "4 - 8 - 0"
         }
     ],
-    "pct": 0.2,
-    "points": 4,
-    "games": 10,
+    "pct": 0.3333333333333333,
+    "points": 8,
+    "games": 12,
     "opponentRecord": {
-        "w": 58,
-        "l": 45,
-        "t": 6,
-        "g": 109
+        "w": 62,
+        "l": 71,
+        "t": 8,
+        "g": 141
     },
-    "strengthOfSchedule": 0.5481663247668433,
-    "record": "2 - 8 - 0",
+    "strengthOfSchedule": 0.48805140730119767,
+    "record": "4 - 8 - 0",
     "image": "City of Ottawa.png"
 }

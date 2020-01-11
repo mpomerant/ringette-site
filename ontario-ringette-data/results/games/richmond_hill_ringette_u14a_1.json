@@ -9,5 +9,6 @@
     "home": "Richmond Hill",
     "homeScore": "0",
     "status": "",
-    "isoDate": 1580392800000
+    "isoDate": 1580392800000,
+    "tournamentName": "Richmond Hill"
 }

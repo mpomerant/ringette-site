@@ -5,9 +5,10 @@
     "date": "Sat Jan 11",
     "time": "1:00P",
     "visitor": "Oshawa",
-    "visitorScore": "0",
+    "visitorScore": "2",
     "home": "City of Ottawa",
-    "homeScore": "0",
-    "status": "",
-    "isoDate": 1578729600000
+    "homeScore": "4",
+    "status": "Official",
+    "isoDate": 1578729600000,
+    "tournamentName": "Waterloo"
 }

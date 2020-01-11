@@ -5,9 +5,10 @@
     "date": "Sat Jan 11",
     "time": "7:00A",
     "visitor": "Nepean",
-    "visitorScore": "0",
+    "visitorScore": "5",
     "home": "Oshawa",
-    "homeScore": "0",
-    "status": "",
-    "isoDate": 1578708000000
+    "homeScore": "1",
+    "status": "Official",
+    "isoDate": 1578708000000,
+    "tournamentName": "Waterloo"
 }

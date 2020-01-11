@@ -1,49 +1,51 @@
 {
     "name": "Metcalfe",
-    "win": 7,
+    "win": 9,
     "loss": 4,
     "tie": 1,
-    "for": 57,
-    "against": 35,
-    "elo": 1532.1003672509423,
+    "for": 67,
+    "against": 39,
+    "elo": 1561.0948619577882,
     "upcoming": [
         {
-            "id": "waterloo_ringette_u14a_9",
-            "tournament": "waterloo_ringette",
-            "type": "RR",
-            "date": "Sat Jan 11",
-            "time": "7:00A",
-            "visitor": "Sault Ste Marie",
+            "id": "pickering_ringette_u14a_26",
+            "tournament": "pickering_ringette",
+            "type": "S2",
+            "date": "Sun Dec 1",
+            "time": "9:30A",
+            "visitor": "Metcalfe",
             "visitorScore": "0",
-            "home": "Metcalfe",
+            "home": "Markham - A",
             "homeScore": "0",
-            "status": "",
-            "isoDate": 1578708000000,
+            "status": "Official (OT1)",
+            "isoDate": 1575174600000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
-                    "opp": 1533.6246639340468,
-                    "elo": 1532.1003672509423,
-                    "probability": 0.5104018365811964
+                    "opp": 1600.4058598885986,
+                    "elo": 1525.377968487844,
+                    "probability": 0.40446074815494626
                 }
             }
         },
         {
-            "id": "waterloo_ringette_u14a_16",
+            "id": "waterloo_ringette_u14a_17",
             "tournament": "waterloo_ringette",
-            "type": "RR",
-            "date": "Sat Jan 11",
-            "time": "1:30P",
-            "visitor": "Waterloo",
+            "type": "S1",
+            "date": "Sun Jan 12",
+            "time": "7:30A",
+            "visitor": "City of Ottawa",
             "visitorScore": "0",
             "home": "Metcalfe",
             "homeScore": "0",
             "status": "",
-            "isoDate": 1578731400000,
+            "isoDate": 1578796200000,
+            "tournamentName": "Waterloo",
             "elo": {
                 "pregame": {
-                    "opp": 1495.8821836239877,
-                    "elo": 1532.1003672509423,
-                    "probability": 0.5400768441892245
+                    "opp": 1445.0425744677314,
+                    "elo": 1561.0948619577882,
+                    "probability": 0.6516011814699012
                 }
             }
         },
@@ -59,11 +61,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580448600000,
+            "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
                     "opp": 1509.5059575542887,
-                    "elo": 1532.1003672509423,
-                    "probability": 0.5202951951171857
+                    "elo": 1561.0948619577882,
+                    "probability": 0.562241310047472
                 }
             }
         },
@@ -79,11 +82,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580465400000,
+            "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
                     "opp": 1421.0741687472764,
-                    "elo": 1532.1003672509423,
-                    "probability": 0.644919902762999
+                    "elo": 1561.0948619577882,
+                    "probability": 0.6826161219041444
                 }
             }
         },
@@ -99,11 +103,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580526900000,
+            "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
                     "opp": 1600.4058598885986,
-                    "elo": 1532.1003672509423,
-                    "probability": 0.4139351761665473
+                    "elo": 1561.0948619577882,
+                    "probability": 0.45544769504456006
                 }
             }
         },
@@ -119,11 +124,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580558400000,
+            "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
                     "opp": 1486.6560277714414,
-                    "elo": 1532.1003672509423,
-                    "probability": 0.5534056278643406
+                    "elo": 1561.0948619577882,
+                    "probability": 0.5947117768196117
                 }
             }
         }
@@ -141,6 +147,7 @@
             "homeScore": "4",
             "status": "Official",
             "isoDate": 1573736400000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -166,6 +173,7 @@
             "homeScore": "10",
             "status": "Official",
             "isoDate": 1573810200000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1483.263693206478,
@@ -191,6 +199,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1573826400000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1484,
@@ -216,6 +225,7 @@
             "homeScore": "6",
             "status": "Official",
             "isoDate": 1573903800000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1549.9125357438836,
@@ -241,6 +251,7 @@
             "homeScore": "4",
             "status": "Official",
             "isoDate": 1573957800000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1567.1758808977627,
@@ -266,6 +277,7 @@
             "homeScore": "4",
             "status": "Official",
             "isoDate": 1575016200000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1468,
@@ -291,6 +303,7 @@
             "homeScore": "6",
             "status": "Official",
             "isoDate": 1575039600000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1500.5552862502484,
@@ -316,6 +329,7 @@
             "homeScore": "4",
             "status": "Official",
             "isoDate": 1575093600000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1459.5311757087936,
@@ -341,6 +355,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1575111600000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1540.6420313811261,
@@ -366,6 +381,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1575189000000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1554.7773932912587,
@@ -391,6 +407,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1578632400000,
+            "tournamentName": "Waterloo",
             "elo": {
                 "pregame": {
                     "opp": 1403.678394554685,
@@ -416,6 +433,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1578650400000,
+            "tournamentName": "Waterloo",
             "elo": {
                 "pregame": {
                     "opp": 1388.7868468425072,
@@ -428,18 +446,70 @@
                 }
             },
             "record": "7 - 4 - 1"
+        },
+        {
+            "id": "waterloo_ringette_u14a_9",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Sat Jan 11",
+            "time": "7:00A",
+            "visitor": "Sault Ste Marie",
+            "visitorScore": "2",
+            "home": "Metcalfe",
+            "homeScore": "3",
+            "status": "Official",
+            "isoDate": 1578708000000,
+            "tournamentName": "Waterloo",
+            "elo": {
+                "pregame": {
+                    "opp": 1533.6246639340468,
+                    "elo": 1532.1003672509423,
+                    "probability": 0.5104018365811964
+                },
+                "postgame": {
+                    "opp": 1517.5544679280324,
+                    "elo": 1548.1705632569567
+                }
+            },
+            "record": "8 - 4 - 1"
+        },
+        {
+            "id": "waterloo_ringette_u14a_16",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Sat Jan 11",
+            "time": "1:30P",
+            "visitor": "Waterloo",
+            "visitorScore": "2",
+            "home": "Metcalfe",
+            "homeScore": "7",
+            "status": "Official",
+            "isoDate": 1578731400000,
+            "tournamentName": "Waterloo",
+            "elo": {
+                "pregame": {
+                    "opp": 1480.5411526026026,
+                    "elo": 1548.1705632569567,
+                    "probability": 0.5851083068288143
+                },
+                "postgame": {
+                    "opp": 1467.616853901771,
+                    "elo": 1561.0948619577882
+                }
+            },
+            "record": "9 - 4 - 1"
         }
     ],
-    "pct": 0.625,
-    "points": 15,
-    "games": 12,
+    "pct": 0.6785714285714286,
+    "points": 19,
+    "games": 14,
     "opponentRecord": {
-        "w": 56,
-        "l": 69,
-        "t": 6,
-        "g": 131
+        "w": 67,
+        "l": 82,
+        "t": 8,
+        "g": 157
     },
-    "strengthOfSchedule": 0.47946237371828787,
-    "record": "7 - 4 - 1",
+    "strengthOfSchedule": 0.47833757192130627,
+    "record": "9 - 4 - 1",
     "image": "Metcalfe.png"
 }

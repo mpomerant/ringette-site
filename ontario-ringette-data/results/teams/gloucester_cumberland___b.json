@@ -19,11 +19,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580391000000,
+            "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
-                    "opp": 1524.0701651492739,
+                    "opp": 1516.9934835860488,
                     "elo": 1600.8672435115193,
-                    "probability": 0.5980212271485652
+                    "probability": 0.6078977439214404
                 }
             }
         },
@@ -39,6 +40,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580459400000,
+            "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
                     "opp": 1599.6196665104226,
@@ -59,6 +61,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580527800000,
+            "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -79,11 +82,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580546700000,
+            "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
-                    "opp": 1417.5497915683218,
+                    "opp": 1445.0425744677314,
                     "elo": 1600.8672435115193,
-                    "probability": 0.7346297762590203
+                    "probability": 0.702233808014973
                 }
             }
         }
@@ -101,6 +105,7 @@
             "homeScore": "9",
             "status": "Official",
             "isoDate": 1572585300000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -126,6 +131,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1572600600000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1516,
@@ -151,6 +157,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1572664500000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -176,6 +183,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1572679800000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1453.4018288862171,
@@ -201,6 +209,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1572755400000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1559.7492298051036,
@@ -226,6 +235,7 @@
             "homeScore": "7",
             "status": "Official",
             "isoDate": 1573790400000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -251,6 +261,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1573806600000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -276,6 +287,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1573885800000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1532.0029497319824,
@@ -301,6 +313,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1573907400000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1453.3943279041268,
@@ -326,6 +339,7 @@
             "homeScore": "4",
             "status": "Official",
             "isoDate": 1573957800000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1528.6236139652246,
@@ -351,6 +365,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1573979400000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1579.9881156813383,
@@ -376,6 +391,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1578034800000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1556.3397241655427,
@@ -401,6 +417,7 @@
             "homeScore": "4",
             "status": "Official",
             "isoDate": 1578053700000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1623.6931544315044,
@@ -426,6 +443,7 @@
             "homeScore": "4",
             "status": "Official",
             "isoDate": 1578107700000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1498.9062375352316,
@@ -451,6 +469,7 @@
             "homeScore": "5",
             "status": "Official",
             "isoDate": 1578124800000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1397.5238524722636,
@@ -476,6 +495,7 @@
             "homeScore": "4",
             "status": "Official",
             "isoDate": 1578193200000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1655.3428725064603,
@@ -494,12 +514,12 @@
     "points": 24,
     "games": 16,
     "opponentRecord": {
-        "w": 99,
-        "l": 83,
+        "w": 102,
+        "l": 86,
         "t": 9,
-        "g": 191
+        "g": 197
     },
-    "strengthOfSchedule": 0.5446692772873731,
+    "strengthOfSchedule": 0.543799884196032,
     "record": "12 - 4 - 0",
     "image": "Gloucester Cumberland.png"
 }

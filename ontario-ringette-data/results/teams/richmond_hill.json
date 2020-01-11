@@ -19,6 +19,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580392800000,
+            "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
                     "opp": 1600.4058598885986,
@@ -39,11 +40,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580450400000,
+            "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1510.1996121617778,
+                    "opp": 1502.724505898455,
                     "elo": 1569.426721929002,
-                    "probability": 0.5731693885320508
+                    "probability": 0.583795474535301
                 }
             }
         },
@@ -59,6 +61,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580530800000,
+            "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
                     "opp": 1509.5059575542887,
@@ -79,6 +82,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580558100000,
+            "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
                     "opp": 1421.0741687472764,
@@ -101,6 +105,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1573186500000,
+            "tournamentName": "London",
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -126,6 +131,7 @@
             "homeScore": "0",
             "status": "Official",
             "isoDate": 1573204500000,
+            "tournamentName": "London",
             "elo": {
                 "pregame": {
                     "opp": 1484,
@@ -151,6 +157,7 @@
             "homeScore": "7",
             "status": "Official",
             "isoDate": 1573272900000,
+            "tournamentName": "London",
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -176,6 +183,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1573288200000,
+            "tournamentName": "London",
             "elo": {
                 "pregame": {
                     "opp": 1529.1510586913207,
@@ -201,6 +209,7 @@
             "homeScore": "6",
             "status": "Official",
             "isoDate": 1575010800000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1514.9495129237714,
@@ -226,6 +235,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1575036000000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1428.0202442660561,
@@ -251,6 +261,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1575086400000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1426.4190448247034,
@@ -276,6 +287,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1575111600000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1524.6416438873669,
@@ -301,6 +313,7 @@
             "homeScore": "5",
             "status": "Official",
             "isoDate": 1575171000000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1515.3639544233567,
@@ -326,6 +339,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1575189000000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1525.377968487844,
@@ -344,12 +358,12 @@
     "points": 15,
     "games": 10,
     "opponentRecord": {
-        "w": 48,
-        "l": 57,
+        "w": 53,
+        "l": 60,
         "t": 7,
-        "g": 112
+        "g": 120
     },
-    "strengthOfSchedule": 0.4866318074191002,
+    "strengthOfSchedule": 0.4913196908761139,
     "record": "7 - 2 - 1",
     "image": "Richmond Hill.png"
 }

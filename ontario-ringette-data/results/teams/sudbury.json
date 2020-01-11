@@ -19,6 +19,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580457600000,
+            "tournamentName": "Kitchener",
             "elo": {
                 "pregame": {
                     "opp": 1495.614176514694,
@@ -39,6 +40,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580472900000,
+            "tournamentName": "Kitchener",
             "elo": {
                 "pregame": {
                     "opp": 1539.85900161892,
@@ -59,11 +61,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580536800000,
+            "tournamentName": "Kitchener",
             "elo": {
                 "pregame": {
-                    "opp": 1495.8821836239877,
+                    "opp": 1467.616853901771,
                     "elo": 1395.133417184345,
-                    "probability": 0.36891709226551517
+                    "probability": 0.4080388937697428
                 }
             }
         },
@@ -79,6 +82,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580560200000,
+            "tournamentName": "Kitchener",
             "elo": {
                 "pregame": {
                     "opp": 1649.442994780456,
@@ -101,6 +105,7 @@
             "homeScore": "7",
             "status": "Official",
             "isoDate": 1573801200000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -126,6 +131,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1573826400000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1530.4968829087939,
@@ -151,6 +157,7 @@
             "homeScore": "9",
             "status": "Official",
             "isoDate": 1573893000000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1454.1735390289712,
@@ -176,6 +183,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1573907400000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1555.7580812493875,
@@ -201,6 +209,7 @@
             "homeScore": "7",
             "status": "Official",
             "isoDate": 1575014400000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1486.5990022605529,
@@ -226,6 +235,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1575036000000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1517.265538090203,
@@ -251,6 +261,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1575100800000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1485.3476872044073,
@@ -276,6 +287,7 @@
             "homeScore": "8",
             "status": "Official",
             "isoDate": 1575118800000,
+            "tournamentName": "Pickering",
             "elo": {
                 "pregame": {
                     "opp": 1592.347232492396,
@@ -294,12 +306,12 @@
     "points": 0,
     "games": 8,
     "opponentRecord": {
-        "w": 54,
-        "l": 39,
+        "w": 59,
+        "l": 40,
         "t": 2,
-        "g": 95
+        "g": 101
     },
-    "strengthOfSchedule": 0.558862108542384,
+    "strengthOfSchedule": 0.5631264386942896,
     "record": "0 - 8 - 0",
     "image": "Sudbury.png"
 }

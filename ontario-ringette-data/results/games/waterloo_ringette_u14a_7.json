@@ -9,5 +9,6 @@
     "home": "City of Ottawa",
     "homeScore": "1",
     "status": "Official",
-    "isoDate": 1578655800000
+    "isoDate": 1578655800000,
+    "tournamentName": "Waterloo"
 }

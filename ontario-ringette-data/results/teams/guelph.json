@@ -19,11 +19,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580448600000,
+            "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1532.1003672509423,
+                    "opp": 1561.0948619577882,
                     "elo": 1509.5059575542887,
-                    "probability": 0.4797048048828143
+                    "probability": 0.437758689952528
                 }
             }
         },
@@ -39,6 +40,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580465400000,
+            "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
                     "opp": 1600.4058598885986,
@@ -59,6 +61,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580530800000,
+            "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
                     "opp": 1569.426721929002,
@@ -79,11 +82,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580561700000,
+            "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1510.1996121617778,
+                    "opp": 1502.724505898455,
                     "elo": 1509.5059575542887,
-                    "probability": 0.5116119101220025
+                    "probability": 0.4972589932468825
                 }
             }
         },
@@ -99,11 +103,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1581048000000,
+            "tournamentName": "Guelph",
             "elo": {
                 "pregame": {
-                    "opp": 1381.8140344196815,
+                    "opp": 1390.2700851615136,
                     "elo": 1509.5059575542887,
-                    "probability": 0.6668436945533174
+                    "probability": 0.6558027437927854
                 }
             }
         },
@@ -119,6 +124,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1581072300000,
+            "tournamentName": "Guelph",
             "elo": {
                 "pregame": {
                     "opp": 1494.1311717665844,
@@ -139,6 +145,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1581127200000,
+            "tournamentName": "Guelph",
             "elo": {
                 "pregame": {
                     "opp": 1390.1715898176503,
@@ -159,6 +166,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1581150600000,
+            "tournamentName": "Guelph",
             "elo": {
                 "pregame": {
                     "opp": 1502.3006627278403,
@@ -181,6 +189,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1572585300000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -206,6 +215,7 @@
             "homeScore": "7",
             "status": "Official",
             "isoDate": 1572600600000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1484,
@@ -231,6 +241,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1572664500000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -256,6 +267,7 @@
             "homeScore": "0",
             "status": "Official",
             "isoDate": 1572683400000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1515.9323273572415,
@@ -281,6 +293,7 @@
             "homeScore": "4",
             "status": "Official",
             "isoDate": 1575608400000,
+            "tournamentName": "St Marys",
             "elo": {
                 "pregame": {
                     "opp": 1460.987429620865,
@@ -306,6 +319,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1575633600000,
+            "tournamentName": "St Marys",
             "elo": {
                 "pregame": {
                     "opp": 1454.430787149099,
@@ -331,6 +345,7 @@
             "homeScore": "4",
             "status": "Official",
             "isoDate": 1575687600000,
+            "tournamentName": "St Marys",
             "elo": {
                 "pregame": {
                     "opp": 1476.8496018053563,
@@ -356,6 +371,7 @@
             "homeScore": "5",
             "status": "Official",
             "isoDate": 1575702900000,
+            "tournamentName": "St Marys",
             "elo": {
                 "pregame": {
                     "opp": 1511.6002215760734,
@@ -381,6 +397,7 @@
             "homeScore": "0",
             "status": "Official",
             "isoDate": 1575788400000,
+            "tournamentName": "St Marys",
             "elo": {
                 "pregame": {
                     "opp": 1475.7478349646706,
@@ -399,12 +416,12 @@
     "points": 10,
     "games": 9,
     "opponentRecord": {
-        "w": 46,
-        "l": 52,
+        "w": 48,
+        "l": 54,
         "t": 4,
-        "g": 102
+        "g": 106
     },
-    "strengthOfSchedule": 0.49465390182918806,
+    "strengthOfSchedule": 0.4945583600056511,
     "record": "5 - 4 - 0",
     "image": "Guelph.png"
 }

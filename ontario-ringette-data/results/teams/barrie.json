@@ -19,6 +19,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580446800000,
+            "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
                     "opp": 1486.6560277714414,
@@ -39,11 +40,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580465400000,
+            "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1532.1003672509423,
+                    "opp": 1561.0948619577882,
                     "elo": 1421.0741687472764,
-                    "probability": 0.35508009723700096
+                    "probability": 0.31738387809585555
                 }
             }
         },
@@ -59,11 +61,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580531400000,
+            "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1510.1996121617778,
+                    "opp": 1502.724505898455,
                     "elo": 1421.0741687472764,
-                    "probability": 0.3848289675802048
+                    "probability": 0.3951962697640705
                 }
             }
         },
@@ -79,6 +82,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580558100000,
+            "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
                     "opp": 1569.426721929002,
@@ -101,6 +105,7 @@
             "homeScore": "9",
             "status": "Official",
             "isoDate": 1572585300000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -126,6 +131,7 @@
             "homeScore": "7",
             "status": "Official",
             "isoDate": 1572600600000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1484,
@@ -151,6 +157,7 @@
             "homeScore": "8",
             "status": "Official",
             "isoDate": 1572663600000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1469.4695015289756,
@@ -176,6 +183,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1572684300000,
+            "tournamentName": "Oshawa",
             "elo": {
                 "pregame": {
                     "opp": 1546.5981711137829,
@@ -201,6 +209,7 @@
             "homeScore": "4",
             "status": "Official",
             "isoDate": 1575619200000,
+            "tournamentName": "St Marys",
             "elo": {
                 "pregame": {
                     "opp": 1460.3637750030175,
@@ -226,6 +235,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1575633600000,
+            "tournamentName": "St Marys",
             "elo": {
                 "pregame": {
                     "opp": 1515.6106743795372,
@@ -251,6 +261,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1575684900000,
+            "tournamentName": "St Marys",
             "elo": {
                 "pregame": {
                     "opp": 1496.6789312523367,
@@ -276,6 +287,7 @@
             "homeScore": "6",
             "status": "Official",
             "isoDate": 1575702000000,
+            "tournamentName": "St Marys",
             "elo": {
                 "pregame": {
                     "opp": 1432.4706618963633,
@@ -301,6 +313,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1578035700000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1613.8414058436533,
@@ -326,6 +339,7 @@
             "homeScore": "6",
             "status": "Official",
             "isoDate": 1578057300000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1459.0561768544085,
@@ -351,6 +365,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1578110400000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1417.3010594277487,
@@ -376,6 +391,7 @@
             "homeScore": "7",
             "status": "Official",
             "isoDate": 1578132900000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1602.9194411451053,
@@ -394,12 +410,12 @@
     "points": 6,
     "games": 12,
     "opponentRecord": {
-        "w": 70,
-        "l": 63,
+        "w": 71,
+        "l": 66,
         "t": 3,
-        "g": 136
+        "g": 140
     },
-    "strengthOfSchedule": 0.5283157489039843,
+    "strengthOfSchedule": 0.5227805489682994,
     "record": "3 - 9 - 0",
     "image": "Barrie.png"
 }

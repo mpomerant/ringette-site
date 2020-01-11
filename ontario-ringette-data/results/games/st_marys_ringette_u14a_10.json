@@ -9,5 +9,6 @@
     "home": "St. Marys",
     "homeScore": "5",
     "status": "Official",
-    "isoDate": 1575723600000
+    "isoDate": 1575723600000,
+    "tournamentName": "St Marys"
 }

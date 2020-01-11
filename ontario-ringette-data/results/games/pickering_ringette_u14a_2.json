@@ -9,5 +9,6 @@
     "home": "Waterloo",
     "homeScore": "3",
     "status": "Official",
-    "isoDate": 1575003600000
+    "isoDate": 1575003600000,
+    "tournamentName": "Pickering"
 }

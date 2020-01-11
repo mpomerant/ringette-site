@@ -9,5 +9,6 @@
     "home": "Guelph",
     "homeScore": "0",
     "status": "",
-    "isoDate": 1581048000000
+    "isoDate": 1581048000000,
+    "tournamentName": "Guelph"
 }

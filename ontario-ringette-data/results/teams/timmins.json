@@ -20,6 +20,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1573804800000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1500.736306793522,
@@ -45,6 +46,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1573822800000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1515.3616542161765,
@@ -70,6 +72,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1573885800000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1573.6676672612887,
@@ -95,6 +98,7 @@
             "homeScore": "6",
             "status": "Official",
             "isoDate": 1573903800000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1544.3683148261919,
@@ -120,6 +124,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1573961400000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1529.2803920002589,
@@ -145,6 +150,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1573979400000,
+            "tournamentName": "Nepean",
             "elo": {
                 "pregame": {
                     "opp": 1581.4077342971013,
@@ -170,6 +176,7 @@
             "homeScore": "5",
             "status": "Official",
             "isoDate": 1578032100000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1553.2955414964408,
@@ -195,6 +202,7 @@
             "homeScore": "0",
             "status": "Official",
             "isoDate": 1578056400000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1416.1749590353331,
@@ -220,6 +228,7 @@
             "homeScore": "0",
             "status": "Official",
             "isoDate": 1578110400000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1553.1505252577172,
@@ -245,6 +254,7 @@
             "homeScore": "7",
             "status": "Official",
             "isoDate": 1578132900000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1429.698293222095,
@@ -270,6 +280,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1578193200000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1561.2693093195585,
@@ -288,12 +299,12 @@
     "points": 18,
     "games": 11,
     "opponentRecord": {
-        "w": 82,
-        "l": 57,
+        "w": 87,
+        "l": 60,
         "t": 7,
-        "g": 146
+        "g": 154
     },
-    "strengthOfSchedule": 0.5696728218215085,
+    "strengthOfSchedule": 0.5666543775809978,
     "record": "9 - 2 - 0",
     "image": "Timmins.png"
 }

@@ -19,6 +19,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1581051600000,
+            "tournamentName": "Guelph",
             "elo": {
                 "pregame": {
                     "opp": 1390.1715898176503,
@@ -39,6 +40,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1581072300000,
+            "tournamentName": "Guelph",
             "elo": {
                 "pregame": {
                     "opp": 1509.5059575542887,
@@ -59,6 +61,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1581127200000,
+            "tournamentName": "Guelph",
             "elo": {
                 "pregame": {
                     "opp": 1502.3006627278403,
@@ -79,11 +82,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1581157800000,
+            "tournamentName": "Guelph",
             "elo": {
                 "pregame": {
-                    "opp": 1381.8140344196815,
+                    "opp": 1390.2700851615136,
                     "elo": 1494.1311717665844,
-                    "probability": 0.6466414972449922
+                    "probability": 0.6352971975300734
                 }
             }
         }
@@ -101,6 +105,7 @@
             "homeScore": "4",
             "status": "Official",
             "isoDate": 1573187400000,
+            "tournamentName": "London",
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -126,6 +131,7 @@
             "homeScore": "0",
             "status": "Official",
             "isoDate": 1573204500000,
+            "tournamentName": "London",
             "elo": {
                 "pregame": {
                     "opp": 1484,
@@ -151,6 +157,7 @@
             "homeScore": "7",
             "status": "Official",
             "isoDate": 1573273800000,
+            "tournamentName": "London",
             "elo": {
                 "pregame": {
                     "opp": 1501.4695015289756,
@@ -176,6 +183,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1573289100000,
+            "tournamentName": "London",
             "elo": {
                 "pregame": {
                     "opp": 1545.0609969420489,
@@ -201,6 +209,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1575604800000,
+            "tournamentName": "St Marys",
             "elo": {
                 "pregame": {
                     "opp": 1501.0136326805302,
@@ -226,6 +235,7 @@
             "homeScore": "4",
             "status": "Official",
             "isoDate": 1575619200000,
+            "tournamentName": "St Marys",
             "elo": {
                 "pregame": {
                     "opp": 1470.9166139514377,
@@ -251,6 +261,7 @@
             "homeScore": "4",
             "status": "Official",
             "isoDate": 1575687600000,
+            "tournamentName": "St Marys",
             "elo": {
                 "pregame": {
                     "opp": 1496.8220004467587,
@@ -276,6 +287,7 @@
             "homeScore": "5",
             "status": "Official",
             "isoDate": 1575723600000,
+            "tournamentName": "St Marys",
             "elo": {
                 "pregame": {
                     "opp": 1417.6578765620636,
@@ -301,6 +313,7 @@
             "homeScore": "0",
             "status": "Official",
             "isoDate": 1575788400000,
+            "tournamentName": "St Marys",
             "elo": {
                 "pregame": {
                     "opp": 1527.8892943562025,
@@ -319,12 +332,12 @@
     "points": 8,
     "games": 9,
     "opponentRecord": {
-        "w": 55,
-        "l": 40,
+        "w": 56,
+        "l": 41,
         "t": 5,
-        "g": 100
+        "g": 102
     },
-    "strengthOfSchedule": 0.5563721325403569,
+    "strengthOfSchedule": 0.5556862745098039,
     "record": "4 - 5 - 0",
     "image": "St. Marys.png"
 }

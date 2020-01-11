@@ -31,7 +31,14 @@ const UpcomingGamesTable = ({nextGames}) => {
               maxWidth: '150px'
             },
             render: game => <span>{game.isHome ? 'vs' : '@'} <Link to={game.opponentLink}>{game.opponent}</Link></span> },
-            
+            { title: "Tournament", 
+            field: "tournament",
+            cellStyle: {
+              textAlign: 'center'
+              
+            },
+            whiteSpace: 'nowrap' 
+          },
             { title: "Date", 
             field: "date",
             cellStyle: {
@@ -40,6 +47,7 @@ const UpcomingGamesTable = ({nextGames}) => {
             },
             whiteSpace: 'nowrap' 
           },
+
           { title: "Opponent Record", field: "opponentRecord",cellStyle: {
             textAlign: 'center',
             whiteSpace: 'nowrap'

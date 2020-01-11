@@ -42,6 +42,14 @@ const GameResultTable = ({results}) => {
               textAlign: 'center'
               
             } },
+            { title: "Tournament", 
+            field: "tournament",
+            cellStyle: {
+              textAlign: 'center'
+              
+            },
+            whiteSpace: 'nowrap' 
+          },
             { title: "Date", 
             field: "date",
             cellStyle: {

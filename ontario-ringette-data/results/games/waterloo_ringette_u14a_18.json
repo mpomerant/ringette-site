@@ -4,10 +4,11 @@
     "type": "S2",
     "date": "Sun Jan 12",
     "time": "7:30A",
-    "visitor": "Not Available",
+    "visitor": "Nepean",
     "visitorScore": "0",
-    "home": "Not Available",
+    "home": "Sault Ste Marie",
     "homeScore": "0",
     "status": "",
-    "isoDate": 1578796200000
+    "isoDate": 1578796200000,
+    "tournamentName": "Waterloo"
 }

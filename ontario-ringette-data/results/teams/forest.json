@@ -19,6 +19,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580443200000,
+            "tournamentName": "Kitchener",
             "elo": {
                 "pregame": {
                     "opp": 1495.614176514694,
@@ -39,11 +40,12 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580461200000,
+            "tournamentName": "Kitchener",
             "elo": {
                 "pregame": {
-                    "opp": 1495.8821836239877,
+                    "opp": 1467.616853901771,
                     "elo": 1649.442994780456,
-                    "probability": 0.6994666799553082
+                    "probability": 0.7329313698651532
                 }
             }
         },
@@ -59,6 +61,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580533200000,
+            "tournamentName": "Kitchener",
             "elo": {
                 "pregame": {
                     "opp": 1539.85900161892,
@@ -79,6 +82,7 @@
             "homeScore": "0",
             "status": "",
             "isoDate": 1580560200000,
+            "tournamentName": "Kitchener",
             "elo": {
                 "pregame": {
                     "opp": 1395.133417184345,
@@ -101,6 +105,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1573185600000,
+            "tournamentName": "London",
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -126,6 +131,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1573200900000,
+            "tournamentName": "London",
             "elo": {
                 "pregame": {
                     "opp": 1516,
@@ -151,6 +157,7 @@
             "homeScore": "7",
             "status": "Official",
             "isoDate": 1573273800000,
+            "tournamentName": "London",
             "elo": {
                 "pregame": {
                     "opp": 1468,
@@ -176,6 +183,7 @@
             "homeScore": "0",
             "status": "Official",
             "isoDate": 1573291800000,
+            "tournamentName": "London",
             "elo": {
                 "pregame": {
                     "opp": 1472.3184428376549,
@@ -201,6 +209,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1573354800000,
+            "tournamentName": "London",
             "elo": {
                 "pregame": {
                     "opp": 1544.5457191314104,
@@ -226,6 +235,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1573373700000,
+            "tournamentName": "London",
             "elo": {
                 "pregame": {
                     "opp": 1570.3420030502605,
@@ -251,6 +261,7 @@
             "homeScore": "8",
             "status": "Official",
             "isoDate": 1575000000000,
+            "tournamentName": "Mississauga",
             "elo": {
                 "pregame": {
                     "opp": 1498.1181270610339,
@@ -276,6 +287,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1575018900000,
+            "tournamentName": "Mississauga",
             "elo": {
                 "pregame": {
                     "opp": 1499.8169495730074,
@@ -301,6 +313,7 @@
             "homeScore": "6",
             "status": "Official",
             "isoDate": 1575083700000,
+            "tournamentName": "Mississauga",
             "elo": {
                 "pregame": {
                     "opp": 1569.1650554084786,
@@ -326,6 +339,7 @@
             "homeScore": "9",
             "status": "Official",
             "isoDate": 1575109200000,
+            "tournamentName": "Mississauga",
             "elo": {
                 "pregame": {
                     "opp": 1472.514166564673,
@@ -351,6 +365,7 @@
             "homeScore": "3",
             "status": "Official",
             "isoDate": 1575174300000,
+            "tournamentName": "Mississauga",
             "elo": {
                 "pregame": {
                     "opp": 1568.5942108399686,
@@ -376,6 +391,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1575190800000,
+            "tournamentName": "Mississauga",
             "elo": {
                 "pregame": {
                     "opp": 1571.0492833373532,
@@ -401,6 +417,7 @@
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1578035700000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1473.1109560924403,
@@ -426,6 +443,7 @@
             "homeScore": "4",
             "status": "Official",
             "isoDate": 1578053700000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1611.4628353336816,
@@ -451,6 +469,7 @@
             "homeScore": "8",
             "status": "Official",
             "isoDate": 1578106800000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1475.249724127382,
@@ -476,6 +495,7 @@
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1578132000000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1434.6684264372695,
@@ -501,6 +521,7 @@
             "homeScore": "4",
             "status": "Official",
             "isoDate": 1578193200000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1615.0185326520364,
@@ -526,6 +547,7 @@
             "homeScore": "5",
             "status": "Official",
             "isoDate": 1578208500000,
+            "tournamentName": "Whitby",
             "elo": {
                 "pregame": {
                     "opp": 1579.5684996439013,
@@ -544,12 +566,12 @@
     "points": 30,
     "games": 18,
     "opponentRecord": {
-        "w": 116,
-        "l": 96,
+        "w": 120,
+        "l": 98,
         "t": 13,
-        "g": 225
+        "g": 231
     },
-    "strengthOfSchedule": 0.5497106907939627,
+    "strengthOfSchedule": 0.5494863004335964,
     "record": "15 - 3 - 0",
     "image": "Forest.png"
 }
