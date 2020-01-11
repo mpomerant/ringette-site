@@ -3,9 +3,11 @@
     "tournament": "nepean_ringette",
     "type": "RR",
     "date": "Fri Nov 15",
+    "time": "1:30P",
     "visitor": "Kitchener",
     "visitorScore": "1",
     "home": "Gloucester Cumberland - B",
     "homeScore": "2",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1573806600000
 }

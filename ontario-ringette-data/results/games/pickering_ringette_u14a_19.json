@@ -3,9 +3,11 @@
     "tournament": "pickering_ringette",
     "type": "RR",
     "date": "Sat Nov 30",
+    "time": "3:00P",
     "visitor": "Oshawa",
     "visitorScore": "5",
     "home": "Gloucester Cumberland - D",
     "homeScore": "6",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575108000000
 }

@@ -3,9 +3,11 @@
     "tournament": "st_marys_ringette",
     "type": "RR",
     "date": "Fri Dec 6",
+    "time": "2:15P",
     "visitor": "Kitchener",
     "visitorScore": "3",
     "home": "Mississauga",
     "homeScore": "1",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575623700000
 }

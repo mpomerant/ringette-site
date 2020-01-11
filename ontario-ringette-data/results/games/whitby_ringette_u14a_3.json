@@ -3,9 +3,11 @@
     "tournament": "whitby_ringette",
     "type": "RR",
     "date": "Fri Jan 3",
+    "time": "12:15P",
     "visitor": "Forest",
     "visitorScore": "7",
     "home": "Barrie",
     "homeScore": "1",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1578035700000
 }

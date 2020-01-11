@@ -3,9 +3,11 @@
     "tournament": "mississauga_ringette",
     "type": "RR",
     "date": "Sat Nov 30",
+    "time": "3:20P",
     "visitor": "Mississauga",
     "visitorScore": "2",
     "home": "Forest",
     "homeScore": "9",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575109200000
 }

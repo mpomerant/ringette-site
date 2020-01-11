@@ -3,9 +3,11 @@
     "tournament": "nepean_ringette",
     "type": "RR",
     "date": "Fri Nov 15",
+    "time": "1:00P",
     "visitor": "Timmins",
     "visitorScore": "8",
     "home": "Nepean",
     "homeScore": "1",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1573804800000
 }

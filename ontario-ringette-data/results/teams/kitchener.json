@@ -5,96 +5,186 @@
     "tie": 0,
     "for": 29,
     "against": 26,
-    "elo": 1495.0057832689324,
-    "results": [
+    "elo": 1495.614176514694,
+    "upcoming": [
         {
-            "id": "nepean_ringette_u14a_9",
-            "tournament": "nepean_ringette",
+            "id": "kitchener_ringette_u14a_1",
+            "tournament": "kitchener_ringette",
             "type": "RR",
-            "date": "Fri Nov 15",
-            "visitor": "City of Ottawa",
-            "visitorScore": "2",
+            "date": "Fri Jan 31",
+            "time": "9:00A",
+            "visitor": "Forest",
+            "visitorScore": "0",
             "home": "Kitchener",
-            "homeScore": "3",
-            "status": "Official",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580443200000,
             "elo": {
                 "pregame": {
-                    "opp": 1500,
-                    "elo": 1500,
-                    "probability": 0.512622317608554
-                },
-                "postgame": {
-                    "opp": 1484,
-                    "elo": 1516
+                    "opp": 1649.442994780456,
+                    "elo": 1495.614176514694,
+                    "probability": 0.300204968465966
                 }
-            },
-            "record": "1 - 0 - 0"
+            }
         },
+        {
+            "id": "kitchener_ringette_u14a_3",
+            "tournament": "kitchener_ringette",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "1:00P",
+            "visitor": "Kitchener",
+            "visitorScore": "0",
+            "home": "Sudbury",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580457600000,
+            "elo": {
+                "pregame": {
+                    "opp": 1395.133417184345,
+                    "elo": 1495.614176514694,
+                    "probability": 0.630719060620313
+                }
+            }
+        },
+        {
+            "id": "kitchener_ringette_u14a_6",
+            "tournament": "kitchener_ringette",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "7:00A",
+            "visitor": "Waterloo",
+            "visitorScore": "0",
+            "home": "Kitchener",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580522400000,
+            "elo": {
+                "pregame": {
+                    "opp": 1495.8821836239877,
+                    "elo": 1495.614176514694,
+                    "probability": 0.5122319385661487
+                }
+            }
+        },
+        {
+            "id": "kitchener_ringette_u14a_9",
+            "tournament": "kitchener_ringette",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "2:00P",
+            "visitor": "Kitchener",
+            "visitorScore": "0",
+            "home": "Markham - F",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580547600000,
+            "elo": {
+                "pregame": {
+                    "opp": 1539.85900161892,
+                    "elo": 1495.614176514694,
+                    "probability": 0.4483233573794476
+                }
+            }
+        }
+    ],
+    "results": [
         {
             "id": "nepean_ringette_u14a_7",
             "tournament": "nepean_ringette",
             "type": "RR",
             "date": "Fri Nov 15",
+            "time": "1:30P",
             "visitor": "Kitchener",
             "visitorScore": "1",
             "home": "Gloucester Cumberland - B",
             "homeScore": "2",
             "status": "Official",
+            "isoDate": 1573806600000,
             "elo": {
                 "pregame": {
-                    "opp": 1547.1619067560725,
-                    "elo": 1516,
-                    "probability": 0.4672534621478919
+                    "opp": 1560.4225093861874,
+                    "elo": 1500,
+                    "probability": 0.42512650370921246
                 },
                 "postgame": {
-                    "opp": 1561.7306836882485,
-                    "elo": 1501.431223067824
+                    "opp": 1573.6676672612887,
+                    "elo": 1486.7548421248987
+                }
+            },
+            "record": "0 - 1 - 0"
+        },
+        {
+            "id": "nepean_ringette_u14a_9",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Fri Nov 15",
+            "time": "5:30P",
+            "visitor": "City of Ottawa",
+            "visitorScore": "2",
+            "home": "Kitchener",
+            "homeScore": "3",
+            "status": "Official",
+            "isoDate": 1573821000000,
+            "elo": {
+                "pregame": {
+                    "opp": 1516,
+                    "elo": 1486.7548421248987,
+                    "probability": 0.4700361299774154
+                },
+                "postgame": {
+                    "opp": 1498.656382529763,
+                    "elo": 1504.0984595951356
                 }
             },
             "record": "1 - 1 - 0"
-        },
-        {
-            "id": "nepean_ringette_u14a_18",
-            "tournament": "nepean_ringette",
-            "type": "RR",
-            "date": "Sat Nov 16",
-            "visitor": "Nepean",
-            "visitorScore": "3",
-            "home": "Kitchener",
-            "homeScore": "2",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1484.7023986633528,
-                    "elo": 1501.431223067824,
-                    "probability": 0.5117550950568426
-                },
-                "postgame": {
-                    "opp": 1501.4721946992245,
-                    "elo": 1484.6614270319524
-                }
-            },
-            "record": "1 - 2 - 0"
         },
         {
             "id": "nepean_ringette_u14a_14",
             "tournament": "nepean_ringette",
             "type": "RR",
             "date": "Sat Nov 16",
+            "time": "1:00P",
             "visitor": "Kitchener",
             "visitorScore": "7",
             "home": "Upper Ottawa Valley",
             "homeScore": "3",
             "status": "Official",
+            "isoDate": 1573891200000,
             "elo": {
                 "pregame": {
-                    "opp": 1456.1902902825846,
-                    "elo": 1484.6614270319524,
-                    "probability": 0.5288396356406239
+                    "opp": 1470.769481544567,
+                    "elo": 1504.0984595951356,
+                    "probability": 0.5358901539529854
                 },
                 "postgame": {
-                    "opp": 1441.4985075664008,
-                    "elo": 1499.3532097481361
+                    "opp": 1456.2996469124596,
+                    "elo": 1518.568294227243
+                }
+            },
+            "record": "2 - 1 - 0"
+        },
+        {
+            "id": "nepean_ringette_u14a_18",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Sat Nov 16",
+            "time": "5:30P",
+            "visitor": "Nepean",
+            "visitorScore": "3",
+            "home": "Kitchener",
+            "homeScore": "2",
+            "status": "Official",
+            "isoDate": 1573907400000,
+            "elo": {
+                "pregame": {
+                    "opp": 1484.7023986633528,
+                    "elo": 1518.568294227243,
+                    "probability": 0.5366685910820108
+                },
+                "postgame": {
+                    "opp": 1502.2570602100657,
+                    "elo": 1501.0136326805302
                 }
             },
             "record": "2 - 2 - 0"
@@ -104,20 +194,22 @@
             "tournament": "st_marys_ringette",
             "type": "RR",
             "date": "Fri Dec 6",
+            "time": "9:00A",
             "visitor": "St. Marys",
             "visitorScore": "6",
             "home": "Kitchener",
             "homeScore": "2",
             "status": "Official",
+            "isoDate": 1575604800000,
             "elo": {
                 "pregame": {
-                    "opp": 1461.0321779130995,
-                    "elo": 1499.3532097481361,
-                    "probability": 0.5431205210857921
+                    "opp": 1441.65656890841,
+                    "elo": 1501.0136326805302,
+                    "probability": 0.5733547300321854
                 },
                 "postgame": {
-                    "opp": 1478.789805017549,
-                    "elo": 1481.5955826436866
+                    "opp": 1460.3637750030175,
+                    "elo": 1482.3064265859227
                 }
             },
             "record": "2 - 3 - 0"
@@ -127,20 +219,22 @@
             "tournament": "st_marys_ringette",
             "type": "RR",
             "date": "Fri Dec 6",
+            "time": "2:15P",
             "visitor": "Kitchener",
             "visitorScore": "3",
             "home": "Mississauga",
             "homeScore": "1",
             "status": "Official",
+            "isoDate": 1575623700000,
             "elo": {
                 "pregame": {
-                    "opp": 1447.6505489040317,
-                    "elo": 1481.5955826436866,
-                    "probability": 0.5367833126713664
+                    "opp": 1446.8431665627772,
+                    "elo": 1482.3064265859227,
+                    "probability": 0.5389834209466399
                 },
                 "postgame": {
-                    "opp": 1433.2088204101412,
-                    "elo": 1496.037311137577
+                    "opp": 1432.4706618963633,
+                    "elo": 1496.6789312523367
                 }
             },
             "record": "3 - 3 - 0"
@@ -150,20 +244,22 @@
             "tournament": "st_marys_ringette",
             "type": "RR",
             "date": "Sat Dec 7",
+            "time": "7:15A",
             "visitor": "Kitchener",
             "visitorScore": "6",
             "home": "Barrie",
             "homeScore": "2",
             "status": "Official",
+            "isoDate": 1575684900000,
             "elo": {
                 "pregame": {
-                    "opp": 1469.716335771986,
-                    "elo": 1496.037311137577,
-                    "probability": 0.5257151128030866
+                    "opp": 1473.2194610818774,
+                    "elo": 1496.6789312523367,
+                    "probability": 0.5215538119537083
                 },
                 "postgame": {
-                    "opp": 1454.926147894686,
-                    "elo": 1510.827499014877
+                    "opp": 1458.2981707581407,
+                    "elo": 1511.6002215760734
                 }
             },
             "record": "4 - 3 - 0"
@@ -173,20 +269,22 @@
             "tournament": "st_marys_ringette",
             "type": "RR",
             "date": "Sat Dec 7",
+            "time": "12:15P",
             "visitor": "Guelph",
             "visitorScore": "7",
             "home": "Kitchener",
             "homeScore": "5",
             "status": "Official",
+            "isoDate": 1575702900000,
             "elo": {
                 "pregame": {
-                    "opp": 1514.6990526397972,
-                    "elo": 1510.827499014877,
-                    "probability": 0.5069817567716149
+                    "opp": 1511.9032492948231,
+                    "elo": 1511.6002215760734,
+                    "probability": 0.51218092644865
                 },
                 "postgame": {
-                    "opp": 1530.5207683857418,
-                    "elo": 1495.0057832689324
+                    "opp": 1527.8892943562025,
+                    "elo": 1495.614176514694
                 }
             },
             "record": "4 - 4 - 0"
@@ -196,12 +294,12 @@
     "points": 8,
     "games": 8,
     "opponentRecord": {
-        "w": 31,
-        "l": 46,
+        "w": 33,
+        "l": 50,
         "t": 1,
-        "g": 78
+        "g": 84
     },
-    "strengthOfSchedule": 0.450648393751842,
+    "strengthOfSchedule": 0.4445438579050271,
     "record": "4 - 4 - 0",
     "image": "Kitchener.png"
 }

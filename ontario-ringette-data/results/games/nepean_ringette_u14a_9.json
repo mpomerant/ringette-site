@@ -3,9 +3,11 @@
     "tournament": "nepean_ringette",
     "type": "RR",
     "date": "Fri Nov 15",
+    "time": "5:30P",
     "visitor": "City of Ottawa",
     "visitorScore": "2",
     "home": "Kitchener",
     "homeScore": "3",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1573821000000
 }

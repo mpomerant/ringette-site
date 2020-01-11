@@ -3,9 +3,11 @@
     "tournament": "pickering_ringette",
     "type": "RR",
     "date": "Fri Nov 29",
+    "time": "5:00P",
     "visitor": "Markham - A",
     "visitorScore": "4",
     "home": "West Ottawa - F",
     "homeScore": "1",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575028800000
 }

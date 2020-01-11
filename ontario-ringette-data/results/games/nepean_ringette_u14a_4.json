@@ -3,9 +3,11 @@
     "tournament": "nepean_ringette",
     "type": "RR",
     "date": "Fri Nov 15",
+    "time": "12:00P",
     "visitor": "Sudbury",
     "visitorScore": "3",
     "home": "City of Ottawa",
     "homeScore": "7",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1573801200000
 }

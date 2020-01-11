@@ -3,9 +3,11 @@
     "tournament": "st_marys_ringette",
     "type": "RR",
     "date": "Fri Dec 6",
+    "time": "5:00P",
     "visitor": "Barrie",
     "visitorScore": "4",
     "home": "Guelph",
     "homeScore": "3",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575633600000
 }

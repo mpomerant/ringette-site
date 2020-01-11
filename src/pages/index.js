@@ -16,6 +16,31 @@ export default function Index({data}) {
   const theme = useTheme();
   const matches = useMediaQuery(theme.breakpoints.down('sm'));
   const teams = data.allTeamsJson.edges.map(team => team.node);
+  const games = data.allGamesJson.edges.map(team => team.node)
+  .filter(game => game.status === 'Official')
+  .sort((a, b) => {
+    return a.isoDate - b.isoDate;
+  })
+  .map(item => {
+    const game = {...item};
+    game.gameDate = `${game.date} ${game.time}`;
+    return game;
+  });
+const lastGames = games.slice(Math.max(games.length - 5, 1));
+
+const unoffialGames = data.allGamesJson.edges.map(team => team.node)
+  .filter(game => game.status !== 'Official')
+  .sort((a, b) => {
+    return a.isoDate - b.isoDate;
+  })
+  .map(item => {
+    const game = {...item};
+    game.gameDate = `${game.date} ${game.time}`;
+    return game;
+  });;
+
+const nextGames = unoffialGames.slice(0, 5);
+
 
   const imageMap = data.allFile.edges.reduce((acc, curr) => {
       const name = curr.node.name;
@@ -26,7 +51,7 @@ export default function Index({data}) {
   return (
     <Layout>
 
-      
+
       <MaterialTable
       options={{
         search: false,
@@ -76,6 +101,80 @@ export default function Index({data}) {
           title="Team Rankings"
         />
 
+<MaterialTable
+      options={{
+        search: false,
+        paging: false,
+        pageSize: 100,
+        headerStyle: {
+          backgroundColor: '#44bac8',
+          color: '#FFF',
+          textAlign: 'center',
+          whitSpace: 'nowrap'
+        },
+        cellStyle: {
+         textAlign: 'center',
+         whitSpace: 'nowrap'
+        }
+        
+      }}
+          columns={[
+            { title: "Date", 
+            field: "gameDate",
+            },
+            { title: "Home", 
+            field: "home",
+            },
+            { title: "", 
+            field: "homeScore",
+            },
+            { title: "", 
+            field: "visitorScore",
+            },
+            { title: "Visitor", 
+            field: "visitor",
+            }
+          ]}
+          data={lastGames}
+
+          
+          title="Last 5 Results"
+        />
+      <MaterialTable
+      options={{
+        search: false,
+        paging: false,
+        pageSize: 100,
+        headerStyle: {
+          backgroundColor: '#44bac8',
+          color: '#FFF',
+          textAlign: 'center',
+          whitSpace: 'nowrap'
+        },
+        cellStyle: {
+         textAlign: 'center',
+         whitSpace: 'nowrap'
+        }
+        
+      }}
+          columns={[
+            { title: "Date", 
+            field: "gameDate",
+            },
+            { title: "Home", 
+            field: "home",
+            },
+            
+            { title: "Visitor", 
+            field: "visitor",
+            }
+          ]}
+          data={nextGames}
+
+          
+          title="Upcoming Games"
+        />
+
     </Layout>
   );
 }
@@ -93,6 +192,20 @@ export const query = graphql`
               ...GatsbyImageSharpFluid
             }
           }
+        }
+      }
+    }
+    allGamesJson {
+      edges {
+        node {
+          date
+          time
+          isoDate
+          home
+          status
+          visitor
+          homeScore
+          visitorScore
         }
       }
     }

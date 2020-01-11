@@ -3,9 +3,11 @@
     "tournament": "pickering_ringette",
     "type": "RR",
     "date": "Fri Nov 29",
+    "time": "6:00P",
     "visitor": "Oshawa",
     "visitorScore": "3",
     "home": "London",
     "homeScore": "3",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575032400000
 }

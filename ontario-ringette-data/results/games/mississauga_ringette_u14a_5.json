@@ -3,9 +3,11 @@
     "tournament": "mississauga_ringette",
     "type": "RR",
     "date": "Fri Nov 29",
+    "time": "2:20P",
     "visitor": "Mississauga",
     "visitorScore": "0",
     "home": "Markham - F",
     "homeScore": "7",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575019200000
 }

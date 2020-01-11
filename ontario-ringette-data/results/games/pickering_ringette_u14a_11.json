@@ -3,9 +3,11 @@
     "tournament": "pickering_ringette",
     "type": "RR",
     "date": "Fri Nov 29",
+    "time": "7:00P",
     "visitor": "Richmond Hill",
     "visitorScore": "10",
     "home": "Sudbury",
     "homeScore": "3",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575036000000
 }

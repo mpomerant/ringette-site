@@ -3,9 +3,11 @@
     "tournament": "whitby_ringette",
     "type": "RR",
     "date": "Sat Jan 4",
+    "time": "8:15A",
     "visitor": "Ajax",
     "visitorScore": "0",
     "home": "West Ottawa - G",
     "homeScore": "6",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1578107700000
 }

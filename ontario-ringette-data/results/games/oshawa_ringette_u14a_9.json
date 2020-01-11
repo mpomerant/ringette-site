@@ -3,9 +3,11 @@
     "tournament": "oshawa_ringette",
     "type": "RR",
     "date": "Sat Nov 2",
+    "time": "9:00A",
     "visitor": "Sault Ste Marie",
     "visitorScore": "0",
     "home": "West Ottawa - G",
     "homeScore": "1",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1572667200000
 }

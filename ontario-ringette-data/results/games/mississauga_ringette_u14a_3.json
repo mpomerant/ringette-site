@@ -3,9 +3,11 @@
     "tournament": "mississauga_ringette",
     "type": "RR",
     "date": "Fri Nov 29",
+    "time": "9:15A",
     "visitor": "Markham - F",
     "visitorScore": "3",
     "home": "Sault Ste Marie",
     "homeScore": "3",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575000900000
 }

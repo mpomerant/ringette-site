@@ -3,9 +3,11 @@
     "tournament": "whitby_ringette",
     "type": "RR",
     "date": "Fri Jan 3",
+    "time": "6:00P",
     "visitor": "Timmins",
     "visitorScore": "7",
     "home": "Ajax",
     "homeScore": "0",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1578056400000
 }

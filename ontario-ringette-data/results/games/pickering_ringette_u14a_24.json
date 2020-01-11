@@ -3,9 +3,11 @@
     "tournament": "pickering_ringette",
     "type": "RR",
     "date": "Sat Nov 30",
+    "time": "8:00P",
     "visitor": "Whitby",
     "visitorScore": "1",
     "home": "West Ottawa - F",
     "homeScore": "3",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575126000000
 }

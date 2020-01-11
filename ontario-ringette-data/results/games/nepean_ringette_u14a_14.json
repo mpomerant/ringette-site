@@ -3,9 +3,11 @@
     "tournament": "nepean_ringette",
     "type": "RR",
     "date": "Sat Nov 16",
+    "time": "1:00P",
     "visitor": "Kitchener",
     "visitorScore": "7",
     "home": "Upper Ottawa Valley",
     "homeScore": "3",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1573891200000
 }

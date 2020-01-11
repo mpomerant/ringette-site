@@ -3,9 +3,11 @@
     "tournament": "oshawa_ringette",
     "type": "RR",
     "date": "Sat Nov 2",
+    "time": "1:30P",
     "visitor": "Guelph",
     "visitorScore": "3",
     "home": "Sault Ste Marie",
     "homeScore": "0",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1572683400000
 }

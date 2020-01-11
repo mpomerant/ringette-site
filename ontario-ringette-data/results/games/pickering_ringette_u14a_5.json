@@ -3,9 +3,11 @@
     "tournament": "pickering_ringette",
     "type": "RR",
     "date": "Fri Nov 29",
+    "time": "1:00P",
     "visitor": "Sudbury",
     "visitorScore": "2",
     "home": "Whitby",
     "homeScore": "7",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575014400000
 }

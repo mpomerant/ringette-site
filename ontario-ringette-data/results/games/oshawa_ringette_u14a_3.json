@@ -3,9 +3,11 @@
     "tournament": "oshawa_ringette",
     "type": "RR",
     "date": "Fri Nov 1",
+    "time": "10:15A",
     "visitor": "West Ottawa - G",
     "visitorScore": "5",
     "home": "Guelph",
     "homeScore": "3",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1572585300000
 }

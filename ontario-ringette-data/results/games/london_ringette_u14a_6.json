@@ -3,9 +3,11 @@
     "tournament": "london_ringette",
     "type": "RR",
     "date": "Fri Nov 8",
+    "time": "1:30P",
     "visitor": "Ajax",
     "visitorScore": "0",
     "home": "Markham - A",
     "homeScore": "5",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1573201800000
 }

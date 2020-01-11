@@ -1,22 +1,146 @@
 {
     "name": "Nepean",
-    "win": 4,
+    "win": 6,
     "loss": 4,
     "tie": 0,
-    "for": 30,
-    "against": 29,
-    "elo": 1499.1099908131137,
+    "for": 36,
+    "against": 33,
+    "elo": 1524.0701651492739,
+    "upcoming": [
+        {
+            "id": "waterloo_ringette_u14a_10",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Sat Jan 11",
+            "time": "7:00A",
+            "visitor": "Nepean",
+            "visitorScore": "0",
+            "home": "Oshawa",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1578708000000,
+            "elo": {
+                "pregame": {
+                    "opp": 1378.6355736400028,
+                    "elo": 1524.0701651492739,
+                    "probability": 0.6894145444608499
+                }
+            }
+        },
+        {
+            "id": "waterloo_ringette_u14a_13",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Sat Jan 11",
+            "time": "11:00A",
+            "visitor": "Nepean",
+            "visitorScore": "0",
+            "home": "Sault Ste Marie",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1578722400000,
+            "elo": {
+                "pregame": {
+                    "opp": 1533.6246639340468,
+                    "elo": 1524.0701651492739,
+                    "probability": 0.49869932095513136
+                }
+            }
+        },
+        {
+            "id": "gloucester_cumberland_u14a_1",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Thu Jan 30",
+            "time": "6:30P",
+            "visitor": "Nepean",
+            "visitorScore": "0",
+            "home": "Gloucester Cumberland - B",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580391000000,
+            "elo": {
+                "pregame": {
+                    "opp": 1600.8672435115193,
+                    "elo": 1524.0701651492739,
+                    "probability": 0.4019787728514348
+                }
+            }
+        },
+        {
+            "id": "gloucester_cumberland_u14a_6",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "1:45P",
+            "visitor": "Upper Ottawa Valley",
+            "visitorScore": "0",
+            "home": "Nepean",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580460300000,
+            "elo": {
+                "pregame": {
+                    "opp": 1427.4227472937864,
+                    "elo": 1524.0701651492739,
+                    "probability": 0.6254988098108836
+                }
+            }
+        },
+        {
+            "id": "gloucester_cumberland_u14a_11",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "12:45P",
+            "visitor": "Nova Scotia",
+            "visitorScore": "0",
+            "home": "Nepean",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580543100000,
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1524.0701651492739,
+                    "probability": 0.5224421767533094
+                }
+            }
+        },
+        {
+            "id": "gloucester_cumberland_u14a_14",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "5:30P",
+            "visitor": "Nepean",
+            "visitorScore": "0",
+            "home": "West Ottawa - G",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580560200000,
+            "elo": {
+                "pregame": {
+                    "opp": 1599.6196665104226,
+                    "elo": 1524.0701651492739,
+                    "probability": 0.40372847230914255
+                }
+            }
+        }
+    ],
     "results": [
         {
             "id": "nepean_ringette_u14a_1",
             "tournament": "nepean_ringette",
             "type": "RR",
             "date": "Thu Nov 14",
+            "time": "6:00P",
             "visitor": "Nepean",
             "visitorScore": "0",
             "home": "Metcalfe",
             "homeScore": "4",
             "status": "Official",
+            "isoDate": 1573736400000,
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -35,11 +159,13 @@
             "tournament": "nepean_ringette",
             "type": "RR",
             "date": "Fri Nov 15",
+            "time": "8:00A",
             "visitor": "Gloucester Cumberland - D",
             "visitorScore": "1",
             "home": "Nepean",
             "homeScore": "8",
             "status": "Official",
+            "isoDate": 1573786800000,
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -58,11 +184,13 @@
             "tournament": "nepean_ringette",
             "type": "RR",
             "date": "Fri Nov 15",
+            "time": "1:00P",
             "visitor": "Timmins",
             "visitorScore": "8",
             "home": "Nepean",
             "homeScore": "1",
             "status": "Official",
+            "isoDate": 1573804800000,
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -81,20 +209,22 @@
             "tournament": "nepean_ringette",
             "type": "RR",
             "date": "Sat Nov 16",
+            "time": "5:30P",
             "visitor": "Nepean",
             "visitorScore": "3",
             "home": "Kitchener",
             "homeScore": "2",
             "status": "Official",
+            "isoDate": 1573907400000,
             "elo": {
                 "pregame": {
-                    "opp": 1501.431223067824,
+                    "opp": 1518.568294227243,
                     "elo": 1484.7023986633528,
-                    "probability": 0.4882449049431574
+                    "probability": 0.4633314089179892
                 },
                 "postgame": {
-                    "opp": 1484.6614270319524,
-                    "elo": 1501.4721946992245
+                    "opp": 1501.0136326805302,
+                    "elo": 1502.2570602100657
                 }
             },
             "record": "2 - 2 - 0"
@@ -104,20 +234,22 @@
             "tournament": "pickering_ringette",
             "type": "RR",
             "date": "Fri Nov 29",
+            "time": "10:00A",
             "visitor": "Nepean",
             "visitorScore": "8",
             "home": "Waterloo",
             "homeScore": "3",
             "status": "Official",
+            "isoDate": 1575003600000,
             "elo": {
                 "pregame": {
-                    "opp": 1514.6695754985699,
-                    "elo": 1501.4721946992245,
-                    "probability": 0.49339020256297283
+                    "opp": 1500,
+                    "elo": 1502.2570602100657,
+                    "probability": 0.4906657498518502
                 },
                 "postgame": {
-                    "opp": 1498.0621057909682,
-                    "elo": 1518.0796644068262
+                    "opp": 1484.1039400017034,
+                    "elo": 1518.1531202083622
                 }
             },
             "record": "3 - 2 - 0"
@@ -127,20 +259,22 @@
             "tournament": "pickering_ringette",
             "type": "RR",
             "date": "Fri Nov 29",
+            "time": "3:00P",
             "visitor": "Nepean",
             "visitorScore": "6",
             "home": "Ajax",
             "homeScore": "3",
             "status": "Official",
+            "isoDate": 1575021600000,
             "elo": {
                 "pregame": {
-                    "opp": 1472.1224839398878,
-                    "elo": 1518.0796644068262,
-                    "probability": 0.554144447510969
+                    "opp": 1473.4854105415266,
+                    "elo": 1518.1531202083622,
+                    "probability": 0.552286335048759
                 },
                 "postgame": {
-                    "opp": 1458.2266326607723,
-                    "elo": 1531.9755156859417
+                    "opp": 1459.5311757087936,
+                    "elo": 1532.1073550410952
                 }
             },
             "record": "4 - 2 - 0"
@@ -150,20 +284,22 @@
             "tournament": "pickering_ringette",
             "type": "RR",
             "date": "Sat Nov 30",
+            "time": "12:00P",
             "visitor": "Markham - A",
             "visitorScore": "5",
             "home": "Nepean",
             "homeScore": "3",
             "status": "Official",
+            "isoDate": 1575097200000,
             "elo": {
                 "pregame": {
-                    "opp": 1579.893479395669,
-                    "elo": 1531.9755156859417,
-                    "probability": 0.443033001089151
+                    "opp": 1578.4697148880448,
+                    "elo": 1532.1073550410952,
+                    "probability": 0.44527200351303664
                 },
                 "postgame": {
-                    "opp": 1593.7006616856288,
-                    "elo": 1518.1683333959818
+                    "opp": 1592.347232492396,
+                    "elo": 1518.229837436744
                 }
             },
             "record": "4 - 3 - 0"
@@ -173,35 +309,87 @@
             "tournament": "pickering_ringette",
             "type": "RR",
             "date": "Sat Nov 30",
+            "time": "5:00P",
             "visitor": "London",
             "visitorScore": "3",
             "home": "Nepean",
             "homeScore": "1",
             "status": "Official",
+            "isoDate": 1575115200000,
             "elo": {
                 "pregame": {
-                    "opp": 1450.930241376854,
-                    "elo": 1518.1683333959818,
-                    "probability": 0.584554377662309
+                    "opp": 1468.3757925865405,
+                    "elo": 1518.229837436744,
+                    "probability": 0.559750387726454
                 },
                 "postgame": {
-                    "opp": 1469.988583959722,
-                    "elo": 1499.1099908131137
+                    "opp": 1486.6560277714414,
+                    "elo": 1499.949602251843
                 }
             },
             "record": "4 - 4 - 0"
+        },
+        {
+            "id": "waterloo_ringette_u14a_3",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Fri Jan 10",
+            "time": "10:00A",
+            "visitor": "City of Ottawa",
+            "visitorScore": "2",
+            "home": "Nepean",
+            "homeScore": "3",
+            "status": "Official",
+            "isoDate": 1578632400000,
+            "elo": {
+                "pregame": {
+                    "opp": 1444.6947239344179,
+                    "elo": 1499.949602251843,
+                    "probability": 0.5674944818287707
+                },
+                "postgame": {
+                    "opp": 1431.2180669736533,
+                    "elo": 1513.4262592126076
+                }
+            },
+            "record": "5 - 4 - 0"
+        },
+        {
+            "id": "waterloo_ringette_u14a_5",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Fri Jan 10",
+            "time": "2:00P",
+            "visitor": "Mississauga",
+            "visitorScore": "2",
+            "home": "Nepean",
+            "homeScore": "3",
+            "status": "Official",
+            "isoDate": 1578646800000,
+            "elo": {
+                "pregame": {
+                    "opp": 1392.4579403563478,
+                    "elo": 1513.4262592126076,
+                    "probability": 0.6580790068066791
+                },
+                "postgame": {
+                    "opp": 1381.8140344196815,
+                    "elo": 1524.0701651492739
+                }
+            },
+            "record": "6 - 4 - 0"
         }
     ],
-    "pct": 0.5,
-    "points": 8,
-    "games": 8,
+    "pct": 0.6,
+    "points": 12,
+    "games": 10,
     "opponentRecord": {
-        "w": 37,
-        "l": 35,
-        "t": 3,
-        "g": 75
+        "w": 42,
+        "l": 53,
+        "t": 4,
+        "g": 99
     },
-    "strengthOfSchedule": 0.5114774990043807,
-    "record": "4 - 4 - 0",
+    "strengthOfSchedule": 0.46890499194847024,
+    "record": "6 - 4 - 0",
     "image": "Nepean.png"
 }

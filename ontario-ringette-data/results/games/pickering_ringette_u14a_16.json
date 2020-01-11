@@ -3,9 +3,11 @@
     "tournament": "pickering_ringette",
     "type": "RR",
     "date": "Sat Nov 30",
+    "time": "12:00P",
     "visitor": "Markham - A",
     "visitorScore": "5",
     "home": "Nepean",
     "homeScore": "3",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575097200000
 }

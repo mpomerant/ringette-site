@@ -3,9 +3,11 @@
     "tournament": "pickering_ringette",
     "type": "RR",
     "date": "Sat Nov 30",
+    "time": "12:30P",
     "visitor": "Whitby",
     "visitorScore": "4",
     "home": "Waterloo",
     "homeScore": "1",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575099000000
 }

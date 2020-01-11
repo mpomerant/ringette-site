@@ -3,9 +3,11 @@
     "tournament": "london_ringette",
     "type": "S2",
     "date": "Sun Nov 10",
+    "time": "8:15A",
     "visitor": "Whitby",
     "visitorScore": "1",
     "home": "Markham - A",
     "homeScore": "2",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1573355700000
 }

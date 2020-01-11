@@ -3,9 +3,11 @@
     "tournament": "oshawa_ringette",
     "type": "GS",
     "date": "Sun Nov 3",
+    "time": "9:30A",
     "visitor": "Gloucester Cumberland - B",
     "visitorScore": "2",
     "home": "West Ottawa - G",
     "homeScore": "1",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1572755400000
 }

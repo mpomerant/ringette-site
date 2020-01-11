@@ -5,23 +5,107 @@
     "tie": 0,
     "for": 23,
     "against": 28,
-    "elo": 1496.0798723599532,
+    "elo": 1494.1311717665844,
+    "upcoming": [
+        {
+            "id": "guelph_ringette_u14a_2",
+            "tournament": "guelph_ringette",
+            "type": "RR",
+            "date": "Fri Feb 7",
+            "time": "10:00A",
+            "visitor": "St Marys",
+            "visitorScore": "0",
+            "home": "Ajax",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581051600000,
+            "elo": {
+                "pregame": {
+                    "opp": 1390.1715898176503,
+                    "elo": 1494.1311717665844,
+                    "probability": 0.6354302327230767
+                }
+            }
+        },
+        {
+            "id": "guelph_ringette_u14a_4",
+            "tournament": "guelph_ringette",
+            "type": "RR",
+            "date": "Fri Feb 7",
+            "time": "3:45P",
+            "visitor": "Guelph",
+            "visitorScore": "0",
+            "home": "St Marys",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581072300000,
+            "elo": {
+                "pregame": {
+                    "opp": 1509.5059575542887,
+                    "elo": 1494.1311717665844,
+                    "probability": 0.4902174982137293
+                }
+            }
+        },
+        {
+            "id": "guelph_ringette_u14a_7",
+            "tournament": "guelph_ringette",
+            "type": "RR",
+            "date": "Sat Feb 8",
+            "time": "7:00A",
+            "visitor": "St Marys",
+            "visitorScore": "0",
+            "home": "Whitby",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581127200000,
+            "elo": {
+                "pregame": {
+                    "opp": 1502.3006627278403,
+                    "elo": 1494.1311717665844,
+                    "probability": 0.5007179664305099
+                }
+            }
+        },
+        {
+            "id": "guelph_ringette_u14a_10",
+            "tournament": "guelph_ringette",
+            "type": "RR",
+            "date": "Sat Feb 8",
+            "time": "3:30P",
+            "visitor": "Mississauga",
+            "visitorScore": "0",
+            "home": "St Marys",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581157800000,
+            "elo": {
+                "pregame": {
+                    "opp": 1381.8140344196815,
+                    "elo": 1494.1311717665844,
+                    "probability": 0.6466414972449922
+                }
+            }
+        }
+    ],
     "results": [
         {
-            "id": "london_ringette_u14a_8",
+            "id": "london_ringette_u14a_3",
             "tournament": "london_ringette",
             "type": "RR",
             "date": "Fri Nov 8",
-            "visitor": "Richmond Hill",
-            "visitorScore": "4",
-            "home": "St. Marys",
-            "homeScore": "0",
+            "time": "9:30A",
+            "visitor": "St. Marys",
+            "visitorScore": "1",
+            "home": "Markham - F",
+            "homeScore": "4",
             "status": "Official",
+            "isoDate": 1573187400000,
             "elo": {
                 "pregame": {
                     "opp": 1500,
                     "elo": 1500,
-                    "probability": 0.512622317608554
+                    "probability": 0.48737768239144597
                 },
                 "postgame": {
                     "opp": 1516,
@@ -31,116 +115,126 @@
             "record": "0 - 1 - 0"
         },
         {
-            "id": "london_ringette_u14a_3",
+            "id": "london_ringette_u14a_8",
             "tournament": "london_ringette",
             "type": "RR",
             "date": "Fri Nov 8",
-            "visitor": "St. Marys",
-            "visitorScore": "1",
-            "home": "Markham - F",
-            "homeScore": "4",
+            "time": "2:15P",
+            "visitor": "Richmond Hill",
+            "visitorScore": "4",
+            "home": "St. Marys",
+            "homeScore": "0",
             "status": "Official",
+            "isoDate": 1573204500000,
             "elo": {
                 "pregame": {
-                    "opp": 1516.736306793522,
+                    "opp": 1484,
                     "elo": 1484,
-                    "probability": 0.4649693193840141
+                    "probability": 0.512622317608554
                 },
                 "postgame": {
-                    "opp": 1531.233189702316,
-                    "elo": 1469.5031170912061
+                    "opp": 1500,
+                    "elo": 1468
                 }
             },
             "record": "0 - 2 - 0"
-        },
-        {
-            "id": "london_ringette_u14a_14",
-            "tournament": "london_ringette",
-            "type": "RR",
-            "date": "Sat Nov 9",
-            "visitor": "Markham - A",
-            "visitorScore": "5",
-            "home": "St. Marys",
-            "homeScore": "1",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1531.2976013366472,
-                    "elo": 1469.5031170912061,
-                    "probability": 0.4231728713174844
-                },
-                "postgame": {
-                    "opp": 1544.481492441098,
-                    "elo": 1456.3192259867553
-                }
-            },
-            "record": "0 - 3 - 0"
         },
         {
             "id": "london_ringette_u14a_12",
             "tournament": "london_ringette",
             "type": "RR",
             "date": "Sat Nov 9",
+            "time": "9:30A",
             "visitor": "St. Marys",
             "visitorScore": "0",
             "home": "Forest",
             "homeScore": "7",
             "status": "Official",
+            "isoDate": 1573273800000,
             "elo": {
                 "pregame": {
-                    "opp": 1514.6619364479527,
-                    "elo": 1456.3192259867553,
-                    "probability": 0.4280924924840003
+                    "opp": 1501.4695015289756,
+                    "elo": 1468,
+                    "probability": 0.4639060943604856
                 },
                 "postgame": {
-                    "opp": 1528.0001280195254,
-                    "elo": 1442.9810344151826
+                    "opp": 1515.932924251801,
+                    "elo": 1453.5365772771745
+                }
+            },
+            "record": "0 - 3 - 0"
+        },
+        {
+            "id": "london_ringette_u14a_14",
+            "tournament": "london_ringette",
+            "type": "RR",
+            "date": "Sat Nov 9",
+            "time": "1:45P",
+            "visitor": "Markham - A",
+            "visitorScore": "5",
+            "home": "St. Marys",
+            "homeScore": "1",
+            "status": "Official",
+            "isoDate": 1573289100000,
+            "elo": {
+                "pregame": {
+                    "opp": 1545.0609969420489,
+                    "elo": 1453.5365772771745,
+                    "probability": 0.38152335406520543
+                },
+                "postgame": {
+                    "opp": 1556.9410053108134,
+                    "elo": 1441.65656890841
                 }
             },
             "record": "0 - 4 - 0"
-        },
-        {
-            "id": "st_marys_ringette_u14a_3",
-            "tournament": "st_marys_ringette",
-            "type": "RR",
-            "date": "Fri Dec 6",
-            "visitor": "Barrie",
-            "visitorScore": "1",
-            "home": "St. Marys",
-            "homeScore": "4",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1487.7674792699029,
-                    "elo": 1442.9810344151826,
-                    "probability": 0.44754250706656307
-                },
-                "postgame": {
-                    "opp": 1469.716335771986,
-                    "elo": 1461.0321779130995
-                }
-            },
-            "record": "1 - 4 - 0"
         },
         {
             "id": "st_marys_ringette_u14a_1",
             "tournament": "st_marys_ringette",
             "type": "RR",
             "date": "Fri Dec 6",
+            "time": "9:00A",
             "visitor": "St. Marys",
             "visitorScore": "6",
             "home": "Kitchener",
             "homeScore": "2",
             "status": "Official",
+            "isoDate": 1575604800000,
             "elo": {
                 "pregame": {
-                    "opp": 1499.3532097481361,
-                    "elo": 1461.0321779130995,
-                    "probability": 0.4568794789142079
+                    "opp": 1501.0136326805302,
+                    "elo": 1441.65656890841,
+                    "probability": 0.4266452699678146
                 },
                 "postgame": {
-                    "opp": 1481.5955826436866,
-                    "elo": 1478.789805017549
+                    "opp": 1482.3064265859227,
+                    "elo": 1460.3637750030175
+                }
+            },
+            "record": "1 - 4 - 0"
+        },
+        {
+            "id": "st_marys_ringette_u14a_3",
+            "tournament": "st_marys_ringette",
+            "type": "RR",
+            "date": "Fri Dec 6",
+            "time": "1:00P",
+            "visitor": "Barrie",
+            "visitorScore": "1",
+            "home": "St. Marys",
+            "homeScore": "4",
+            "status": "Official",
+            "isoDate": 1575619200000,
+            "elo": {
+                "pregame": {
+                    "opp": 1470.9166139514377,
+                    "elo": 1460.3637750030175,
+                    "probability": 0.49724426513619446
+                },
+                "postgame": {
+                    "opp": 1454.430787149099,
+                    "elo": 1476.8496018053563
                 }
             },
             "record": "2 - 4 - 0"
@@ -150,20 +244,22 @@
             "tournament": "st_marys_ringette",
             "type": "RR",
             "date": "Sat Dec 7",
+            "time": "8:00A",
             "visitor": "St. Marys",
             "visitorScore": "3",
             "home": "Guelph",
             "homeScore": "4",
             "status": "Official",
+            "isoDate": 1575687600000,
             "elo": {
                 "pregame": {
-                    "opp": 1499.6589585202564,
-                    "elo": 1478.789805017549,
-                    "probability": 0.48221571423914666
+                    "opp": 1496.8220004467587,
+                    "elo": 1476.8496018053563,
+                    "probability": 0.48352119931523274
                 },
                 "postgame": {
-                    "opp": 1514.6990526397972,
-                    "elo": 1463.7497108980083
+                    "opp": 1511.9032492948231,
+                    "elo": 1461.7683529572919
                 }
             },
             "record": "2 - 5 - 0"
@@ -173,20 +269,22 @@
             "tournament": "st_marys_ringette",
             "type": "RR",
             "date": "Sat Dec 7",
+            "time": "6:00P",
             "visitor": "Mississauga",
             "visitorScore": "1",
             "home": "St. Marys",
             "homeScore": "5",
             "status": "Official",
+            "isoDate": 1575723600000,
             "elo": {
                 "pregame": {
-                    "opp": 1418.207639781452,
-                    "elo": 1463.7497108980083,
-                    "probability": 0.5535464423453149
+                    "opp": 1417.6578765620636,
+                    "elo": 1461.7683529572919,
+                    "probability": 0.5514829132035148
                 },
                 "postgame": {
-                    "opp": 1404.2929996809378,
-                    "elo": 1477.6643509985224
+                    "opp": 1403.678394554685,
+                    "elo": 1475.7478349646706
                 }
             },
             "record": "3 - 5 - 0"
@@ -196,20 +294,22 @@
             "tournament": "st_marys_ringette",
             "type": "GS",
             "date": "Sun Dec 8",
+            "time": "12:00P",
             "visitor": "St. Marys",
             "visitorScore": "3",
             "home": "Guelph",
             "homeScore": "0",
             "status": "Official",
+            "isoDate": 1575788400000,
             "elo": {
                 "pregame": {
-                    "opp": 1530.5207683857418,
-                    "elo": 1477.6643509985224,
-                    "probability": 0.4359407613567827
+                    "opp": 1527.8892943562025,
+                    "elo": 1475.7478349646706,
+                    "probability": 0.43696598030858114
                 },
                 "postgame": {
-                    "opp": 1512.105247024311,
-                    "elo": 1496.0798723599532
+                    "opp": 1509.5059575542887,
+                    "elo": 1494.1311717665844
                 }
             },
             "record": "4 - 5 - 0"
@@ -220,11 +320,11 @@
     "games": 9,
     "opponentRecord": {
         "w": 55,
-        "l": 38,
+        "l": 40,
         "t": 5,
-        "g": 98
+        "g": 100
     },
-    "strengthOfSchedule": 0.5644237893177073,
+    "strengthOfSchedule": 0.5563721325403569,
     "record": "4 - 5 - 0",
     "image": "St. Marys.png"
 }

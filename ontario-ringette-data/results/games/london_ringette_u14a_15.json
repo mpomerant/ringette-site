@@ -3,9 +3,11 @@
     "tournament": "london_ringette",
     "type": "RR",
     "date": "Sat Nov 9",
+    "time": "2:30P",
     "visitor": "Forest",
     "visitorScore": "7",
     "home": "Ajax",
     "homeScore": "0",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1573291800000
 }

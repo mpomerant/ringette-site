@@ -3,9 +3,11 @@
     "tournament": "mississauga_ringette",
     "type": "RR",
     "date": "Fri Nov 29",
+    "time": "9:00A",
     "visitor": "City of Ottawa",
     "visitorScore": "1",
     "home": "Forest",
     "homeScore": "8",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575000000000
 }

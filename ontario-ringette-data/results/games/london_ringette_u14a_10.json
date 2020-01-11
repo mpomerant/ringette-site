@@ -3,9 +3,11 @@
     "tournament": "london_ringette",
     "type": "RR",
     "date": "Sat Nov 9",
+    "time": "9:15A",
     "visitor": "London",
     "visitorScore": "0",
     "home": "Richmond Hill",
     "homeScore": "7",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1573272900000
 }

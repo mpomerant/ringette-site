@@ -5,30 +5,24 @@ const gamesFiles = fs.readdirSync('results/games');
 const games = gamesFiles.map((file) => {
     return JSON.parse(fs.readFileSync(`results/games/${file}`));
 }).sort((a, b) => {
-    const _a = new Date(a.date);
-    const _b = new Date(b.date);
-    if (_a.getMonth() > 9) {
-        _a.setFullYear(2019);
-    } else {
-        _a.setFullYear(2020);
-    }
-    if (_b.getMonth() > 9) {
-        _b.setFullYear(2019);
-    }else {
-        _b.setFullYear(2020);
-    }
-    return _a - _b;
+    return a.isoDate - b.isoDate;
 });
 
 
 const teams = games.reduce((acc, curr) => {
     function normalizeName(name) {
-        return name.replace('  ', ' ');
+        return name.replace('  ', ' ').replace('St Marys', 'St. Marys');
     }
     const homeScore = parseInt(curr.homeScore);
     const visitorScore = parseInt(curr.visitorScore);
     const home = normalizeName(curr.home);
     const visitor = normalizeName(curr.visitor);
+    const status = curr.status;
+    const isOfficial = status === 'Official';
+
+    const homeGame = {...curr};
+    const visitorGame = {...curr};
+    
     class Team {
         constructor(name) {
             this.name = name;
@@ -38,6 +32,7 @@ const teams = games.reduce((acc, curr) => {
             this.for = 0;
             this.against = 0;
             this.elo = 1500;
+            this.upcoming = [];
         
             Object.defineProperties(this, {
                 _results: {
@@ -46,19 +41,9 @@ const teams = games.reduce((acc, curr) => {
                 },
                 results: {
                     get: function() { return this._results.sort((a, b) => {
-                        const _a = new Date(a.date);
-                        const _b = new Date(b.date);
-                        if (_a.getMonth() > 9) {
-                            _a.setFullYear(2019);
-                        } else {
-                            _a.setFullYear(2020);
-                        }
-                        if (_b.getMonth() > 9) {
-                            _b.setFullYear(2019);
-                        }else {
-                            _b.setFullYear(2020);
-                        }
-                        return _a - _b;
+                        
+
+                        return a.isoDate - b.isoDate;
                     });},
                     enumerable: true
                 },
@@ -135,48 +120,46 @@ const teams = games.reduce((acc, curr) => {
     acc[home] = acc[home] || new Team(home);
 
     acc[visitor] = acc[visitor] || new Team(visitor);
-    
 
-    
-
-    acc[home].for += homeScore;
-    acc[visitor].against += homeScore;
-
-    acc[home].against += visitorScore;
-    acc[visitor].for += visitorScore;
-    let winner = EloUtils.RESULT.R1;
-    if (homeScore > visitorScore){
-        acc[home].win += 1;
-        acc[visitor].loss += 1;
-    } else if (homeScore < visitorScore){
-        acc[home].loss += 1;
-        acc[visitor].win += 1;
-        winner = EloUtils.RESULT.R2;
-    } else {
-        acc[home].tie += 1;
-        acc[visitor].tie += 1;
-        winner = EloUtils.RESULT.TIE;
-    }
-
-    const homeGame = {...curr};
-    const visitorGame = {...curr};
-    
     const probability = EloUtils.probabilty(acc[home].elo, acc[visitor].elo);
-    homeGame.elo = {
-        pregame: {
-            opp: acc[visitor].elo,
-            elo: acc[home].elo,
-            probability: probability.r1
+        homeGame.elo = {
+            pregame: {
+                opp: acc[visitor].elo,
+                elo: acc[home].elo,
+                probability: probability.r1
+            }
+        };
+        visitorGame.elo = {
+            pregame: {
+                opp: acc[home].elo,
+                elo: acc[visitor].elo,
+                probability: probability.r2
+            }
+        };
+
+    if (isOfficial){
+        acc[home].for += homeScore;
+        acc[visitor].against += homeScore;
+    
+        acc[home].against += visitorScore;
+        acc[visitor].for += visitorScore;
+        let winner = EloUtils.RESULT.R1;
+        if (homeScore > visitorScore){
+            acc[home].win += 1;
+            acc[visitor].loss += 1;
+        } else if (homeScore < visitorScore){
+            acc[home].loss += 1;
+            acc[visitor].win += 1;
+            winner = EloUtils.RESULT.R2;
+        } else {
+            acc[home].tie += 1;
+            acc[visitor].tie += 1;
+            winner = EloUtils.RESULT.TIE;
         }
-    };
-    visitorGame.elo = {
-        pregame: {
-            opp: acc[home].elo,
-            elo: acc[visitor].elo,
-            probability: probability.r2
-        }
-    };
-    const elo = EloUtils.elo(acc[home].elo, acc[visitor].elo, winner);
+    
+        
+        
+        const elo = EloUtils.elo(acc[home].elo, acc[visitor].elo, winner);
     acc[home].elo = elo.R1;
     acc[visitor].elo = elo.R2;
 
@@ -195,12 +178,20 @@ const teams = games.reduce((acc, curr) => {
 
     acc[home].results.push(homeGame);
     acc[visitor].results.push(visitorGame);
+    } else {
+        acc[home].upcoming.push(homeGame);
+        acc[visitor].upcoming.push(visitorGame);
+    }
+    
+    
     return acc;
 }, {});
 
 //console.log(teams);
 
 fs.mkdirSync('results/teams', {recursive: true});
+delete teams["Not Available"];
+delete teams["Nova Scotia"];
 
 Object.keys(teams).forEach(team => {
     const teamId = team.split(' ').join('_').split('-').join('_').toLowerCase();

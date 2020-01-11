@@ -3,9 +3,11 @@
     "tournament": "nepean_ringette",
     "type": "RR",
     "date": "Fri Nov 15",
+    "time": "2:30P",
     "visitor": "Gloucester Cumberland - D",
     "visitorScore": "3",
     "home": "Metcalfe",
     "homeScore": "10",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1573810200000
 }

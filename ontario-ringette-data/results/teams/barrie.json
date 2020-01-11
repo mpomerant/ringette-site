@@ -5,50 +5,136 @@
     "tie": 0,
     "for": 32,
     "against": 68,
-    "elo": 1417.3310130943491,
-    "results": [
+    "elo": 1421.0741687472764,
+    "upcoming": [
         {
-            "id": "oshawa_ringette_u14a_5",
-            "tournament": "oshawa_ringette",
+            "id": "richmond_hill_ringette_u14a_2",
+            "tournament": "richmond_hill_ringette",
             "type": "RR",
-            "date": "Fri Nov 1",
+            "date": "Fri Jan 31",
+            "time": "10:00A",
             "visitor": "Barrie",
-            "visitorScore": "2",
-            "home": "Guelph",
-            "homeScore": "7",
-            "status": "Official",
+            "visitorScore": "0",
+            "home": "London",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580446800000,
             "elo": {
                 "pregame": {
-                    "opp": 1484,
-                    "elo": 1500,
-                    "probability": 0.5106933691965208
-                },
-                "postgame": {
-                    "opp": 1500.736306793522,
-                    "elo": 1483.263693206478
+                    "opp": 1486.6560277714414,
+                    "elo": 1421.0741687472764,
+                    "probability": 0.41779244587872344
                 }
-            },
-            "record": "0 - 1 - 0"
+            }
         },
+        {
+            "id": "richmond_hill_ringette_u14a_6",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "3:10P",
+            "visitor": "Metcalfe",
+            "visitorScore": "0",
+            "home": "Barrie",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580465400000,
+            "elo": {
+                "pregame": {
+                    "opp": 1532.1003672509423,
+                    "elo": 1421.0741687472764,
+                    "probability": 0.35508009723700096
+                }
+            }
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_10",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "9:30A",
+            "visitor": "Barrie",
+            "visitorScore": "0",
+            "home": "West Ottawa - F",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580531400000,
+            "elo": {
+                "pregame": {
+                    "opp": 1510.1996121617778,
+                    "elo": 1421.0741687472764,
+                    "probability": 0.3848289675802048
+                }
+            }
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_12",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "4:55P",
+            "visitor": "Richmond Hill",
+            "visitorScore": "0",
+            "home": "Barrie",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580558100000,
+            "elo": {
+                "pregame": {
+                    "opp": 1569.426721929002,
+                    "elo": 1421.0741687472764,
+                    "probability": 0.3069546575113934
+                }
+            }
+        }
+    ],
+    "results": [
         {
             "id": "oshawa_ringette_u14a_1",
             "tournament": "oshawa_ringette",
             "type": "RR",
             "date": "Fri Nov 1",
+            "time": "10:15A",
             "visitor": "Barrie",
             "visitorScore": "2",
             "home": "Gloucester Cumberland - B",
             "homeScore": "9",
             "status": "Official",
+            "isoDate": 1572585300000,
             "elo": {
                 "pregame": {
-                    "opp": 1484.736306793522,
-                    "elo": 1483.263693206478,
-                    "probability": 0.510477131855678
+                    "opp": 1500,
+                    "elo": 1500,
+                    "probability": 0.48737768239144597
                 },
                 "postgame": {
-                    "opp": 1500.6684908377624,
-                    "elo": 1467.3315091622376
+                    "opp": 1516,
+                    "elo": 1484
+                }
+            },
+            "record": "0 - 1 - 0"
+        },
+        {
+            "id": "oshawa_ringette_u14a_5",
+            "tournament": "oshawa_ringette",
+            "type": "RR",
+            "date": "Fri Nov 1",
+            "time": "2:30P",
+            "visitor": "Barrie",
+            "visitorScore": "2",
+            "home": "Guelph",
+            "homeScore": "7",
+            "status": "Official",
+            "isoDate": 1572600600000,
+            "elo": {
+                "pregame": {
+                    "opp": 1484,
+                    "elo": 1484,
+                    "probability": 0.48737768239144597
+                },
+                "postgame": {
+                    "opp": 1500,
+                    "elo": 1468
                 }
             },
             "record": "0 - 2 - 0"
@@ -58,20 +144,22 @@
             "tournament": "oshawa_ringette",
             "type": "RR",
             "date": "Sat Nov 2",
+            "time": "8:00A",
             "visitor": "Oshawa",
             "visitorScore": "2",
             "home": "Barrie",
             "homeScore": "8",
             "status": "Official",
+            "isoDate": 1572663600000,
             "elo": {
                 "pregame": {
                     "opp": 1469.4695015289756,
-                    "elo": 1467.3315091622376,
-                    "probability": 0.5095077299173583
+                    "elo": 1468,
+                    "probability": 0.5104816656878558
                 },
                 "postgame": {
-                    "opp": 1453.371044584685,
-                    "elo": 1483.4299661065281
+                    "opp": 1453.4018288862171,
+                    "elo": 1484.0676726427585
                 }
             },
             "record": "1 - 2 - 0"
@@ -81,66 +169,72 @@
             "tournament": "oshawa_ringette",
             "type": "RR",
             "date": "Sat Nov 2",
+            "time": "1:45P",
             "visitor": "West Ottawa - G",
             "visitorScore": "8",
             "home": "Barrie",
             "homeScore": "1",
             "status": "Official",
+            "isoDate": 1572684300000,
             "elo": {
                 "pregame": {
-                    "opp": 1546.5642632862641,
-                    "elo": 1483.4299661065281,
-                    "probability": 0.42126735151874994
+                    "opp": 1546.5981711137829,
+                    "elo": 1484.0676726427585,
+                    "probability": 0.4221258043815119
                 },
                 "postgame": {
-                    "opp": 1559.6884059619965,
-                    "elo": 1470.3058234307957
+                    "opp": 1559.7492298051036,
+                    "elo": 1470.9166139514377
                 }
             },
             "record": "1 - 3 - 0"
-        },
-        {
-            "id": "st_marys_ringette_u14a_5",
-            "tournament": "st_marys_ringette",
-            "type": "RR",
-            "date": "Fri Dec 6",
-            "visitor": "Barrie",
-            "visitorScore": "4",
-            "home": "Guelph",
-            "homeScore": "3",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1502.1340149086293,
-                    "elo": 1470.3058234307957,
-                    "probability": 0.46628664178682433
-                },
-                "postgame": {
-                    "opp": 1484.6723590695221,
-                    "elo": 1487.7674792699029
-                }
-            },
-            "record": "2 - 3 - 0"
         },
         {
             "id": "st_marys_ringette_u14a_3",
             "tournament": "st_marys_ringette",
             "type": "RR",
             "date": "Fri Dec 6",
+            "time": "1:00P",
             "visitor": "Barrie",
             "visitorScore": "1",
             "home": "St. Marys",
             "homeScore": "4",
             "status": "Official",
+            "isoDate": 1575619200000,
             "elo": {
                 "pregame": {
-                    "opp": 1442.9810344151826,
-                    "elo": 1487.7674792699029,
-                    "probability": 0.5524574929334369
+                    "opp": 1460.3637750030175,
+                    "elo": 1470.9166139514377,
+                    "probability": 0.5027557348638055
                 },
                 "postgame": {
-                    "opp": 1461.0321779130995,
-                    "elo": 1469.716335771986
+                    "opp": 1476.8496018053563,
+                    "elo": 1454.430787149099
+                }
+            },
+            "record": "1 - 4 - 0"
+        },
+        {
+            "id": "st_marys_ringette_u14a_5",
+            "tournament": "st_marys_ringette",
+            "type": "RR",
+            "date": "Fri Dec 6",
+            "time": "5:00P",
+            "visitor": "Barrie",
+            "visitorScore": "4",
+            "home": "Guelph",
+            "homeScore": "3",
+            "status": "Official",
+            "isoDate": 1575633600000,
+            "elo": {
+                "pregame": {
+                    "opp": 1515.6106743795372,
+                    "elo": 1454.430787149099,
+                    "probability": 0.4240477374428451
+                },
+                "postgame": {
+                    "opp": 1496.8220004467587,
+                    "elo": 1473.2194610818774
                 }
             },
             "record": "2 - 4 - 0"
@@ -150,20 +244,22 @@
             "tournament": "st_marys_ringette",
             "type": "RR",
             "date": "Sat Dec 7",
+            "time": "7:15A",
             "visitor": "Kitchener",
             "visitorScore": "6",
             "home": "Barrie",
             "homeScore": "2",
             "status": "Official",
+            "isoDate": 1575684900000,
             "elo": {
                 "pregame": {
-                    "opp": 1496.037311137577,
-                    "elo": 1469.716335771986,
-                    "probability": 0.4742848871969134
+                    "opp": 1496.6789312523367,
+                    "elo": 1473.2194610818774,
+                    "probability": 0.4784461880462917
                 },
                 "postgame": {
-                    "opp": 1510.827499014877,
-                    "elo": 1454.926147894686
+                    "opp": 1511.6002215760734,
+                    "elo": 1458.2981707581407
                 }
             },
             "record": "2 - 5 - 0"
@@ -173,112 +269,122 @@
             "tournament": "st_marys_ringette",
             "type": "RR",
             "date": "Sat Dec 7",
+            "time": "12:00P",
             "visitor": "Mississauga",
             "visitorScore": "3",
             "home": "Barrie",
             "homeScore": "6",
             "status": "Official",
+            "isoDate": 1575702000000,
             "elo": {
                 "pregame": {
-                    "opp": 1433.2088204101412,
-                    "elo": 1454.926147894686,
-                    "probability": 0.5190188242950842
+                    "opp": 1432.4706618963633,
+                    "elo": 1458.2981707581407,
+                    "probability": 0.5249977352024637
                 },
                 "postgame": {
-                    "opp": 1418.207639781452,
-                    "elo": 1469.9273285233753
+                    "opp": 1417.6578765620636,
+                    "elo": 1473.1109560924403
                 }
             },
             "record": "3 - 5 - 0"
-        },
-        {
-            "id": "whitby_ringette_u14a_8",
-            "tournament": "whitby_ringette",
-            "type": "RR",
-            "date": "Fri Jan 3",
-            "visitor": "Barrie",
-            "visitorScore": "4",
-            "home": "Gloucester Cumberland - D",
-            "homeScore": "6",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1444.4684107012663,
-                    "elo": 1469.9273285233753,
-                    "probability": 0.5244618279911651
-                },
-                "postgame": {
-                    "opp": 1461.6387432560791,
-                    "elo": 1452.7569959685625
-                }
-            },
-            "record": "3 - 6 - 0"
         },
         {
             "id": "whitby_ringette_u14a_3",
             "tournament": "whitby_ringette",
             "type": "RR",
             "date": "Fri Jan 3",
+            "time": "12:15P",
             "visitor": "Forest",
             "visitorScore": "7",
             "home": "Barrie",
             "homeScore": "1",
             "status": "Official",
+            "isoDate": 1578035700000,
             "elo": {
                 "pregame": {
-                    "opp": 1625.5951799137163,
-                    "elo": 1452.7569959685625,
-                    "probability": 0.2774498541714797
+                    "opp": 1613.8414058436533,
+                    "elo": 1473.1109560924403,
+                    "probability": 0.3164880788456027
                 },
                 "postgame": {
-                    "opp": 1634.2331996622515,
-                    "elo": 1444.1189762200272
+                    "opp": 1623.6931544315044,
+                    "elo": 1463.2592075045893
+                }
+            },
+            "record": "3 - 6 - 0"
+        },
+        {
+            "id": "whitby_ringette_u14a_8",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Fri Jan 3",
+            "time": "6:15P",
+            "visitor": "Barrie",
+            "visitorScore": "4",
+            "home": "Gloucester Cumberland - D",
+            "homeScore": "6",
+            "status": "Official",
+            "isoDate": 1578057300000,
+            "elo": {
+                "pregame": {
+                    "opp": 1459.0561768544085,
+                    "elo": 1463.2592075045893,
+                    "probability": 0.4935012831595912
+                },
+                "postgame": {
+                    "opp": 1475.249724127382,
+                    "elo": 1447.0656602316158
                 }
             },
             "record": "3 - 7 - 0"
-        },
-        {
-            "id": "whitby_ringette_u14a_19",
-            "tournament": "whitby_ringette",
-            "type": "RR",
-            "date": "Sat Jan 4",
-            "visitor": "Barrie",
-            "visitorScore": "0",
-            "home": "Timmins",
-            "homeScore": "7",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1589.2537903104658,
-                    "elo": 1444.1189762200272,
-                    "probability": 0.31095980111809474
-                },
-                "postgame": {
-                    "opp": 1598.9335073295224,
-                    "elo": 1434.4392592009706
-                }
-            },
-            "record": "3 - 8 - 0"
         },
         {
             "id": "whitby_ringette_u14a_15",
             "tournament": "whitby_ringette",
             "type": "RR",
             "date": "Sat Jan 4",
+            "time": "9:00A",
             "visitor": "Upper Ottawa Valley",
             "visitorScore": "6",
             "home": "Barrie",
             "homeScore": "1",
             "status": "Official",
+            "isoDate": 1578110400000,
             "elo": {
                 "pregame": {
-                    "opp": 1410.3354036908368,
-                    "elo": 1434.4392592009706,
-                    "probability": 0.5224911813135237
+                    "opp": 1417.3010594277487,
+                    "elo": 1447.0656602316158,
+                    "probability": 0.5307181701125891
                 },
                 "postgame": {
-                    "opp": 1427.443649797458,
-                    "elo": 1417.3310130943491
+                    "opp": 1434.6684264372695,
+                    "elo": 1429.698293222095
+                }
+            },
+            "record": "3 - 8 - 0"
+        },
+        {
+            "id": "whitby_ringette_u14a_19",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Sat Jan 4",
+            "time": "3:15P",
+            "visitor": "Barrie",
+            "visitorScore": "0",
+            "home": "Timmins",
+            "homeScore": "7",
+            "status": "Official",
+            "isoDate": 1578132900000,
+            "elo": {
+                "pregame": {
+                    "opp": 1602.9194411451053,
+                    "elo": 1429.698293222095,
+                    "probability": 0.2770024880897384
+                },
+                "postgame": {
+                    "opp": 1611.5435656199238,
+                    "elo": 1421.0741687472764
                 }
             },
             "record": "3 - 9 - 0"
@@ -289,11 +395,11 @@
     "games": 12,
     "opponentRecord": {
         "w": 70,
-        "l": 59,
+        "l": 63,
         "t": 3,
-        "g": 132
+        "g": 136
     },
-    "strengthOfSchedule": 0.5387354810431734,
+    "strengthOfSchedule": 0.5283157489039843,
     "record": "3 - 9 - 0",
     "image": "Barrie.png"
 }

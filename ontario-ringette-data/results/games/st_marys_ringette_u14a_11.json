@@ -3,9 +3,11 @@
     "tournament": "st_marys_ringette",
     "type": "GS",
     "date": "Sun Dec 8",
+    "time": "12:00P",
     "visitor": "St. Marys",
     "visitorScore": "3",
     "home": "Guelph",
     "homeScore": "0",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575788400000
 }

@@ -1,22 +1,66 @@
 {
     "name": "Oshawa",
     "win": 0,
-    "loss": 7,
+    "loss": 9,
     "tie": 1,
-    "for": 17,
-    "against": 49,
-    "elo": 1400.8671251447138,
+    "for": 19,
+    "against": 60,
+    "elo": 1378.6355736400028,
+    "upcoming": [
+        {
+            "id": "waterloo_ringette_u14a_10",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Sat Jan 11",
+            "time": "7:00A",
+            "visitor": "Nepean",
+            "visitorScore": "0",
+            "home": "Oshawa",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1578708000000,
+            "elo": {
+                "pregame": {
+                    "opp": 1524.0701651492739,
+                    "elo": 1378.6355736400028,
+                    "probability": 0.31058545553915007
+                }
+            }
+        },
+        {
+            "id": "waterloo_ringette_u14a_15",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Sat Jan 11",
+            "time": "1:00P",
+            "visitor": "Oshawa",
+            "visitorScore": "0",
+            "home": "City of Ottawa",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1578729600000,
+            "elo": {
+                "pregame": {
+                    "opp": 1417.5497915683218,
+                    "elo": 1378.6355736400028,
+                    "probability": 0.4560214692319644
+                }
+            }
+        }
+    ],
     "results": [
         {
             "id": "oshawa_ringette_u14a_2",
             "tournament": "oshawa_ringette",
             "type": "RR",
             "date": "Fri Nov 1",
+            "time": "10:15A",
             "visitor": "Sault Ste Marie",
             "visitorScore": "3",
             "home": "Oshawa",
             "homeScore": "2",
             "status": "Official",
+            "isoDate": 1572585300000,
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -35,11 +79,13 @@
             "tournament": "oshawa_ringette",
             "type": "RR",
             "date": "Fri Nov 1",
+            "time": "2:15P",
             "visitor": "Oshawa",
             "visitorScore": "1",
             "home": "West Ottawa - G",
             "homeScore": "8",
             "status": "Official",
+            "isoDate": 1572599700000,
             "elo": {
                 "pregame": {
                     "opp": 1516,
@@ -58,20 +104,22 @@
             "tournament": "oshawa_ringette",
             "type": "RR",
             "date": "Sat Nov 2",
+            "time": "8:00A",
             "visitor": "Oshawa",
             "visitorScore": "2",
             "home": "Barrie",
             "homeScore": "8",
             "status": "Official",
+            "isoDate": 1572663600000,
             "elo": {
                 "pregame": {
-                    "opp": 1467.3315091622376,
+                    "opp": 1468,
                     "elo": 1469.4695015289756,
-                    "probability": 0.49049227008264173
+                    "probability": 0.4895183343121442
                 },
                 "postgame": {
-                    "opp": 1483.4299661065281,
-                    "elo": 1453.371044584685
+                    "opp": 1484.0676726427585,
+                    "elo": 1453.4018288862171
                 }
             },
             "record": "0 - 3 - 0"
@@ -81,20 +129,22 @@
             "tournament": "oshawa_ringette",
             "type": "RR",
             "date": "Sat Nov 2",
+            "time": "12:30P",
             "visitor": "Gloucester Cumberland - B",
             "visitorScore": "8",
             "home": "Oshawa",
             "homeScore": "1",
             "status": "Official",
+            "isoDate": 1572679800000,
             "elo": {
                 "pregame": {
-                    "opp": 1516.6716138778988,
-                    "elo": 1453.371044584685,
-                    "probability": 0.42103103690517163
+                    "opp": 1516,
+                    "elo": 1453.4018288862171,
+                    "probability": 0.42202956705578143
                 },
                 "postgame": {
-                    "opp": 1529.788347454999,
-                    "elo": 1440.2543110075849
+                    "opp": 1529.1480411622226,
+                    "elo": 1440.2537877239945
                 }
             },
             "record": "0 - 4 - 0"
@@ -104,20 +154,22 @@
             "tournament": "pickering_ringette",
             "type": "RR",
             "date": "Fri Nov 29",
+            "time": "9:00A",
             "visitor": "Ajax",
             "visitorScore": "5",
             "home": "Oshawa",
             "homeScore": "2",
             "status": "Official",
+            "isoDate": 1575000000000,
             "elo": {
                 "pregame": {
-                    "opp": 1456.8879045253761,
-                    "elo": 1440.2543110075849,
-                    "probability": 0.48838362814404324
+                    "opp": 1458.3164796371152,
+                    "elo": 1440.2537877239945,
+                    "probability": 0.48630205500875134
                 },
                 "postgame": {
-                    "opp": 1472.1224839398878,
-                    "elo": 1425.0197315930732
+                    "opp": 1473.4854105415266,
+                    "elo": 1425.0848568195831
                 }
             },
             "record": "0 - 5 - 0"
@@ -127,20 +179,22 @@
             "tournament": "pickering_ringette",
             "type": "RR",
             "date": "Fri Nov 29",
+            "time": "6:00P",
             "visitor": "Oshawa",
             "visitorScore": "3",
             "home": "London",
             "homeScore": "3",
             "status": "Official",
+            "isoDate": 1575032400000,
             "elo": {
                 "pregame": {
-                    "opp": 1467.3899906707172,
-                    "elo": 1425.0197315930732,
-                    "probability": 0.4510278529572518
+                    "opp": 1454.1238125078175,
+                    "elo": 1425.0848568195831,
+                    "probability": 0.47033560107764916
                 },
                 "postgame": {
-                    "opp": 1465.448383888762,
-                    "elo": 1426.9613383750284
+                    "opp": 1452.7896245026973,
+                    "elo": 1426.4190448247034
                 }
             },
             "record": "0 - 5 - 1"
@@ -150,20 +204,22 @@
             "tournament": "pickering_ringette",
             "type": "RR",
             "date": "Sat Nov 30",
+            "time": "9:00A",
             "visitor": "Richmond Hill",
             "visitorScore": "8",
             "home": "Oshawa",
             "homeScore": "1",
             "status": "Official",
+            "isoDate": 1575086400000,
             "elo": {
                 "pregame": {
-                    "opp": 1528.1573302227014,
-                    "elo": 1426.9613383750284,
-                    "probability": 0.36831026991731086
+                    "opp": 1529.243709168849,
+                    "elo": 1426.4190448247034,
+                    "probability": 0.36610392201394304
                 },
                 "postgame": {
-                    "opp": 1539.62454394894,
-                    "elo": 1415.4941246487897
+                    "opp": 1540.6420313811261,
+                    "elo": 1415.0207226124262
                 }
             },
             "record": "0 - 6 - 1"
@@ -173,35 +229,87 @@
             "tournament": "pickering_ringette",
             "type": "RR",
             "date": "Sat Nov 30",
+            "time": "3:00P",
             "visitor": "Oshawa",
             "visitorScore": "5",
             "home": "Gloucester Cumberland - D",
             "homeScore": "6",
             "status": "Official",
+            "isoDate": 1575108000000,
             "elo": {
                 "pregame": {
-                    "opp": 1445.3819588019228,
-                    "elo": 1415.4941246487897,
-                    "probability": 0.46910289917157555
+                    "opp": 1428.2152058838142,
+                    "elo": 1415.0207226124262,
+                    "probability": 0.4933944249724148
                 },
                 "postgame": {
-                    "opp": 1460.0089583059987,
-                    "elo": 1400.8671251447138
+                    "opp": 1443.6078694200025,
+                    "elo": 1399.6280590762378
                 }
             },
             "record": "0 - 7 - 1"
+        },
+        {
+            "id": "waterloo_ringette_u14a_2",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Fri Jan 10",
+            "time": "9:00A",
+            "visitor": "Oshawa",
+            "visitorScore": "1",
+            "home": "West Ottawa - F",
+            "homeScore": "5",
+            "status": "Official",
+            "isoDate": 1578628800000,
+            "elo": {
+                "pregame": {
+                    "opp": 1515.7932334302284,
+                    "elo": 1399.6280590762378,
+                    "probability": 0.34824942659418934
+                },
+                "postgame": {
+                    "opp": 1526.634445663959,
+                    "elo": 1388.7868468425072
+                }
+            },
+            "record": "0 - 8 - 1"
+        },
+        {
+            "id": "waterloo_ringette_u14a_6",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Fri Jan 10",
+            "time": "3:00P",
+            "visitor": "Metcalfe",
+            "visitorScore": "6",
+            "home": "Oshawa",
+            "homeScore": "1",
+            "status": "Official",
+            "isoDate": 1578650400000,
+            "elo": {
+                "pregame": {
+                    "opp": 1521.949094048438,
+                    "elo": 1388.7868468425072,
+                    "probability": 0.32610917454477417
+                },
+                "postgame": {
+                    "opp": 1532.1003672509423,
+                    "elo": 1378.6355736400028
+                }
+            },
+            "record": "0 - 9 - 1"
         }
     ],
-    "pct": 0.0625,
+    "pct": 0.05,
     "points": 1,
-    "games": 8,
+    "games": 10,
     "opponentRecord": {
-        "w": 44,
-        "l": 44,
-        "t": 6,
-        "g": 94
+        "w": 59,
+        "l": 53,
+        "t": 7,
+        "g": 119
     },
-    "strengthOfSchedule": 0.5114671693371033,
-    "record": "0 - 7 - 1",
+    "strengthOfSchedule": 0.5233284618195104,
+    "record": "0 - 9 - 1",
     "image": "Oshawa.png"
 }

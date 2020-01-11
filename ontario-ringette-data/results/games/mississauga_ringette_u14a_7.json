@@ -3,9 +3,11 @@
     "tournament": "mississauga_ringette",
     "type": "RR",
     "date": "Sat Nov 30",
+    "time": "8:00A",
     "visitor": "City of Ottawa",
     "visitorScore": "1",
     "home": "Markham - F",
     "homeScore": "8",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575082800000
 }

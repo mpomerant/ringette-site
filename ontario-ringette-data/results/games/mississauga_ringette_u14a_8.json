@@ -3,9 +3,11 @@
     "tournament": "mississauga_ringette",
     "type": "RR",
     "date": "Sat Nov 30",
+    "time": "8:00A",
     "visitor": "Sault Ste Marie",
     "visitorScore": "2",
     "home": "Mississauga",
     "homeScore": "2",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575082800000
 }

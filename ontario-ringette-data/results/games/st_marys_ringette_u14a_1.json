@@ -3,9 +3,11 @@
     "tournament": "st_marys_ringette",
     "type": "RR",
     "date": "Fri Dec 6",
+    "time": "9:00A",
     "visitor": "St. Marys",
     "visitorScore": "6",
     "home": "Kitchener",
     "homeScore": "2",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575604800000
 }

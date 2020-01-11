@@ -3,9 +3,11 @@
     "tournament": "whitby_ringette",
     "type": "RR",
     "date": "Fri Jan 3",
+    "time": "1:00P",
     "visitor": "Upper Ottawa Valley",
     "visitorScore": "3",
     "home": "Whitby",
     "homeScore": "6",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1578038400000
 }

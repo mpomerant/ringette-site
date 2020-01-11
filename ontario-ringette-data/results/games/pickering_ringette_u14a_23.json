@@ -3,9 +3,11 @@
     "tournament": "pickering_ringette",
     "type": "RR",
     "date": "Sat Nov 30",
+    "time": "7:00P",
     "visitor": "Waterloo",
     "visitorScore": "4",
     "home": "Ajax",
     "homeScore": "1",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575122400000
 }

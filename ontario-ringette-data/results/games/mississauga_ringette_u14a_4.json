@@ -3,9 +3,11 @@
     "tournament": "mississauga_ringette",
     "type": "RR",
     "date": "Fri Nov 29",
+    "time": "2:15P",
     "visitor": "Forest",
     "visitorScore": "6",
     "home": "Sault Ste Marie",
     "homeScore": "1",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575018900000
 }

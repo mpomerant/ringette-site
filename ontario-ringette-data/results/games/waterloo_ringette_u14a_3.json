@@ -3,9 +3,11 @@
     "tournament": "waterloo_ringette",
     "type": "RR",
     "date": "Fri Jan 10",
+    "time": "10:00A",
     "visitor": "City of Ottawa",
     "visitorScore": "2",
     "home": "Nepean",
     "homeScore": "3",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1578632400000
 }

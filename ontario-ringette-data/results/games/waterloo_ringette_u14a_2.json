@@ -3,9 +3,11 @@
     "tournament": "waterloo_ringette",
     "type": "RR",
     "date": "Fri Jan 10",
+    "time": "9:00A",
     "visitor": "Oshawa",
     "visitorScore": "1",
     "home": "West Ottawa - F",
     "homeScore": "5",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1578628800000
 }

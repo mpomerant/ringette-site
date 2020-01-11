@@ -3,9 +3,11 @@
     "tournament": "whitby_ringette",
     "type": "RR",
     "date": "Fri Jan 3",
+    "time": "7:00P",
     "visitor": "Markham - F",
     "visitorScore": "10",
     "home": "Upper Ottawa Valley",
     "homeScore": "5",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1578060000000
 }

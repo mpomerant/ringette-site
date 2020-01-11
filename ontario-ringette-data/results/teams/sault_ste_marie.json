@@ -1,22 +1,66 @@
 {
     "name": "Sault Ste Marie",
-    "win": 3,
+    "win": 5,
     "loss": 3,
     "tie": 2,
-    "for": 16,
+    "for": 25,
     "against": 19,
-    "elo": 1499.791747349211,
+    "elo": 1533.6246639340468,
+    "upcoming": [
+        {
+            "id": "waterloo_ringette_u14a_9",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Sat Jan 11",
+            "time": "7:00A",
+            "visitor": "Sault Ste Marie",
+            "visitorScore": "0",
+            "home": "Metcalfe",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1578708000000,
+            "elo": {
+                "pregame": {
+                    "opp": 1532.1003672509423,
+                    "elo": 1533.6246639340468,
+                    "probability": 0.4895981634188036
+                }
+            }
+        },
+        {
+            "id": "waterloo_ringette_u14a_13",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Sat Jan 11",
+            "time": "11:00A",
+            "visitor": "Nepean",
+            "visitorScore": "0",
+            "home": "Sault Ste Marie",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1578722400000,
+            "elo": {
+                "pregame": {
+                    "opp": 1524.0701651492739,
+                    "elo": 1533.6246639340468,
+                    "probability": 0.5013006790448686
+                }
+            }
+        }
+    ],
     "results": [
         {
             "id": "oshawa_ringette_u14a_2",
             "tournament": "oshawa_ringette",
             "type": "RR",
             "date": "Fri Nov 1",
+            "time": "10:15A",
             "visitor": "Sault Ste Marie",
             "visitorScore": "3",
             "home": "Oshawa",
             "homeScore": "2",
             "status": "Official",
+            "isoDate": 1572585300000,
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -35,20 +79,22 @@
             "tournament": "oshawa_ringette",
             "type": "RR",
             "date": "Fri Nov 1",
+            "time": "2:30P",
             "visitor": "Gloucester Cumberland - B",
             "visitorScore": "2",
             "home": "Sault Ste Marie",
             "homeScore": "3",
             "status": "Official",
+            "isoDate": 1572600600000,
             "elo": {
                 "pregame": {
-                    "opp": 1500,
+                    "opp": 1516,
                     "elo": 1516,
-                    "probability": 0.5106933691965208
+                    "probability": 0.512622317608554
                 },
                 "postgame": {
-                    "opp": 1484.736306793522,
-                    "elo": 1531.263693206478
+                    "opp": 1500,
+                    "elo": 1532
                 }
             },
             "record": "2 - 0 - 0"
@@ -58,20 +104,22 @@
             "tournament": "oshawa_ringette",
             "type": "RR",
             "date": "Sat Nov 2",
+            "time": "9:00A",
             "visitor": "Sault Ste Marie",
             "visitorScore": "0",
             "home": "West Ottawa - G",
             "homeScore": "1",
             "status": "Official",
+            "isoDate": 1572667200000,
             "elo": {
                 "pregame": {
                     "opp": 1530.5304984710244,
-                    "elo": 1531.263693206478,
-                    "probability": 0.4884456886860711
+                    "elo": 1532,
+                    "probability": 0.4895183343121442
                 },
                 "postgame": {
-                    "opp": 1546.5642632862641,
-                    "elo": 1515.2299283912382
+                    "opp": 1546.5981711137829,
+                    "elo": 1515.9323273572415
                 }
             },
             "record": "2 - 1 - 0"
@@ -81,20 +129,22 @@
             "tournament": "oshawa_ringette",
             "type": "RR",
             "date": "Sat Nov 2",
+            "time": "1:30P",
             "visitor": "Guelph",
             "visitorScore": "3",
             "home": "Sault Ste Marie",
             "homeScore": "0",
             "status": "Official",
+            "isoDate": 1572683400000,
             "elo": {
                 "pregame": {
-                    "opp": 1484.7331837533857,
-                    "elo": 1515.2299283912382,
-                    "probability": 0.5317811010816933
+                    "opp": 1484,
+                    "elo": 1515.9323273572415,
+                    "probability": 0.5338644431224517
                 },
                 "postgame": {
-                    "opp": 1502.1340149086293,
-                    "elo": 1497.8290972359946
+                    "opp": 1501.4664113214494,
+                    "elo": 1498.4659160357921
                 }
             },
             "record": "2 - 2 - 0"
@@ -104,20 +154,22 @@
             "tournament": "mississauga_ringette",
             "type": "RR",
             "date": "Fri Nov 29",
+            "time": "9:15A",
             "visitor": "Markham - F",
             "visitorScore": "3",
             "home": "Sault Ste Marie",
             "homeScore": "3",
             "status": "Official",
+            "isoDate": 1575000900000,
             "elo": {
                 "pregame": {
-                    "opp": 1527.1538101777908,
-                    "elo": 1497.8290972359946,
-                    "probability": 0.4699205964959988
+                    "opp": 1527.8732618303961,
+                    "elo": 1498.4659160357921,
+                    "probability": 0.4698005967270096
                 },
                 "postgame": {
-                    "opp": 1525.8065549673279,
-                    "elo": 1499.1763524464575
+                    "opp": 1526.522228293181,
+                    "elo": 1499.8169495730074
                 }
             },
             "record": "2 - 2 - 1"
@@ -127,20 +179,22 @@
             "tournament": "mississauga_ringette",
             "type": "RR",
             "date": "Fri Nov 29",
+            "time": "2:15P",
             "visitor": "Forest",
             "visitorScore": "6",
             "home": "Sault Ste Marie",
             "homeScore": "1",
             "status": "Official",
+            "isoDate": 1575018900000,
             "elo": {
                 "pregame": {
-                    "opp": 1561.9055443251275,
-                    "elo": 1499.1763524464575,
-                    "probability": 0.4218432591433856
+                    "opp": 1576.7139370434547,
+                    "elo": 1499.8169495730074,
+                    "probability": 0.4018387597906452
                 },
                 "postgame": {
-                    "opp": 1575.0477438556122,
-                    "elo": 1486.0341529159728
+                    "opp": 1589.2294123447332,
+                    "elo": 1487.301474271729
                 }
             },
             "record": "2 - 3 - 1"
@@ -150,20 +204,22 @@
             "tournament": "mississauga_ringette",
             "type": "RR",
             "date": "Sat Nov 30",
+            "time": "8:00A",
             "visitor": "Sault Ste Marie",
             "visitorScore": "2",
             "home": "Mississauga",
             "homeScore": "2",
             "status": "Official",
+            "isoDate": 1575082800000,
             "elo": {
                 "pregame": {
-                    "opp": 1461.5096240969212,
-                    "elo": 1486.0341529159728,
-                    "probability": 0.5231030379865442
+                    "opp": 1471.8008077303396,
+                    "elo": 1487.301474271729,
+                    "probability": 0.5099659014290437
                 },
                 "postgame": {
-                    "opp": 1462.637148354766,
-                    "elo": 1484.906628658128
+                    "opp": 1472.514166564673,
+                    "elo": 1486.5881154373956
                 }
             },
             "record": "2 - 3 - 2"
@@ -173,35 +229,87 @@
             "tournament": "mississauga_ringette",
             "type": "RR",
             "date": "Sat Nov 30",
+            "time": "1:30P",
             "visitor": "Sault Ste Marie",
             "visitorScore": "4",
             "home": "City of Ottawa",
             "homeScore": "0",
             "status": "Official",
+            "isoDate": 1575102600000,
             "elo": {
                 "pregame": {
-                    "opp": 1460.6579927819978,
-                    "elo": 1484.906628658128,
-                    "probability": 0.5227017677113572
+                    "opp": 1459.4473832157091,
+                    "elo": 1486.5881154373956,
+                    "probability": 0.5269065994068238
                 },
                 "postgame": {
-                    "opp": 1445.772874090915,
-                    "elo": 1499.791747349211
+                    "opp": 1444.6947239344179,
+                    "elo": 1501.3407747186868
                 }
             },
             "record": "3 - 3 - 2"
+        },
+        {
+            "id": "waterloo_ringette_u14a_1",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Fri Jan 10",
+            "time": "9:00A",
+            "visitor": "Sault Ste Marie",
+            "visitorScore": "4",
+            "home": "Waterloo",
+            "homeScore": "0",
+            "status": "Official",
+            "isoDate": 1578628800000,
+            "elo": {
+                "pregame": {
+                    "opp": 1498.062963931835,
+                    "elo": 1501.3407747186868,
+                    "probability": 0.4921530535468476
+                },
+                "postgame": {
+                    "opp": 1482.2139082186561,
+                    "elo": 1517.1898304318656
+                }
+            },
+            "record": "4 - 3 - 2"
+        },
+        {
+            "id": "waterloo_ringette_u14a_8",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Fri Jan 10",
+            "time": "5:00P",
+            "visitor": "West Ottawa - F",
+            "visitorScore": "0",
+            "home": "Sault Ste Marie",
+            "homeScore": "5",
+            "status": "Official",
+            "isoDate": 1578657600000,
+            "elo": {
+                "pregame": {
+                    "opp": 1526.634445663959,
+                    "elo": 1517.1898304318656,
+                    "probability": 0.4988594752773511
+                },
+                "postgame": {
+                    "opp": 1510.1996121617778,
+                    "elo": 1533.6246639340468
+                }
+            },
+            "record": "5 - 3 - 2"
         }
     ],
-    "pct": 0.5,
-    "points": 8,
-    "games": 8,
+    "pct": 0.6,
+    "points": 12,
+    "games": 10,
     "opponentRecord": {
-        "w": 52,
-        "l": 39,
+        "w": 61,
+        "l": 53,
         "t": 6,
-        "g": 97
+        "g": 120
     },
-    "strengthOfSchedule": 0.5617189940643549,
-    "record": "3 - 3 - 2",
+    "strengthOfSchedule": 0.5350786972105345,
+    "record": "5 - 3 - 2",
     "image": "Sault Ste Marie.png"
 }

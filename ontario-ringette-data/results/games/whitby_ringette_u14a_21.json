@@ -3,9 +3,11 @@
     "tournament": "whitby_ringette",
     "type": "S1",
     "date": "Sun Jan 5",
+    "time": "8:00A",
     "visitor": "West Ottawa - G",
     "visitorScore": "4",
     "home": "Timmins",
     "homeScore": "2",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1578193200000
 }

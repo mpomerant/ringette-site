@@ -3,9 +3,11 @@
     "tournament": "nepean_ringette",
     "type": "RR",
     "date": "Fri Nov 15",
+    "time": "6:00P",
     "visitor": "Timmins",
     "visitorScore": "5",
     "home": "West Ottawa  - F",
     "homeScore": "1",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1573822800000
 }

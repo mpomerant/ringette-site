@@ -3,9 +3,11 @@
     "tournament": "london_ringette",
     "type": "S1",
     "date": "Sun Nov 10",
+    "time": "8:00A",
     "visitor": "Forest",
     "visitorScore": "9",
     "home": "Markham - F",
     "homeScore": "2",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1573354800000
 }

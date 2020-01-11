@@ -5,18 +5,21 @@
     "tie": 0,
     "for": 50,
     "against": 17,
-    "elo": 1595.3571617085843,
+    "elo": 1593.244375295581,
+    "upcoming": [],
     "results": [
         {
             "id": "nepean_ringette_u14a_5",
             "tournament": "nepean_ringette",
             "type": "RR",
             "date": "Fri Nov 15",
+            "time": "1:00P",
             "visitor": "Timmins",
             "visitorScore": "8",
             "home": "Nepean",
             "homeScore": "1",
             "status": "Official",
+            "isoDate": 1573804800000,
             "elo": {
                 "pregame": {
                     "opp": 1500.736306793522,
@@ -35,66 +38,72 @@
             "tournament": "nepean_ringette",
             "type": "RR",
             "date": "Fri Nov 15",
+            "time": "6:00P",
             "visitor": "Timmins",
             "visitorScore": "5",
             "home": "West Ottawa  - F",
             "homeScore": "1",
             "status": "Official",
+            "isoDate": 1573822800000,
             "elo": {
                 "pregame": {
-                    "opp": 1500,
+                    "opp": 1515.3616542161765,
                     "elo": 1516.0339081301693,
-                    "probability": 0.5107427675868135
+                    "probability": 0.4883569152354431
                 },
                 "postgame": {
-                    "opp": 1484.7378650066732,
-                    "elo": 1531.296043123496
+                    "opp": 1499.3926126143633,
+                    "elo": 1532.0029497319824
                 }
             },
             "record": "2 - 0 - 0"
-        },
-        {
-            "id": "nepean_ringette_u14a_17",
-            "tournament": "nepean_ringette",
-            "type": "RR",
-            "date": "Sat Nov 16",
-            "visitor": "Metcalfe",
-            "visitorScore": "3",
-            "home": "Timmins",
-            "homeScore": "6",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1545.0671686662006,
-                    "elo": 1531.296043123496,
-                    "probability": 0.4925541350020868
-                },
-                "postgame": {
-                    "opp": 1528.4333168015369,
-                    "elo": 1547.9298949881597
-                }
-            },
-            "record": "3 - 0 - 0"
         },
         {
             "id": "nepean_ringette_u14a_13",
             "tournament": "nepean_ringette",
             "type": "RR",
             "date": "Sat Nov 16",
+            "time": "11:30A",
             "visitor": "Gloucester Cumberland - B",
             "visitorScore": "1",
             "home": "Timmins",
             "homeScore": "2",
             "status": "Official",
+            "isoDate": 1573885800000,
             "elo": {
                 "pregame": {
-                    "opp": 1585.4653918915556,
-                    "elo": 1547.9298949881597,
-                    "probability": 0.45801610320718633
+                    "opp": 1573.6676672612887,
+                    "elo": 1532.0029497319824,
+                    "probability": 0.45204651869896084
                 },
                 "postgame": {
-                    "opp": 1567.7435122845848,
-                    "elo": 1565.6517745951305
+                    "opp": 1555.7580812493875,
+                    "elo": 1549.9125357438836
+                }
+            },
+            "record": "3 - 0 - 0"
+        },
+        {
+            "id": "nepean_ringette_u14a_17",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Sat Nov 16",
+            "time": "4:30P",
+            "visitor": "Metcalfe",
+            "visitorScore": "3",
+            "home": "Timmins",
+            "homeScore": "6",
+            "status": "Official",
+            "isoDate": 1573903800000,
+            "elo": {
+                "pregame": {
+                    "opp": 1544.3683148261919,
+                    "elo": 1549.9125357438836,
+                    "probability": 0.4954558271069782
+                },
+                "postgame": {
+                    "opp": 1528.6236139652246,
+                    "elo": 1565.6572366048508
                 }
             },
             "record": "4 - 0 - 0"
@@ -104,20 +113,22 @@
             "tournament": "nepean_ringette",
             "type": "S2",
             "date": "Sun Nov 17",
+            "time": "8:30A",
             "visitor": "West Ottawa  - F",
             "visitorScore": "1",
             "home": "Timmins",
             "homeScore": "3",
             "status": "Official",
+            "isoDate": 1573961400000,
             "elo": {
                 "pregame": {
-                    "opp": 1531.9127887156958,
-                    "elo": 1565.6517745951305,
-                    "probability": 0.5364846100704417
+                    "opp": 1529.2803920002589,
+                    "elo": 1565.6572366048508,
+                    "probability": 0.5403065983490825
                 },
                 "postgame": {
-                    "opp": 1517.4616608290262,
-                    "elo": 1580.1029024818001
+                    "opp": 1514.9495129237714,
+                    "elo": 1579.9881156813383
                 }
             },
             "record": "5 - 0 - 0"
@@ -127,20 +138,22 @@
             "tournament": "nepean_ringette",
             "type": "GS",
             "date": "Sun Nov 17",
+            "time": "1:30P",
             "visitor": "Gloucester Cumberland - B",
             "visitorScore": "3",
             "home": "Timmins",
             "homeScore": "1",
             "status": "Official",
+            "isoDate": 1573979400000,
             "elo": {
                 "pregame": {
-                    "opp": 1581.9408964046672,
-                    "elo": 1580.1029024818001,
-                    "probability": 0.5099448121662628
+                    "opp": 1581.4077342971013,
+                    "elo": 1579.9881156813383,
+                    "probability": 0.5105543378610842
                 },
                 "postgame": {
-                    "opp": 1597.8562544461038,
-                    "elo": 1564.1875444403636
+                    "opp": 1597.3423588076746,
+                    "elo": 1564.053491170765
                 }
             },
             "record": "5 - 1 - 0"
@@ -150,20 +163,22 @@
             "tournament": "whitby_ringette",
             "type": "RR",
             "date": "Fri Jan 3",
+            "time": "11:15A",
             "visitor": "West Ottawa - G",
             "visitorScore": "3",
             "home": "Timmins",
             "homeScore": "5",
             "status": "Official",
+            "isoDate": 1578032100000,
             "elo": {
                 "pregame": {
-                    "opp": 1554.3463778739324,
-                    "elo": 1564.1875444403636,
-                    "probability": 0.5017184935037399
+                    "opp": 1553.2955414964408,
+                    "elo": 1564.053491170765,
+                    "probability": 0.5030546736451368
                 },
                 "postgame": {
-                    "opp": 1538.7994591778709,
-                    "elo": 1579.7344631364251
+                    "opp": 1537.7908051177453,
+                    "elo": 1579.5582275494605
                 }
             },
             "record": "6 - 1 - 0"
@@ -173,66 +188,72 @@
             "tournament": "whitby_ringette",
             "type": "RR",
             "date": "Fri Jan 3",
+            "time": "6:00P",
             "visitor": "Timmins",
             "visitorScore": "7",
             "home": "Ajax",
             "homeScore": "0",
             "status": "Official",
+            "isoDate": 1578056400000,
             "elo": {
                 "pregame": {
-                    "opp": 1430.4532425009418,
-                    "elo": 1579.7344631364251,
-                    "probability": 0.6941959042106252
+                    "opp": 1416.1749590353331,
+                    "elo": 1579.5582275494605,
+                    "probability": 0.7113653511061904
                 },
                 "postgame": {
-                    "opp": 1420.9339153269011,
-                    "elo": 1589.2537903104658
+                    "opp": 1407.1894423056694,
+                    "elo": 1588.5437442791242
                 }
             },
             "record": "7 - 1 - 0"
-        },
-        {
-            "id": "whitby_ringette_u14a_19",
-            "tournament": "whitby_ringette",
-            "type": "RR",
-            "date": "Sat Jan 4",
-            "visitor": "Barrie",
-            "visitorScore": "0",
-            "home": "Timmins",
-            "homeScore": "7",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1444.1189762200272,
-                    "elo": 1589.2537903104658,
-                    "probability": 0.6890401988819053
-                },
-                "postgame": {
-                    "opp": 1434.4392592009706,
-                    "elo": 1598.9335073295224
-                }
-            },
-            "record": "8 - 1 - 0"
         },
         {
             "id": "whitby_ringette_u14a_14",
             "tournament": "whitby_ringette",
             "type": "RR",
             "date": "Sat Jan 4",
+            "time": "9:00A",
             "visitor": "Timmins",
             "visitorScore": "4",
             "home": "Markham - F",
             "homeScore": "0",
             "status": "Official",
+            "isoDate": 1578110400000,
             "elo": {
                 "pregame": {
-                    "opp": 1551.0355410251889,
-                    "elo": 1598.9335073295224,
-                    "probability": 0.5569382308472315
+                    "opp": 1553.1505252577172,
+                    "elo": 1588.5437442791242,
+                    "probability": 0.5388819551285793
                 },
                 "postgame": {
-                    "opp": 1537.227455111094,
-                    "elo": 1612.7415932436172
+                    "opp": 1538.774828391736,
+                    "elo": 1602.9194411451053
+                }
+            },
+            "record": "8 - 1 - 0"
+        },
+        {
+            "id": "whitby_ringette_u14a_19",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Sat Jan 4",
+            "time": "3:15P",
+            "visitor": "Barrie",
+            "visitorScore": "0",
+            "home": "Timmins",
+            "homeScore": "7",
+            "status": "Official",
+            "isoDate": 1578132900000,
+            "elo": {
+                "pregame": {
+                    "opp": 1429.698293222095,
+                    "elo": 1602.9194411451053,
+                    "probability": 0.7229975119102616
+                },
+                "postgame": {
+                    "opp": 1421.0741687472764,
+                    "elo": 1611.5435656199238
                 }
             },
             "record": "9 - 1 - 0"
@@ -242,20 +263,22 @@
             "tournament": "whitby_ringette",
             "type": "S1",
             "date": "Sun Jan 5",
+            "time": "8:00A",
             "visitor": "West Ottawa - G",
             "visitorScore": "4",
             "home": "Timmins",
             "homeScore": "2",
             "status": "Official",
+            "isoDate": 1578193200000,
             "elo": {
                 "pregame": {
-                    "opp": 1582.603680327833,
-                    "elo": 1612.7415932436172,
-                    "probability": 0.5312601823922407
+                    "opp": 1561.2693093195585,
+                    "elo": 1611.5435656199238,
+                    "probability": 0.5603540110861556
                 },
                 "postgame": {
-                    "opp": 1599.988111862866,
-                    "elo": 1595.3571617085843
+                    "opp": 1579.5684996439013,
+                    "elo": 1593.244375295581
                 }
             },
             "record": "9 - 2 - 0"
@@ -265,12 +288,12 @@
     "points": 18,
     "games": 11,
     "opponentRecord": {
-        "w": 76,
-        "l": 55,
+        "w": 82,
+        "l": 57,
         "t": 7,
-        "g": 138
+        "g": 146
     },
-    "strengthOfSchedule": 0.5698695004763094,
+    "strengthOfSchedule": 0.5696728218215085,
     "record": "9 - 2 - 0",
     "image": "Timmins.png"
 }

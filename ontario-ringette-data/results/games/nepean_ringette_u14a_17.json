@@ -3,9 +3,11 @@
     "tournament": "nepean_ringette",
     "type": "RR",
     "date": "Sat Nov 16",
+    "time": "4:30P",
     "visitor": "Metcalfe",
     "visitorScore": "3",
     "home": "Timmins",
     "homeScore": "6",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1573903800000
 }

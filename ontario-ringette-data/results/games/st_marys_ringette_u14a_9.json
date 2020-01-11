@@ -3,9 +3,11 @@
     "tournament": "st_marys_ringette",
     "type": "RR",
     "date": "Sat Dec 7",
+    "time": "12:15P",
     "visitor": "Guelph",
     "visitorScore": "7",
     "home": "Kitchener",
     "homeScore": "5",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575702900000
 }

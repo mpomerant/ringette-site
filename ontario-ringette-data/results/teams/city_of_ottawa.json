@@ -1,146 +1,280 @@
 {
     "name": "City of Ottawa",
     "win": 2,
-    "loss": 6,
+    "loss": 8,
     "tie": 0,
-    "for": 15,
-    "against": 36,
-    "elo": 1445.772874090915,
-    "results": [
+    "for": 18,
+    "against": 41,
+    "elo": 1417.5497915683218,
+    "upcoming": [
         {
-            "id": "nepean_ringette_u14a_9",
-            "tournament": "nepean_ringette",
+            "id": "waterloo_ringette_u14a_11",
+            "tournament": "waterloo_ringette",
             "type": "RR",
-            "date": "Fri Nov 15",
+            "date": "Sat Jan 11",
+            "time": "8:00A",
             "visitor": "City of Ottawa",
-            "visitorScore": "2",
-            "home": "Kitchener",
-            "homeScore": "3",
-            "status": "Official",
+            "visitorScore": "0",
+            "home": "Mississauga",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1578711600000,
             "elo": {
                 "pregame": {
-                    "opp": 1500,
-                    "elo": 1500,
-                    "probability": 0.48737768239144597
-                },
-                "postgame": {
-                    "opp": 1516,
-                    "elo": 1484
+                    "opp": 1381.8140344196815,
+                    "elo": 1417.5497915683218,
+                    "probability": 0.5393781466829158
                 }
-            },
-            "record": "0 - 1 - 0"
+            }
         },
+        {
+            "id": "waterloo_ringette_u14a_15",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Sat Jan 11",
+            "time": "1:00P",
+            "visitor": "Oshawa",
+            "visitorScore": "0",
+            "home": "City of Ottawa",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1578729600000,
+            "elo": {
+                "pregame": {
+                    "opp": 1378.6355736400028,
+                    "elo": 1417.5497915683218,
+                    "probability": 0.5439785307680356
+                }
+            }
+        },
+        {
+            "id": "gloucester_cumberland_u14a_2",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Thu Jan 30",
+            "time": "7:30P",
+            "visitor": "City of Ottawa",
+            "visitorScore": "0",
+            "home": "Gloucester Cumberland - D",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580394600000,
+            "elo": {
+                "pregame": {
+                    "opp": 1451.247825339559,
+                    "elo": 1417.5497915683218,
+                    "probability": 0.4635747603365641
+                }
+            }
+        },
+        {
+            "id": "gloucester_cumberland_u14a_3",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "9:00A",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "0",
+            "home": "City of Ottawa",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580443200000,
+            "elo": {
+                "pregame": {
+                    "opp": 1599.6196665104226,
+                    "elo": 1417.5497915683218,
+                    "probability": 0.26679057739624024
+                }
+            }
+        },
+        {
+            "id": "gloucester_cumberland_u14a_9",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "9:30A",
+            "visitor": "Upper Ottawa Valley",
+            "visitorScore": "0",
+            "home": "City of Ottawa",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580531400000,
+            "elo": {
+                "pregame": {
+                    "opp": 1427.4227472937864,
+                    "elo": 1417.5497915683218,
+                    "probability": 0.4982351743591804
+                }
+            }
+        },
+        {
+            "id": "gloucester_cumberland_u14a_12",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "1:45P",
+            "visitor": "City of Ottawa",
+            "visitorScore": "0",
+            "home": "Gloucester Cumberland - B",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580546700000,
+            "elo": {
+                "pregame": {
+                    "opp": 1600.8672435115193,
+                    "elo": 1417.5497915683218,
+                    "probability": 0.26537022374097974
+                }
+            }
+        }
+    ],
+    "results": [
         {
             "id": "nepean_ringette_u14a_4",
             "tournament": "nepean_ringette",
             "type": "RR",
             "date": "Fri Nov 15",
+            "time": "12:00P",
             "visitor": "Sudbury",
             "visitorScore": "3",
             "home": "City of Ottawa",
             "homeScore": "7",
             "status": "Official",
+            "isoDate": 1573801200000,
             "elo": {
                 "pregame": {
-                    "opp": 1484.736306793522,
-                    "elo": 1484,
-                    "probability": 0.5115497779105124
+                    "opp": 1500,
+                    "elo": 1500,
+                    "probability": 0.512622317608554
                 },
                 "postgame": {
-                    "opp": 1468.7023986633528,
-                    "elo": 1500.0339081301693
+                    "opp": 1484,
+                    "elo": 1516
+                }
+            },
+            "record": "1 - 0 - 0"
+        },
+        {
+            "id": "nepean_ringette_u14a_9",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Fri Nov 15",
+            "time": "5:30P",
+            "visitor": "City of Ottawa",
+            "visitorScore": "2",
+            "home": "Kitchener",
+            "homeScore": "3",
+            "status": "Official",
+            "isoDate": 1573821000000,
+            "elo": {
+                "pregame": {
+                    "opp": 1486.7548421248987,
+                    "elo": 1516,
+                    "probability": 0.5299638700225846
+                },
+                "postgame": {
+                    "opp": 1504.0984595951356,
+                    "elo": 1498.656382529763
                 }
             },
             "record": "1 - 1 - 0"
-        },
-        {
-            "id": "nepean_ringette_u14a_20",
-            "tournament": "nepean_ringette",
-            "type": "RR",
-            "date": "Sat Nov 16",
-            "visitor": "Upper Ottawa Valley",
-            "visitorScore": "1",
-            "home": "City of Ottawa",
-            "homeScore": "4",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1470.8494483935394,
-                    "elo": 1500.0339081301693,
-                    "probability": 0.5298757192684671
-                },
-                "postgame": {
-                    "opp": 1456.1902902825846,
-                    "elo": 1514.6930662411241
-                }
-            },
-            "record": "2 - 1 - 0"
         },
         {
             "id": "nepean_ringette_u14a_16",
             "tournament": "nepean_ringette",
             "type": "RR",
             "date": "Sat Nov 16",
+            "time": "2:30P",
             "visitor": "City of Ottawa",
             "visitorScore": "0",
             "home": "West Ottawa  - F",
             "homeScore": "2",
             "status": "Official",
+            "isoDate": 1573896600000,
             "elo": {
                 "pregame": {
-                    "opp": 1515.9716703448616,
-                    "elo": 1514.6930662411241,
-                    "probability": 0.510759773139581
+                    "opp": 1513.9858838830762,
+                    "elo": 1498.656382529763,
+                    "probability": 0.49028347518197934
                 },
                 "postgame": {
-                    "opp": 1531.9127887156958,
-                    "elo": 1498.75194787029
+                    "opp": 1529.2803920002589,
+                    "elo": 1483.3618744125804
+                }
+            },
+            "record": "1 - 2 - 0"
+        },
+        {
+            "id": "nepean_ringette_u14a_20",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Sat Nov 16",
+            "time": "6:30P",
+            "visitor": "Upper Ottawa Valley",
+            "visitorScore": "1",
+            "home": "City of Ottawa",
+            "homeScore": "4",
+            "status": "Official",
+            "isoDate": 1573911000000,
+            "elo": {
+                "pregame": {
+                    "opp": 1456.2996469124596,
+                    "elo": 1483.3618744125804,
+                    "probability": 0.5267925087183154
+                },
+                "postgame": {
+                    "opp": 1441.543394264006,
+                    "elo": 1498.1181270610339
                 }
             },
             "record": "2 - 2 - 0"
-        },
-        {
-            "id": "mississauga_ringette_u14a_6",
-            "tournament": "mississauga_ringette",
-            "type": "RR",
-            "date": "Fri Nov 29",
-            "visitor": "West Ottawa - G",
-            "visitorScore": "7",
-            "home": "City of Ottawa",
-            "homeScore": "0",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1542.314846660923,
-                    "elo": 1498.75194787029,
-                    "probability": 0.4493068489185563
-                },
-                "postgame": {
-                    "opp": 1556.3191483285505,
-                    "elo": 1484.7476462026625
-                }
-            },
-            "record": "2 - 3 - 0"
         },
         {
             "id": "mississauga_ringette_u14a_1",
             "tournament": "mississauga_ringette",
             "type": "RR",
             "date": "Fri Nov 29",
+            "time": "9:00A",
             "visitor": "City of Ottawa",
             "visitorScore": "1",
             "home": "Forest",
             "homeScore": "8",
             "status": "Official",
+            "isoDate": 1575000000000,
             "elo": {
                 "pregame": {
-                    "opp": 1575.0477438556122,
-                    "elo": 1484.7476462026625,
-                    "probability": 0.38320903052240496
+                    "opp": 1563.698669031989,
+                    "elo": 1498.1181270610339,
+                    "probability": 0.41779431359356256
                 },
                 "postgame": {
-                    "opp": 1586.9804434592133,
-                    "elo": 1472.8149465990614
+                    "opp": 1576.7139370434547,
+                    "elo": 1485.1028590495682
+                }
+            },
+            "record": "2 - 3 - 0"
+        },
+        {
+            "id": "mississauga_ringette_u14a_6",
+            "tournament": "mississauga_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "time": "2:20P",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "7",
+            "home": "City of Ottawa",
+            "homeScore": "0",
+            "status": "Official",
+            "isoDate": 1575019200000,
+            "elo": {
+                "pregame": {
+                    "opp": 1556.4032274950537,
+                    "elo": 1485.1028590495682,
+                    "probability": 0.4097059372472114
+                },
+                "postgame": {
+                    "opp": 1569.1650554084786,
+                    "elo": 1472.3410311361433
                 }
             },
             "record": "2 - 4 - 0"
@@ -150,20 +284,22 @@
             "tournament": "mississauga_ringette",
             "type": "RR",
             "date": "Sat Nov 30",
+            "time": "8:00A",
             "visitor": "City of Ottawa",
             "visitorScore": "1",
             "home": "Markham - F",
             "homeScore": "8",
             "status": "Official",
+            "isoDate": 1575082800000,
             "elo": {
                 "pregame": {
-                    "opp": 1557.9283771198823,
-                    "elo": 1472.8149465990614,
-                    "probability": 0.3903809254177082
+                    "opp": 1540.661818888183,
+                    "elo": 1472.3410311361433,
+                    "probability": 0.4139135442031029
                 },
                 "postgame": {
-                    "opp": 1570.0853309369459,
-                    "elo": 1460.6579927819978
+                    "opp": 1553.5554668086172,
+                    "elo": 1459.4473832157091
                 }
             },
             "record": "2 - 5 - 0"
@@ -173,35 +309,87 @@
             "tournament": "mississauga_ringette",
             "type": "RR",
             "date": "Sat Nov 30",
+            "time": "1:30P",
             "visitor": "Sault Ste Marie",
             "visitorScore": "4",
             "home": "City of Ottawa",
             "homeScore": "0",
             "status": "Official",
+            "isoDate": 1575102600000,
             "elo": {
                 "pregame": {
-                    "opp": 1484.906628658128,
-                    "elo": 1460.6579927819978,
-                    "probability": 0.47729823228864277
+                    "opp": 1486.5881154373956,
+                    "elo": 1459.4473832157091,
+                    "probability": 0.47309340059317617
                 },
                 "postgame": {
-                    "opp": 1499.791747349211,
-                    "elo": 1445.772874090915
+                    "opp": 1501.3407747186868,
+                    "elo": 1444.6947239344179
                 }
             },
             "record": "2 - 6 - 0"
+        },
+        {
+            "id": "waterloo_ringette_u14a_3",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Fri Jan 10",
+            "time": "10:00A",
+            "visitor": "City of Ottawa",
+            "visitorScore": "2",
+            "home": "Nepean",
+            "homeScore": "3",
+            "status": "Official",
+            "isoDate": 1578632400000,
+            "elo": {
+                "pregame": {
+                    "opp": 1499.949602251843,
+                    "elo": 1444.6947239344179,
+                    "probability": 0.4325055181712293
+                },
+                "postgame": {
+                    "opp": 1513.4262592126076,
+                    "elo": 1431.2180669736533
+                }
+            },
+            "record": "2 - 7 - 0"
+        },
+        {
+            "id": "waterloo_ringette_u14a_7",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Fri Jan 10",
+            "time": "4:30P",
+            "visitor": "Waterloo",
+            "visitorScore": "2",
+            "home": "City of Ottawa",
+            "homeScore": "1",
+            "status": "Official",
+            "isoDate": 1578655800000,
+            "elo": {
+                "pregame": {
+                    "opp": 1482.2139082186561,
+                    "elo": 1431.2180669736533,
+                    "probability": 0.43860986732024654
+                },
+                "postgame": {
+                    "opp": 1495.8821836239877,
+                    "elo": 1417.5497915683218
+                }
+            },
+            "record": "2 - 8 - 0"
         }
     ],
-    "pct": 0.25,
+    "pct": 0.2,
     "points": 4,
-    "games": 8,
+    "games": 10,
     "opponentRecord": {
-        "w": 46,
-        "l": 37,
+        "w": 58,
+        "l": 45,
         "t": 6,
-        "g": 89
+        "g": 109
     },
-    "strengthOfSchedule": 0.5521728619572356,
-    "record": "2 - 6 - 0",
+    "strengthOfSchedule": 0.5481663247668433,
+    "record": "2 - 8 - 0",
     "image": "City of Ottawa.png"
 }

@@ -3,9 +3,11 @@
     "tournament": "pickering_ringette",
     "type": "RR",
     "date": "Fri Nov 29",
+    "time": "3:00P",
     "visitor": "Nepean",
     "visitorScore": "6",
     "home": "Ajax",
     "homeScore": "3",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575021600000
 }

@@ -3,9 +3,11 @@
     "tournament": "london_ringette",
     "type": "RR",
     "date": "Sat Nov 9",
+    "time": "9:30A",
     "visitor": "St. Marys",
     "visitorScore": "0",
     "home": "Forest",
     "homeScore": "7",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1573273800000
 }

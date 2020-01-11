@@ -3,9 +3,11 @@
     "tournament": "mississauga_ringette",
     "type": "S1",
     "date": "Sun Dec 1",
+    "time": "9:25A",
     "visitor": "Forest",
     "visitorScore": "4",
     "home": "West Ottawa - G",
     "homeScore": "3",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575174300000
 }

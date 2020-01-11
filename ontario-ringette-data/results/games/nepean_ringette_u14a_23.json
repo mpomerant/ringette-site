@@ -3,9 +3,11 @@
     "tournament": "nepean_ringette",
     "type": "GS",
     "date": "Sun Nov 17",
+    "time": "1:30P",
     "visitor": "Gloucester Cumberland - B",
     "visitorScore": "3",
     "home": "Timmins",
     "homeScore": "1",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1573979400000
 }

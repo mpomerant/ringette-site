@@ -3,9 +3,11 @@
     "tournament": "whitby_ringette",
     "type": "RR",
     "date": "Fri Jan 3",
+    "time": "6:15P",
     "visitor": "Barrie",
     "visitorScore": "4",
     "home": "Gloucester Cumberland - D",
     "homeScore": "6",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1578057300000
 }

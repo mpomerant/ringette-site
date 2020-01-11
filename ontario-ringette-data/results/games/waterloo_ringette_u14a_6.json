@@ -3,9 +3,11 @@
     "tournament": "waterloo_ringette",
     "type": "RR",
     "date": "Fri Jan 10",
+    "time": "3:00P",
     "visitor": "Metcalfe",
     "visitorScore": "6",
     "home": "Oshawa",
     "homeScore": "1",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1578650400000
 }

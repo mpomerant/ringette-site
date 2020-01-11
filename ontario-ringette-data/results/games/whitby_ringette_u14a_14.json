@@ -3,9 +3,11 @@
     "tournament": "whitby_ringette",
     "type": "RR",
     "date": "Sat Jan 4",
+    "time": "9:00A",
     "visitor": "Timmins",
     "visitorScore": "4",
     "home": "Markham - F",
     "homeScore": "0",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1578110400000
 }

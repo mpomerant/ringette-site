@@ -3,9 +3,11 @@
     "tournament": "pickering_ringette",
     "type": "RR",
     "date": "Fri Nov 29",
+    "time": "12:00P",
     "visitor": "West Ottawa - F",
     "visitorScore": "2",
     "home": "Richmond Hill",
     "homeScore": "6",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575010800000
 }

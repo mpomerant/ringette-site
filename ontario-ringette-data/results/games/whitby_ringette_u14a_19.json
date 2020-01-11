@@ -3,9 +3,11 @@
     "tournament": "whitby_ringette",
     "type": "RR",
     "date": "Sat Jan 4",
+    "time": "3:15P",
     "visitor": "Barrie",
     "visitorScore": "0",
     "home": "Timmins",
     "homeScore": "7",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1578132900000
 }

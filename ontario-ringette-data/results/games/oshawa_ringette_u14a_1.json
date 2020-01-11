@@ -3,9 +3,11 @@
     "tournament": "oshawa_ringette",
     "type": "RR",
     "date": "Fri Nov 1",
+    "time": "10:15A",
     "visitor": "Barrie",
     "visitorScore": "2",
     "home": "Gloucester Cumberland - B",
     "homeScore": "9",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1572585300000
 }

@@ -3,9 +3,11 @@
     "tournament": "pickering_ringette",
     "type": "S1",
     "date": "Sun Dec 1",
+    "time": "8:30A",
     "visitor": "Whitby",
     "visitorScore": "2",
     "home": "Richmond Hill",
     "homeScore": "5",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575171000000
 }

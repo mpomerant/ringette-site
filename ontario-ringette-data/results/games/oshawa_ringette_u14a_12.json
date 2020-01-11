@@ -3,9 +3,11 @@
     "tournament": "oshawa_ringette",
     "type": "RR",
     "date": "Sat Nov 2",
+    "time": "1:45P",
     "visitor": "West Ottawa - G",
     "visitorScore": "8",
     "home": "Barrie",
     "homeScore": "1",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1572684300000
 }

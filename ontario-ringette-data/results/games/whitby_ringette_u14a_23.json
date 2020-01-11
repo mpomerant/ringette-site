@@ -3,9 +3,11 @@
     "tournament": "whitby_ringette",
     "type": "GS",
     "date": "Sun Jan 5",
+    "time": "12:15P",
     "visitor": "West Ottawa - G",
     "visitorScore": "6",
     "home": "Forest",
     "homeScore": "5",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1578208500000
 }

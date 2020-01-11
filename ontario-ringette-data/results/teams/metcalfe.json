@@ -1,22 +1,146 @@
 {
     "name": "Metcalfe",
-    "win": 5,
+    "win": 7,
     "loss": 4,
     "tie": 1,
-    "for": 47,
-    "against": 31,
-    "elo": 1510.986455754697,
+    "for": 57,
+    "against": 35,
+    "elo": 1532.1003672509423,
+    "upcoming": [
+        {
+            "id": "waterloo_ringette_u14a_9",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Sat Jan 11",
+            "time": "7:00A",
+            "visitor": "Sault Ste Marie",
+            "visitorScore": "0",
+            "home": "Metcalfe",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1578708000000,
+            "elo": {
+                "pregame": {
+                    "opp": 1533.6246639340468,
+                    "elo": 1532.1003672509423,
+                    "probability": 0.5104018365811964
+                }
+            }
+        },
+        {
+            "id": "waterloo_ringette_u14a_16",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Sat Jan 11",
+            "time": "1:30P",
+            "visitor": "Waterloo",
+            "visitorScore": "0",
+            "home": "Metcalfe",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1578731400000,
+            "elo": {
+                "pregame": {
+                    "opp": 1495.8821836239877,
+                    "elo": 1532.1003672509423,
+                    "probability": 0.5400768441892245
+                }
+            }
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_3",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "10:30A",
+            "visitor": "Guelph",
+            "visitorScore": "0",
+            "home": "Metcalfe",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580448600000,
+            "elo": {
+                "pregame": {
+                    "opp": 1509.5059575542887,
+                    "elo": 1532.1003672509423,
+                    "probability": 0.5202951951171857
+                }
+            }
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_6",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "3:10P",
+            "visitor": "Metcalfe",
+            "visitorScore": "0",
+            "home": "Barrie",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580465400000,
+            "elo": {
+                "pregame": {
+                    "opp": 1421.0741687472764,
+                    "elo": 1532.1003672509423,
+                    "probability": 0.644919902762999
+                }
+            }
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_8",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "8:15A",
+            "visitor": "Metcalfe",
+            "visitorScore": "0",
+            "home": "Markham - A",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580526900000,
+            "elo": {
+                "pregame": {
+                    "opp": 1600.4058598885986,
+                    "elo": 1532.1003672509423,
+                    "probability": 0.4139351761665473
+                }
+            }
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_13",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "5:00P",
+            "visitor": "London",
+            "visitorScore": "0",
+            "home": "Metcalfe",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580558400000,
+            "elo": {
+                "pregame": {
+                    "opp": 1486.6560277714414,
+                    "elo": 1532.1003672509423,
+                    "probability": 0.5534056278643406
+                }
+            }
+        }
+    ],
     "results": [
         {
             "id": "nepean_ringette_u14a_1",
             "tournament": "nepean_ringette",
             "type": "RR",
             "date": "Thu Nov 14",
+            "time": "6:00P",
             "visitor": "Nepean",
             "visitorScore": "0",
             "home": "Metcalfe",
             "homeScore": "4",
             "status": "Official",
+            "isoDate": 1573736400000,
             "elo": {
                 "pregame": {
                     "opp": 1500,
@@ -31,47 +155,51 @@
             "record": "1 - 0 - 0"
         },
         {
-            "id": "nepean_ringette_u14a_11",
-            "tournament": "nepean_ringette",
-            "type": "RR",
-            "date": "Fri Nov 15",
-            "visitor": "Metcalfe",
-            "visitorScore": "9",
-            "home": "Sudbury",
-            "homeScore": "2",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1500,
-                    "elo": 1516,
-                    "probability": 0.5106933691965208
-                },
-                "postgame": {
-                    "opp": 1484.736306793522,
-                    "elo": 1531.263693206478
-                }
-            },
-            "record": "2 - 0 - 0"
-        },
-        {
             "id": "nepean_ringette_u14a_8",
             "tournament": "nepean_ringette",
             "type": "RR",
             "date": "Fri Nov 15",
+            "time": "2:30P",
             "visitor": "Gloucester Cumberland - D",
             "visitorScore": "3",
             "home": "Metcalfe",
             "homeScore": "10",
             "status": "Official",
+            "isoDate": 1573810200000,
             "elo": {
                 "pregame": {
                     "opp": 1483.263693206478,
-                    "elo": 1531.263693206478,
-                    "probability": 0.5570850114807953
+                    "elo": 1516,
+                    "probability": 0.5350306806159859
                 },
                 "postgame": {
-                    "opp": 1469.4602177467552,
-                    "elo": 1545.0671686662006
+                    "opp": 1468.766810297684,
+                    "elo": 1530.4968829087939
+                }
+            },
+            "record": "2 - 0 - 0"
+        },
+        {
+            "id": "nepean_ringette_u14a_11",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Fri Nov 15",
+            "time": "7:00P",
+            "visitor": "Metcalfe",
+            "visitorScore": "9",
+            "home": "Sudbury",
+            "homeScore": "2",
+            "status": "Official",
+            "isoDate": 1573826400000,
+            "elo": {
+                "pregame": {
+                    "opp": 1484,
+                    "elo": 1530.4968829087939,
+                    "probability": 0.5549217065178804
+                },
+                "postgame": {
+                    "opp": 1470.128568082602,
+                    "elo": 1544.3683148261919
                 }
             },
             "record": "3 - 0 - 0"
@@ -81,20 +209,22 @@
             "tournament": "nepean_ringette",
             "type": "RR",
             "date": "Sat Nov 16",
+            "time": "4:30P",
             "visitor": "Metcalfe",
             "visitorScore": "3",
             "home": "Timmins",
             "homeScore": "6",
             "status": "Official",
+            "isoDate": 1573903800000,
             "elo": {
                 "pregame": {
-                    "opp": 1531.296043123496,
-                    "elo": 1545.0671686662006,
-                    "probability": 0.5074458649979132
+                    "opp": 1549.9125357438836,
+                    "elo": 1544.3683148261919,
+                    "probability": 0.5045441728930218
                 },
                 "postgame": {
-                    "opp": 1547.9298949881597,
-                    "elo": 1528.4333168015369
+                    "opp": 1565.6572366048508,
+                    "elo": 1528.6236139652246
                 }
             },
             "record": "3 - 1 - 0"
@@ -104,66 +234,72 @@
             "tournament": "nepean_ringette",
             "type": "S1",
             "date": "Sun Nov 17",
+            "time": "7:30A",
             "visitor": "Gloucester Cumberland - B",
             "visitorScore": "5",
             "home": "Metcalfe",
             "homeScore": "4",
             "status": "Official",
+            "isoDate": 1573957800000,
             "elo": {
                 "pregame": {
-                    "opp": 1567.7435122845848,
-                    "elo": 1528.4333168015369,
-                    "probability": 0.4554488553264797
+                    "opp": 1567.1758808977627,
+                    "elo": 1528.6236139652246,
+                    "probability": 0.4565449798853918
                 },
                 "postgame": {
-                    "opp": 1581.9408964046672,
-                    "elo": 1514.2359326814544
+                    "opp": 1581.4077342971013,
+                    "elo": 1514.391760565886
                 }
             },
             "record": "3 - 2 - 0"
-        },
-        {
-            "id": "pickering_ringette_u14a_12",
-            "tournament": "pickering_ringette",
-            "type": "RR",
-            "date": "Fri Nov 29",
-            "visitor": "Metcalfe",
-            "visitorScore": "5",
-            "home": "Whitby",
-            "homeScore": "6",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1503.0068009433724,
-                    "elo": 1514.2359326814544,
-                    "probability": 0.5037413896766281
-                },
-                "postgame": {
-                    "opp": 1519.5237415867175,
-                    "elo": 1497.7189920381093
-                }
-            },
-            "record": "3 - 3 - 0"
         },
         {
             "id": "pickering_ringette_u14a_6",
             "tournament": "pickering_ringette",
             "type": "RR",
             "date": "Fri Nov 29",
+            "time": "1:30P",
             "visitor": "London",
             "visitorScore": "3",
             "home": "Metcalfe",
             "homeScore": "4",
             "status": "Official",
+            "isoDate": 1575016200000,
             "elo": {
                 "pregame": {
-                    "opp": 1465.448383888762,
-                    "elo": 1497.7189920381093,
-                    "probability": 0.5343551927487398
+                    "opp": 1468,
+                    "elo": 1514.391760565886,
+                    "probability": 0.5547703342496798
                 },
                 "postgame": {
-                    "opp": 1450.930241376854,
-                    "elo": 1512.2371345500173
+                    "opp": 1454.1238125078175,
+                    "elo": 1528.2679480580684
+                }
+            },
+            "record": "4 - 2 - 0"
+        },
+        {
+            "id": "pickering_ringette_u14a_12",
+            "tournament": "pickering_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "time": "8:00P",
+            "visitor": "Metcalfe",
+            "visitorScore": "5",
+            "home": "Whitby",
+            "homeScore": "6",
+            "status": "Official",
+            "isoDate": 1575039600000,
+            "elo": {
+                "pregame": {
+                    "opp": 1500.5552862502484,
+                    "elo": 1528.2679480580684,
+                    "probability": 0.5277376974931762
+                },
+                "postgame": {
+                    "opp": 1517.8288018438914,
+                    "elo": 1510.9944324644255
                 }
             },
             "record": "4 - 3 - 0"
@@ -173,20 +309,22 @@
             "tournament": "pickering_ringette",
             "type": "RR",
             "date": "Sat Nov 30",
+            "time": "11:00A",
             "visitor": "Ajax",
             "visitorScore": "1",
             "home": "Metcalfe",
             "homeScore": "4",
             "status": "Official",
+            "isoDate": 1575093600000,
             "elo": {
                 "pregame": {
-                    "opp": 1458.2266326607723,
-                    "elo": 1512.2371345500173,
-                    "probability": 0.5657129875728808
+                    "opp": 1459.5311757087936,
+                    "elo": 1510.9944324644255,
+                    "probability": 0.5620610081789426
                 },
                 "postgame": {
-                    "opp": 1444.6940640175221,
-                    "elo": 1525.7697031932676
+                    "opp": 1445.8839642858522,
+                    "elo": 1524.6416438873669
                 }
             },
             "record": "5 - 3 - 0"
@@ -196,20 +334,22 @@
             "tournament": "pickering_ringette",
             "type": "RR",
             "date": "Sat Nov 30",
+            "time": "4:00P",
             "visitor": "Metcalfe",
             "visitorScore": "3",
             "home": "Richmond Hill",
             "homeScore": "3",
             "status": "Official",
+            "isoDate": 1575111600000,
             "elo": {
                 "pregame": {
-                    "opp": 1539.62454394894,
-                    "elo": 1525.7697031932676,
-                    "probability": 0.4924321475833844
+                    "opp": 1540.6420313811261,
+                    "elo": 1524.6416438873669,
+                    "probability": 0.48930606628966133
                 },
                 "postgame": {
-                    "opp": 1538.9868429434857,
-                    "elo": 1526.407404198722
+                    "opp": 1539.9057067806489,
+                    "elo": 1525.377968487844
                 }
             },
             "record": "5 - 3 - 1"
@@ -219,35 +359,87 @@
             "tournament": "pickering_ringette",
             "type": "GS",
             "date": "Sun Dec 1",
+            "time": "1:30P",
             "visitor": "Metcalfe",
             "visitorScore": "1",
             "home": "Richmond Hill",
             "homeScore": "2",
             "status": "Official",
+            "isoDate": 1575189000000,
             "elo": {
                 "pregame": {
-                    "opp": 1538.9868429434857,
-                    "elo": 1526.407404198722,
-                    "probability": 0.4942907161814112
+                    "opp": 1554.7773932912587,
+                    "elo": 1525.377968487844,
+                    "probability": 0.4698120994719317
                 },
                 "postgame": {
-                    "opp": 1554.4077913875105,
-                    "elo": 1510.986455754697
+                    "opp": 1569.426721929002,
+                    "elo": 1510.7286398501008
                 }
             },
             "record": "5 - 4 - 1"
+        },
+        {
+            "id": "waterloo_ringette_u14a_4",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Fri Jan 10",
+            "time": "10:00A",
+            "visitor": "Metcalfe",
+            "visitorScore": "4",
+            "home": "Mississauga",
+            "homeScore": "3",
+            "status": "Official",
+            "isoDate": 1578632400000,
+            "elo": {
+                "pregame": {
+                    "opp": 1403.678394554685,
+                    "elo": 1510.7286398501008,
+                    "probability": 0.6395941161289711
+                },
+                "postgame": {
+                    "opp": 1392.4579403563478,
+                    "elo": 1521.949094048438
+                }
+            },
+            "record": "6 - 4 - 1"
+        },
+        {
+            "id": "waterloo_ringette_u14a_6",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Fri Jan 10",
+            "time": "3:00P",
+            "visitor": "Metcalfe",
+            "visitorScore": "6",
+            "home": "Oshawa",
+            "homeScore": "1",
+            "status": "Official",
+            "isoDate": 1578650400000,
+            "elo": {
+                "pregame": {
+                    "opp": 1388.7868468425072,
+                    "elo": 1521.949094048438,
+                    "probability": 0.6738908254552258
+                },
+                "postgame": {
+                    "opp": 1378.6355736400028,
+                    "elo": 1532.1003672509423
+                }
+            },
+            "record": "7 - 4 - 1"
         }
     ],
-    "pct": 0.55,
-    "points": 11,
-    "games": 10,
+    "pct": 0.625,
+    "points": 15,
+    "games": 12,
     "opponentRecord": {
-        "w": 54,
-        "l": 51,
-        "t": 4,
-        "g": 109
+        "w": 56,
+        "l": 69,
+        "t": 6,
+        "g": 131
     },
-    "strengthOfSchedule": 0.5203976564832834,
-    "record": "5 - 4 - 1",
+    "strengthOfSchedule": 0.47946237371828787,
+    "record": "7 - 4 - 1",
     "image": "Metcalfe.png"
 }

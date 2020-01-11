@@ -3,9 +3,11 @@
     "tournament": "oshawa_ringette",
     "type": "RR",
     "date": "Sat Nov 2",
+    "time": "8:15A",
     "visitor": "Guelph",
     "visitorScore": "2",
     "home": "Gloucester Cumberland - B",
     "homeScore": "3",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1572664500000
 }

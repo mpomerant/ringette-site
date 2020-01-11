@@ -3,9 +3,11 @@
     "tournament": "london_ringette",
     "type": "RR",
     "date": "Fri Nov 8",
+    "time": "1:15P",
     "visitor": "Forest",
     "visitorScore": "7",
     "home": "Whitby",
     "homeScore": "3",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1573200900000
 }

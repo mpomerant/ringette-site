@@ -3,9 +3,11 @@
     "tournament": "nepean_ringette",
     "type": "RR",
     "date": "Fri Nov 15",
+    "time": "9:00A",
     "visitor": "Upper Ottawa Valley",
     "visitorScore": "1",
     "home": "Gloucester Cumberland - B",
     "homeScore": "7",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1573790400000
 }

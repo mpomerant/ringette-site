@@ -3,9 +3,11 @@
     "tournament": "oshawa_ringette",
     "type": "RR",
     "date": "Fri Nov 1",
+    "time": "2:30P",
     "visitor": "Gloucester Cumberland - B",
     "visitorScore": "2",
     "home": "Sault Ste Marie",
     "homeScore": "3",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1572600600000
 }

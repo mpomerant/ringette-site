@@ -5,50 +5,136 @@
     "tie": 0,
     "for": 69,
     "against": 32,
-    "elo": 1601.9151869035072,
-    "results": [
+    "elo": 1600.8672435115193,
+    "upcoming": [
         {
-            "id": "oshawa_ringette_u14a_6",
-            "tournament": "oshawa_ringette",
+            "id": "gloucester_cumberland_u14a_1",
+            "tournament": "gloucester_cumberland",
             "type": "RR",
-            "date": "Fri Nov 1",
-            "visitor": "Gloucester Cumberland - B",
-            "visitorScore": "2",
-            "home": "Sault Ste Marie",
-            "homeScore": "3",
-            "status": "Official",
+            "date": "Thu Jan 30",
+            "time": "6:30P",
+            "visitor": "Nepean",
+            "visitorScore": "0",
+            "home": "Gloucester Cumberland - B",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580391000000,
             "elo": {
                 "pregame": {
-                    "opp": 1516,
-                    "elo": 1500,
-                    "probability": 0.48930663080347925
-                },
-                "postgame": {
-                    "opp": 1531.263693206478,
-                    "elo": 1484.736306793522
+                    "opp": 1524.0701651492739,
+                    "elo": 1600.8672435115193,
+                    "probability": 0.5980212271485652
                 }
-            },
-            "record": "0 - 1 - 0"
+            }
         },
+        {
+            "id": "gloucester_cumberland_u14a_5",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "1:30P",
+            "visitor": "Gloucester Cumberland - B",
+            "visitorScore": "0",
+            "home": "West Ottawa - G",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580459400000,
+            "elo": {
+                "pregame": {
+                    "opp": 1599.6196665104226,
+                    "elo": 1600.8672435115193,
+                    "probability": 0.4891950258883151
+                }
+            }
+        },
+        {
+            "id": "gloucester_cumberland_u14a_8",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "8:30A",
+            "visitor": "Gloucester Cumberland - B",
+            "visitorScore": "0",
+            "home": "Nova Scotia",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580527800000,
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1600.8672435115193,
+                    "probability": 0.6312437050242781
+                }
+            }
+        },
+        {
+            "id": "gloucester_cumberland_u14a_12",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "1:45P",
+            "visitor": "City of Ottawa",
+            "visitorScore": "0",
+            "home": "Gloucester Cumberland - B",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580546700000,
+            "elo": {
+                "pregame": {
+                    "opp": 1417.5497915683218,
+                    "elo": 1600.8672435115193,
+                    "probability": 0.7346297762590203
+                }
+            }
+        }
+    ],
+    "results": [
         {
             "id": "oshawa_ringette_u14a_1",
             "tournament": "oshawa_ringette",
             "type": "RR",
             "date": "Fri Nov 1",
+            "time": "10:15A",
             "visitor": "Barrie",
             "visitorScore": "2",
             "home": "Gloucester Cumberland - B",
             "homeScore": "9",
             "status": "Official",
+            "isoDate": 1572585300000,
             "elo": {
                 "pregame": {
-                    "opp": 1483.263693206478,
-                    "elo": 1484.736306793522,
-                    "probability": 0.489522868144322
+                    "opp": 1500,
+                    "elo": 1500,
+                    "probability": 0.512622317608554
                 },
                 "postgame": {
-                    "opp": 1467.3315091622376,
-                    "elo": 1500.6684908377624
+                    "opp": 1484,
+                    "elo": 1516
+                }
+            },
+            "record": "1 - 0 - 0"
+        },
+        {
+            "id": "oshawa_ringette_u14a_6",
+            "tournament": "oshawa_ringette",
+            "type": "RR",
+            "date": "Fri Nov 1",
+            "time": "2:30P",
+            "visitor": "Gloucester Cumberland - B",
+            "visitorScore": "2",
+            "home": "Sault Ste Marie",
+            "homeScore": "3",
+            "status": "Official",
+            "isoDate": 1572600600000,
+            "elo": {
+                "pregame": {
+                    "opp": 1516,
+                    "elo": 1516,
+                    "probability": 0.48737768239144597
+                },
+                "postgame": {
+                    "opp": 1532,
+                    "elo": 1500
                 }
             },
             "record": "1 - 1 - 0"
@@ -58,20 +144,22 @@
             "tournament": "oshawa_ringette",
             "type": "RR",
             "date": "Sat Nov 2",
+            "time": "8:15A",
             "visitor": "Guelph",
             "visitorScore": "2",
             "home": "Gloucester Cumberland - B",
             "homeScore": "3",
             "status": "Official",
+            "isoDate": 1572664500000,
             "elo": {
                 "pregame": {
-                    "opp": 1500.736306793522,
-                    "elo": 1500.6684908377624,
-                    "probability": 0.5125235383523895
+                    "opp": 1500,
+                    "elo": 1500,
+                    "probability": 0.512622317608554
                 },
                 "postgame": {
-                    "opp": 1484.7331837533857,
-                    "elo": 1516.6716138778988
+                    "opp": 1484,
+                    "elo": 1516
                 }
             },
             "record": "2 - 1 - 0"
@@ -81,20 +169,22 @@
             "tournament": "oshawa_ringette",
             "type": "RR",
             "date": "Sat Nov 2",
+            "time": "12:30P",
             "visitor": "Gloucester Cumberland - B",
             "visitorScore": "8",
             "home": "Oshawa",
             "homeScore": "1",
             "status": "Official",
+            "isoDate": 1572679800000,
             "elo": {
                 "pregame": {
-                    "opp": 1453.371044584685,
-                    "elo": 1516.6716138778988,
-                    "probability": 0.5789689630948284
+                    "opp": 1453.4018288862171,
+                    "elo": 1516,
+                    "probability": 0.5779704329442186
                 },
                 "postgame": {
-                    "opp": 1440.2543110075849,
-                    "elo": 1529.788347454999
+                    "opp": 1440.2537877239945,
+                    "elo": 1529.1480411622226
                 }
             },
             "record": "3 - 1 - 0"
@@ -104,112 +194,122 @@
             "tournament": "oshawa_ringette",
             "type": "GS",
             "date": "Sun Nov 3",
+            "time": "9:30A",
             "visitor": "Gloucester Cumberland - B",
             "visitorScore": "2",
             "home": "West Ottawa - G",
             "homeScore": "1",
             "status": "Official",
+            "isoDate": 1572755400000,
             "elo": {
                 "pregame": {
-                    "opp": 1559.6884059619965,
-                    "elo": 1529.788347454999,
-                    "probability": 0.4690851502495227
+                    "opp": 1559.7492298051036,
+                    "elo": 1529.1480411622226,
+                    "probability": 0.46806728974057865
                 },
                 "postgame": {
-                    "opp": 1542.314846660923,
-                    "elo": 1547.1619067560725
+                    "opp": 1542.3436258203953,
+                    "elo": 1546.5536451469309
                 }
             },
             "record": "4 - 1 - 0"
-        },
-        {
-            "id": "nepean_ringette_u14a_7",
-            "tournament": "nepean_ringette",
-            "type": "RR",
-            "date": "Fri Nov 15",
-            "visitor": "Kitchener",
-            "visitorScore": "1",
-            "home": "Gloucester Cumberland - B",
-            "homeScore": "2",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1516,
-                    "elo": 1547.1619067560725,
-                    "probability": 0.5327465378521081
-                },
-                "postgame": {
-                    "opp": 1501.431223067824,
-                    "elo": 1561.7306836882485
-                }
-            },
-            "record": "5 - 1 - 0"
         },
         {
             "id": "nepean_ringette_u14a_3",
             "tournament": "nepean_ringette",
             "type": "RR",
             "date": "Fri Nov 15",
+            "time": "9:00A",
             "visitor": "Upper Ottawa Valley",
             "visitorScore": "1",
             "home": "Gloucester Cumberland - B",
             "homeScore": "7",
             "status": "Official",
+            "isoDate": 1573790400000,
             "elo": {
                 "pregame": {
-                    "opp": 1483.297604447537,
-                    "elo": 1561.7306836882485,
-                    "probability": 0.6003118979449917
+                    "opp": 1500,
+                    "elo": 1546.5536451469309,
+                    "probability": 0.5550034377971014
                 },
                 "postgame": {
-                    "opp": 1470.8494483935394,
-                    "elo": 1574.178839742246
+                    "opp": 1486.1311357607435,
+                    "elo": 1560.4225093861874
+                }
+            },
+            "record": "5 - 1 - 0"
+        },
+        {
+            "id": "nepean_ringette_u14a_7",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Fri Nov 15",
+            "time": "1:30P",
+            "visitor": "Kitchener",
+            "visitorScore": "1",
+            "home": "Gloucester Cumberland - B",
+            "homeScore": "2",
+            "status": "Official",
+            "isoDate": 1573806600000,
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1560.4225093861874,
+                    "probability": 0.5748734962907875
+                },
+                "postgame": {
+                    "opp": 1486.7548421248987,
+                    "elo": 1573.6676672612887
                 }
             },
             "record": "6 - 1 - 0"
-        },
-        {
-            "id": "nepean_ringette_u14a_19",
-            "tournament": "nepean_ringette",
-            "type": "RR",
-            "date": "Sat Nov 16",
-            "visitor": "Gloucester Cumberland - B",
-            "visitorScore": "8",
-            "home": "Sudbury",
-            "homeScore": "1",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1468.7023986633528,
-                    "elo": 1574.178839742246,
-                    "probability": 0.6374763931534981
-                },
-                "postgame": {
-                    "opp": 1457.4158465140433,
-                    "elo": 1585.4653918915556
-                }
-            },
-            "record": "7 - 1 - 0"
         },
         {
             "id": "nepean_ringette_u14a_13",
             "tournament": "nepean_ringette",
             "type": "RR",
             "date": "Sat Nov 16",
+            "time": "11:30A",
             "visitor": "Gloucester Cumberland - B",
             "visitorScore": "1",
             "home": "Timmins",
             "homeScore": "2",
             "status": "Official",
+            "isoDate": 1573885800000,
             "elo": {
                 "pregame": {
-                    "opp": 1547.9298949881597,
-                    "elo": 1585.4653918915556,
-                    "probability": 0.5419838967928137
+                    "opp": 1532.0029497319824,
+                    "elo": 1573.6676672612887,
+                    "probability": 0.5479534813010392
                 },
                 "postgame": {
-                    "opp": 1565.6517745951305,
-                    "elo": 1567.7435122845848
+                    "opp": 1549.9125357438836,
+                    "elo": 1555.7580812493875
+                }
+            },
+            "record": "6 - 2 - 0"
+        },
+        {
+            "id": "nepean_ringette_u14a_19",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Sat Nov 16",
+            "time": "5:30P",
+            "visitor": "Gloucester Cumberland - B",
+            "visitorScore": "8",
+            "home": "Sudbury",
+            "homeScore": "1",
+            "status": "Official",
+            "isoDate": 1573907400000,
+            "elo": {
+                "pregame": {
+                    "opp": 1453.3943279041268,
+                    "elo": 1555.7580812493875,
+                    "probability": 0.6332722510889509
+                },
+                "postgame": {
+                    "opp": 1441.9765282557516,
+                    "elo": 1567.1758808977627
                 }
             },
             "record": "7 - 2 - 0"
@@ -219,20 +319,22 @@
             "tournament": "nepean_ringette",
             "type": "S1",
             "date": "Sun Nov 17",
+            "time": "7:30A",
             "visitor": "Gloucester Cumberland - B",
             "visitorScore": "5",
             "home": "Metcalfe",
             "homeScore": "4",
             "status": "Official",
+            "isoDate": 1573957800000,
             "elo": {
                 "pregame": {
-                    "opp": 1528.4333168015369,
-                    "elo": 1567.7435122845848,
-                    "probability": 0.5445511446735203
+                    "opp": 1528.6236139652246,
+                    "elo": 1567.1758808977627,
+                    "probability": 0.5434550201146082
                 },
                 "postgame": {
-                    "opp": 1514.2359326814544,
-                    "elo": 1581.9408964046672
+                    "opp": 1514.391760565886,
+                    "elo": 1581.4077342971013
                 }
             },
             "record": "8 - 2 - 0"
@@ -242,112 +344,122 @@
             "tournament": "nepean_ringette",
             "type": "GS",
             "date": "Sun Nov 17",
+            "time": "1:30P",
             "visitor": "Gloucester Cumberland - B",
             "visitorScore": "3",
             "home": "Timmins",
             "homeScore": "1",
             "status": "Official",
+            "isoDate": 1573979400000,
             "elo": {
                 "pregame": {
-                    "opp": 1580.1029024818001,
-                    "elo": 1581.9408964046672,
-                    "probability": 0.49005518783373725
+                    "opp": 1579.9881156813383,
+                    "elo": 1581.4077342971013,
+                    "probability": 0.4894456621389158
                 },
                 "postgame": {
-                    "opp": 1564.1875444403636,
-                    "elo": 1597.8562544461038
+                    "opp": 1564.053491170765,
+                    "elo": 1597.3423588076746
                 }
             },
             "record": "9 - 2 - 0"
-        },
-        {
-            "id": "whitby_ringette_u14a_6",
-            "tournament": "whitby_ringette",
-            "type": "RR",
-            "date": "Fri Jan 3",
-            "visitor": "Gloucester Cumberland - B",
-            "visitorScore": "3",
-            "home": "Forest",
-            "homeScore": "4",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1610.161626401273,
-                    "elo": 1597.8562544461038,
-                    "probability": 0.49469012000370316
-                },
-                "postgame": {
-                    "opp": 1625.5951799137163,
-                    "elo": 1582.4227009336605
-                }
-            },
-            "record": "9 - 3 - 0"
         },
         {
             "id": "whitby_ringette_u14a_2",
             "tournament": "whitby_ringette",
             "type": "RR",
             "date": "Fri Jan 3",
+            "time": "12:00P",
             "visitor": "Gloucester Cumberland - B",
             "visitorScore": "4",
             "home": "Markham - F",
             "homeScore": "2",
             "status": "Official",
+            "isoDate": 1578034800000,
             "elo": {
                 "pregame": {
-                    "opp": 1566.186692951109,
-                    "elo": 1582.4227009336605,
-                    "probability": 0.5110371883834885
+                    "opp": 1556.3397241655427,
+                    "elo": 1597.3423588076746,
+                    "probability": 0.5469971957538773
                 },
                 "postgame": {
-                    "opp": 1550.9338449561196,
-                    "elo": 1597.67554892865
+                    "opp": 1542.2192476395358,
+                    "elo": 1611.4628353336816
+                }
+            },
+            "record": "10 - 2 - 0"
+        },
+        {
+            "id": "whitby_ringette_u14a_6",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Fri Jan 3",
+            "time": "5:15P",
+            "visitor": "Gloucester Cumberland - B",
+            "visitorScore": "3",
+            "home": "Forest",
+            "homeScore": "4",
+            "status": "Official",
+            "isoDate": 1578053700000,
+            "elo": {
+                "pregame": {
+                    "opp": 1623.6931544315044,
+                    "elo": 1611.4628353336816,
+                    "probability": 0.49479949745879004
+                },
+                "postgame": {
+                    "opp": 1639.1301599500814,
+                    "elo": 1596.0258298151045
                 }
             },
             "record": "10 - 3 - 0"
-        },
-        {
-            "id": "whitby_ringette_u14a_16",
-            "tournament": "whitby_ringette",
-            "type": "RR",
-            "date": "Sat Jan 4",
-            "visitor": "Ajax",
-            "visitorScore": "0",
-            "home": "Gloucester Cumberland - B",
-            "homeScore": "5",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1397.163117137675,
-                    "elo": 1597.67554892865,
-                    "probability": 0.7537080512586158
-                },
-                "postgame": {
-                    "opp": 1389.4922353631232,
-                    "elo": 1605.3464307032018
-                }
-            },
-            "record": "11 - 3 - 0"
         },
         {
             "id": "whitby_ringette_u14a_13",
             "tournament": "whitby_ringette",
             "type": "RR",
             "date": "Sat Jan 4",
+            "time": "8:15A",
             "visitor": "Whitby",
             "visitorScore": "3",
             "home": "Gloucester Cumberland - B",
             "homeScore": "4",
             "status": "Official",
+            "isoDate": 1578107700000,
             "elo": {
                 "pregame": {
-                    "opp": 1516.511136007998,
-                    "elo": 1605.3464307032018,
-                    "probability": 0.6147705002908926
+                    "opp": 1498.9062375352316,
+                    "elo": 1596.0258298151045,
+                    "probability": 0.6261434248301441
                 },
                 "postgame": {
-                    "opp": 1504.5152715189047,
-                    "elo": 1617.342295192295
+                    "opp": 1487.265797352913,
+                    "elo": 1607.6662699974231
+                }
+            },
+            "record": "11 - 3 - 0"
+        },
+        {
+            "id": "whitby_ringette_u14a_16",
+            "tournament": "whitby_ringette",
+            "type": "RR",
+            "date": "Sat Jan 4",
+            "time": "1:00P",
+            "visitor": "Ajax",
+            "visitorScore": "0",
+            "home": "Gloucester Cumberland - B",
+            "homeScore": "5",
+            "status": "Official",
+            "isoDate": 1578124800000,
+            "elo": {
+                "pregame": {
+                    "opp": 1397.5238524722636,
+                    "elo": 1607.6662699974231,
+                    "probability": 0.7639809431440784
+                },
+                "postgame": {
+                    "opp": 1390.1715898176503,
+                    "elo": 1615.0185326520364
                 }
             },
             "record": "12 - 3 - 0"
@@ -357,20 +469,22 @@
             "tournament": "whitby_ringette",
             "type": "S2",
             "date": "Sun Jan 5",
+            "time": "8:00A",
             "visitor": "Gloucester Cumberland - B",
             "visitorScore": "3",
             "home": "Forest",
             "homeScore": "4",
             "status": "Official",
+            "isoDate": 1578193200000,
             "elo": {
                 "pregame": {
-                    "opp": 1629.7878010459694,
-                    "elo": 1617.342295192295,
-                    "probability": 0.4944858987785432
+                    "opp": 1655.3428725064603,
+                    "elo": 1615.0185326520364,
+                    "probability": 0.45398286540819455
                 },
                 "postgame": {
-                    "opp": 1645.2149093347573,
-                    "elo": 1601.9151869035072
+                    "opp": 1669.4941616469773,
+                    "elo": 1600.8672435115193
                 }
             },
             "record": "12 - 4 - 0"
@@ -380,12 +494,12 @@
     "points": 24,
     "games": 16,
     "opponentRecord": {
-        "w": 95,
-        "l": 81,
+        "w": 99,
+        "l": 83,
         "t": 9,
-        "g": 185
+        "g": 191
     },
-    "strengthOfSchedule": 0.5447558721296563,
+    "strengthOfSchedule": 0.5446692772873731,
     "record": "12 - 4 - 0",
     "image": "Gloucester Cumberland.png"
 }

@@ -3,9 +3,11 @@
     "tournament": "mississauga_ringette",
     "type": "GS",
     "date": "Sun Dec 1",
+    "time": "2:00P",
     "visitor": "Forest",
     "visitorScore": "6",
     "home": "Markham - F",
     "homeScore": "1",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575190800000
 }

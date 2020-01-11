@@ -3,9 +3,11 @@
     "tournament": "whitby_ringette",
     "type": "RR",
     "date": "Sat Jan 4",
+    "time": "1:00P",
     "visitor": "Ajax",
     "visitorScore": "0",
     "home": "Gloucester Cumberland - B",
     "homeScore": "5",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1578124800000
 }

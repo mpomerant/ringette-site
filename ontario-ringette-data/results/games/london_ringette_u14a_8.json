@@ -3,9 +3,11 @@
     "tournament": "london_ringette",
     "type": "RR",
     "date": "Fri Nov 8",
+    "time": "2:15P",
     "visitor": "Richmond Hill",
     "visitorScore": "4",
     "home": "St. Marys",
     "homeScore": "0",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1573204500000
 }

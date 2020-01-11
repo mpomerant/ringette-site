@@ -3,9 +3,11 @@
     "tournament": "whitby_ringette",
     "type": "RR",
     "date": "Sat Jan 4",
+    "time": "8:15A",
     "visitor": "Whitby",
     "visitorScore": "3",
     "home": "Gloucester Cumberland - B",
     "homeScore": "4",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1578107700000
 }

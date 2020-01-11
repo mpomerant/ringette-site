@@ -3,9 +3,11 @@
     "tournament": "waterloo_ringette",
     "type": "RR",
     "date": "Fri Jan 10",
+    "time": "9:00A",
     "visitor": "Sault Ste Marie",
     "visitorScore": "4",
     "home": "Waterloo",
     "homeScore": "0",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1578628800000
 }

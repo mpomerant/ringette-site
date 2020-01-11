@@ -3,9 +3,11 @@
     "tournament": "nepean_ringette",
     "type": "RR",
     "date": "Sat Nov 16",
+    "time": "9:30A",
     "visitor": "West Ottawa  - F",
     "visitorScore": "5",
     "home": "Gloucester Cumberland - D",
     "homeScore": "1",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1573878600000
 }

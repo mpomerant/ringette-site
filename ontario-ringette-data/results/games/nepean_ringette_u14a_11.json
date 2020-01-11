@@ -3,9 +3,11 @@
     "tournament": "nepean_ringette",
     "type": "RR",
     "date": "Fri Nov 15",
+    "time": "7:00P",
     "visitor": "Metcalfe",
     "visitorScore": "9",
     "home": "Sudbury",
     "homeScore": "2",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1573826400000
 }

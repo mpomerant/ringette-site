@@ -3,9 +3,11 @@
     "tournament": "nepean_ringette",
     "type": "RR",
     "date": "Sat Nov 16",
+    "time": "1:30P",
     "visitor": "Sudbury",
     "visitorScore": "2",
     "home": "Gloucester Cumberland - D",
     "homeScore": "9",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1573893000000
 }

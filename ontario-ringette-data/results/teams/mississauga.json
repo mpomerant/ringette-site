@@ -1,100 +1,230 @@
 {
     "name": "Mississauga",
     "win": 0,
-    "loss": 7,
+    "loss": 9,
     "tie": 1,
-    "for": 13,
-    "against": 44,
-    "elo": 1404.2929996809378,
-    "results": [
+    "for": 18,
+    "against": 51,
+    "elo": 1381.8140344196815,
+    "upcoming": [
         {
-            "id": "mississauga_ringette_u14a_5",
-            "tournament": "mississauga_ringette",
+            "id": "waterloo_ringette_u14a_11",
+            "tournament": "waterloo_ringette",
             "type": "RR",
-            "date": "Fri Nov 29",
-            "visitor": "Mississauga",
+            "date": "Sat Jan 11",
+            "time": "8:00A",
+            "visitor": "City of Ottawa",
             "visitorScore": "0",
-            "home": "Markham - F",
-            "homeScore": "7",
-            "status": "Official",
+            "home": "Mississauga",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1578711600000,
             "elo": {
                 "pregame": {
-                    "opp": 1525.8065549673279,
-                    "elo": 1500,
-                    "probability": 0.4750327288547682
-                },
-                "postgame": {
-                    "opp": 1540.6202999555535,
-                    "elo": 1485.1862550117744
+                    "opp": 1417.5497915683218,
+                    "elo": 1381.8140344196815,
+                    "probability": 0.46062185331708416
                 }
-            },
-            "record": "0 - 1 - 0"
+            }
         },
+        {
+            "id": "waterloo_ringette_u14a_14",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Sat Jan 11",
+            "time": "12:00P",
+            "visitor": "Mississauga",
+            "visitorScore": "0",
+            "home": "West Ottawa - F",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1578726000000,
+            "elo": {
+                "pregame": {
+                    "opp": 1510.1996121617778,
+                    "elo": 1381.8140344196815,
+                    "probability": 0.3322584831265438
+                }
+            }
+        },
+        {
+            "id": "guelph_ringette_u14a_1",
+            "tournament": "guelph_ringette",
+            "type": "RR",
+            "date": "Fri Feb 7",
+            "time": "9:00A",
+            "visitor": "Mississauga",
+            "visitorScore": "0",
+            "home": "Guelph",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581048000000,
+            "elo": {
+                "pregame": {
+                    "opp": 1509.5059575542887,
+                    "elo": 1381.8140344196815,
+                    "probability": 0.3331563054466826
+                }
+            }
+        },
+        {
+            "id": "guelph_ringette_u14a_3",
+            "tournament": "guelph_ringette",
+            "type": "RR",
+            "date": "Fri Feb 7",
+            "time": "1:30P",
+            "visitor": "Whitby",
+            "visitorScore": "0",
+            "home": "Mississauga",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581064200000,
+            "elo": {
+                "pregame": {
+                    "opp": 1502.3006627278403,
+                    "elo": 1381.8140344196815,
+                    "probability": 0.34255316195902186
+                }
+            }
+        },
+        {
+            "id": "guelph_ringette_u14a_8",
+            "tournament": "guelph_ringette",
+            "type": "RR",
+            "date": "Sat Feb 8",
+            "time": "11:30A",
+            "visitor": "Ajax",
+            "visitorScore": "0",
+            "home": "Mississauga",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581143400000,
+            "elo": {
+                "pregame": {
+                    "opp": 1390.1715898176503,
+                    "elo": 1381.8140344196815,
+                    "probability": 0.500443862890864
+                }
+            }
+        },
+        {
+            "id": "guelph_ringette_u14a_10",
+            "tournament": "guelph_ringette",
+            "type": "RR",
+            "date": "Sat Feb 8",
+            "time": "3:30P",
+            "visitor": "Mississauga",
+            "visitorScore": "0",
+            "home": "St Marys",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581157800000,
+            "elo": {
+                "pregame": {
+                    "opp": 1494.1311717665844,
+                    "elo": 1381.8140344196815,
+                    "probability": 0.3533585027550078
+                }
+            }
+        }
+    ],
+    "results": [
         {
             "id": "mississauga_ringette_u14a_2",
             "tournament": "mississauga_ringette",
             "type": "RR",
             "date": "Fri Nov 29",
+            "time": "9:00A",
             "visitor": "West Ottawa - G",
             "visitorScore": "5",
             "home": "Mississauga",
             "homeScore": "0",
             "status": "Official",
+            "isoDate": 1575000000000,
             "elo": {
                 "pregame": {
-                    "opp": 1556.3191483285505,
-                    "elo": 1485.1862550117744,
-                    "probability": 0.40994209260482006
+                    "opp": 1542.3436258203953,
+                    "elo": 1500,
+                    "probability": 0.45106629883785776
                 },
                 "postgame": {
-                    "opp": 1569.0883735732004,
-                    "elo": 1472.4170297671244
+                    "opp": 1556.4032274950537,
+                    "elo": 1485.9403983253417
+                }
+            },
+            "record": "0 - 1 - 0"
+        },
+        {
+            "id": "mississauga_ringette_u14a_5",
+            "tournament": "mississauga_ringette",
+            "type": "RR",
+            "date": "Fri Nov 29",
+            "time": "2:20P",
+            "visitor": "Mississauga",
+            "visitorScore": "0",
+            "home": "Markham - F",
+            "homeScore": "7",
+            "status": "Official",
+            "isoDate": 1575019200000,
+            "elo": {
+                "pregame": {
+                    "opp": 1526.522228293181,
+                    "elo": 1485.9403983253417,
+                    "probability": 0.45361077817832784
+                },
+                "postgame": {
+                    "opp": 1540.661818888183,
+                    "elo": 1471.8008077303396
                 }
             },
             "record": "0 - 2 - 0"
-        },
-        {
-            "id": "mississauga_ringette_u14a_12",
-            "tournament": "mississauga_ringette",
-            "type": "RR",
-            "date": "Sat Nov 30",
-            "visitor": "Mississauga",
-            "visitorScore": "2",
-            "home": "Forest",
-            "homeScore": "9",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1586.9804434592133,
-                    "elo": 1472.4170297671244,
-                    "probability": 0.3503719413555382
-                },
-                "postgame": {
-                    "opp": 1597.8878491294165,
-                    "elo": 1461.5096240969212
-                }
-            },
-            "record": "0 - 3 - 0"
         },
         {
             "id": "mississauga_ringette_u14a_8",
             "tournament": "mississauga_ringette",
             "type": "RR",
             "date": "Sat Nov 30",
+            "time": "8:00A",
             "visitor": "Sault Ste Marie",
             "visitorScore": "2",
             "home": "Mississauga",
             "homeScore": "2",
             "status": "Official",
+            "isoDate": 1575082800000,
             "elo": {
                 "pregame": {
-                    "opp": 1486.0341529159728,
-                    "elo": 1461.5096240969212,
-                    "probability": 0.47689696201345577
+                    "opp": 1487.301474271729,
+                    "elo": 1471.8008077303396,
+                    "probability": 0.49003409857095626
                 },
                 "postgame": {
-                    "opp": 1484.906628658128,
-                    "elo": 1462.637148354766
+                    "opp": 1486.5881154373956,
+                    "elo": 1472.514166564673
+                }
+            },
+            "record": "0 - 2 - 1"
+        },
+        {
+            "id": "mississauga_ringette_u14a_12",
+            "tournament": "mississauga_ringette",
+            "type": "RR",
+            "date": "Sat Nov 30",
+            "time": "3:20P",
+            "visitor": "Mississauga",
+            "visitorScore": "2",
+            "home": "Forest",
+            "homeScore": "9",
+            "status": "Official",
+            "isoDate": 1575109200000,
+            "elo": {
+                "pregame": {
+                    "opp": 1572.3064403845071,
+                    "elo": 1472.514166564673,
+                    "probability": 0.37021630963080043
+                },
+                "postgame": {
+                    "opp": 1583.833177328315,
+                    "elo": 1460.987429620865
                 }
             },
             "record": "0 - 3 - 1"
@@ -104,20 +234,22 @@
             "tournament": "st_marys_ringette",
             "type": "RR",
             "date": "Fri Dec 6",
+            "time": "10:00A",
             "visitor": "Guelph",
             "visitorScore": "7",
             "home": "Mississauga",
             "homeScore": "4",
             "status": "Official",
+            "isoDate": 1575608400000,
             "elo": {
                 "pregame": {
-                    "opp": 1484.6723590695221,
-                    "elo": 1462.637148354766,
-                    "probability": 0.48051854768837476
+                    "opp": 1501.4664113214494,
+                    "elo": 1460.987429620865,
+                    "probability": 0.45375939333039017
                 },
                 "postgame": {
-                    "opp": 1499.6589585202564,
-                    "elo": 1447.6505489040317
+                    "opp": 1515.6106743795372,
+                    "elo": 1446.8431665627772
                 }
             },
             "record": "0 - 4 - 1"
@@ -127,20 +259,22 @@
             "tournament": "st_marys_ringette",
             "type": "RR",
             "date": "Fri Dec 6",
+            "time": "2:15P",
             "visitor": "Kitchener",
             "visitorScore": "3",
             "home": "Mississauga",
             "homeScore": "1",
             "status": "Official",
+            "isoDate": 1575623700000,
             "elo": {
                 "pregame": {
-                    "opp": 1481.5955826436866,
-                    "elo": 1447.6505489040317,
-                    "probability": 0.46321668732863364
+                    "opp": 1482.3064265859227,
+                    "elo": 1446.8431665627772,
+                    "probability": 0.46101657905336013
                 },
                 "postgame": {
-                    "opp": 1496.037311137577,
-                    "elo": 1433.2088204101412
+                    "opp": 1496.6789312523367,
+                    "elo": 1432.4706618963633
                 }
             },
             "record": "0 - 5 - 1"
@@ -150,20 +284,22 @@
             "tournament": "st_marys_ringette",
             "type": "RR",
             "date": "Sat Dec 7",
+            "time": "12:00P",
             "visitor": "Mississauga",
             "visitorScore": "3",
             "home": "Barrie",
             "homeScore": "6",
             "status": "Official",
+            "isoDate": 1575702000000,
             "elo": {
                 "pregame": {
-                    "opp": 1454.926147894686,
-                    "elo": 1433.2088204101412,
-                    "probability": 0.48098117570491583
+                    "opp": 1458.2981707581407,
+                    "elo": 1432.4706618963633,
+                    "probability": 0.47500226479753627
                 },
                 "postgame": {
-                    "opp": 1469.9273285233753,
-                    "elo": 1418.207639781452
+                    "opp": 1473.1109560924403,
+                    "elo": 1417.6578765620636
                 }
             },
             "record": "0 - 6 - 1"
@@ -173,35 +309,87 @@
             "tournament": "st_marys_ringette",
             "type": "RR",
             "date": "Sat Dec 7",
+            "time": "6:00P",
             "visitor": "Mississauga",
             "visitorScore": "1",
             "home": "St. Marys",
             "homeScore": "5",
             "status": "Official",
+            "isoDate": 1575723600000,
             "elo": {
                 "pregame": {
-                    "opp": 1463.7497108980083,
-                    "elo": 1418.207639781452,
-                    "probability": 0.4464535576546851
+                    "opp": 1461.7683529572919,
+                    "elo": 1417.6578765620636,
+                    "probability": 0.44851708679648516
                 },
                 "postgame": {
-                    "opp": 1477.6643509985224,
-                    "elo": 1404.2929996809378
+                    "opp": 1475.7478349646706,
+                    "elo": 1403.678394554685
                 }
             },
             "record": "0 - 7 - 1"
+        },
+        {
+            "id": "waterloo_ringette_u14a_4",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Fri Jan 10",
+            "time": "10:00A",
+            "visitor": "Metcalfe",
+            "visitorScore": "4",
+            "home": "Mississauga",
+            "homeScore": "3",
+            "status": "Official",
+            "isoDate": 1578632400000,
+            "elo": {
+                "pregame": {
+                    "opp": 1510.7286398501008,
+                    "elo": 1403.678394554685,
+                    "probability": 0.3604058838710289
+                },
+                "postgame": {
+                    "opp": 1521.949094048438,
+                    "elo": 1392.4579403563478
+                }
+            },
+            "record": "0 - 8 - 1"
+        },
+        {
+            "id": "waterloo_ringette_u14a_5",
+            "tournament": "waterloo_ringette",
+            "type": "RR",
+            "date": "Fri Jan 10",
+            "time": "2:00P",
+            "visitor": "Mississauga",
+            "visitorScore": "2",
+            "home": "Nepean",
+            "homeScore": "3",
+            "status": "Official",
+            "isoDate": 1578646800000,
+            "elo": {
+                "pregame": {
+                    "opp": 1513.4262592126076,
+                    "elo": 1392.4579403563478,
+                    "probability": 0.3419209931933209
+                },
+                "postgame": {
+                    "opp": 1524.0701651492739,
+                    "elo": 1381.8140344196815
+                }
+            },
+            "record": "0 - 9 - 1"
         }
     ],
-    "pct": 0.0625,
+    "pct": 0.05,
     "points": 1,
-    "games": 8,
+    "games": 10,
     "opponentRecord": {
-        "w": 52,
-        "l": 36,
-        "t": 6,
-        "g": 94
+        "w": 67,
+        "l": 44,
+        "t": 7,
+        "g": 118
     },
-    "strengthOfSchedule": 0.5726836174779959,
-    "record": "0 - 7 - 1",
+    "strengthOfSchedule": 0.5721180692418867,
+    "record": "0 - 9 - 1",
     "image": "Mississauga.png"
 }

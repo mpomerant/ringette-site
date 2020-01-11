@@ -3,9 +3,11 @@
     "tournament": "london_ringette",
     "type": "RR",
     "date": "Fri Nov 8",
+    "time": "9:30A",
     "visitor": "St. Marys",
     "visitorScore": "1",
     "home": "Markham - F",
     "homeScore": "4",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1573187400000
 }

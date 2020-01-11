@@ -3,9 +3,11 @@
     "tournament": "pickering_ringette",
     "type": "RR",
     "date": "Fri Nov 29",
+    "time": "4:00P",
     "visitor": "Waterloo",
     "visitorScore": "5",
     "home": "Gloucester Cumberland - D",
     "homeScore": "2",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1575025200000
 }

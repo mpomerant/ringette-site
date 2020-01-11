@@ -36,29 +36,40 @@ export default ({ data }) => {
   const imageClass = matches ? 'team-image-lg' : 'team-image';
   const allTeams = data.allTeamsJson.edges.reduce((acc, curr) => {
     const team = curr.node;
-    acc[team.name] = team.fields.slug;
+    acc[team.name] = {link: team.fields.slug, record: team.record};
     return acc;
   }, {});
   const team = data.teamsJson
+
+  const upcoming = team.upcoming.sort((a, b) => {
+    return a.isoDate - b.isoDate;
+  }).map(result => {
+    const isHome = team.name === result.home;
+    const winProbability = (result.elo.pregame.probability * 100).toFixed(1);
+    const opponent = isHome ? result.visitor : result.home;
+    const oppData = isHome ? allTeams[result.visitor] : allTeams[result.home];
+    const opponentLink = oppData ? oppData.link : 'Not Available';
+    const opponentRecord = oppData ? oppData.record : 'Not Available';
+    return {
+      isHome,
+      opponentLink,
+      opponent,
+      opponentRecord,
+      date: `${result.date} ${result.time}`,
+      isoDate: result.isoDate,
+      winProbability
+    } 
+  });
+
+  const nextGames = upcoming.slice(0, Math.min(5, upcoming.length));
   const results = team.results.sort((a, b) => {
-    const _a = new Date(a.date);
-    const _b = new Date(b.date);
-    if (_a.getMonth() > 9) {
-        _a.setFullYear(2019);
-    } else {
-        _a.setFullYear(2020);
-    }
-    if (_b.getMonth() > 9) {
-        _b.setFullYear(2019);
-    }else {
-        _b.setFullYear(2020);
-    }
-    return _a - _b;
+    return a.isoDate - b.isoDate;
 }).map(result => {
     const isHome = team.name === result.home;
     const winProbability = (result.elo.pregame.probability * 100).toFixed(1);
     const opponent = isHome ? result.visitor : result.home;
-    const opponentLink = isHome ? allTeams[result.visitor] : allTeams[result.home];
+    const oppData = isHome ? allTeams[result.visitor] : allTeams[result.home];
+    const opponentLink = oppData ? oppData.link : 'Not Available';
     const hs = parseInt(result.homeScore);
     const vs = parseInt(result.visitorScore);
     const calculateResult = (isHome, homeScore, visitorScore) => {
@@ -83,6 +94,8 @@ export default ({ data }) => {
       opponent,
       gameResult,
       date: result.date,
+      time: result.time,
+      isoDate: result.isoDate,
       resultClass,
       score,
       record: result.record,
@@ -135,7 +148,54 @@ export default ({ data }) => {
         
        
         
+        <MaterialTable
+      options={{
+        search: false,
+        paging: false,
+        pageSize: 100,
+        headerStyle: {
+          backgroundColor: '#44bac8',
+          color: '#FFF',
+          textAlign: 'center',
+          whitSpace: 'nowrap'
+        },
+        cellStyle: {
+         textAlign: 'center',
+         whitSpace: 'nowrap'
+        }
         
+      }}
+          columns={[
+            { title: "Opponent",
+            cellStyle: {
+              backgroundColor: '#F7F7F7',
+              color: '#556cd6',
+              maxWidth: '150px'
+            },
+            render: game => <span>{game.isHome ? 'vs' : '@'} <Link to={game.opponentLink}>{game.opponent}</Link></span> },
+            
+            { title: "Date", 
+            field: "date",
+            cellStyle: {
+              textAlign: 'center'
+              
+            },
+            whiteSpace: 'nowrap' 
+          },
+          { title: "Opponent Record", field: "opponentRecord",cellStyle: {
+            textAlign: 'center',
+            whiteSpace: 'nowrap'
+          }},  
+          { title: "Win Probability", field: "winProbability",cellStyle: {
+            textAlign: 'center'
+            
+          }}
+          ]}
+          data={nextGames}
+
+          
+          title="Upcoming Games"
+        />
         
         <MaterialTable
       options={{
@@ -215,6 +275,7 @@ export const query = graphql`
       edges {
           node {
             name
+            record
             fields {
               slug
             }
@@ -233,6 +294,18 @@ export const query = graphql`
           l
           t
         }
+        upcoming {
+          isoDate
+          home
+          visitor
+          date
+          time
+          elo {
+            pregame {
+              probability
+            }
+          }
+        }
         results{
           home
           visitor
@@ -240,6 +313,8 @@ export const query = graphql`
           visitorScore
           record
           date
+          time
+          isoDate
           elo {
             pregame {
               probability

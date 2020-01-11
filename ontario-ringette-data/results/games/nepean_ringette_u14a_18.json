@@ -3,9 +3,11 @@
     "tournament": "nepean_ringette",
     "type": "RR",
     "date": "Sat Nov 16",
+    "time": "5:30P",
     "visitor": "Nepean",
     "visitorScore": "3",
     "home": "Kitchener",
     "homeScore": "2",
-    "status": "Official"
+    "status": "Official",
+    "isoDate": 1573907400000
 }

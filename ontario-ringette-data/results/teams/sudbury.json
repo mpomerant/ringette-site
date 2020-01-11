@@ -5,96 +5,186 @@
     "tie": 0,
     "for": 16,
     "against": 67,
-    "elo": 1394.1109424774274,
-    "results": [
+    "elo": 1395.133417184345,
+    "upcoming": [
         {
-            "id": "nepean_ringette_u14a_11",
-            "tournament": "nepean_ringette",
+            "id": "kitchener_ringette_u14a_3",
+            "tournament": "kitchener_ringette",
             "type": "RR",
-            "date": "Fri Nov 15",
-            "visitor": "Metcalfe",
-            "visitorScore": "9",
+            "date": "Fri Jan 31",
+            "time": "1:00P",
+            "visitor": "Kitchener",
+            "visitorScore": "0",
             "home": "Sudbury",
-            "homeScore": "2",
-            "status": "Official",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580457600000,
             "elo": {
                 "pregame": {
-                    "opp": 1516,
-                    "elo": 1500,
-                    "probability": 0.48930663080347925
-                },
-                "postgame": {
-                    "opp": 1531.263693206478,
-                    "elo": 1484.736306793522
+                    "opp": 1495.614176514694,
+                    "elo": 1395.133417184345,
+                    "probability": 0.369280939379687
                 }
-            },
-            "record": "0 - 1 - 0"
+            }
         },
+        {
+            "id": "kitchener_ringette_u14a_5",
+            "tournament": "kitchener_ringette",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "5:15P",
+            "visitor": "Markham - F",
+            "visitorScore": "0",
+            "home": "Sudbury",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580472900000,
+            "elo": {
+                "pregame": {
+                    "opp": 1539.85900161892,
+                    "elo": 1395.133417184345,
+                    "probability": 0.31147122402157223
+                }
+            }
+        },
+        {
+            "id": "kitchener_ringette_u14a_8",
+            "tournament": "kitchener_ringette",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "11:00A",
+            "visitor": "Sudbury",
+            "visitorScore": "0",
+            "home": "Waterloo",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580536800000,
+            "elo": {
+                "pregame": {
+                    "opp": 1495.8821836239877,
+                    "elo": 1395.133417184345,
+                    "probability": 0.36891709226551517
+                }
+            }
+        },
+        {
+            "id": "kitchener_ringette_u14a_10",
+            "tournament": "kitchener_ringette",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "5:30P",
+            "visitor": "Sudbury",
+            "visitorScore": "0",
+            "home": "Forest",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1580560200000,
+            "elo": {
+                "pregame": {
+                    "opp": 1649.442994780456,
+                    "elo": 1395.133417184345,
+                    "probability": 0.19276782584024055
+                }
+            }
+        }
+    ],
+    "results": [
         {
             "id": "nepean_ringette_u14a_4",
             "tournament": "nepean_ringette",
             "type": "RR",
             "date": "Fri Nov 15",
+            "time": "12:00P",
             "visitor": "Sudbury",
             "visitorScore": "3",
             "home": "City of Ottawa",
             "homeScore": "7",
             "status": "Official",
+            "isoDate": 1573801200000,
             "elo": {
                 "pregame": {
-                    "opp": 1484,
-                    "elo": 1484.736306793522,
-                    "probability": 0.48845022208948763
+                    "opp": 1500,
+                    "elo": 1500,
+                    "probability": 0.48737768239144597
                 },
                 "postgame": {
-                    "opp": 1500.0339081301693,
-                    "elo": 1468.7023986633528
+                    "opp": 1516,
+                    "elo": 1484
+                }
+            },
+            "record": "0 - 1 - 0"
+        },
+        {
+            "id": "nepean_ringette_u14a_11",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Fri Nov 15",
+            "time": "7:00P",
+            "visitor": "Metcalfe",
+            "visitorScore": "9",
+            "home": "Sudbury",
+            "homeScore": "2",
+            "status": "Official",
+            "isoDate": 1573826400000,
+            "elo": {
+                "pregame": {
+                    "opp": 1530.4968829087939,
+                    "elo": 1484,
+                    "probability": 0.4450782934821196
+                },
+                "postgame": {
+                    "opp": 1544.3683148261919,
+                    "elo": 1470.128568082602
                 }
             },
             "record": "0 - 2 - 0"
-        },
-        {
-            "id": "nepean_ringette_u14a_19",
-            "tournament": "nepean_ringette",
-            "type": "RR",
-            "date": "Sat Nov 16",
-            "visitor": "Gloucester Cumberland - B",
-            "visitorScore": "8",
-            "home": "Sudbury",
-            "homeScore": "1",
-            "status": "Official",
-            "elo": {
-                "pregame": {
-                    "opp": 1574.178839742246,
-                    "elo": 1468.7023986633528,
-                    "probability": 0.36252360684650187
-                },
-                "postgame": {
-                    "opp": 1585.4653918915556,
-                    "elo": 1457.4158465140433
-                }
-            },
-            "record": "0 - 3 - 0"
         },
         {
             "id": "nepean_ringette_u14a_15",
             "tournament": "nepean_ringette",
             "type": "RR",
             "date": "Sat Nov 16",
+            "time": "1:30P",
             "visitor": "Sudbury",
             "visitorScore": "2",
             "home": "Gloucester Cumberland - D",
             "homeScore": "9",
             "status": "Official",
+            "isoDate": 1573893000000,
             "elo": {
                 "pregame": {
-                    "opp": 1454.9288079610299,
-                    "elo": 1457.4158465140433,
-                    "probability": 0.49100083061083744
+                    "opp": 1454.1735390289712,
+                    "elo": 1470.128568082602,
+                    "probability": 0.5106278538387519
                 },
                 "postgame": {
-                    "opp": 1471.0433383627817,
-                    "elo": 1441.3013161122915
+                    "opp": 1470.9077792074463,
+                    "elo": 1453.3943279041268
+                }
+            },
+            "record": "0 - 3 - 0"
+        },
+        {
+            "id": "nepean_ringette_u14a_19",
+            "tournament": "nepean_ringette",
+            "type": "RR",
+            "date": "Sat Nov 16",
+            "time": "5:30P",
+            "visitor": "Gloucester Cumberland - B",
+            "visitorScore": "8",
+            "home": "Sudbury",
+            "homeScore": "1",
+            "status": "Official",
+            "isoDate": 1573907400000,
+            "elo": {
+                "pregame": {
+                    "opp": 1555.7580812493875,
+                    "elo": 1453.3943279041268,
+                    "probability": 0.3667277489110491
+                },
+                "postgame": {
+                    "opp": 1567.1758808977627,
+                    "elo": 1441.9765282557516
                 }
             },
             "record": "0 - 4 - 0"
@@ -104,20 +194,22 @@
             "tournament": "pickering_ringette",
             "type": "RR",
             "date": "Fri Nov 29",
+            "time": "1:00P",
             "visitor": "Sudbury",
             "visitorScore": "2",
             "home": "Whitby",
             "homeScore": "7",
             "status": "Official",
+            "isoDate": 1575014400000,
             "elo": {
                 "pregame": {
-                    "opp": 1489.1986881771181,
-                    "elo": 1441.3013161122915,
-                    "probability": 0.443062624025512
+                    "opp": 1486.5990022605529,
+                    "elo": 1441.9765282557516,
+                    "probability": 0.4477788758430141
                 },
                 "postgame": {
-                    "opp": 1503.0068009433724,
-                    "elo": 1427.4932033460373
+                    "opp": 1500.5552862502484,
+                    "elo": 1428.0202442660561
                 }
             },
             "record": "0 - 5 - 0"
@@ -127,20 +219,22 @@
             "tournament": "pickering_ringette",
             "type": "RR",
             "date": "Fri Nov 29",
+            "time": "7:00P",
             "visitor": "Richmond Hill",
             "visitorScore": "10",
             "home": "Sudbury",
             "homeScore": "3",
             "status": "Official",
+            "isoDate": 1575036000000,
             "elo": {
                 "pregame": {
-                    "opp": 1499.877291797906,
-                    "elo": 1427.4932033460373,
-                    "probability": 0.4081788031070581
+                    "opp": 1517.265538090203,
+                    "elo": 1428.0202442660561,
+                    "probability": 0.3846635671081222
                 },
                 "postgame": {
-                    "opp": 1512.5912871082294,
-                    "elo": 1414.779208035714
+                    "opp": 1529.243709168849,
+                    "elo": 1416.0420731874103
                 }
             },
             "record": "0 - 6 - 0"
@@ -150,20 +244,22 @@
             "tournament": "pickering_ringette",
             "type": "RR",
             "date": "Sat Nov 30",
+            "time": "1:00P",
             "visitor": "West Ottawa - F",
             "visitorScore": "9",
             "home": "Sudbury",
             "homeScore": "2",
             "status": "Official",
+            "isoDate": 1575100800000,
             "elo": {
                 "pregame": {
-                    "opp": 1487.5996782919558,
-                    "elo": 1414.779208035714,
-                    "probability": 0.4075643701852101
+                    "opp": 1485.3476872044073,
+                    "elo": 1416.0420731874103,
+                    "probability": 0.41252140166902884
                 },
                 "postgame": {
-                    "opp": 1500.2944300862357,
-                    "elo": 1402.084456241434
+                    "opp": 1498.19771581127,
+                    "elo": 1403.1920445805476
                 }
             },
             "record": "0 - 7 - 0"
@@ -173,20 +269,22 @@
             "tournament": "pickering_ringette",
             "type": "RR",
             "date": "Sat Nov 30",
+            "time": "6:00P",
             "visitor": "Sudbury",
             "visitorScore": "1",
             "home": "Markham - A",
             "homeScore": "8",
             "status": "Official",
+            "isoDate": 1575118800000,
             "elo": {
                 "pregame": {
-                    "opp": 1593.7006616856288,
-                    "elo": 1402.084456241434,
-                    "probability": 0.25604592597455933
+                    "opp": 1592.347232492396,
+                    "elo": 1403.1920445805476,
+                    "probability": 0.2587885265404919
                 },
                 "postgame": {
-                    "opp": 1601.6741754496354,
-                    "elo": 1394.1109424774274
+                    "opp": 1600.4058598885986,
+                    "elo": 1395.133417184345
                 }
             },
             "record": "0 - 8 - 0"
@@ -196,12 +294,12 @@
     "points": 0,
     "games": 8,
     "opponentRecord": {
-        "w": 51,
-        "l": 36,
+        "w": 54,
+        "l": 39,
         "t": 2,
-        "g": 89
+        "g": 95
     },
-    "strengthOfSchedule": 0.5645990192671532,
+    "strengthOfSchedule": 0.558862108542384,
     "record": "0 - 8 - 0",
     "image": "Sudbury.png"
 }
