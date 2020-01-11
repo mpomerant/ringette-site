@@ -1,13 +1,14 @@
 .team-image {
     max-width: 100px;
     min-width: 100px;
+}
 
-
-    
+.team-image-lg {
+    max-width: 200px;
+    min-width: 200px;
 }
 
 .team-card {
-    
    display: flex;
    flex-direction: row;
    justify-content: space-between;

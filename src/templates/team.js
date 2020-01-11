@@ -30,8 +30,10 @@ const {useState} = React;
 export default ({ data }) => {
   const classes = useStyles();
   const teamCardClasses = useStylesTeamCard();
+  
   const theme = useTheme();
-  const matches = useMediaQuery(theme.breakpoints.down('sm'));
+  const matches = useMediaQuery(theme.breakpoints.up('md'));
+  const imageClass = matches ? 'team-image-lg' : 'team-image';
   const allTeams = data.allTeamsJson.edges.reduce((acc, curr) => {
     const team = curr.node;
     acc[team.name] = team.fields.slug;
@@ -95,7 +97,7 @@ export default ({ data }) => {
         <Card className={teamCardClasses.card}>
           
         <div class="team-card">
-          <div class="team-image"><Img fluid={data.allFile.edges[0].node.childImageSharp.fluid} alt="No Image Found"></Img></div>
+          <div class={imageClass}><Img fluid={data.allFile.edges[0].node.childImageSharp.fluid} alt="No Image Found"></Img></div>
           <div class="team-details">
             <div class="team-name">{team.name}</div>
             <div class="team-record">Record: {team.win} - {team.loss} - {team.tie}</div>
@@ -202,7 +204,7 @@ export const query = graphql`
         node {
           name
           childImageSharp {
-            fluid(maxHeight: 200) {
+            fluid(maxHeight: 400) {
               ...GatsbyImageSharpFluid
             }
           }
