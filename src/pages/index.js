@@ -47,7 +47,7 @@ const unoffialGames = data.allGamesJson.edges.map(team => team.node)
     return game;
   });;
 
-const nextGames = unoffialGames.slice(0, 5);
+const nextGames = unoffialGames.slice(0, Math.min(unofficialGames.length,25));
 
 
   const imageMap = data.allFile.edges.reduce((acc, curr) => {
