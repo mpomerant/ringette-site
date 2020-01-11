@@ -9,10 +9,18 @@ import Link from '../components/link';
 import MaterialTable from "material-table";
 import useMediaQuery from '@material-ui/core/useMediaQuery';
 import { useTheme } from '@material-ui/core/styles';
+
+import TabPanel from "../components/tab-panel";
+import { Tabs, Tab } from "@material-ui/core"
 import './main.css';
 
 
 export default function Index({data}) {
+  const [value, setValue] = React.useState(0);
+
+  const handleChange = (event, newValue) => {
+    setValue(newValue);
+  };
   const theme = useTheme();
   const matches = useMediaQuery(theme.breakpoints.down('sm'));
   const teams = data.allTeamsJson.edges.map(team => team.node);
@@ -52,7 +60,13 @@ const nextGames = unoffialGames.slice(0, 5);
     <Layout>
 
 
-      <MaterialTable
+    <Tabs value={value} onChange={handleChange} aria-label="simple tabs example">
+          <Tab label="Standings"></Tab>
+          <Tab label="Last Results"></Tab>
+          <Tab label="Upcoming"></Tab>
+        </Tabs>
+        <TabPanel value={value} index={0}>
+        <MaterialTable
       options={{
         search: false,
         paging: false,
@@ -100,8 +114,9 @@ const nextGames = unoffialGames.slice(0, 5);
           
           title="Team Rankings"
         />
-
-<MaterialTable
+        </TabPanel>
+        <TabPanel value={value} index={1}>
+        <MaterialTable
       options={{
         search: false,
         paging: false,
@@ -140,7 +155,9 @@ const nextGames = unoffialGames.slice(0, 5);
           
           title="Last 5 Results"
         />
-      <MaterialTable
+        </TabPanel>
+        <TabPanel value={value} index={2}>
+        <MaterialTable
       options={{
         search: false,
         paging: false,
@@ -174,6 +191,10 @@ const nextGames = unoffialGames.slice(0, 5);
           
           title="Upcoming Games"
         />
+          </TabPanel>
+
+
+      
 
     </Layout>
   );
