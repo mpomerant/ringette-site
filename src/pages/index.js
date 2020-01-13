@@ -23,7 +23,13 @@ export default function Index({data}) {
   };
   const theme = useTheme();
   const matches = useMediaQuery(theme.breakpoints.down('sm'));
-  const teams = data.allTeamsJson.edges.map(team => team.node);
+  const imgClass = matches ? 'team-thumb-sm' : 'team-thumb';
+  const teams = data.allTeamsJson.edges.map(team => team.node).map((_team, index) => {
+    const team = {..._team};
+    console.log(team);
+    team.rank = index + 1;
+    return team;
+  });
   const games = data.allGamesJson.edges.map(team => team.node)
   .filter(game => game.status.toLowerCase().includes('official'))
   .sort((a, b) => {
@@ -75,37 +81,54 @@ const nextGames = unoffialGames.slice(0, Math.min(unoffialGames.length,25));
           backgroundColor: '#44bac8',
           color: '#FFF',
           textAlign: 'center',
-          whitSpace: 'nowrap'
+          whiteSpace: 'nowrap'
         },
         cellStyle: {
          textAlign: 'center',
-         whitSpace: 'nowrap'
+         whiteSpace: 'nowrap'
+         
         }
         
       }}
           columns={[
-            { title: "Team", 
+            { title: "Team (Rank)", 
             field: "name",
             cellStyle: {
               backgroundColor: '#F7F7F7',
               color: '#556cd6',
-              maxWidth: '160px'
+              maxWidth: '200px',
+              
+              textAlign: 'left',
+              
             },
             headerStyle: {
-              maxWidth: '160px'
+              minWidth: '185px'
             },
+            customSort: (a, b) => a.rank - b.rank,
             render: (team) => {
               const name = team.name.indexOf('-') > 0 ? team.name.substring(0, team.name.lastIndexOf('-')).trim() : team.name;
-              return (<Link class="team-link" to={team.fields.slug}><div class="team-thumb"><Img fluid={imageMap[name]} alt="No Image Found"></Img></div>{team.name}</Link>);
-            }},
+               return (<Link class="team-link" to={team.fields.slug}><div class={imgClass}><Img fluid={imageMap[name]} alt="No Image Found"></Img></div>{team.name} ({team.rank})</Link>);
+            },
+            },
             { title: "Record", field: "record",cellStyle: {
-              maxWidth: '50px'
+              maxWidth: '70px',
+              whiteSpace: 'nowrap'
+            },
+            headerStyle: {
+              maxWidth: '70px'
             } },
-            { title: "PTS", field: "points", type: "numeric"},
+            { title: "PTS", field: "points", type: "numeric",cellStyle: {
+              maxWidth: '60px',
+              whiteSpace: 'nowrap',
+              textAlign: 'center'
+            },
+            headerStyle: {
+              maxWidth: '60px',
+              minWidth: '80px'
+            }},
             { title: "%", field: "pct", type: "numeric",
             render: team => <span>{team.pct.toFixed(3)}</span> },
-            { title: "Ranking", field: "elo", type: "numeric",
-            render: team => <span>{team.elo.toFixed(3)}</span> },
+            
             { title: "SoS", field: "strengthOfSchedule", type: "numeric",
             render: team => <span>{team.strengthOfSchedule.toFixed(3)}</span> },
           ]}

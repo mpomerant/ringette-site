@@ -7,6 +7,15 @@
     vertical-align:middle
 }
 
+.team-thumb-sm {
+    max-width: 25px;
+ 
+    min-width: 25px;
+    padding-right: 5px;
+    display: inline-block;
+    vertical-align:middle 
+}
+
 .team-link {
     font-size: 1.1em;
 }
