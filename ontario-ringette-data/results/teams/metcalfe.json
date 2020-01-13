@@ -2,32 +2,11 @@
     "name": "Metcalfe",
     "win": 9,
     "loss": 4,
-    "tie": 1,
+    "tie": 2,
     "for": 67,
     "against": 39,
-    "elo": 1561.0948619577882,
+    "elo": 1563.8183506109158,
     "upcoming": [
-        {
-            "id": "pickering_ringette_u14a_26",
-            "tournament": "pickering_ringette",
-            "type": "S2",
-            "date": "Sun Dec 1",
-            "time": "9:30A",
-            "visitor": "Metcalfe",
-            "visitorScore": "0",
-            "home": "Markham - A",
-            "homeScore": "0",
-            "status": "Official (OT1)",
-            "isoDate": 1575174600000,
-            "tournamentName": "Pickering",
-            "elo": {
-                "pregame": {
-                    "opp": 1600.4058598885986,
-                    "elo": 1525.377968487844,
-                    "probability": 0.40446074815494626
-                }
-            }
-        },
         {
             "id": "waterloo_ringette_u14a_17",
             "tournament": "waterloo_ringette",
@@ -43,9 +22,9 @@
             "tournamentName": "Waterloo",
             "elo": {
                 "pregame": {
-                    "opp": 1445.0425744677314,
-                    "elo": 1561.0948619577882,
-                    "probability": 0.6516011814699012
+                    "opp": 1445.053554824495,
+                    "elo": 1563.8183506109158,
+                    "probability": 0.6551825515582587
                 }
             }
         },
@@ -65,8 +44,8 @@
             "elo": {
                 "pregame": {
                     "opp": 1509.5059575542887,
-                    "elo": 1561.0948619577882,
-                    "probability": 0.562241310047472
+                    "elo": 1563.8183506109158,
+                    "probability": 0.5661453436965266
                 }
             }
         },
@@ -86,8 +65,8 @@
             "elo": {
                 "pregame": {
                     "opp": 1421.0741687472764,
-                    "elo": 1561.0948619577882,
-                    "probability": 0.6826161219041444
+                    "elo": 1563.8183506109158,
+                    "probability": 0.6860460813634499
                 }
             }
         },
@@ -106,9 +85,9 @@
             "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1600.4058598885986,
-                    "elo": 1561.0948619577882,
-                    "probability": 0.45544769504456006
+                    "opp": 1597.0034231440125,
+                    "elo": 1563.8183506109158,
+                    "probability": 0.46431851393080603
                 }
             }
         },
@@ -128,8 +107,8 @@
             "elo": {
                 "pregame": {
                     "opp": 1486.6560277714414,
-                    "elo": 1561.0948619577882,
-                    "probability": 0.5947117768196117
+                    "elo": 1563.8183506109158,
+                    "probability": 0.5985330045798543
                 }
             }
         }
@@ -370,6 +349,32 @@
             "record": "5 - 3 - 1"
         },
         {
+            "id": "pickering_ringette_u14a_26",
+            "tournament": "pickering_ringette",
+            "type": "S2",
+            "date": "Sun Dec 1",
+            "time": "9:30A",
+            "visitor": "Metcalfe",
+            "visitorScore": "0",
+            "home": "Markham - A",
+            "homeScore": "0",
+            "status": "Official (OT1)",
+            "isoDate": 1575174600000,
+            "tournamentName": "Pickering",
+            "elo": {
+                "pregame": {
+                    "opp": 1600.4058598885986,
+                    "elo": 1525.377968487844,
+                    "probability": 0.40446074815494626
+                },
+                "postgame": {
+                    "opp": 1597.0034231440125,
+                    "elo": 1528.7804052324302
+                }
+            },
+            "record": "5 - 3 - 2"
+        },
+        {
             "id": "pickering_ringette_u14a_27",
             "tournament": "pickering_ringette",
             "type": "GS",
@@ -385,15 +390,15 @@
             "elo": {
                 "pregame": {
                     "opp": 1554.7773932912587,
-                    "elo": 1525.377968487844,
-                    "probability": 0.4698120994719317
+                    "elo": 1528.7804052324302,
+                    "probability": 0.47475587240155415
                 },
                 "postgame": {
-                    "opp": 1569.426721929002,
-                    "elo": 1510.7286398501008
+                    "opp": 1569.5824170731619,
+                    "elo": 1513.975381450527
                 }
             },
-            "record": "5 - 4 - 1"
+            "record": "5 - 4 - 2"
         },
         {
             "id": "waterloo_ringette_u14a_4",
@@ -411,15 +416,15 @@
             "elo": {
                 "pregame": {
                     "opp": 1403.678394554685,
-                    "elo": 1510.7286398501008,
-                    "probability": 0.6395941161289711
+                    "elo": 1513.975381450527,
+                    "probability": 0.6439457630826535
                 },
                 "postgame": {
-                    "opp": 1392.4579403563478,
-                    "elo": 1521.949094048438
+                    "opp": 1392.5937331350478,
+                    "elo": 1525.0600428701641
                 }
             },
-            "record": "6 - 4 - 1"
+            "record": "6 - 4 - 2"
         },
         {
             "id": "waterloo_ringette_u14a_6",
@@ -437,15 +442,15 @@
             "elo": {
                 "pregame": {
                     "opp": 1388.7868468425072,
-                    "elo": 1521.949094048438,
-                    "probability": 0.6738908254552258
+                    "elo": 1525.0600428701641,
+                    "probability": 0.6778639719655214
                 },
                 "postgame": {
-                    "opp": 1378.6355736400028,
-                    "elo": 1532.1003672509423
+                    "opp": 1378.759286400418,
+                    "elo": 1535.0876033122533
                 }
             },
-            "record": "7 - 4 - 1"
+            "record": "7 - 4 - 2"
         },
         {
             "id": "waterloo_ringette_u14a_9",
@@ -463,15 +468,15 @@
             "elo": {
                 "pregame": {
                     "opp": 1533.6246639340468,
-                    "elo": 1532.1003672509423,
-                    "probability": 0.5104018365811964
+                    "elo": 1535.0876033122533,
+                    "probability": 0.48950877418438776
                 },
                 "postgame": {
-                    "opp": 1517.5544679280324,
-                    "elo": 1548.1705632569567
+                    "opp": 1517.6920343839765,
+                    "elo": 1551.0202328623236
                 }
             },
-            "record": "8 - 4 - 1"
+            "record": "8 - 4 - 2"
         },
         {
             "id": "waterloo_ringette_u14a_16",
@@ -489,27 +494,27 @@
             "elo": {
                 "pregame": {
                     "opp": 1480.5411526026026,
-                    "elo": 1548.1705632569567,
-                    "probability": 0.5851083068288143
+                    "elo": 1551.0202328623236,
+                    "probability": 0.589135574123679
                 },
                 "postgame": {
-                    "opp": 1467.616853901771,
-                    "elo": 1561.0948619577882
+                    "opp": 1467.7430348540104,
+                    "elo": 1563.8183506109158
                 }
             },
-            "record": "9 - 4 - 1"
+            "record": "9 - 4 - 2"
         }
     ],
-    "pct": 0.6785714285714286,
-    "points": 19,
-    "games": 14,
+    "pct": 0.6666666666666666,
+    "points": 20,
+    "games": 15,
     "opponentRecord": {
-        "w": 67,
-        "l": 82,
-        "t": 8,
-        "g": 157
+        "w": 76,
+        "l": 83,
+        "t": 9,
+        "g": 168
     },
-    "strengthOfSchedule": 0.47833757192130627,
-    "record": "9 - 4 - 1",
+    "strengthOfSchedule": 0.4962795254739964,
+    "record": "9 - 4 - 2",
     "image": "Metcalfe.png"
 }

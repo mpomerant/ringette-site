@@ -64,9 +64,9 @@
             "tournamentName": "Kitchener",
             "elo": {
                 "pregame": {
-                    "opp": 1467.616853901771,
+                    "opp": 1467.7430348540104,
                     "elo": 1395.133417184345,
-                    "probability": 0.4080388937697428
+                    "probability": 0.4078612182103887
                 }
             }
         },
@@ -308,10 +308,10 @@
     "opponentRecord": {
         "w": 59,
         "l": 40,
-        "t": 2,
-        "g": 101
+        "t": 4,
+        "g": 103
     },
-    "strengthOfSchedule": 0.5631264386942896,
+    "strengthOfSchedule": 0.5636655438874579,
     "record": "0 - 8 - 0",
     "image": "Sudbury.png"
 }

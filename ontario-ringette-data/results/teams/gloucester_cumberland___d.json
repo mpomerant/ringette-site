@@ -22,9 +22,9 @@
             "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
-                    "opp": 1445.0425744677314,
+                    "opp": 1445.053554824495,
                     "elo": 1451.247825339559,
-                    "probability": 0.49641921436480707
+                    "probability": 0.49640321131930587
                 }
             }
         },
@@ -412,10 +412,10 @@
     "opponentRecord": {
         "w": 64,
         "l": 73,
-        "t": 4,
-        "g": 141
+        "t": 6,
+        "g": 143
     },
-    "strengthOfSchedule": 0.48501642293771835,
+    "strengthOfSchedule": 0.48641345213925863,
     "record": "4 - 8 - 0",
     "image": "Gloucester Cumberland.png"
 }

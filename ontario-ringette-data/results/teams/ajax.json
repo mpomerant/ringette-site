@@ -85,9 +85,9 @@
             "tournamentName": "Guelph",
             "elo": {
                 "pregame": {
-                    "opp": 1390.2700851615136,
+                    "opp": 1390.3897032828734,
                     "elo": 1390.1715898176503,
-                    "probability": 0.5124788510966058
+                    "probability": 0.5123046147717345
                 }
             }
         }
@@ -412,10 +412,10 @@
     "opponentRecord": {
         "w": 89,
         "l": 55,
-        "t": 7,
-        "g": 151
+        "t": 9,
+        "g": 153
     },
-    "strengthOfSchedule": 0.5817784714313166,
+    "strengthOfSchedule": 0.5817957468139665,
     "record": "1 - 10 - 1",
     "image": "Ajax.png"
 }

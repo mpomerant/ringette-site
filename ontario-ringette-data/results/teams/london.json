@@ -43,9 +43,9 @@
             "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1502.724505898455,
+                    "opp": 1502.7291921523963,
                     "elo": 1486.6560277714414,
-                    "probability": 0.4892068700114911
+                    "probability": 0.48920004298103736
                 }
             }
         },
@@ -64,9 +64,9 @@
             "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1600.4058598885986,
+                    "opp": 1597.0034231440125,
                     "elo": 1486.6560277714414,
-                    "probability": 0.3514523082620876
+                    "probability": 0.35598685874877645
                 }
             }
         },
@@ -85,9 +85,9 @@
             "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1561.0948619577882,
+                    "opp": 1563.8183506109158,
                     "elo": 1486.6560277714414,
-                    "probability": 0.40528822318038826
+                    "probability": 0.40146699542014574
                 }
             }
         }
@@ -308,10 +308,10 @@
     "opponentRecord": {
         "w": 42,
         "l": 51,
-        "t": 7,
-        "g": 100
+        "t": 8,
+        "g": 101
     },
-    "strengthOfSchedule": 0.47827721661054995,
+    "strengthOfSchedule": 0.47951805915521356,
     "record": "3 - 4 - 1",
     "image": "London.png"
 }

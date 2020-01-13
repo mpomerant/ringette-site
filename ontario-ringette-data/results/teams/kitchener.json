@@ -64,9 +64,9 @@
             "tournamentName": "Kitchener",
             "elo": {
                 "pregame": {
-                    "opp": 1467.616853901771,
+                    "opp": 1467.7430348540104,
                     "elo": 1495.614176514694,
-                    "probability": 0.5281512946410287
+                    "probability": 0.5279679651021298
                 }
             }
         },
@@ -311,7 +311,7 @@
         "t": 1,
         "g": 90
     },
-    "strengthOfSchedule": 0.4505022263642953,
+    "strengthOfSchedule": 0.4504741290455576,
     "record": "4 - 4 - 0",
     "image": "Kitchener.png"
 }

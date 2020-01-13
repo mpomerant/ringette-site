@@ -22,9 +22,9 @@
             "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
-                    "opp": 1445.0425744677314,
+                    "opp": 1445.053554824495,
                     "elo": 1599.6196665104226,
-                    "probability": 0.7007107010572221
+                    "probability": 0.7006972758646277
                 }
             }
         },
@@ -85,9 +85,9 @@
             "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
-                    "opp": 1516.9934835860488,
+                    "opp": 1517.0094823120405,
                     "elo": 1599.6196665104226,
-                    "probability": 0.6061627225401162
+                    "probability": 0.6061404554072438
                 }
             }
         }
@@ -519,7 +519,7 @@
         "t": 11,
         "g": 215
     },
-    "strengthOfSchedule": 0.5618199156364636,
+    "strengthOfSchedule": 0.5617050279456796,
     "record": "11 - 4 - 1",
     "image": "West Ottawa.png"
 }

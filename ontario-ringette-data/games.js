@@ -18,7 +18,7 @@ const teams = games.reduce((acc, curr) => {
     const home = normalizeName(curr.home);
     const visitor = normalizeName(curr.visitor);
     const status = curr.status;
-    const isOfficial = status === 'Official';
+    const isOfficial = status.toLowerCase().includes('official');
 
     const homeGame = {...curr};
     const visitorGame = {...curr};

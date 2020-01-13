@@ -85,9 +85,9 @@
             "tournamentName": "Guelph",
             "elo": {
                 "pregame": {
-                    "opp": 1390.2700851615136,
+                    "opp": 1390.3897032828734,
                     "elo": 1494.1311717665844,
-                    "probability": 0.6352971975300734
+                    "probability": 0.6351356045339136
                 }
             }
         }
@@ -334,10 +334,10 @@
     "opponentRecord": {
         "w": 56,
         "l": 41,
-        "t": 5,
-        "g": 102
+        "t": 6,
+        "g": 103
     },
-    "strengthOfSchedule": 0.5556862745098039,
+    "strengthOfSchedule": 0.5557615370894172,
     "record": "4 - 5 - 0",
     "image": "St. Marys.png"
 }

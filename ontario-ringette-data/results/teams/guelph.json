@@ -22,9 +22,9 @@
             "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1561.0948619577882,
+                    "opp": 1563.8183506109158,
                     "elo": 1509.5059575542887,
-                    "probability": 0.437758689952528
+                    "probability": 0.4338546563034734
                 }
             }
         },
@@ -43,9 +43,9 @@
             "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1600.4058598885986,
+                    "opp": 1597.0034231440125,
                     "elo": 1509.5059575542887,
-                    "probability": 0.38238285109893033
+                    "probability": 0.38707829354214374
                 }
             }
         },
@@ -64,9 +64,9 @@
             "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1569.426721929002,
+                    "opp": 1569.5824170731619,
                     "elo": 1509.5059575542887,
-                    "probability": 0.42584155452204864
+                    "probability": 0.425619635691163
                 }
             }
         },
@@ -85,9 +85,9 @@
             "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1502.724505898455,
+                    "opp": 1502.7291921523963,
                     "elo": 1509.5059575542887,
-                    "probability": 0.4972589932468825
+                    "probability": 0.4972521632375396
                 }
             }
         },
@@ -106,9 +106,9 @@
             "tournamentName": "Guelph",
             "elo": {
                 "pregame": {
-                    "opp": 1390.2700851615136,
+                    "opp": 1390.3897032828734,
                     "elo": 1509.5059575542887,
-                    "probability": 0.6558027437927854
+                    "probability": 0.6556453116749563
                 }
             }
         },
@@ -421,7 +421,7 @@
         "t": 4,
         "g": 106
     },
-    "strengthOfSchedule": 0.4945583600056511,
+    "strengthOfSchedule": 0.4945065610684059,
     "record": "5 - 4 - 0",
     "image": "Guelph.png"
 }

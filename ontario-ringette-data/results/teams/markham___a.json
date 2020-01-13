@@ -2,32 +2,11 @@
     "name": "Markham - A",
     "win": 9,
     "loss": 1,
-    "tie": 0,
+    "tie": 1,
     "for": 48,
     "against": 18,
-    "elo": 1600.4058598885986,
+    "elo": 1597.0034231440125,
     "upcoming": [
-        {
-            "id": "pickering_ringette_u14a_26",
-            "tournament": "pickering_ringette",
-            "type": "S2",
-            "date": "Sun Dec 1",
-            "time": "9:30A",
-            "visitor": "Metcalfe",
-            "visitorScore": "0",
-            "home": "Markham - A",
-            "homeScore": "0",
-            "status": "Official (OT1)",
-            "isoDate": 1575174600000,
-            "tournamentName": "Pickering",
-            "elo": {
-                "pregame": {
-                    "opp": 1525.377968487844,
-                    "elo": 1600.4058598885986,
-                    "probability": 0.5955392518450537
-                }
-            }
-        },
         {
             "id": "richmond_hill_ringette_u14a_1",
             "tournament": "richmond_hill_ringette",
@@ -43,9 +22,9 @@
             "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1569.426721929002,
-                    "elo": 1600.4058598885986,
-                    "probability": 0.5324812857198078
+                    "opp": 1569.5824170731619,
+                    "elo": 1597.0034231440125,
+                    "probability": 0.5273138975879206
                 }
             }
         },
@@ -65,8 +44,8 @@
             "elo": {
                 "pregame": {
                     "opp": 1509.5059575542887,
-                    "elo": 1600.4058598885986,
-                    "probability": 0.6176171489010697
+                    "elo": 1597.0034231440125,
+                    "probability": 0.6129217064578563
                 }
             }
         },
@@ -85,9 +64,9 @@
             "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1561.0948619577882,
-                    "elo": 1600.4058598885986,
-                    "probability": 0.5445523049554399
+                    "opp": 1563.8183506109158,
+                    "elo": 1597.0034231440125,
+                    "probability": 0.535681486069194
                 }
             }
         },
@@ -107,8 +86,8 @@
             "elo": {
                 "pregame": {
                     "opp": 1486.6560277714414,
-                    "elo": 1600.4058598885986,
-                    "probability": 0.6485476917379124
+                    "elo": 1597.0034231440125,
+                    "probability": 0.6440131412512236
                 }
             }
         }
@@ -373,18 +352,44 @@
                 }
             },
             "record": "9 - 1 - 0"
+        },
+        {
+            "id": "pickering_ringette_u14a_26",
+            "tournament": "pickering_ringette",
+            "type": "S2",
+            "date": "Sun Dec 1",
+            "time": "9:30A",
+            "visitor": "Metcalfe",
+            "visitorScore": "0",
+            "home": "Markham - A",
+            "homeScore": "0",
+            "status": "Official (OT1)",
+            "isoDate": 1575174600000,
+            "tournamentName": "Pickering",
+            "elo": {
+                "pregame": {
+                    "opp": 1525.377968487844,
+                    "elo": 1600.4058598885986,
+                    "probability": 0.5955392518450537
+                },
+                "postgame": {
+                    "opp": 1528.7804052324302,
+                    "elo": 1597.0034231440125
+                }
+            },
+            "record": "9 - 1 - 1"
         }
     ],
-    "pct": 0.9,
-    "points": 18,
-    "games": 10,
+    "pct": 0.8636363636363636,
+    "points": 19,
+    "games": 11,
     "opponentRecord": {
-        "w": 67,
-        "l": 62,
-        "t": 1,
-        "g": 130
+        "w": 76,
+        "l": 66,
+        "t": 3,
+        "g": 145
     },
-    "strengthOfSchedule": 0.5283817920649859,
-    "record": "9 - 1 - 0",
+    "strengthOfSchedule": 0.5361993041388553,
+    "record": "9 - 1 - 1",
     "image": "Markham.png"
 }

@@ -25,7 +25,7 @@ export default function Index({data}) {
   const matches = useMediaQuery(theme.breakpoints.down('sm'));
   const teams = data.allTeamsJson.edges.map(team => team.node);
   const games = data.allGamesJson.edges.map(team => team.node)
-  .filter(game => game.status === 'Official')
+  .filter(game => game.status.toLowerCase().includes('official'))
   .sort((a, b) => {
     return a.isoDate - b.isoDate;
   })
@@ -37,7 +37,7 @@ export default function Index({data}) {
 const lastGames = games.slice(Math.max(games.length - 10, 1));
 
 const unoffialGames = data.allGamesJson.edges.map(team => team.node)
-  .filter(game => game.status !== 'Official')
+  .filter(game => !game.status.toLowerCase().includes('official'))
   .sort((a, b) => {
     return a.isoDate - b.isoDate;
   })

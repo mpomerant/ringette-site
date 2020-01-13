@@ -43,9 +43,9 @@
             "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1561.0948619577882,
+                    "opp": 1563.8183506109158,
                     "elo": 1421.0741687472764,
-                    "probability": 0.31738387809585555
+                    "probability": 0.3139539186365501
                 }
             }
         },
@@ -64,9 +64,9 @@
             "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1502.724505898455,
+                    "opp": 1502.7291921523963,
                     "elo": 1421.0741687472764,
-                    "probability": 0.3951962697640705
+                    "probability": 0.39518973965511406
                 }
             }
         },
@@ -85,9 +85,9 @@
             "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1569.426721929002,
+                    "opp": 1569.5824170731619,
                     "elo": 1421.0741687472764,
-                    "probability": 0.3069546575113934
+                    "probability": 0.30676159258855096
                 }
             }
         }
@@ -415,7 +415,7 @@
         "t": 3,
         "g": 140
     },
-    "strengthOfSchedule": 0.5227805489682994,
+    "strengthOfSchedule": 0.5227248074628484,
     "record": "3 - 9 - 0",
     "image": "Barrie.png"
 }

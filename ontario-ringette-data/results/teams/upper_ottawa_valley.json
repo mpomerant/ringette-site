@@ -43,9 +43,9 @@
             "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
-                    "opp": 1516.9934835860488,
+                    "opp": 1517.0094823120405,
                     "elo": 1427.4227472937864,
-                    "probability": 0.3842145723127268
+                    "probability": 0.3841925048447792
                 }
             }
         },
@@ -64,9 +64,9 @@
             "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
-                    "opp": 1445.0425744677314,
+                    "opp": 1445.053554824495,
                     "elo": 1427.4227472937864,
-                    "probability": 0.4869470683680952
+                    "probability": 0.4869310754183762
                 }
             }
         },
@@ -311,7 +311,7 @@
         "t": 3,
         "g": 107
     },
-    "strengthOfSchedule": 0.5528512819764543,
+    "strengthOfSchedule": 0.5528010777655231,
     "record": "1 - 7 - 0",
     "image": "Upper Ottawa Valley.png"
 }

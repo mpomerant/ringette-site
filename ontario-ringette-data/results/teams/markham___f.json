@@ -22,9 +22,9 @@
             "tournamentName": "Kitchener",
             "elo": {
                 "pregame": {
-                    "opp": 1467.616853901771,
+                    "opp": 1467.7430348540104,
                     "elo": 1539.85900161892,
-                    "probability": 0.5916212799771412
+                    "probability": 0.5914435345246563
                 }
             }
         },
@@ -467,7 +467,7 @@
         "t": 8,
         "g": 178
     },
-    "strengthOfSchedule": 0.572045795554147,
+    "strengthOfSchedule": 0.5719485006422654,
     "record": "7 - 4 - 3",
     "image": "Markham.png"
 }

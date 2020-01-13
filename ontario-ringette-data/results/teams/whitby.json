@@ -22,9 +22,9 @@
             "tournamentName": "Guelph",
             "elo": {
                 "pregame": {
-                    "opp": 1390.2700851615136,
+                    "opp": 1390.3897032828734,
                     "elo": 1502.3006627278403,
-                    "probability": 0.6462596679759615
+                    "probability": 0.6461002264485712
                 }
             }
         },
@@ -464,10 +464,10 @@
     "opponentRecord": {
         "w": 97,
         "l": 59,
-        "t": 5,
-        "g": 161
+        "t": 8,
+        "g": 164
     },
-    "strengthOfSchedule": 0.5819363631924989,
+    "strengthOfSchedule": 0.5818744442327236,
     "record": "7 - 7 - 0",
     "image": "Whitby.png"
 }
