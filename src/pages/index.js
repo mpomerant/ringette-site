@@ -26,7 +26,6 @@ export default function Index({data}) {
   const imgClass = matches ? 'team-thumb-sm' : 'team-thumb';
   const teams = data.allTeamsJson.edges.map(team => team.node).map((_team, index) => {
     const team = {..._team};
-    console.log(team);
     team.rank = index + 1;
     return team;
   });
@@ -61,7 +60,6 @@ const nextGames = unoffialGames.slice(0, Math.min(unoffialGames.length,25));
       acc[name] = curr.node.childImageSharp.fluid;
       return acc;
   }, {})
-  console.log(imageMap);
   return (
     <Layout>
 
@@ -87,7 +85,12 @@ const nextGames = unoffialGames.slice(0, Math.min(unoffialGames.length,25));
          textAlign: 'center',
          whiteSpace: 'nowrap'
          
-        }
+        },
+        rowStyle: (rowData) => {
+          return (
+          {
+          backgroundColor: (rowData.rank < 9) ? 'lightblue' : (rowData.rank < 17) ? 'lightgreen' : 'BlanchedAlmond'
+        })}
         
       }}
           columns={[
@@ -108,24 +111,18 @@ const nextGames = unoffialGames.slice(0, Math.min(unoffialGames.length,25));
             render: (team) => {
               const name = team.name.indexOf('-') > 0 ? team.name.substring(0, team.name.lastIndexOf('-')).trim() : team.name;
                return (<Link class="team-link" to={team.fields.slug}><div class={imgClass}><Img fluid={imageMap[name]} alt="No Image Found"></Img></div>{team.name} ({team.rank})</Link>);
-            },
-            },
-            { title: "Record", field: "record",cellStyle: {
-              maxWidth: '70px',
+            }},
+     
+            { title: "Record (PTS)", field: "record",cellStyle: {
+              maxWidth: '110px',
+              textAlign: 'center',
               whiteSpace: 'nowrap'
             },
             headerStyle: {
-              maxWidth: '70px'
-            } },
-            { title: "PTS", field: "points", type: "numeric",cellStyle: {
-              maxWidth: '60px',
-              whiteSpace: 'nowrap',
-              textAlign: 'center'
+              maxWidth: '110px'
             },
-            headerStyle: {
-              maxWidth: '60px',
-              minWidth: '80px'
-            }},
+            render: team => <span>{team.record} ({team.points})</span> ,
+            customSort: (a, b) => a.points - b.points},
             { title: "%", field: "pct", type: "numeric",
             render: team => <span>{team.pct.toFixed(3)}</span> },
             
