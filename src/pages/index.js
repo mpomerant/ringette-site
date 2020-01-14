@@ -89,7 +89,7 @@ const nextGames = unoffialGames.slice(0, Math.min(unoffialGames.length,25));
         rowStyle: (rowData) => {
           return (
           {
-          backgroundColor: (rowData.rank < 9) ? 'lightblue' : (rowData.rank < 17) ? 'lightgreen' : 'BlanchedAlmond'
+          backgroundColor: (rowData.rank < 9) ? 'PaleTurquoise' : (rowData.rank < 17) ? 'PaleGreen' : 'BlanchedAlmond'
         })}
         
       }}
