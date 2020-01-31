@@ -86,10 +86,10 @@ const nextGames = unoffialGames.slice(0, Math.min(unoffialGames.length,25));
          whiteSpace: 'nowrap'
          
         },
-        rowStyle: (rowData) => {
+        rowStyle: (rowData, index) => {
           return (
           {
-          backgroundColor: (rowData.rank < 9) ? 'PaleTurquoise' : (rowData.rank < 17) ? 'PaleGreen' : 'BlanchedAlmond'
+          backgroundColor: (index < 8) ? 'white' : (index < 16) ? 'BlanchedAlmond' : 'white'
         })}
         
       }}
