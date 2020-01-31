@@ -98,6 +98,7 @@ export default ({ data }) => {
         opponentLink,
         opponent,
         gameResult,
+        type: result.type,
         tournament: result.tournamentName,
         date: result.date,
         time: result.time,
@@ -195,6 +196,7 @@ export const query = graphql`
         record
         date
         time
+        type
         isoDate
         elo {
           pregame {

@@ -12,6 +12,13 @@ const GameResultTable = ({results}) => {
         search: false,
         paging: false,
         pageSize: 100,
+        rowStyle: game => {
+          if(game.type === "RR") {
+            return {backgroundColor: 'white'};
+          } else {
+            return {backgroundColor: 'lightgray'};
+          }
+        },
         headerStyle: {
           backgroundColor: '#44bac8',
           color: '#FFF',
@@ -40,13 +47,11 @@ const GameResultTable = ({results}) => {
           },
             { title: "Score", field: "score",cellStyle: {
               textAlign: 'center'
-              
             } },
             { title: "Tournament", 
             field: "tournament",
             cellStyle: {
               textAlign: 'center'
-              
             },
             whiteSpace: 'nowrap' 
           },
