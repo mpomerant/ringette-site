@@ -5,10 +5,10 @@
     "date": "Sun Jan 12",
     "time": "7:30A",
     "visitor": "Nepean",
-    "visitorScore": "0",
+    "visitorScore": "1",
     "home": "Sault Ste Marie",
-    "homeScore": "0",
-    "status": "",
+    "homeScore": "3",
+    "status": "Official",
     "isoDate": 1578796200000,
     "tournamentName": "Waterloo"
 }

@@ -4,6 +4,8 @@
     "loss": 9,
     "tie": 0,
     "for": 32,
+    "officialWin": 3,
+    "officialLoss": 9,
     "against": 68,
     "elo": 1421.0741687472764,
     "upcoming": [
@@ -43,9 +45,9 @@
             "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1563.8183506109158,
+                    "opp": 1557.406758713061,
                     "elo": 1421.0741687472764,
-                    "probability": 0.3139539186365501
+                    "probability": 0.3220604203779024
                 }
             }
         },
@@ -85,9 +87,9 @@
             "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1569.5824170731619,
+                    "opp": 1554.8425856263245,
                     "elo": 1421.0741687472764,
-                    "probability": 0.30676159258855096
+                    "probability": 0.32533302024833277
                 }
             }
         }
@@ -410,12 +412,12 @@
     "points": 6,
     "games": 12,
     "opponentRecord": {
-        "w": 71,
-        "l": 66,
+        "w": 72,
+        "l": 67,
         "t": 3,
-        "g": 140
+        "g": 142
     },
-    "strengthOfSchedule": 0.5227248074628484,
+    "strengthOfSchedule": 0.5229203503851391,
     "record": "3 - 9 - 0",
     "image": "Barrie.png"
 }

@@ -4,6 +4,8 @@
     "loss": 11,
     "tie": 1,
     "for": 22,
+    "officialWin": 0,
+    "officialLoss": 11,
     "against": 69,
     "elo": 1355.9488849142128,
     "upcoming": [],
@@ -325,12 +327,12 @@
     "points": 1,
     "games": 12,
     "opponentRecord": {
-        "w": 74,
-        "l": 68,
+        "w": 79,
+        "l": 74,
         "t": 8,
-        "g": 150
+        "g": 161
     },
-    "strengthOfSchedule": 0.5152617079889807,
+    "strengthOfSchedule": 0.5140284374619413,
     "record": "0 - 11 - 1",
     "image": "Oshawa.png"
 }

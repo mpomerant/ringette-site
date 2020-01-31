@@ -4,6 +4,8 @@
     "loss": 8,
     "tie": 0,
     "for": 16,
+    "officialWin": 0,
+    "officialLoss": 8,
     "against": 67,
     "elo": 1395.133417184345,
     "upcoming": [
@@ -306,12 +308,12 @@
     "points": 0,
     "games": 8,
     "opponentRecord": {
-        "w": 59,
-        "l": 40,
+        "w": 63,
+        "l": 44,
         "t": 4,
-        "g": 103
+        "g": 111
     },
-    "strengthOfSchedule": 0.5636655438874579,
+    "strengthOfSchedule": 0.5599619227070208,
     "record": "0 - 8 - 0",
     "image": "Sudbury.png"
 }

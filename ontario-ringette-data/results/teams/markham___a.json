@@ -1,33 +1,14 @@
 {
     "name": "Markham - A",
-    "win": 9,
+    "win": 10,
     "loss": 1,
     "tie": 1,
-    "for": 48,
-    "against": 18,
-    "elo": 1597.0034231440125,
+    "for": 52,
+    "officialWin": 9,
+    "officialLoss": 0,
+    "against": 20,
+    "elo": 1611.7432545908498,
     "upcoming": [
-        {
-            "id": "richmond_hill_ringette_u14a_1",
-            "tournament": "richmond_hill_ringette",
-            "type": "RR",
-            "date": "Thu Jan 30",
-            "time": "7:00P",
-            "visitor": "Markham - A",
-            "visitorScore": "0",
-            "home": "Richmond Hill",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580392800000,
-            "tournamentName": "Richmond Hill",
-            "elo": {
-                "pregame": {
-                    "opp": 1569.5824170731619,
-                    "elo": 1597.0034231440125,
-                    "probability": 0.5273138975879206
-                }
-            }
-        },
         {
             "id": "richmond_hill_ringette_u14a_5",
             "tournament": "richmond_hill_ringette",
@@ -44,8 +25,8 @@
             "elo": {
                 "pregame": {
                     "opp": 1509.5059575542887,
-                    "elo": 1597.0034231440125,
-                    "probability": 0.6129217064578563
+                    "elo": 1611.7432545908498,
+                    "probability": 0.6331010186905667
                 }
             }
         },
@@ -64,9 +45,9 @@
             "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1563.8183506109158,
-                    "elo": 1597.0034231440125,
-                    "probability": 0.535681486069194
+                    "opp": 1557.406758713061,
+                    "elo": 1611.7432545908498,
+                    "probability": 0.5661798584359101
                 }
             }
         },
@@ -86,8 +67,8 @@
             "elo": {
                 "pregame": {
                     "opp": 1486.6560277714414,
-                    "elo": 1597.0034231440125,
-                    "probability": 0.6440131412512236
+                    "elo": 1611.7432545908498,
+                    "probability": 0.6634615583891521
                 }
             }
         }
@@ -378,18 +359,44 @@
                 }
             },
             "record": "9 - 1 - 1"
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_1",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Thu Jan 30",
+            "time": "7:00P",
+            "visitor": "Markham - A",
+            "visitorScore": "4",
+            "home": "Richmond Hill",
+            "homeScore": "2",
+            "status": "Official",
+            "isoDate": 1580392800000,
+            "tournamentName": "Richmond Hill",
+            "elo": {
+                "pregame": {
+                    "opp": 1569.5824170731619,
+                    "elo": 1597.0034231440125,
+                    "probability": 0.5273138975879206
+                },
+                "postgame": {
+                    "opp": 1554.8425856263245,
+                    "elo": 1611.7432545908498
+                }
+            },
+            "record": "10 - 1 - 1"
         }
     ],
-    "pct": 0.8636363636363636,
+    "pct": 0.95,
     "points": 19,
-    "games": 11,
+    "games": 12,
     "opponentRecord": {
-        "w": 76,
-        "l": 66,
-        "t": 3,
-        "g": 145
+        "w": 84,
+        "l": 73,
+        "t": 4,
+        "g": 161
     },
-    "strengthOfSchedule": 0.5361993041388553,
-    "record": "9 - 1 - 1",
+    "strengthOfSchedule": 0.5359170903881298,
+    "record": "10 - 1 - 1",
     "image": "Markham.png"
 }

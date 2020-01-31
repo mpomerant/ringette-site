@@ -4,6 +4,8 @@
     "loss": 6,
     "tie": 0,
     "for": 38,
+    "officialWin": 7,
+    "officialLoss": 5,
     "against": 34,
     "elo": 1502.7291921523963,
     "upcoming": [
@@ -22,9 +24,9 @@
             "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1569.5824170731619,
+                    "opp": 1554.8425856263245,
                     "elo": 1502.7291921523963,
-                    "probability": 0.4159906275615548
+                    "probability": 0.43700623667219163
                 }
             }
         },
@@ -99,7 +101,7 @@
             "type": "RR",
             "date": "Fri Nov 15",
             "time": "1:00P",
-            "visitor": "West Ottawa  - F",
+            "visitor": "West Ottawa - F",
             "visitorScore": "4",
             "home": "Upper Ottawa Valley",
             "homeScore": "2",
@@ -127,7 +129,7 @@
             "time": "6:00P",
             "visitor": "Timmins",
             "visitorScore": "5",
-            "home": "West Ottawa  - F",
+            "home": "West Ottawa - F",
             "homeScore": "1",
             "status": "Official",
             "isoDate": 1573822800000,
@@ -151,7 +153,7 @@
             "type": "RR",
             "date": "Sat Nov 16",
             "time": "9:30A",
-            "visitor": "West Ottawa  - F",
+            "visitor": "West Ottawa - F",
             "visitorScore": "5",
             "home": "Gloucester Cumberland - D",
             "homeScore": "1",
@@ -179,7 +181,7 @@
             "time": "2:30P",
             "visitor": "City of Ottawa",
             "visitorScore": "0",
-            "home": "West Ottawa  - F",
+            "home": "West Ottawa - F",
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1573896600000,
@@ -203,7 +205,7 @@
             "type": "S2",
             "date": "Sun Nov 17",
             "time": "8:30A",
-            "visitor": "West Ottawa  - F",
+            "visitor": "West Ottawa - F",
             "visitorScore": "1",
             "home": "Timmins",
             "homeScore": "3",
@@ -432,16 +434,16 @@
             "record": "7 - 6 - 0"
         }
     ],
-    "pct": 0.5384615384615384,
+    "pct": 0.5833333333333334,
     "points": 14,
     "games": 13,
     "opponentRecord": {
-        "w": 61,
-        "l": 77,
+        "w": 64,
+        "l": 78,
         "t": 6,
-        "g": 144
+        "g": 148
     },
-    "strengthOfSchedule": 0.4717348927875243,
+    "strengthOfSchedule": 0.4812889812889813,
     "record": "7 - 6 - 0",
     "image": "West Ottawa.png"
 }

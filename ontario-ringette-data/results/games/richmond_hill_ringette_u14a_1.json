@@ -5,10 +5,10 @@
     "date": "Thu Jan 30",
     "time": "7:00P",
     "visitor": "Markham - A",
-    "visitorScore": "0",
+    "visitorScore": "4",
     "home": "Richmond Hill",
-    "homeScore": "0",
-    "status": "",
+    "homeScore": "2",
+    "status": "Official",
     "isoDate": 1580392800000,
     "tournamentName": "Richmond Hill"
 }

@@ -4,6 +4,8 @@
     "loss": 4,
     "tie": 1,
     "for": 75,
+    "officialWin": 9,
+    "officialLoss": 2,
     "against": 34,
     "elo": 1599.6196665104226,
     "upcoming": [
@@ -22,9 +24,9 @@
             "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
-                    "opp": 1445.053554824495,
+                    "opp": 1451.0983225386663,
                     "elo": 1599.6196665104226,
-                    "probability": 0.7006972758646277
+                    "probability": 0.6932546431731913
                 }
             }
         },
@@ -43,9 +45,9 @@
             "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
-                    "opp": 1600.8672435115193,
+                    "opp": 1612.4252491191114,
                     "elo": 1599.6196665104226,
-                    "probability": 0.5108049741116849
+                    "probability": 0.4939611570032183
                 }
             }
         },
@@ -64,9 +66,9 @@
             "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
-                    "opp": 1451.247825339559,
+                    "opp": 1434.4688567575197,
                     "elo": 1599.6196665104226,
-                    "probability": 0.6930692636332078
+                    "probability": 0.7134765568183645
                 }
             }
         },
@@ -85,9 +87,9 @@
             "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
-                    "opp": 1517.0094823120405,
+                    "opp": 1490.2530923118477,
                     "elo": 1599.6196665104226,
-                    "probability": 0.6061404554072438
+                    "probability": 0.6427011114936827
                 }
             }
         }
@@ -510,16 +512,16 @@
             "record": "11 - 4 - 1"
         }
     ],
-    "pct": 0.71875,
-    "points": 23,
+    "pct": 0.7916666666666666,
+    "points": 19,
     "games": 16,
     "opponentRecord": {
-        "w": 116,
-        "l": 88,
+        "w": 120,
+        "l": 89,
         "t": 11,
-        "g": 215
+        "g": 220
     },
-    "strengthOfSchedule": 0.5617050279456796,
+    "strengthOfSchedule": 0.5656221303948576,
     "record": "11 - 4 - 1",
     "image": "West Ottawa.png"
 }

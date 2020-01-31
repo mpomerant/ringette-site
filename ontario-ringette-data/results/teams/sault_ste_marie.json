@@ -1,34 +1,14 @@
 {
     "name": "Sault Ste Marie",
-    "win": 6,
+    "win": 8,
     "loss": 4,
     "tie": 2,
-    "for": 29,
-    "against": 22,
-    "elo": 1534.4309303975167,
-    "upcoming": [
-        {
-            "id": "waterloo_ringette_u14a_18",
-            "tournament": "waterloo_ringette",
-            "type": "S2",
-            "date": "Sun Jan 12",
-            "time": "7:30A",
-            "visitor": "Nepean",
-            "visitorScore": "0",
-            "home": "Sault Ste Marie",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1578796200000,
-            "tournamentName": "Waterloo",
-            "elo": {
-                "pregame": {
-                    "opp": 1517.0094823120405,
-                    "elo": 1534.4309303975167,
-                    "probability": 0.512763986832527
-                }
-            }
-        }
-    ],
+    "for": 35,
+    "officialWin": 6,
+    "officialLoss": 4,
+    "against": 24,
+    "elo": 1566.7751075558403,
+    "upcoming": [],
     "results": [
         {
             "id": "oshawa_ringette_u14a_2",
@@ -341,18 +321,70 @@
                 }
             },
             "record": "6 - 4 - 2"
+        },
+        {
+            "id": "waterloo_ringette_u14a_18",
+            "tournament": "waterloo_ringette",
+            "type": "S2",
+            "date": "Sun Jan 12",
+            "time": "7:30A",
+            "visitor": "Nepean",
+            "visitorScore": "1",
+            "home": "Sault Ste Marie",
+            "homeScore": "3",
+            "status": "Official",
+            "isoDate": 1578796200000,
+            "tournamentName": "Waterloo",
+            "elo": {
+                "pregame": {
+                    "opp": 1517.0094823120405,
+                    "elo": 1534.4309303975167,
+                    "probability": 0.512763986832527
+                },
+                "postgame": {
+                    "opp": 1501.8110979194398,
+                    "elo": 1549.6293147901174
+                }
+            },
+            "record": "7 - 4 - 2"
+        },
+        {
+            "id": "waterloo_ringette_u14a_19",
+            "tournament": "waterloo_ringette",
+            "type": "GS",
+            "date": "Sun Jan 12",
+            "time": "11:40A",
+            "visitor": "Sault Ste Marie",
+            "visitorScore": "3",
+            "home": "Metcalfe",
+            "homeScore": "1",
+            "status": "Official",
+            "isoDate": 1578811200000,
+            "tournamentName": "Waterloo",
+            "elo": {
+                "pregame": {
+                    "opp": 1574.552551478784,
+                    "elo": 1549.6293147901174,
+                    "probability": 0.4763171173785773
+                },
+                "postgame": {
+                    "opp": 1557.406758713061,
+                    "elo": 1566.7751075558403
+                }
+            },
+            "record": "8 - 4 - 2"
         }
     ],
     "pct": 0.5833333333333334,
     "points": 14,
-    "games": 12,
+    "games": 14,
     "opponentRecord": {
-        "w": 81,
-        "l": 68,
-        "t": 8,
-        "g": 157
+        "w": 101,
+        "l": 84,
+        "t": 10,
+        "g": 195
     },
-    "strengthOfSchedule": 0.5329015096670496,
-    "record": "6 - 4 - 2",
+    "strengthOfSchedule": 0.5343732538647793,
+    "record": "8 - 4 - 2",
     "image": "Sault Ste Marie.png"
 }

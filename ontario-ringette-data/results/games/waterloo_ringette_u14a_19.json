@@ -4,11 +4,11 @@
     "type": "GS",
     "date": "Sun Jan 12",
     "time": "11:40A",
-    "visitor": "Not Available",
-    "visitorScore": "0",
-    "home": "Not Available",
-    "homeScore": "0",
-    "status": "",
+    "visitor": "Sault Ste Marie",
+    "visitorScore": "3",
+    "home": "Metcalfe",
+    "homeScore": "1",
+    "status": "Official",
     "isoDate": 1578811200000,
     "tournamentName": "Waterloo"
 }

@@ -1,33 +1,14 @@
 {
     "name": "Gloucester Cumberland - B",
-    "win": 12,
+    "win": 13,
     "loss": 4,
     "tie": 0,
-    "for": 69,
-    "against": 32,
-    "elo": 1600.8672435115193,
+    "for": 76,
+    "officialWin": 10,
+    "officialLoss": 3,
+    "against": 33,
+    "elo": 1612.4252491191114,
     "upcoming": [
-        {
-            "id": "gloucester_cumberland_u14a_1",
-            "tournament": "gloucester_cumberland",
-            "type": "RR",
-            "date": "Thu Jan 30",
-            "time": "6:30P",
-            "visitor": "Nepean",
-            "visitorScore": "0",
-            "home": "Gloucester Cumberland - B",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580391000000,
-            "tournamentName": "Gloucester Cumberland",
-            "elo": {
-                "pregame": {
-                    "opp": 1517.0094823120405,
-                    "elo": 1600.8672435115193,
-                    "probability": 0.6078755114266987
-                }
-            }
-        },
         {
             "id": "gloucester_cumberland_u14a_5",
             "tournament": "gloucester_cumberland",
@@ -44,8 +25,8 @@
             "elo": {
                 "pregame": {
                     "opp": 1599.6196665104226,
-                    "elo": 1600.8672435115193,
-                    "probability": 0.4891950258883151
+                    "elo": 1612.4252491191114,
+                    "probability": 0.5060388429967817
                 }
             }
         },
@@ -65,8 +46,8 @@
             "elo": {
                 "pregame": {
                     "opp": 1500,
-                    "elo": 1600.8672435115193,
-                    "probability": 0.6312437050242781
+                    "elo": 1612.4252491191114,
+                    "probability": 0.6467855032179269
                 }
             }
         },
@@ -85,9 +66,9 @@
             "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
-                    "opp": 1445.053554824495,
-                    "elo": 1600.8672435115193,
-                    "probability": 0.7022204221096443
+                    "opp": 1451.0983225386663,
+                    "elo": 1612.4252491191114,
+                    "probability": 0.7088975979245589
                 }
             }
         }
@@ -508,18 +489,44 @@
                 }
             },
             "record": "12 - 4 - 0"
+        },
+        {
+            "id": "gloucester_cumberland_u14a_1",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Thu Jan 30",
+            "time": "6:30P",
+            "visitor": "Nepean",
+            "visitorScore": "1",
+            "home": "Gloucester Cumberland - B",
+            "homeScore": "7",
+            "status": "Official",
+            "isoDate": 1580391000000,
+            "tournamentName": "Gloucester Cumberland",
+            "elo": {
+                "pregame": {
+                    "opp": 1501.8110979194398,
+                    "elo": 1600.8672435115193,
+                    "probability": 0.6287825147192122
+                },
+                "postgame": {
+                    "opp": 1490.2530923118477,
+                    "elo": 1612.4252491191114
+                }
+            },
+            "record": "13 - 4 - 0"
         }
     ],
-    "pct": 0.75,
-    "points": 24,
-    "games": 16,
+    "pct": 0.7692307692307693,
+    "points": 20,
+    "games": 17,
     "opponentRecord": {
-        "w": 102,
-        "l": 86,
+        "w": 112,
+        "l": 94,
         "t": 10,
-        "g": 198
+        "g": 216
     },
-    "strengthOfSchedule": 0.5440215208862995,
-    "record": "12 - 4 - 0",
+    "strengthOfSchedule": 0.5437876299945265,
+    "record": "13 - 4 - 0",
     "image": "Gloucester Cumberland.png"
 }

@@ -1,54 +1,14 @@
 {
     "name": "City of Ottawa",
-    "win": 4,
-    "loss": 8,
+    "win": 5,
+    "loss": 9,
     "tie": 0,
-    "for": 24,
-    "against": 44,
-    "elo": 1445.053554824495,
+    "for": 27,
+    "officialWin": 5,
+    "officialLoss": 8,
+    "against": 48,
+    "elo": 1451.0983225386663,
     "upcoming": [
-        {
-            "id": "waterloo_ringette_u14a_17",
-            "tournament": "waterloo_ringette",
-            "type": "S1",
-            "date": "Sun Jan 12",
-            "time": "7:30A",
-            "visitor": "City of Ottawa",
-            "visitorScore": "0",
-            "home": "Metcalfe",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1578796200000,
-            "tournamentName": "Waterloo",
-            "elo": {
-                "pregame": {
-                    "opp": 1563.8183506109158,
-                    "elo": 1445.053554824495,
-                    "probability": 0.34481744844174134
-                }
-            }
-        },
-        {
-            "id": "gloucester_cumberland_u14a_2",
-            "tournament": "gloucester_cumberland",
-            "type": "RR",
-            "date": "Thu Jan 30",
-            "time": "7:30P",
-            "visitor": "City of Ottawa",
-            "visitorScore": "0",
-            "home": "Gloucester Cumberland - D",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580394600000,
-            "tournamentName": "Gloucester Cumberland",
-            "elo": {
-                "pregame": {
-                    "opp": 1451.247825339559,
-                    "elo": 1445.053554824495,
-                    "probability": 0.5035967886806941
-                }
-            }
-        },
         {
             "id": "gloucester_cumberland_u14a_3",
             "tournament": "gloucester_cumberland",
@@ -65,8 +25,8 @@
             "elo": {
                 "pregame": {
                     "opp": 1599.6196665104226,
-                    "elo": 1445.053554824495,
-                    "probability": 0.2993027241353723
+                    "elo": 1451.0983225386663,
+                    "probability": 0.3067453568268087
                 }
             }
         },
@@ -86,8 +46,8 @@
             "elo": {
                 "pregame": {
                     "opp": 1427.4227472937864,
-                    "elo": 1445.053554824495,
-                    "probability": 0.5130689245816238
+                    "elo": 1451.0983225386663,
+                    "probability": 0.5218681912166905
                 }
             }
         },
@@ -106,9 +66,9 @@
             "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
-                    "opp": 1600.8672435115193,
-                    "elo": 1445.053554824495,
-                    "probability": 0.2977795778903557
+                    "opp": 1612.4252491191114,
+                    "elo": 1451.0983225386663,
+                    "probability": 0.29110240207544114
                 }
             }
         }
@@ -174,7 +134,7 @@
             "time": "2:30P",
             "visitor": "City of Ottawa",
             "visitorScore": "0",
-            "home": "West Ottawa  - F",
+            "home": "West Ottawa - F",
             "homeScore": "2",
             "status": "Official",
             "isoDate": 1573896600000,
@@ -425,18 +385,70 @@
                 }
             },
             "record": "4 - 8 - 0"
+        },
+        {
+            "id": "waterloo_ringette_u14a_17",
+            "tournament": "waterloo_ringette",
+            "type": "S1",
+            "date": "Sun Jan 12",
+            "time": "7:30A",
+            "visitor": "City of Ottawa",
+            "visitorScore": "0",
+            "home": "Metcalfe",
+            "homeScore": "3",
+            "status": "Official",
+            "isoDate": 1578796200000,
+            "tournamentName": "Waterloo",
+            "elo": {
+                "pregame": {
+                    "opp": 1563.8183506109158,
+                    "elo": 1445.053554824495,
+                    "probability": 0.34481744844174134
+                },
+                "postgame": {
+                    "opp": 1574.552551478784,
+                    "elo": 1434.3193539566269
+                }
+            },
+            "record": "4 - 9 - 0"
+        },
+        {
+            "id": "gloucester_cumberland_u14a_2",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Thu Jan 30",
+            "time": "7:30P",
+            "visitor": "City of Ottawa",
+            "visitorScore": "3",
+            "home": "Gloucester Cumberland - D",
+            "homeScore": "1",
+            "status": "Official",
+            "isoDate": 1580394600000,
+            "tournamentName": "Gloucester Cumberland",
+            "elo": {
+                "pregame": {
+                    "opp": 1451.247825339559,
+                    "elo": 1434.3193539566269,
+                    "probability": 0.4879540843200827
+                },
+                "postgame": {
+                    "opp": 1434.4688567575197,
+                    "elo": 1451.0983225386663
+                }
+            },
+            "record": "5 - 9 - 0"
         }
     ],
-    "pct": 0.3333333333333333,
-    "points": 8,
-    "games": 12,
+    "pct": 0.38461538461538464,
+    "points": 10,
+    "games": 14,
     "opponentRecord": {
-        "w": 62,
-        "l": 71,
-        "t": 8,
-        "g": 141
+        "w": 78,
+        "l": 87,
+        "t": 10,
+        "g": 175
     },
-    "strengthOfSchedule": 0.48799317345698395,
-    "record": "4 - 8 - 0",
+    "strengthOfSchedule": 0.49055283327051136,
+    "record": "5 - 9 - 0",
     "image": "City of Ottawa.png"
 }

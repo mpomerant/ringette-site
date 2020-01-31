@@ -4,6 +4,8 @@
     "loss": 4,
     "tie": 0,
     "for": 36,
+    "officialWin": 5,
+    "officialLoss": 3,
     "against": 29,
     "elo": 1509.5059575542887,
     "upcoming": [
@@ -22,9 +24,9 @@
             "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1563.8183506109158,
+                    "opp": 1557.406758713061,
                     "elo": 1509.5059575542887,
-                    "probability": 0.4338546563034734
+                    "probability": 0.4430576909368228
                 }
             }
         },
@@ -43,9 +45,9 @@
             "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1597.0034231440125,
+                    "opp": 1611.7432545908498,
                     "elo": 1509.5059575542887,
-                    "probability": 0.38707829354214374
+                    "probability": 0.3668989813094333
                 }
             }
         },
@@ -64,9 +66,9 @@
             "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1569.5824170731619,
+                    "opp": 1554.8425856263245,
                     "elo": 1509.5059575542887,
-                    "probability": 0.425619635691163
+                    "probability": 0.44674957567595586
                 }
             }
         },
@@ -120,7 +122,7 @@
             "time": "3:45P",
             "visitor": "Guelph",
             "visitorScore": "0",
-            "home": "St Marys",
+            "home": "St. Marys",
             "homeScore": "0",
             "status": "",
             "isoDate": 1581072300000,
@@ -412,16 +414,16 @@
             "record": "5 - 4 - 0"
         }
     ],
-    "pct": 0.5555555555555556,
+    "pct": 0.625,
     "points": 10,
     "games": 9,
     "opponentRecord": {
-        "w": 48,
+        "w": 51,
         "l": 54,
         "t": 4,
-        "g": 106
+        "g": 109
     },
-    "strengthOfSchedule": 0.4945065610684059,
+    "strengthOfSchedule": 0.504371890298842,
     "record": "5 - 4 - 0",
     "image": "Guelph.png"
 }

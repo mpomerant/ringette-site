@@ -4,6 +4,8 @@
     "loss": 4,
     "tie": 1,
     "for": 25,
+    "officialWin": 3,
+    "officialLoss": 4,
     "against": 31,
     "elo": 1486.6560277714414,
     "upcoming": [
@@ -64,9 +66,9 @@
             "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1597.0034231440125,
+                    "opp": 1611.7432545908498,
                     "elo": 1486.6560277714414,
-                    "probability": 0.35598685874877645
+                    "probability": 0.3365384416108479
                 }
             }
         },
@@ -85,9 +87,9 @@
             "tournamentName": "Richmond Hill",
             "elo": {
                 "pregame": {
-                    "opp": 1563.8183506109158,
+                    "opp": 1557.406758713061,
                     "elo": 1486.6560277714414,
-                    "probability": 0.40146699542014574
+                    "probability": 0.41048113211713444
                 }
             }
         }
@@ -306,12 +308,12 @@
     "points": 7,
     "games": 8,
     "opponentRecord": {
-        "w": 42,
-        "l": 51,
+        "w": 43,
+        "l": 56,
         "t": 8,
-        "g": 101
+        "g": 107
     },
-    "strengthOfSchedule": 0.47951805915521356,
+    "strengthOfSchedule": 0.4699643838263919,
     "record": "3 - 4 - 1",
     "image": "London.png"
 }

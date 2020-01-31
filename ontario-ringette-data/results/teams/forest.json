@@ -4,6 +4,8 @@
     "loss": 3,
     "tie": 0,
     "for": 108,
+    "officialWin": 10,
+    "officialLoss": 2,
     "against": 43,
     "elo": 1649.442994780456,
     "upcoming": [
@@ -563,15 +565,15 @@
         }
     ],
     "pct": 0.8333333333333334,
-    "points": 30,
+    "points": 20,
     "games": 18,
     "opponentRecord": {
-        "w": 120,
-        "l": 98,
+        "w": 127,
+        "l": 100,
         "t": 15,
-        "g": 233
+        "g": 242
     },
-    "strengthOfSchedule": 0.5495267311293601,
+    "strengthOfSchedule": 0.5549587212610997,
     "record": "15 - 3 - 0",
     "image": "Forest.png"
 }

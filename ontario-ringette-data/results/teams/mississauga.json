@@ -4,6 +4,8 @@
     "loss": 10,
     "tie": 1,
     "for": 23,
+    "officialWin": 1,
+    "officialLoss": 10,
     "against": 56,
     "elo": 1390.3897032828734,
     "upcoming": [
@@ -78,7 +80,7 @@
             "time": "3:30P",
             "visitor": "Mississauga",
             "visitorScore": "0",
-            "home": "St Marys",
+            "home": "St. Marys",
             "homeScore": "0",
             "status": "",
             "isoDate": 1581157800000,
@@ -410,12 +412,12 @@
     "points": 3,
     "games": 12,
     "opponentRecord": {
-        "w": 82,
-        "l": 60,
+        "w": 86,
+        "l": 64,
         "t": 8,
-        "g": 150
+        "g": 158
     },
-    "strengthOfSchedule": 0.5527605703048181,
+    "strengthOfSchedule": 0.5526049345059564,
     "record": "1 - 10 - 1",
     "image": "Mississauga.png"
 }

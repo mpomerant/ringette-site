@@ -1,54 +1,14 @@
 {
     "name": "Nepean",
     "win": 7,
-    "loss": 5,
+    "loss": 7,
     "tie": 0,
-    "for": 41,
-    "against": 36,
-    "elo": 1517.0094823120405,
+    "for": 43,
+    "officialWin": 7,
+    "officialLoss": 6,
+    "against": 46,
+    "elo": 1490.2530923118477,
     "upcoming": [
-        {
-            "id": "waterloo_ringette_u14a_18",
-            "tournament": "waterloo_ringette",
-            "type": "S2",
-            "date": "Sun Jan 12",
-            "time": "7:30A",
-            "visitor": "Nepean",
-            "visitorScore": "0",
-            "home": "Sault Ste Marie",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1578796200000,
-            "tournamentName": "Waterloo",
-            "elo": {
-                "pregame": {
-                    "opp": 1534.4309303975167,
-                    "elo": 1517.0094823120405,
-                    "probability": 0.487236013167473
-                }
-            }
-        },
-        {
-            "id": "gloucester_cumberland_u14a_1",
-            "tournament": "gloucester_cumberland",
-            "type": "RR",
-            "date": "Thu Jan 30",
-            "time": "6:30P",
-            "visitor": "Nepean",
-            "visitorScore": "0",
-            "home": "Gloucester Cumberland - B",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580391000000,
-            "tournamentName": "Gloucester Cumberland",
-            "elo": {
-                "pregame": {
-                    "opp": 1600.8672435115193,
-                    "elo": 1517.0094823120405,
-                    "probability": 0.3921244885733013
-                }
-            }
-        },
         {
             "id": "gloucester_cumberland_u14a_6",
             "tournament": "gloucester_cumberland",
@@ -65,8 +25,8 @@
             "elo": {
                 "pregame": {
                     "opp": 1427.4227472937864,
-                    "elo": 1517.0094823120405,
-                    "probability": 0.6158074951552208
+                    "elo": 1490.2530923118477,
+                    "probability": 0.5783005626165774
                 }
             }
         },
@@ -86,8 +46,8 @@
             "elo": {
                 "pregame": {
                     "opp": 1500,
-                    "elo": 1517.0094823120405,
-                    "probability": 0.5121639199038008
+                    "elo": 1490.2530923118477,
+                    "probability": 0.49841888731475104
                 }
             }
         },
@@ -107,8 +67,8 @@
             "elo": {
                 "pregame": {
                     "opp": 1599.6196665104226,
-                    "elo": 1517.0094823120405,
-                    "probability": 0.3938595445927562
+                    "elo": 1490.2530923118477,
+                    "probability": 0.3572988885063173
                 }
             }
         }
@@ -425,18 +385,70 @@
                 }
             },
             "record": "7 - 5 - 0"
+        },
+        {
+            "id": "waterloo_ringette_u14a_18",
+            "tournament": "waterloo_ringette",
+            "type": "S2",
+            "date": "Sun Jan 12",
+            "time": "7:30A",
+            "visitor": "Nepean",
+            "visitorScore": "1",
+            "home": "Sault Ste Marie",
+            "homeScore": "3",
+            "status": "Official",
+            "isoDate": 1578796200000,
+            "tournamentName": "Waterloo",
+            "elo": {
+                "pregame": {
+                    "opp": 1534.4309303975167,
+                    "elo": 1517.0094823120405,
+                    "probability": 0.487236013167473
+                },
+                "postgame": {
+                    "opp": 1549.6293147901174,
+                    "elo": 1501.8110979194398
+                }
+            },
+            "record": "7 - 6 - 0"
+        },
+        {
+            "id": "gloucester_cumberland_u14a_1",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Thu Jan 30",
+            "time": "6:30P",
+            "visitor": "Nepean",
+            "visitorScore": "1",
+            "home": "Gloucester Cumberland - B",
+            "homeScore": "7",
+            "status": "Official",
+            "isoDate": 1580391000000,
+            "tournamentName": "Gloucester Cumberland",
+            "elo": {
+                "pregame": {
+                    "opp": 1600.8672435115193,
+                    "elo": 1501.8110979194398,
+                    "probability": 0.3712174852807878
+                },
+                "postgame": {
+                    "opp": 1612.4252491191114,
+                    "elo": 1490.2530923118477
+                }
+            },
+            "record": "7 - 7 - 0"
         }
     ],
-    "pct": 0.5833333333333334,
+    "pct": 0.5384615384615384,
     "points": 14,
-    "games": 12,
+    "games": 14,
     "opponentRecord": {
-        "w": 53,
-        "l": 71,
-        "t": 9,
-        "g": 133
+        "w": 79,
+        "l": 82,
+        "t": 11,
+        "g": 172
     },
-    "strengthOfSchedule": 0.4605266943794531,
-    "record": "7 - 5 - 0",
+    "strengthOfSchedule": 0.500227897381065,
+    "record": "7 - 7 - 0",
     "image": "Nepean.png"
 }

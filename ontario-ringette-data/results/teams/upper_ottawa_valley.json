@@ -4,6 +4,8 @@
     "loss": 7,
     "tie": 0,
     "for": 23,
+    "officialWin": 1,
+    "officialLoss": 7,
     "against": 46,
     "elo": 1427.4227472937864,
     "upcoming": [
@@ -43,9 +45,9 @@
             "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
-                    "opp": 1517.0094823120405,
+                    "opp": 1490.2530923118477,
                     "elo": 1427.4227472937864,
-                    "probability": 0.3841925048447792
+                    "probability": 0.42169943738342264
                 }
             }
         },
@@ -64,9 +66,9 @@
             "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
-                    "opp": 1445.053554824495,
+                    "opp": 1451.0983225386663,
                     "elo": 1427.4227472937864,
-                    "probability": 0.4869310754183762
+                    "probability": 0.4781318087833095
                 }
             }
         },
@@ -85,9 +87,9 @@
             "tournamentName": "Gloucester Cumberland",
             "elo": {
                 "pregame": {
-                    "opp": 1451.247825339559,
+                    "opp": 1434.4688567575197,
                     "elo": 1427.4227472937864,
-                    "probability": 0.4779143294252668
+                    "probability": 0.5023552780356897
                 }
             }
         }
@@ -125,7 +127,7 @@
             "type": "RR",
             "date": "Fri Nov 15",
             "time": "1:00P",
-            "visitor": "West Ottawa  - F",
+            "visitor": "West Ottawa - F",
             "visitorScore": "4",
             "home": "Upper Ottawa Valley",
             "homeScore": "2",
@@ -306,12 +308,12 @@
     "points": 2,
     "games": 8,
     "opponentRecord": {
-        "w": 59,
-        "l": 45,
+        "w": 61,
+        "l": 46,
         "t": 3,
-        "g": 107
+        "g": 110
     },
-    "strengthOfSchedule": 0.5528010777655231,
+    "strengthOfSchedule": 0.5552798729654626,
     "record": "1 - 7 - 0",
     "image": "Upper Ottawa Valley.png"
 }

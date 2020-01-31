@@ -4,6 +4,8 @@
     "loss": 10,
     "tie": 1,
     "for": 16,
+    "officialWin": 1,
+    "officialLoss": 10,
     "against": 57,
     "elo": 1390.1715898176503,
     "upcoming": [
@@ -13,7 +15,7 @@
             "type": "RR",
             "date": "Fri Feb 7",
             "time": "10:00A",
-            "visitor": "St Marys",
+            "visitor": "St. Marys",
             "visitorScore": "0",
             "home": "Ajax",
             "homeScore": "0",
@@ -410,12 +412,12 @@
     "points": 3,
     "games": 12,
     "opponentRecord": {
-        "w": 89,
-        "l": 55,
+        "w": 92,
+        "l": 59,
         "t": 9,
-        "g": 153
+        "g": 160
     },
-    "strengthOfSchedule": 0.5817957468139665,
+    "strengthOfSchedule": 0.577075404376784,
     "record": "1 - 10 - 1",
     "image": "Ajax.png"
 }

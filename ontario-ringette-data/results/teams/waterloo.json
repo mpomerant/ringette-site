@@ -4,6 +4,8 @@
     "loss": 5,
     "tie": 0,
     "for": 17,
+    "officialWin": 3,
+    "officialLoss": 5,
     "against": 29,
     "elo": 1467.7430348540104,
     "upcoming": [
@@ -306,12 +308,12 @@
     "points": 6,
     "games": 8,
     "opponentRecord": {
-        "w": 45,
-        "l": 52,
+        "w": 49,
+        "l": 57,
         "t": 5,
-        "g": 102
+        "g": 111
     },
-    "strengthOfSchedule": 0.4807262888530308,
+    "strengthOfSchedule": 0.48077559200669356,
     "record": "3 - 5 - 0",
     "image": "Waterloo.png"
 }

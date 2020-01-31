@@ -4,6 +4,8 @@
     "loss": 7,
     "tie": 0,
     "for": 50,
+    "officialWin": 7,
+    "officialLoss": 5,
     "against": 44,
     "elo": 1502.3006627278403,
     "upcoming": [
@@ -55,7 +57,7 @@
             "type": "RR",
             "date": "Sat Feb 8",
             "time": "7:00A",
-            "visitor": "St Marys",
+            "visitor": "St. Marys",
             "visitorScore": "0",
             "home": "Whitby",
             "homeScore": "0",
@@ -458,16 +460,16 @@
             "record": "7 - 7 - 0"
         }
     ],
-    "pct": 0.5,
+    "pct": 0.5833333333333334,
     "points": 14,
     "games": 14,
     "opponentRecord": {
-        "w": 97,
-        "l": 59,
+        "w": 101,
+        "l": 63,
         "t": 8,
-        "g": 164
+        "g": 172
     },
-    "strengthOfSchedule": 0.5818744442327236,
+    "strengthOfSchedule": 0.5795477456808148,
     "record": "7 - 7 - 0",
     "image": "Whitby.png"
 }

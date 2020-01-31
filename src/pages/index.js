@@ -274,6 +274,8 @@ export const query = graphql`
       edges {
         node {
           name
+          officialWin
+          officialLoss
           win
           loss
           tie

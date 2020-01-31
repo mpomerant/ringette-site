@@ -4,6 +4,8 @@
     "loss": 5,
     "tie": 0,
     "for": 23,
+    "officialWin": 3,
+    "officialLoss": 5,
     "against": 28,
     "elo": 1494.1311717665844,
     "upcoming": [
@@ -13,7 +15,7 @@
             "type": "RR",
             "date": "Fri Feb 7",
             "time": "10:00A",
-            "visitor": "St Marys",
+            "visitor": "St. Marys",
             "visitorScore": "0",
             "home": "Ajax",
             "homeScore": "0",
@@ -36,7 +38,7 @@
             "time": "3:45P",
             "visitor": "Guelph",
             "visitorScore": "0",
-            "home": "St Marys",
+            "home": "St. Marys",
             "homeScore": "0",
             "status": "",
             "isoDate": 1581072300000,
@@ -55,7 +57,7 @@
             "type": "RR",
             "date": "Sat Feb 8",
             "time": "7:00A",
-            "visitor": "St Marys",
+            "visitor": "St. Marys",
             "visitorScore": "0",
             "home": "Whitby",
             "homeScore": "0",
@@ -78,7 +80,7 @@
             "time": "3:30P",
             "visitor": "Mississauga",
             "visitorScore": "0",
-            "home": "St Marys",
+            "home": "St. Marys",
             "homeScore": "0",
             "status": "",
             "isoDate": 1581157800000,
@@ -328,16 +330,16 @@
             "record": "4 - 5 - 0"
         }
     ],
-    "pct": 0.4444444444444444,
-    "points": 8,
+    "pct": 0.375,
+    "points": 6,
     "games": 9,
     "opponentRecord": {
-        "w": 56,
-        "l": 41,
+        "w": 57,
+        "l": 42,
         "t": 6,
-        "g": 103
+        "g": 105
     },
-    "strengthOfSchedule": 0.5557615370894172,
+    "strengthOfSchedule": 0.5572104776140651,
     "record": "4 - 5 - 0",
     "image": "St. Marys.png"
 }

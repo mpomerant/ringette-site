@@ -39,7 +39,7 @@ export default ({ data }) => {
       return a.isoDate - b.isoDate
     })
     .map(result => {
-      const isHome = team.name === result.home
+      const isHome = team.name === result.home;
       const winProbability = (result.elo.pregame.probability * 100).toFixed(1)
       const opponent = isHome ? result.visitor : result.home
       const oppData = isHome ? allTeams[result.visitor] : allTeams[result.home]

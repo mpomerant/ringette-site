@@ -4,6 +4,8 @@
     "loss": 4,
     "tie": 0,
     "for": 29,
+    "officialWin": 4,
+    "officialLoss": 4,
     "against": 26,
     "elo": 1495.614176514694,
     "upcoming": [
@@ -306,12 +308,12 @@
     "points": 8,
     "games": 8,
     "opponentRecord": {
-        "w": 37,
-        "l": 52,
+        "w": 39,
+        "l": 55,
         "t": 1,
-        "g": 90
+        "g": 95
     },
-    "strengthOfSchedule": 0.4504741290455576,
+    "strengthOfSchedule": 0.45228424895431507,
     "record": "4 - 4 - 0",
     "image": "Kitchener.png"
 }

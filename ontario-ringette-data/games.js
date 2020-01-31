@@ -11,7 +11,8 @@ const games = gamesFiles.map((file) => {
 
 const teams = games.reduce((acc, curr) => {
     function normalizeName(name) {
-        return name.replace('  ', ' ').replace('St Marys', 'St. Marys');
+        const normalized = name.replace(/\s\s+/g, ' ').replace('St Marys', 'St. Marys').trim();
+        return normalized;
     }
     const homeScore = parseInt(curr.homeScore);
     const visitorScore = parseInt(curr.visitorScore);
@@ -20,8 +21,8 @@ const teams = games.reduce((acc, curr) => {
     const status = curr.status;
     const isOfficial = status.toLowerCase().includes('official');
 
-    const homeGame = {...curr};
-    const visitorGame = {...curr};
+    const homeGame = {...curr, home, visitor};
+    const visitorGame = {...curr, visitor, home};
     
     class Team {
         constructor(name) {
@@ -30,10 +31,11 @@ const teams = games.reduce((acc, curr) => {
             this.loss = 0;
             this.tie = 0;
             this.for = 0;
+            this.officialWin = 0;
+            this.officialLoss = 0;
             this.against = 0;
             this.elo = 1500;
             this.upcoming = [];
-        
             Object.defineProperties(this, {
                 _results: {
                     value: [],
@@ -41,18 +43,17 @@ const teams = games.reduce((acc, curr) => {
                 },
                 results: {
                     get: function() { return this._results.sort((a, b) => {
-                        
 
                         return a.isoDate - b.isoDate;
                     });},
                     enumerable: true
                 },
                 pct: {
-                    get: function () { return this.points / ((this.win + this.loss + this.tie)*2); },
+                    get: function () { return this.points / ((this.officialWin + this.officialLoss + this.tie)*2); },
                     enumerable: true
                 },
                 points: {
-                    get: function () { return (this.win * 2) + this.tie; },
+                    get: function () { return (this.officialWin * 2) + this.tie; },
                     enumerable: true
                 },
                 games: {
@@ -147,19 +148,25 @@ const teams = games.reduce((acc, curr) => {
         if (homeScore > visitorScore){
             acc[home].win += 1;
             acc[visitor].loss += 1;
+            if (curr.type === 'RR') {
+                acc[home].officialWin += 1;
+                acc[visitor].officialLoss += 1;
+            }
         } else if (homeScore < visitorScore){
             acc[home].loss += 1;
             acc[visitor].win += 1;
+            if (curr.type === 'RR') {
+                acc[home].officialLoss += 1;
+                acc[visitor].officialWin += 1;
+            }
             winner = EloUtils.RESULT.R2;
         } else {
             acc[home].tie += 1;
             acc[visitor].tie += 1;
             winner = EloUtils.RESULT.TIE;
         }
-    
-        
-        
-        const elo = EloUtils.elo(acc[home].elo, acc[visitor].elo, winner);
+
+    const elo = EloUtils.elo(acc[home].elo, acc[visitor].elo, winner);
     acc[home].elo = elo.R1;
     acc[visitor].elo = elo.R2;
 
@@ -182,8 +189,6 @@ const teams = games.reduce((acc, curr) => {
         acc[home].upcoming.push(homeGame);
         acc[visitor].upcoming.push(visitorGame);
     }
-    
-    
     return acc;
 }, {});
 
