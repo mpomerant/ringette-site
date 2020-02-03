@@ -5,10 +5,10 @@
     "date": "Fri Jan 31",
     "time": "10:00A",
     "visitor": "Waterloo",
-    "visitorScore": "0",
+    "visitorScore": "3",
     "home": "Markham - F",
-    "homeScore": "0",
-    "status": "",
+    "homeScore": "2",
+    "status": "Official",
     "isoDate": 1580446800000,
     "tournamentName": "Kitchener"
 }

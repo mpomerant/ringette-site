@@ -5,10 +5,10 @@
     "date": "Fri Jan 31",
     "time": "11:00A",
     "visitor": "West Ottawa - F",
-    "visitorScore": "0",
+    "visitorScore": "2",
     "home": "Richmond Hill",
-    "homeScore": "0",
-    "status": "",
+    "homeScore": "5",
+    "status": "Official",
     "isoDate": 1580450400000,
     "tournamentName": "Richmond Hill"
 }

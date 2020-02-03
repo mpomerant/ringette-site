@@ -1,78 +1,14 @@
 {
     "name": "City of Ottawa",
     "win": 5,
-    "loss": 9,
-    "tie": 0,
-    "for": 27,
+    "loss": 11,
+    "tie": 1,
+    "for": 31,
     "officialWin": 5,
-    "officialLoss": 8,
-    "against": 48,
-    "elo": 1451.0983225386663,
-    "upcoming": [
-        {
-            "id": "gloucester_cumberland_u14a_3",
-            "tournament": "gloucester_cumberland",
-            "type": "RR",
-            "date": "Fri Jan 31",
-            "time": "9:00A",
-            "visitor": "West Ottawa - G",
-            "visitorScore": "0",
-            "home": "City of Ottawa",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580443200000,
-            "tournamentName": "Gloucester Cumberland",
-            "elo": {
-                "pregame": {
-                    "opp": 1599.6196665104226,
-                    "elo": 1451.0983225386663,
-                    "probability": 0.3067453568268087
-                }
-            }
-        },
-        {
-            "id": "gloucester_cumberland_u14a_9",
-            "tournament": "gloucester_cumberland",
-            "type": "RR",
-            "date": "Sat Feb 1",
-            "time": "9:30A",
-            "visitor": "Upper Ottawa Valley",
-            "visitorScore": "0",
-            "home": "City of Ottawa",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580531400000,
-            "tournamentName": "Gloucester Cumberland",
-            "elo": {
-                "pregame": {
-                    "opp": 1427.4227472937864,
-                    "elo": 1451.0983225386663,
-                    "probability": 0.5218681912166905
-                }
-            }
-        },
-        {
-            "id": "gloucester_cumberland_u14a_12",
-            "tournament": "gloucester_cumberland",
-            "type": "RR",
-            "date": "Sat Feb 1",
-            "time": "1:45P",
-            "visitor": "City of Ottawa",
-            "visitorScore": "0",
-            "home": "Gloucester Cumberland - B",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580546700000,
-            "tournamentName": "Gloucester Cumberland",
-            "elo": {
-                "pregame": {
-                    "opp": 1612.4252491191114,
-                    "elo": 1451.0983225386663,
-                    "probability": 0.29110240207544114
-                }
-            }
-        }
-    ],
+    "officialLoss": 10,
+    "against": 55,
+    "elo": 1432.3368594658734,
+    "upcoming": [],
     "results": [
         {
             "id": "nepean_ringette_u14a_4",
@@ -437,18 +373,96 @@
                 }
             },
             "record": "5 - 9 - 0"
+        },
+        {
+            "id": "gloucester_cumberland_u14a_3",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "9:00A",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "2",
+            "home": "City of Ottawa",
+            "homeScore": "0",
+            "status": "Official",
+            "isoDate": 1580443200000,
+            "tournamentName": "Gloucester Cumberland",
+            "elo": {
+                "pregame": {
+                    "opp": 1599.6196665104226,
+                    "elo": 1451.0983225386663,
+                    "probability": 0.3067453568268087
+                },
+                "postgame": {
+                    "opp": 1609.1682721687414,
+                    "elo": 1441.5497168803474
+                }
+            },
+            "record": "5 - 10 - 0"
+        },
+        {
+            "id": "gloucester_cumberland_u14a_9",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "9:30A",
+            "visitor": "Upper Ottawa Valley",
+            "visitorScore": "1",
+            "home": "City of Ottawa",
+            "homeScore": "1",
+            "status": "Official",
+            "isoDate": 1580531400000,
+            "tournamentName": "Gloucester Cumberland",
+            "elo": {
+                "pregame": {
+                    "opp": 1434.1420343905604,
+                    "elo": 1441.5497168803474,
+                    "probability": 0.4981717053774227
+                },
+                "postgame": {
+                    "opp": 1434.483119093501,
+                    "elo": 1441.2086321774068
+                }
+            },
+            "record": "5 - 10 - 1"
+        },
+        {
+            "id": "gloucester_cumberland_u14a_12",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "1:45P",
+            "visitor": "City of Ottawa",
+            "visitorScore": "3",
+            "home": "Gloucester Cumberland - B",
+            "homeScore": "4",
+            "status": "Official",
+            "isoDate": 1580546700000,
+            "tournamentName": "Gloucester Cumberland",
+            "elo": {
+                "pregame": {
+                    "opp": 1607.661408043053,
+                    "elo": 1441.2086321774068,
+                    "probability": 0.2849742596635543
+                },
+                "postgame": {
+                    "opp": 1616.5331807545863,
+                    "elo": 1432.3368594658734
+                }
+            },
+            "record": "5 - 11 - 1"
         }
     ],
-    "pct": 0.38461538461538464,
-    "points": 10,
-    "games": 14,
+    "pct": 0.34375,
+    "points": 11,
+    "games": 17,
     "opponentRecord": {
-        "w": 78,
-        "l": 87,
-        "t": 10,
-        "g": 175
+        "w": 134,
+        "l": 129,
+        "t": 18,
+        "g": 281
     },
-    "strengthOfSchedule": 0.49055283327051136,
-    "record": "5 - 9 - 0",
+    "strengthOfSchedule": 0.5145250075171813,
+    "record": "5 - 11 - 1",
     "image": "City of Ottawa.png"
 }

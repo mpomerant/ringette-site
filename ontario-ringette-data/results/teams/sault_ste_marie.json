@@ -8,7 +8,92 @@
     "officialLoss": 4,
     "against": 24,
     "elo": 1566.7751075558403,
-    "upcoming": [],
+    "upcoming": [
+        {
+            "id": "newmarket_ringette_u14a_6",
+            "tournament": "newmarket_ringette",
+            "type": "RR",
+            "date": "Fri Feb 14",
+            "time": "11:00A",
+            "visitor": "London",
+            "visitorScore": "0",
+            "home": "Sault Ste Marie",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581660000000,
+            "tournamentName": "Newmarket",
+            "elo": {
+                "pregame": {
+                    "opp": 1492.132439499934,
+                    "elo": 1566.7751075558403,
+                    "probability": 0.5949981725230445
+                }
+            }
+        },
+        {
+            "id": "newmarket_ringette_u14a_13",
+            "tournament": "newmarket_ringette",
+            "type": "RR",
+            "date": "Fri Feb 14",
+            "time": "6:45P",
+            "visitor": "Sault Ste Marie",
+            "visitorScore": "0",
+            "home": "Markham - A",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581687900000,
+            "tournamentName": "Newmarket",
+            "elo": {
+                "pregame": {
+                    "opp": 1644.7790157032748,
+                    "elo": 1566.7751075558403,
+                    "probability": 0.4002885923294409
+                }
+            }
+        },
+        {
+            "id": "newmarket_ringette_u14a_16",
+            "tournament": "newmarket_ringette",
+            "type": "RR",
+            "date": "Sat Feb 15",
+            "time": "10:00A",
+            "visitor": "Sault Ste Marie",
+            "visitorScore": "0",
+            "home": "Richmond Hill",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581742800000,
+            "tournamentName": "Newmarket",
+            "elo": {
+                "pregame": {
+                    "opp": 1558.363451821109,
+                    "elo": 1566.7751075558403,
+                    "probability": 0.4996349882982133
+                }
+            }
+        },
+        {
+            "id": "newmarket_ringette_u14a_25",
+            "tournament": "newmarket_ringette",
+            "type": "RR",
+            "date": "Sat Feb 15",
+            "time": "6:00P",
+            "visitor": "Upper Ottawa Valley",
+            "visitorScore": "0",
+            "home": "Sault Ste Marie",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581771600000,
+            "tournamentName": "Newmarket",
+            "elo": {
+                "pregame": {
+                    "opp": 1437.6873344733328,
+                    "elo": 1566.7751075558403,
+                    "probability": 0.6686491539360591
+                }
+            }
+        }
+    ],
     "results": [
         {
             "id": "oshawa_ringette_u14a_2",
@@ -379,12 +464,12 @@
     "points": 14,
     "games": 14,
     "opponentRecord": {
-        "w": 101,
-        "l": 84,
-        "t": 10,
-        "g": 195
+        "w": 124,
+        "l": 103,
+        "t": 21,
+        "g": 248
     },
-    "strengthOfSchedule": 0.5343732538647793,
+    "strengthOfSchedule": 0.5356186323483758,
     "record": "8 - 4 - 2",
     "image": "Sault Ste Marie.png"
 }

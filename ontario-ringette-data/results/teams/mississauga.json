@@ -24,9 +24,9 @@
             "tournamentName": "Guelph",
             "elo": {
                 "pregame": {
-                    "opp": 1509.5059575542887,
+                    "opp": 1502.467819008638,
                     "elo": 1390.3897032828734,
-                    "probability": 0.3443546883250437
+                    "probability": 0.3536769764335277
                 }
             }
         },
@@ -412,12 +412,12 @@
     "points": 3,
     "games": 12,
     "opponentRecord": {
-        "w": 86,
-        "l": 64,
-        "t": 8,
-        "g": 158
+        "w": 105,
+        "l": 83,
+        "t": 15,
+        "g": 203
     },
-    "strengthOfSchedule": 0.5526049345059564,
+    "strengthOfSchedule": 0.5452368947666754,
     "record": "1 - 10 - 1",
     "image": "Mississauga.png"
 }

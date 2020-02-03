@@ -1,95 +1,95 @@
 {
     "name": "Kitchener",
-    "win": 4,
-    "loss": 4,
+    "win": 6,
+    "loss": 7,
     "tie": 0,
-    "for": 29,
-    "officialWin": 4,
-    "officialLoss": 4,
-    "against": 26,
-    "elo": 1495.614176514694,
+    "for": 49,
+    "officialWin": 6,
+    "officialLoss": 6,
+    "against": 51,
+    "elo": 1489.3635376771413,
     "upcoming": [
         {
-            "id": "kitchener_ringette_u14a_1",
-            "tournament": "kitchener_ringette",
+            "id": "newmarket_ringette_u14a_5",
+            "tournament": "newmarket_ringette",
             "type": "RR",
-            "date": "Fri Jan 31",
-            "time": "9:00A",
-            "visitor": "Forest",
+            "date": "Fri Feb 14",
+            "time": "10:15A",
+            "visitor": "Kitchener",
+            "visitorScore": "0",
+            "home": "West Ottawa - G",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581657300000,
+            "tournamentName": "Newmarket",
+            "elo": {
+                "pregame": {
+                    "opp": 1641.1967946088973,
+                    "elo": 1489.3635376771413,
+                    "probability": 0.3026547543176137
+                }
+            }
+        },
+        {
+            "id": "newmarket_ringette_u14a_11",
+            "tournament": "newmarket_ringette",
+            "type": "RR",
+            "date": "Fri Feb 14",
+            "time": "5:45P",
+            "visitor": "Kitchener",
+            "visitorScore": "0",
+            "home": "West Ottawa - F",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581684300000,
+            "tournamentName": "Newmarket",
+            "elo": {
+                "pregame": {
+                    "opp": 1504.4004518124455,
+                    "elo": 1489.3635376771413,
+                    "probability": 0.490709766969869
+                }
+            }
+        },
+        {
+            "id": "newmarket_ringette_u14a_15",
+            "tournament": "newmarket_ringette",
+            "type": "RR",
+            "date": "Sat Feb 15",
+            "time": "9:15A",
+            "visitor": "Timmins",
             "visitorScore": "0",
             "home": "Kitchener",
             "homeScore": "0",
             "status": "",
-            "isoDate": 1580443200000,
-            "tournamentName": "Kitchener",
+            "isoDate": 1581740100000,
+            "tournamentName": "Newmarket",
             "elo": {
                 "pregame": {
-                    "opp": 1649.442994780456,
-                    "elo": 1495.614176514694,
-                    "probability": 0.300204968465966
+                    "opp": 1593.244375295581,
+                    "elo": 1489.3635376771413,
+                    "probability": 0.36467612361340507
                 }
             }
         },
         {
-            "id": "kitchener_ringette_u14a_3",
-            "tournament": "kitchener_ringette",
+            "id": "newmarket_ringette_u14a_24",
+            "tournament": "newmarket_ringette",
             "type": "RR",
-            "date": "Fri Jan 31",
-            "time": "1:00P",
-            "visitor": "Kitchener",
-            "visitorScore": "0",
-            "home": "Sudbury",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580457600000,
-            "tournamentName": "Kitchener",
-            "elo": {
-                "pregame": {
-                    "opp": 1395.133417184345,
-                    "elo": 1495.614176514694,
-                    "probability": 0.630719060620313
-                }
-            }
-        },
-        {
-            "id": "kitchener_ringette_u14a_6",
-            "tournament": "kitchener_ringette",
-            "type": "RR",
-            "date": "Sat Feb 1",
-            "time": "7:00A",
-            "visitor": "Waterloo",
+            "date": "Sat Feb 15",
+            "time": "5:15P",
+            "visitor": "Markham - A",
             "visitorScore": "0",
             "home": "Kitchener",
             "homeScore": "0",
             "status": "",
-            "isoDate": 1580522400000,
-            "tournamentName": "Kitchener",
+            "isoDate": 1581768900000,
+            "tournamentName": "Newmarket",
             "elo": {
                 "pregame": {
-                    "opp": 1467.7430348540104,
-                    "elo": 1495.614176514694,
-                    "probability": 0.5279679651021298
-                }
-            }
-        },
-        {
-            "id": "kitchener_ringette_u14a_9",
-            "tournament": "kitchener_ringette",
-            "type": "RR",
-            "date": "Sat Feb 1",
-            "time": "2:00P",
-            "visitor": "Kitchener",
-            "visitorScore": "0",
-            "home": "Markham - F",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580547600000,
-            "tournamentName": "Kitchener",
-            "elo": {
-                "pregame": {
-                    "opp": 1539.85900161892,
-                    "elo": 1495.614176514694,
-                    "probability": 0.4483233573794476
+                    "opp": 1644.7790157032748,
+                    "elo": 1489.3635376771413,
+                    "probability": 0.298265261607076
                 }
             }
         }
@@ -302,18 +302,148 @@
                 }
             },
             "record": "4 - 4 - 0"
+        },
+        {
+            "id": "kitchener_ringette_u14a_1",
+            "tournament": "kitchener_ringette",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "9:00A",
+            "visitor": "Forest",
+            "visitorScore": "8",
+            "home": "Kitchener",
+            "homeScore": "2",
+            "status": "Official",
+            "isoDate": 1580443200000,
+            "tournamentName": "Kitchener",
+            "elo": {
+                "pregame": {
+                    "opp": 1649.442994780456,
+                    "elo": 1495.614176514694,
+                    "probability": 0.300204968465966
+                },
+                "postgame": {
+                    "opp": 1658.788188481845,
+                    "elo": 1486.268982813305
+                }
+            },
+            "record": "4 - 5 - 0"
+        },
+        {
+            "id": "kitchener_ringette_u14a_3",
+            "tournament": "kitchener_ringette",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "1:00P",
+            "visitor": "Kitchener",
+            "visitorScore": "7",
+            "home": "Sudbury",
+            "homeScore": "3",
+            "status": "Official",
+            "isoDate": 1580457600000,
+            "tournamentName": "Kitchener",
+            "elo": {
+                "pregame": {
+                    "opp": 1395.133417184345,
+                    "elo": 1486.268982813305,
+                    "probability": 0.6179415691924344
+                },
+                "postgame": {
+                    "opp": 1383.2366839794593,
+                    "elo": 1498.1657160181908
+                }
+            },
+            "record": "5 - 5 - 0"
+        },
+        {
+            "id": "kitchener_ringette_u14a_6",
+            "tournament": "kitchener_ringette",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "7:00A",
+            "visitor": "Waterloo",
+            "visitorScore": "0",
+            "home": "Kitchener",
+            "homeScore": "6",
+            "status": "Official",
+            "isoDate": 1580522400000,
+            "tournamentName": "Kitchener",
+            "elo": {
+                "pregame": {
+                    "opp": 1478.3403949143346,
+                    "elo": 1498.1657160181908,
+                    "probability": 0.5162646650057539
+                },
+                "postgame": {
+                    "opp": 1463.2523950647014,
+                    "elo": 1513.253715867824
+                }
+            },
+            "record": "6 - 5 - 0"
+        },
+        {
+            "id": "kitchener_ringette_u14a_9",
+            "tournament": "kitchener_ringette",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "2:00P",
+            "visitor": "Kitchener",
+            "visitorScore": "3",
+            "home": "Markham - F",
+            "homeScore": "6",
+            "status": "Official",
+            "isoDate": 1580547600000,
+            "tournamentName": "Kitchener",
+            "elo": {
+                "pregame": {
+                    "opp": 1520.566904905266,
+                    "elo": 1513.253715867824,
+                    "probability": 0.5019660168457115
+                },
+                "postgame": {
+                    "opp": 1536.2301698341616,
+                    "elo": 1497.5904509389284
+                }
+            },
+            "record": "6 - 6 - 0"
+        },
+        {
+            "id": "kitchener_ringette_u14a_11",
+            "tournament": "kitchener_ringette",
+            "type": "GS",
+            "date": "Sun Feb 2",
+            "time": "12:15P",
+            "visitor": "Kitchener",
+            "visitorScore": "2",
+            "home": "Forest",
+            "homeScore": "8",
+            "status": "Official",
+            "isoDate": 1580627700000,
+            "tournamentName": "Kitchener",
+            "elo": {
+                "pregame": {
+                    "opp": 1681.9299135237497,
+                    "elo": 1497.5904509389284,
+                    "probability": 0.2642102806352633
+                },
+                "postgame": {
+                    "opp": 1690.1568267855369,
+                    "elo": 1489.3635376771413
+                }
+            },
+            "record": "6 - 7 - 0"
         }
     ],
     "pct": 0.5,
-    "points": 8,
-    "games": 8,
+    "points": 12,
+    "games": 13,
     "opponentRecord": {
-        "w": 39,
-        "l": 55,
-        "t": 1,
-        "g": 95
+        "w": 98,
+        "l": 100,
+        "t": 8,
+        "g": 206
     },
-    "strengthOfSchedule": 0.45228424895431507,
-    "record": "4 - 4 - 0",
+    "strengthOfSchedule": 0.5090239366656009,
+    "record": "6 - 7 - 0",
     "image": "Kitchener.png"
 }

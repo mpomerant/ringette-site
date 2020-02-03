@@ -1,78 +1,14 @@
 {
     "name": "Nepean",
     "win": 7,
-    "loss": 7,
-    "tie": 0,
-    "for": 43,
+    "loss": 9,
+    "tie": 1,
+    "for": 46,
     "officialWin": 7,
-    "officialLoss": 6,
-    "against": 46,
-    "elo": 1490.2530923118477,
-    "upcoming": [
-        {
-            "id": "gloucester_cumberland_u14a_6",
-            "tournament": "gloucester_cumberland",
-            "type": "RR",
-            "date": "Fri Jan 31",
-            "time": "1:45P",
-            "visitor": "Upper Ottawa Valley",
-            "visitorScore": "0",
-            "home": "Nepean",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580460300000,
-            "tournamentName": "Gloucester Cumberland",
-            "elo": {
-                "pregame": {
-                    "opp": 1427.4227472937864,
-                    "elo": 1490.2530923118477,
-                    "probability": 0.5783005626165774
-                }
-            }
-        },
-        {
-            "id": "gloucester_cumberland_u14a_11",
-            "tournament": "gloucester_cumberland",
-            "type": "RR",
-            "date": "Sat Feb 1",
-            "time": "12:45P",
-            "visitor": "Nova Scotia",
-            "visitorScore": "0",
-            "home": "Nepean",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580543100000,
-            "tournamentName": "Gloucester Cumberland",
-            "elo": {
-                "pregame": {
-                    "opp": 1500,
-                    "elo": 1490.2530923118477,
-                    "probability": 0.49841888731475104
-                }
-            }
-        },
-        {
-            "id": "gloucester_cumberland_u14a_14",
-            "tournament": "gloucester_cumberland",
-            "type": "RR",
-            "date": "Sat Feb 1",
-            "time": "5:30P",
-            "visitor": "Nepean",
-            "visitorScore": "0",
-            "home": "West Ottawa - G",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580560200000,
-            "tournamentName": "Gloucester Cumberland",
-            "elo": {
-                "pregame": {
-                    "opp": 1599.6196665104226,
-                    "elo": 1490.2530923118477,
-                    "probability": 0.3572988885063173
-                }
-            }
-        }
-    ],
+    "officialLoss": 8,
+    "against": 53,
+    "elo": 1463.8602144181948,
+    "upcoming": [],
     "results": [
         {
             "id": "nepean_ringette_u14a_1",
@@ -437,18 +373,96 @@
                 }
             },
             "record": "7 - 7 - 0"
+        },
+        {
+            "id": "gloucester_cumberland_u14a_6",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "1:45P",
+            "visitor": "Upper Ottawa Valley",
+            "visitorScore": "4",
+            "home": "Nepean",
+            "homeScore": "2",
+            "status": "Official",
+            "isoDate": 1580460300000,
+            "tournamentName": "Gloucester Cumberland",
+            "elo": {
+                "pregame": {
+                    "opp": 1414.71727134728,
+                    "elo": 1490.2530923118477,
+                    "probability": 0.5962523275671469
+                },
+                "postgame": {
+                    "opp": 1434.1420343905604,
+                    "elo": 1470.8283292685674
+                }
+            },
+            "record": "7 - 8 - 0"
+        },
+        {
+            "id": "gloucester_cumberland_u14a_11",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "12:45P",
+            "visitor": "Nova Scotia",
+            "visitorScore": "0",
+            "home": "Nepean",
+            "homeScore": "0",
+            "status": "Official",
+            "isoDate": 1580543100000,
+            "tournamentName": "Gloucester Cumberland",
+            "elo": {
+                "pregame": {
+                    "opp": 1545.7760906882484,
+                    "elo": 1470.8283292685674,
+                    "probability": 0.40457327852387837
+                },
+                "postgame": {
+                    "opp": 1542.3771773673989,
+                    "elo": 1474.2272425894168
+                }
+            },
+            "record": "7 - 8 - 1"
+        },
+        {
+            "id": "gloucester_cumberland_u14a_14",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "5:30P",
+            "visitor": "Nepean",
+            "visitorScore": "1",
+            "home": "West Ottawa - G",
+            "homeScore": "3",
+            "status": "Official",
+            "isoDate": 1580560200000,
+            "tournamentName": "Gloucester Cumberland",
+            "elo": {
+                "pregame": {
+                    "opp": 1602.0120050071318,
+                    "elo": 1474.2272425894168,
+                    "probability": 0.3330360698143726
+                },
+                "postgame": {
+                    "opp": 1612.379033178354,
+                    "elo": 1463.8602144181948
+                }
+            },
+            "record": "7 - 9 - 1"
         }
     ],
-    "pct": 0.5384615384615384,
-    "points": 14,
-    "games": 14,
+    "pct": 0.46875,
+    "points": 15,
+    "games": 17,
     "opponentRecord": {
-        "w": 79,
-        "l": 82,
-        "t": 11,
-        "g": 172
+        "w": 110,
+        "l": 110,
+        "t": 20,
+        "g": 240
     },
-    "strengthOfSchedule": 0.500227897381065,
-    "record": "7 - 7 - 0",
+    "strengthOfSchedule": 0.5090621526887236,
+    "record": "7 - 9 - 1",
     "image": "Nepean.png"
 }

@@ -1,74 +1,95 @@
 {
     "name": "Markham - A",
-    "win": 10,
+    "win": 13,
     "loss": 1,
-    "tie": 1,
-    "for": 52,
-    "officialWin": 9,
+    "tie": 2,
+    "for": 66,
+    "officialWin": 11,
     "officialLoss": 0,
-    "against": 20,
-    "elo": 1611.7432545908498,
+    "against": 27,
+    "elo": 1644.7790157032748,
     "upcoming": [
         {
-            "id": "richmond_hill_ringette_u14a_5",
-            "tournament": "richmond_hill_ringette",
+            "id": "newmarket_ringette_u14a_7",
+            "tournament": "newmarket_ringette",
             "type": "RR",
-            "date": "Fri Jan 31",
-            "time": "3:10P",
-            "visitor": "Guelph",
+            "date": "Fri Feb 14",
+            "time": "12:30P",
+            "visitor": "Timmins",
             "visitorScore": "0",
             "home": "Markham - A",
             "homeScore": "0",
             "status": "",
-            "isoDate": 1580465400000,
-            "tournamentName": "Richmond Hill",
+            "isoDate": 1581665400000,
+            "tournamentName": "Newmarket",
             "elo": {
                 "pregame": {
-                    "opp": 1509.5059575542887,
-                    "elo": 1611.7432545908498,
-                    "probability": 0.6331010186905667
+                    "opp": 1593.244375295581,
+                    "elo": 1644.7790157032748,
+                    "probability": 0.5621634443100341
                 }
             }
         },
         {
-            "id": "richmond_hill_ringette_u14a_8",
-            "tournament": "richmond_hill_ringette",
+            "id": "newmarket_ringette_u14a_13",
+            "tournament": "newmarket_ringette",
             "type": "RR",
-            "date": "Sat Feb 1",
-            "time": "8:15A",
-            "visitor": "Metcalfe",
+            "date": "Fri Feb 14",
+            "time": "6:45P",
+            "visitor": "Sault Ste Marie",
             "visitorScore": "0",
             "home": "Markham - A",
             "homeScore": "0",
             "status": "",
-            "isoDate": 1580526900000,
-            "tournamentName": "Richmond Hill",
+            "isoDate": 1581687900000,
+            "tournamentName": "Newmarket",
             "elo": {
                 "pregame": {
-                    "opp": 1557.406758713061,
-                    "elo": 1611.7432545908498,
-                    "probability": 0.5661798584359101
+                    "opp": 1566.7751075558403,
+                    "elo": 1644.7790157032748,
+                    "probability": 0.5997114076705591
                 }
             }
         },
         {
-            "id": "richmond_hill_ringette_u14a_11",
-            "tournament": "richmond_hill_ringette",
+            "id": "newmarket_ringette_u14a_19",
+            "tournament": "newmarket_ringette",
             "type": "RR",
-            "date": "Sat Feb 1",
-            "time": "12:50P",
+            "date": "Sat Feb 15",
+            "time": "12:15P",
             "visitor": "Markham - A",
             "visitorScore": "0",
-            "home": "London",
+            "home": "Waterloo",
             "homeScore": "0",
             "status": "",
-            "isoDate": 1580543400000,
-            "tournamentName": "Richmond Hill",
+            "isoDate": 1581750900000,
+            "tournamentName": "Newmarket",
             "elo": {
                 "pregame": {
-                    "opp": 1486.6560277714414,
-                    "elo": 1611.7432545908498,
-                    "probability": 0.6634615583891521
+                    "opp": 1475.1979936254565,
+                    "elo": 1644.7790157032748,
+                    "probability": 0.7187273022403861
+                }
+            }
+        },
+        {
+            "id": "newmarket_ringette_u14a_24",
+            "tournament": "newmarket_ringette",
+            "type": "RR",
+            "date": "Sat Feb 15",
+            "time": "5:15P",
+            "visitor": "Markham - A",
+            "visitorScore": "0",
+            "home": "Kitchener",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581768900000,
+            "tournamentName": "Newmarket",
+            "elo": {
+                "pregame": {
+                    "opp": 1489.3635376771413,
+                    "elo": 1644.7790157032748,
+                    "probability": 0.701734738392924
                 }
             }
         }
@@ -385,18 +406,122 @@
                 }
             },
             "record": "10 - 1 - 1"
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_5",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "3:10P",
+            "visitor": "Guelph",
+            "visitorScore": "1",
+            "home": "Markham - A",
+            "homeScore": "2",
+            "status": "Official",
+            "isoDate": 1580465400000,
+            "tournamentName": "Richmond Hill",
+            "elo": {
+                "pregame": {
+                    "opp": 1511.6979997398237,
+                    "elo": 1611.7432545908498,
+                    "probability": 0.6301275017659708
+                },
+                "postgame": {
+                    "opp": 1500.1820001840524,
+                    "elo": 1623.259254146621
+                }
+            },
+            "record": "11 - 1 - 1"
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_8",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "8:15A",
+            "visitor": "Metcalfe",
+            "visitorScore": "2",
+            "home": "Markham - A",
+            "homeScore": "2",
+            "status": "Official",
+            "isoDate": 1580526900000,
+            "tournamentName": "Richmond Hill",
+            "elo": {
+                "pregame": {
+                    "opp": 1564.8160688334851,
+                    "elo": 1623.259254146621,
+                    "probability": 0.5720509147415958
+                },
+                "postgame": {
+                    "opp": 1567.482376022335,
+                    "elo": 1620.5929469577711
+                }
+            },
+            "record": "11 - 1 - 2"
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_11",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "12:50P",
+            "visitor": "Markham - A",
+            "visitorScore": "5",
+            "home": "London",
+            "homeScore": "1",
+            "status": "Official",
+            "isoDate": 1580543400000,
+            "tournamentName": "Richmond Hill",
+            "elo": {
+                "pregame": {
+                    "opp": 1499.1850822477234,
+                    "elo": 1620.5929469577711,
+                    "probability": 0.6586553755450539
+                },
+                "postgame": {
+                    "opp": 1488.5591421971308,
+                    "elo": 1631.2188870083637
+                }
+            },
+            "record": "12 - 1 - 2"
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_16",
+            "tournament": "richmond_hill_ringette",
+            "type": "GS",
+            "date": "Sun Feb 2",
+            "time": "1:30P",
+            "visitor": "Metcalfe",
+            "visitorScore": "3",
+            "home": "Markham - A",
+            "homeScore": "5",
+            "status": "Official",
+            "isoDate": 1580632200000,
+            "tournamentName": "Richmond Hill",
+            "elo": {
+                "pregame": {
+                    "opp": 1577.8212572433965,
+                    "elo": 1631.2188870083637,
+                    "probability": 0.5648349503357795
+                },
+                "postgame": {
+                    "opp": 1564.2611285484854,
+                    "elo": 1644.7790157032748
+                }
+            },
+            "record": "13 - 1 - 2"
         }
     ],
-    "pct": 0.95,
-    "points": 19,
-    "games": 12,
+    "pct": 0.9230769230769231,
+    "points": 24,
+    "games": 16,
     "opponentRecord": {
-        "w": 84,
-        "l": 73,
-        "t": 4,
-        "g": 161
+        "w": 134,
+        "l": 109,
+        "t": 23,
+        "g": 266
     },
-    "strengthOfSchedule": 0.5359170903881298,
-    "record": "10 - 1 - 1",
+    "strengthOfSchedule": 0.5398899646376214,
+    "record": "13 - 1 - 2",
     "image": "Markham.png"
 }

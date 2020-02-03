@@ -5,10 +5,10 @@
     "date": "Sat Feb 1",
     "time": "5:00P",
     "visitor": "London",
-    "visitorScore": "0",
+    "visitorScore": "3",
     "home": "Metcalfe",
-    "homeScore": "0",
-    "status": "",
+    "homeScore": "3",
+    "status": "Official",
     "isoDate": 1580558400000,
     "tournamentName": "Richmond Hill"
 }

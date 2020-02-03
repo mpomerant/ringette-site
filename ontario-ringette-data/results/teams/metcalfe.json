@@ -1,99 +1,14 @@
 {
     "name": "Metcalfe",
-    "win": 10,
-    "loss": 5,
-    "tie": 2,
-    "for": 71,
-    "officialWin": 9,
+    "win": 12,
+    "loss": 6,
+    "tie": 5,
+    "for": 94,
+    "officialWin": 10,
     "officialLoss": 2,
-    "against": 42,
-    "elo": 1557.406758713061,
-    "upcoming": [
-        {
-            "id": "richmond_hill_ringette_u14a_3",
-            "tournament": "richmond_hill_ringette",
-            "type": "RR",
-            "date": "Fri Jan 31",
-            "time": "10:30A",
-            "visitor": "Guelph",
-            "visitorScore": "0",
-            "home": "Metcalfe",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580448600000,
-            "tournamentName": "Richmond Hill",
-            "elo": {
-                "pregame": {
-                    "opp": 1509.5059575542887,
-                    "elo": 1557.406758713061,
-                    "probability": 0.5569423090631772
-                }
-            }
-        },
-        {
-            "id": "richmond_hill_ringette_u14a_6",
-            "tournament": "richmond_hill_ringette",
-            "type": "RR",
-            "date": "Fri Jan 31",
-            "time": "3:10P",
-            "visitor": "Metcalfe",
-            "visitorScore": "0",
-            "home": "Barrie",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580465400000,
-            "tournamentName": "Richmond Hill",
-            "elo": {
-                "pregame": {
-                    "opp": 1421.0741687472764,
-                    "elo": 1557.406758713061,
-                    "probability": 0.6779395796220976
-                }
-            }
-        },
-        {
-            "id": "richmond_hill_ringette_u14a_8",
-            "tournament": "richmond_hill_ringette",
-            "type": "RR",
-            "date": "Sat Feb 1",
-            "time": "8:15A",
-            "visitor": "Metcalfe",
-            "visitorScore": "0",
-            "home": "Markham - A",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580526900000,
-            "tournamentName": "Richmond Hill",
-            "elo": {
-                "pregame": {
-                    "opp": 1611.7432545908498,
-                    "elo": 1557.406758713061,
-                    "probability": 0.4338201415640899
-                }
-            }
-        },
-        {
-            "id": "richmond_hill_ringette_u14a_13",
-            "tournament": "richmond_hill_ringette",
-            "type": "RR",
-            "date": "Sat Feb 1",
-            "time": "5:00P",
-            "visitor": "London",
-            "visitorScore": "0",
-            "home": "Metcalfe",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580558400000,
-            "tournamentName": "Richmond Hill",
-            "elo": {
-                "pregame": {
-                    "opp": 1486.6560277714414,
-                    "elo": 1557.406758713061,
-                    "probability": 0.5895188678828656
-                }
-            }
-        }
-    ],
+    "against": 62,
+    "elo": 1564.2611285484854,
+    "upcoming": [],
     "results": [
         {
             "id": "nepean_ringette_u14a_1",
@@ -536,18 +451,174 @@
                 }
             },
             "record": "10 - 5 - 2"
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_3",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "10:30A",
+            "visitor": "Guelph",
+            "visitorScore": "5",
+            "home": "Metcalfe",
+            "homeScore": "5",
+            "status": "Official",
+            "isoDate": 1580448600000,
+            "tournamentName": "Richmond Hill",
+            "elo": {
+                "pregame": {
+                    "opp": 1509.5059575542887,
+                    "elo": 1557.406758713061,
+                    "probability": 0.5569423090631772
+                },
+                "postgame": {
+                    "opp": 1511.6979997398237,
+                    "elo": 1555.214716527526
+                }
+            },
+            "record": "10 - 5 - 3"
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_6",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "3:10P",
+            "visitor": "Metcalfe",
+            "visitorScore": "5",
+            "home": "Barrie",
+            "homeScore": "2",
+            "status": "Official",
+            "isoDate": 1580465400000,
+            "tournamentName": "Richmond Hill",
+            "elo": {
+                "pregame": {
+                    "opp": 1408.0589592776441,
+                    "elo": 1555.214716527526,
+                    "probability": 0.6915590368204267
+                },
+                "postgame": {
+                    "opp": 1398.457606971685,
+                    "elo": 1564.8160688334851
+                }
+            },
+            "record": "11 - 5 - 3"
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_8",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "8:15A",
+            "visitor": "Metcalfe",
+            "visitorScore": "2",
+            "home": "Markham - A",
+            "homeScore": "2",
+            "status": "Official",
+            "isoDate": 1580526900000,
+            "tournamentName": "Richmond Hill",
+            "elo": {
+                "pregame": {
+                    "opp": 1623.259254146621,
+                    "elo": 1564.8160688334851,
+                    "probability": 0.42794908525840425
+                },
+                "postgame": {
+                    "opp": 1620.5929469577711,
+                    "elo": 1567.482376022335
+                }
+            },
+            "record": "11 - 5 - 4"
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_13",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "5:00P",
+            "visitor": "London",
+            "visitorScore": "3",
+            "home": "Metcalfe",
+            "homeScore": "3",
+            "status": "Official",
+            "isoDate": 1580558400000,
+            "tournamentName": "Richmond Hill",
+            "elo": {
+                "pregame": {
+                    "opp": 1488.5591421971308,
+                    "elo": 1567.482376022335,
+                    "probability": 0.6009973467543317
+                },
+                "postgame": {
+                    "opp": 1492.132439499934,
+                    "elo": 1563.9090787195319
+                }
+            },
+            "record": "11 - 5 - 5"
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_15",
+            "tournament": "richmond_hill_ringette",
+            "type": "S1",
+            "date": "Sun Feb 2",
+            "time": "8:00A",
+            "visitor": "Metcalfe",
+            "visitorScore": "5",
+            "home": "West Ottawa - F",
+            "homeScore": "3",
+            "status": "Official",
+            "isoDate": 1580612400000,
+            "tournamentName": "Richmond Hill",
+            "elo": {
+                "pregame": {
+                    "opp": 1518.3126303363101,
+                    "elo": 1563.9090787195319,
+                    "probability": 0.5536247869158827
+                },
+                "postgame": {
+                    "opp": 1504.4004518124455,
+                    "elo": 1577.8212572433965
+                }
+            },
+            "record": "12 - 5 - 5"
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_16",
+            "tournament": "richmond_hill_ringette",
+            "type": "GS",
+            "date": "Sun Feb 2",
+            "time": "1:30P",
+            "visitor": "Metcalfe",
+            "visitorScore": "3",
+            "home": "Markham - A",
+            "homeScore": "5",
+            "status": "Official",
+            "isoDate": 1580632200000,
+            "tournamentName": "Richmond Hill",
+            "elo": {
+                "pregame": {
+                    "opp": 1631.2188870083637,
+                    "elo": 1577.8212572433965,
+                    "probability": 0.43516504966422054
+                },
+                "postgame": {
+                    "opp": 1644.7790157032748,
+                    "elo": 1564.2611285484854
+                }
+            },
+            "record": "12 - 6 - 5"
         }
     ],
-    "pct": 0.7692307692307693,
-    "points": 20,
-    "games": 17,
+    "pct": 0.7352941176470589,
+    "points": 25,
+    "games": 23,
     "opponentRecord": {
-        "w": 93,
-        "l": 101,
-        "t": 11,
-        "g": 205
+        "w": 153,
+        "l": 153,
+        "t": 25,
+        "g": 331
     },
-    "strengthOfSchedule": 0.49714164092996294,
-    "record": "10 - 5 - 2",
+    "strengthOfSchedule": 0.5095664057646913,
+    "record": "12 - 6 - 5",
     "image": "Metcalfe.png"
 }

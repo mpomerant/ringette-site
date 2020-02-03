@@ -1,99 +1,14 @@
 {
     "name": "Barrie",
     "win": 3,
-    "loss": 9,
+    "loss": 13,
     "tie": 0,
-    "for": 32,
+    "for": 37,
     "officialWin": 3,
-    "officialLoss": 9,
-    "against": 68,
-    "elo": 1421.0741687472764,
-    "upcoming": [
-        {
-            "id": "richmond_hill_ringette_u14a_2",
-            "tournament": "richmond_hill_ringette",
-            "type": "RR",
-            "date": "Fri Jan 31",
-            "time": "10:00A",
-            "visitor": "Barrie",
-            "visitorScore": "0",
-            "home": "London",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580446800000,
-            "tournamentName": "Richmond Hill",
-            "elo": {
-                "pregame": {
-                    "opp": 1486.6560277714414,
-                    "elo": 1421.0741687472764,
-                    "probability": 0.41779244587872344
-                }
-            }
-        },
-        {
-            "id": "richmond_hill_ringette_u14a_6",
-            "tournament": "richmond_hill_ringette",
-            "type": "RR",
-            "date": "Fri Jan 31",
-            "time": "3:10P",
-            "visitor": "Metcalfe",
-            "visitorScore": "0",
-            "home": "Barrie",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580465400000,
-            "tournamentName": "Richmond Hill",
-            "elo": {
-                "pregame": {
-                    "opp": 1557.406758713061,
-                    "elo": 1421.0741687472764,
-                    "probability": 0.3220604203779024
-                }
-            }
-        },
-        {
-            "id": "richmond_hill_ringette_u14a_10",
-            "tournament": "richmond_hill_ringette",
-            "type": "RR",
-            "date": "Sat Feb 1",
-            "time": "9:30A",
-            "visitor": "Barrie",
-            "visitorScore": "0",
-            "home": "West Ottawa - F",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580531400000,
-            "tournamentName": "Richmond Hill",
-            "elo": {
-                "pregame": {
-                    "opp": 1502.7291921523963,
-                    "elo": 1421.0741687472764,
-                    "probability": 0.39518973965511406
-                }
-            }
-        },
-        {
-            "id": "richmond_hill_ringette_u14a_12",
-            "tournament": "richmond_hill_ringette",
-            "type": "RR",
-            "date": "Sat Feb 1",
-            "time": "4:55P",
-            "visitor": "Richmond Hill",
-            "visitorScore": "0",
-            "home": "Barrie",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580558100000,
-            "tournamentName": "Richmond Hill",
-            "elo": {
-                "pregame": {
-                    "opp": 1554.8425856263245,
-                    "elo": 1421.0741687472764,
-                    "probability": 0.32533302024833277
-                }
-            }
-        }
-    ],
+    "officialLoss": 13,
+    "against": 83,
+    "elo": 1377.5536387617515,
+    "upcoming": [],
     "results": [
         {
             "id": "oshawa_ringette_u14a_1",
@@ -406,18 +321,122 @@
                 }
             },
             "record": "3 - 9 - 0"
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_2",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "10:00A",
+            "visitor": "Barrie",
+            "visitorScore": "2",
+            "home": "London",
+            "homeScore": "5",
+            "status": "Official",
+            "isoDate": 1580446800000,
+            "tournamentName": "Richmond Hill",
+            "elo": {
+                "pregame": {
+                    "opp": 1486.6560277714414,
+                    "elo": 1421.0741687472764,
+                    "probability": 0.41779244587872344
+                },
+                "postgame": {
+                    "opp": 1499.6712372410736,
+                    "elo": 1408.0589592776441
+                }
+            },
+            "record": "3 - 10 - 0"
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_6",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "3:10P",
+            "visitor": "Metcalfe",
+            "visitorScore": "5",
+            "home": "Barrie",
+            "homeScore": "2",
+            "status": "Official",
+            "isoDate": 1580465400000,
+            "tournamentName": "Richmond Hill",
+            "elo": {
+                "pregame": {
+                    "opp": 1555.214716527526,
+                    "elo": 1408.0589592776441,
+                    "probability": 0.30844096317957326
+                },
+                "postgame": {
+                    "opp": 1564.8160688334851,
+                    "elo": 1398.457606971685
+                }
+            },
+            "record": "3 - 11 - 0"
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_10",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "9:30A",
+            "visitor": "Barrie",
+            "visitorScore": "0",
+            "home": "West Ottawa - F",
+            "homeScore": "2",
+            "status": "Official",
+            "isoDate": 1580531400000,
+            "tournamentName": "Richmond Hill",
+            "elo": {
+                "pregame": {
+                    "opp": 1489.5974201276442,
+                    "elo": 1398.457606971685,
+                    "probability": 0.3820525845138083
+                },
+                "postgame": {
+                    "opp": 1501.493970592007,
+                    "elo": 1386.5610565073223
+                }
+            },
+            "record": "3 - 12 - 0"
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_12",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "4:55P",
+            "visitor": "Richmond Hill",
+            "visitorScore": "3",
+            "home": "Barrie",
+            "homeScore": "1",
+            "status": "Official",
+            "isoDate": 1580558100000,
+            "tournamentName": "Richmond Hill",
+            "elo": {
+                "pregame": {
+                    "opp": 1549.3560340755382,
+                    "elo": 1386.5610565073223,
+                    "probability": 0.28933936859302634
+                },
+                "postgame": {
+                    "opp": 1558.363451821109,
+                    "elo": 1377.5536387617515
+                }
+            },
+            "record": "3 - 13 - 0"
         }
     ],
-    "pct": 0.25,
+    "pct": 0.1875,
     "points": 6,
-    "games": 12,
+    "games": 16,
     "opponentRecord": {
-        "w": 72,
-        "l": 67,
-        "t": 3,
-        "g": 142
+        "w": 124,
+        "l": 105,
+        "t": 16,
+        "g": 245
     },
-    "strengthOfSchedule": 0.5229203503851391,
-    "record": "3 - 9 - 0",
+    "strengthOfSchedule": 0.5324961571806205,
+    "record": "3 - 13 - 0",
     "image": "Barrie.png"
 }

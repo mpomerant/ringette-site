@@ -1,95 +1,95 @@
 {
     "name": "Upper Ottawa Valley",
-    "win": 1,
-    "loss": 7,
-    "tie": 0,
-    "for": 23,
-    "officialWin": 1,
-    "officialLoss": 7,
-    "against": 46,
-    "elo": 1427.4227472937864,
+    "win": 3,
+    "loss": 9,
+    "tie": 1,
+    "for": 40,
+    "officialWin": 3,
+    "officialLoss": 8,
+    "against": 59,
+    "elo": 1437.6873344733328,
     "upcoming": [
         {
-            "id": "gloucester_cumberland_u14a_4",
-            "tournament": "gloucester_cumberland",
+            "id": "newmarket_ringette_u14a_2",
+            "tournament": "newmarket_ringette",
             "type": "RR",
-            "date": "Fri Jan 31",
+            "date": "Fri Feb 14",
             "time": "9:30A",
-            "visitor": "Nova Scotia",
+            "visitor": "St. Marys",
             "visitorScore": "0",
             "home": "Upper Ottawa Valley",
             "homeScore": "0",
             "status": "",
-            "isoDate": 1580445000000,
-            "tournamentName": "Gloucester Cumberland",
+            "isoDate": 1581654600000,
+            "tournamentName": "Newmarket",
             "elo": {
                 "pregame": {
-                    "opp": 1500,
-                    "elo": 1427.4227472937864,
-                    "probability": 0.4079067890618133
+                    "opp": 1494.1311717665844,
+                    "elo": 1437.6873344733328,
+                    "probability": 0.43080498993898253
                 }
             }
         },
         {
-            "id": "gloucester_cumberland_u14a_6",
-            "tournament": "gloucester_cumberland",
+            "id": "newmarket_ringette_u14a_12",
+            "tournament": "newmarket_ringette",
             "type": "RR",
-            "date": "Fri Jan 31",
-            "time": "1:45P",
-            "visitor": "Upper Ottawa Valley",
-            "visitorScore": "0",
-            "home": "Nepean",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580460300000,
-            "tournamentName": "Gloucester Cumberland",
-            "elo": {
-                "pregame": {
-                    "opp": 1490.2530923118477,
-                    "elo": 1427.4227472937864,
-                    "probability": 0.42169943738342264
-                }
-            }
-        },
-        {
-            "id": "gloucester_cumberland_u14a_9",
-            "tournament": "gloucester_cumberland",
-            "type": "RR",
-            "date": "Sat Feb 1",
-            "time": "9:30A",
-            "visitor": "Upper Ottawa Valley",
-            "visitorScore": "0",
-            "home": "City of Ottawa",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580531400000,
-            "tournamentName": "Gloucester Cumberland",
-            "elo": {
-                "pregame": {
-                    "opp": 1451.0983225386663,
-                    "elo": 1427.4227472937864,
-                    "probability": 0.4781318087833095
-                }
-            }
-        },
-        {
-            "id": "gloucester_cumberland_u14a_13",
-            "tournament": "gloucester_cumberland",
-            "type": "RR",
-            "date": "Sat Feb 1",
-            "time": "4:30P",
-            "visitor": "Gloucester Cumberland - D",
+            "date": "Fri Feb 14",
+            "time": "6:15P",
+            "visitor": "Waterloo",
             "visitorScore": "0",
             "home": "Upper Ottawa Valley",
             "homeScore": "0",
             "status": "",
-            "isoDate": 1580556600000,
-            "tournamentName": "Gloucester Cumberland",
+            "isoDate": 1581686100000,
+            "tournamentName": "Newmarket",
             "elo": {
                 "pregame": {
-                    "opp": 1434.4688567575197,
-                    "elo": 1427.4227472937864,
-                    "probability": 0.5023552780356897
+                    "opp": 1475.1979936254565,
+                    "elo": 1437.6873344733328,
+                    "probability": 0.4580520492095541
+                }
+            }
+        },
+        {
+            "id": "newmarket_ringette_u14a_18",
+            "tournament": "newmarket_ringette",
+            "type": "RR",
+            "date": "Sat Feb 15",
+            "time": "11:15A",
+            "visitor": "Upper Ottawa Valley",
+            "visitorScore": "0",
+            "home": "London",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581747300000,
+            "tournamentName": "Newmarket",
+            "elo": {
+                "pregame": {
+                    "opp": 1492.132439499934,
+                    "elo": 1437.6873344733328,
+                    "probability": 0.4336646234865449
+                }
+            }
+        },
+        {
+            "id": "newmarket_ringette_u14a_25",
+            "tournament": "newmarket_ringette",
+            "type": "RR",
+            "date": "Sat Feb 15",
+            "time": "6:00P",
+            "visitor": "Upper Ottawa Valley",
+            "visitorScore": "0",
+            "home": "Sault Ste Marie",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581771600000,
+            "tournamentName": "Newmarket",
+            "elo": {
+                "pregame": {
+                    "opp": 1566.7751075558403,
+                    "elo": 1437.6873344733328,
+                    "probability": 0.33135084606394094
                 }
             }
         }
@@ -302,18 +302,148 @@
                 }
             },
             "record": "1 - 7 - 0"
+        },
+        {
+            "id": "gloucester_cumberland_u14a_4",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "9:30A",
+            "visitor": "Nova Scotia",
+            "visitorScore": "4",
+            "home": "Upper Ottawa Valley",
+            "homeScore": "1",
+            "status": "Official",
+            "isoDate": 1580445000000,
+            "tournamentName": "Gloucester Cumberland",
+            "elo": {
+                "pregame": {
+                    "opp": 1500,
+                    "elo": 1427.4227472937864,
+                    "probability": 0.4079067890618133
+                },
+                "postgame": {
+                    "opp": 1512.7054759465063,
+                    "elo": 1414.71727134728
+                }
+            },
+            "record": "1 - 8 - 0"
+        },
+        {
+            "id": "gloucester_cumberland_u14a_6",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "1:45P",
+            "visitor": "Upper Ottawa Valley",
+            "visitorScore": "4",
+            "home": "Nepean",
+            "homeScore": "2",
+            "status": "Official",
+            "isoDate": 1580460300000,
+            "tournamentName": "Gloucester Cumberland",
+            "elo": {
+                "pregame": {
+                    "opp": 1490.2530923118477,
+                    "elo": 1414.71727134728,
+                    "probability": 0.40374767243285314
+                },
+                "postgame": {
+                    "opp": 1470.8283292685674,
+                    "elo": 1434.1420343905604
+                }
+            },
+            "record": "2 - 8 - 0"
+        },
+        {
+            "id": "gloucester_cumberland_u14a_9",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "9:30A",
+            "visitor": "Upper Ottawa Valley",
+            "visitorScore": "1",
+            "home": "City of Ottawa",
+            "homeScore": "1",
+            "status": "Official",
+            "isoDate": 1580531400000,
+            "tournamentName": "Gloucester Cumberland",
+            "elo": {
+                "pregame": {
+                    "opp": 1441.5497168803474,
+                    "elo": 1434.1420343905604,
+                    "probability": 0.5018282946225773
+                },
+                "postgame": {
+                    "opp": 1441.2086321774068,
+                    "elo": 1434.483119093501
+                }
+            },
+            "record": "2 - 8 - 1"
+        },
+        {
+            "id": "gloucester_cumberland_u14a_13",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "4:30P",
+            "visitor": "Gloucester Cumberland - D",
+            "visitorScore": "1",
+            "home": "Upper Ottawa Valley",
+            "homeScore": "7",
+            "status": "Official",
+            "isoDate": 1580556600000,
+            "tournamentName": "Gloucester Cumberland",
+            "elo": {
+                "pregame": {
+                    "opp": 1413.3183502534457,
+                    "elo": 1434.483119093501,
+                    "probability": 0.5182145867295613
+                },
+                "postgame": {
+                    "opp": 1398.2918200283182,
+                    "elo": 1449.5096493186286
+                }
+            },
+            "record": "3 - 8 - 1"
+        },
+        {
+            "id": "gloucester_cumberland_u14a_15",
+            "tournament": "gloucester_cumberland",
+            "type": "S1",
+            "date": "Sun Feb 2",
+            "time": "9:15A",
+            "visitor": "Upper Ottawa Valley",
+            "visitorScore": "4",
+            "home": "Nova Scotia",
+            "homeScore": "5",
+            "status": "Official",
+            "isoDate": 1580616900000,
+            "tournamentName": "Gloucester Cumberland",
+            "elo": {
+                "pregame": {
+                    "opp": 1542.3771773673989,
+                    "elo": 1449.5096493186286,
+                    "probability": 0.37967740753259305
+                },
+                "postgame": {
+                    "opp": 1554.1994922126946,
+                    "elo": 1437.6873344733328
+                }
+            },
+            "record": "3 - 9 - 1"
         }
     ],
-    "pct": 0.125,
-    "points": 2,
-    "games": 8,
+    "pct": 0.2916666666666667,
+    "points": 7,
+    "games": 13,
     "opponentRecord": {
-        "w": 61,
-        "l": 46,
-        "t": 3,
-        "g": 110
+        "w": 90,
+        "l": 93,
+        "t": 7,
+        "g": 190
     },
-    "strengthOfSchedule": 0.5552798729654626,
-    "record": "1 - 7 - 0",
+    "strengthOfSchedule": 0.5035325119293498,
+    "record": "3 - 9 - 1",
     "image": "Upper Ottawa Valley.png"
 }

@@ -1,98 +1,14 @@
 {
     "name": "Guelph",
-    "win": 5,
-    "loss": 4,
-    "tie": 0,
-    "for": 36,
-    "officialWin": 5,
-    "officialLoss": 3,
-    "against": 29,
-    "elo": 1509.5059575542887,
+    "win": 6,
+    "loss": 6,
+    "tie": 1,
+    "for": 45,
+    "officialWin": 6,
+    "officialLoss": 5,
+    "against": 39,
+    "elo": 1502.467819008638,
     "upcoming": [
-        {
-            "id": "richmond_hill_ringette_u14a_3",
-            "tournament": "richmond_hill_ringette",
-            "type": "RR",
-            "date": "Fri Jan 31",
-            "time": "10:30A",
-            "visitor": "Guelph",
-            "visitorScore": "0",
-            "home": "Metcalfe",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580448600000,
-            "tournamentName": "Richmond Hill",
-            "elo": {
-                "pregame": {
-                    "opp": 1557.406758713061,
-                    "elo": 1509.5059575542887,
-                    "probability": 0.4430576909368228
-                }
-            }
-        },
-        {
-            "id": "richmond_hill_ringette_u14a_5",
-            "tournament": "richmond_hill_ringette",
-            "type": "RR",
-            "date": "Fri Jan 31",
-            "time": "3:10P",
-            "visitor": "Guelph",
-            "visitorScore": "0",
-            "home": "Markham - A",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580465400000,
-            "tournamentName": "Richmond Hill",
-            "elo": {
-                "pregame": {
-                    "opp": 1611.7432545908498,
-                    "elo": 1509.5059575542887,
-                    "probability": 0.3668989813094333
-                }
-            }
-        },
-        {
-            "id": "richmond_hill_ringette_u14a_9",
-            "tournament": "richmond_hill_ringette",
-            "type": "RR",
-            "date": "Sat Feb 1",
-            "time": "9:20A",
-            "visitor": "Richmond Hill",
-            "visitorScore": "0",
-            "home": "Guelph",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580530800000,
-            "tournamentName": "Richmond Hill",
-            "elo": {
-                "pregame": {
-                    "opp": 1554.8425856263245,
-                    "elo": 1509.5059575542887,
-                    "probability": 0.44674957567595586
-                }
-            }
-        },
-        {
-            "id": "richmond_hill_ringette_u14a_14",
-            "tournament": "richmond_hill_ringette",
-            "type": "RR",
-            "date": "Sat Feb 1",
-            "time": "5:55P",
-            "visitor": "West Ottawa - F",
-            "visitorScore": "0",
-            "home": "Guelph",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580561700000,
-            "tournamentName": "Richmond Hill",
-            "elo": {
-                "pregame": {
-                    "opp": 1502.7291921523963,
-                    "elo": 1509.5059575542887,
-                    "probability": 0.4972521632375396
-                }
-            }
-        },
         {
             "id": "guelph_ringette_u14a_1",
             "tournament": "guelph_ringette",
@@ -109,8 +25,8 @@
             "elo": {
                 "pregame": {
                     "opp": 1390.3897032828734,
-                    "elo": 1509.5059575542887,
-                    "probability": 0.6556453116749563
+                    "elo": 1502.467819008638,
+                    "probability": 0.6463230235664723
                 }
             }
         },
@@ -130,8 +46,8 @@
             "elo": {
                 "pregame": {
                     "opp": 1494.1311717665844,
-                    "elo": 1509.5059575542887,
-                    "probability": 0.5097825017862707
+                    "elo": 1502.467819008638,
+                    "probability": 0.49952566349759087
                 }
             }
         },
@@ -151,8 +67,8 @@
             "elo": {
                 "pregame": {
                     "opp": 1390.1715898176503,
-                    "elo": 1509.5059575542887,
-                    "probability": 0.6559323500663412
+                    "elo": 1502.467819008638,
+                    "probability": 0.6466136442972273
                 }
             }
         },
@@ -172,8 +88,8 @@
             "elo": {
                 "pregame": {
                     "opp": 1502.3006627278403,
-                    "elo": 1509.5059575542887,
-                    "probability": 0.49787672997273524
+                    "elo": 1502.467819008638,
+                    "probability": 0.48762116038286063
                 }
             }
         }
@@ -412,18 +328,122 @@
                 }
             },
             "record": "5 - 4 - 0"
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_3",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "10:30A",
+            "visitor": "Guelph",
+            "visitorScore": "5",
+            "home": "Metcalfe",
+            "homeScore": "5",
+            "status": "Official",
+            "isoDate": 1580448600000,
+            "tournamentName": "Richmond Hill",
+            "elo": {
+                "pregame": {
+                    "opp": 1557.406758713061,
+                    "elo": 1509.5059575542887,
+                    "probability": 0.4430576909368228
+                },
+                "postgame": {
+                    "opp": 1555.214716527526,
+                    "elo": 1511.6979997398237
+                }
+            },
+            "record": "5 - 4 - 1"
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_5",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "3:10P",
+            "visitor": "Guelph",
+            "visitorScore": "1",
+            "home": "Markham - A",
+            "homeScore": "2",
+            "status": "Official",
+            "isoDate": 1580465400000,
+            "tournamentName": "Richmond Hill",
+            "elo": {
+                "pregame": {
+                    "opp": 1611.7432545908498,
+                    "elo": 1511.6979997398237,
+                    "probability": 0.36987249823402923
+                },
+                "postgame": {
+                    "opp": 1623.259254146621,
+                    "elo": 1500.1820001840524
+                }
+            },
+            "record": "5 - 5 - 1"
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_9",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "9:20A",
+            "visitor": "Richmond Hill",
+            "visitorScore": "2",
+            "home": "Guelph",
+            "homeScore": "3",
+            "status": "Official",
+            "isoDate": 1580530800000,
+            "tournamentName": "Richmond Hill",
+            "elo": {
+                "pregame": {
+                    "opp": 1568.460512644427,
+                    "elo": 1500.1820001840524,
+                    "probability": 0.413973335187358
+                },
+                "postgame": {
+                    "opp": 1549.3560340755382,
+                    "elo": 1519.286478752941
+                }
+            },
+            "record": "6 - 5 - 1"
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_14",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "5:55P",
+            "visitor": "West Ottawa - F",
+            "visitorScore": "1",
+            "home": "Guelph",
+            "homeScore": "0",
+            "status": "Official",
+            "isoDate": 1580561700000,
+            "tournamentName": "Richmond Hill",
+            "elo": {
+                "pregame": {
+                    "opp": 1501.493970592007,
+                    "elo": 1519.286478752941,
+                    "probability": 0.5133044393184911
+                },
+                "postgame": {
+                    "opp": 1518.3126303363101,
+                    "elo": 1502.467819008638
+                }
+            },
+            "record": "6 - 6 - 1"
         }
     ],
-    "pct": 0.625,
-    "points": 10,
-    "games": 9,
+    "pct": 0.5416666666666666,
+    "points": 13,
+    "games": 13,
     "opponentRecord": {
-        "w": 51,
-        "l": 54,
-        "t": 4,
-        "g": 109
+        "w": 103,
+        "l": 87,
+        "t": 13,
+        "g": 203
     },
-    "strengthOfSchedule": 0.504371890298842,
-    "record": "5 - 4 - 0",
+    "strengthOfSchedule": 0.5363209786701165,
+    "record": "6 - 6 - 1",
     "image": "Guelph.png"
 }

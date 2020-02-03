@@ -5,10 +5,10 @@
     "date": "Fri Jan 31",
     "time": "10:30A",
     "visitor": "Guelph",
-    "visitorScore": "0",
+    "visitorScore": "5",
     "home": "Metcalfe",
-    "homeScore": "0",
-    "status": "",
+    "homeScore": "5",
+    "status": "Official",
     "isoDate": 1580448600000,
     "tournamentName": "Richmond Hill"
 }

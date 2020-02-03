@@ -4,11 +4,11 @@
     "type": "S1",
     "date": "Sun Feb 2",
     "time": "9:15A",
-    "visitor": "Not Available",
-    "visitorScore": "0",
-    "home": "Not Available",
-    "homeScore": "0",
-    "status": "",
+    "visitor": "Upper Ottawa Valley",
+    "visitorScore": "4",
+    "home": "Nova Scotia",
+    "homeScore": "5",
+    "status": "Official",
     "isoDate": 1580616900000,
     "tournamentName": "Gloucester Cumberland"
 }

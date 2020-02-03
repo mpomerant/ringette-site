@@ -1,95 +1,95 @@
 {
     "name": "West Ottawa - F",
-    "win": 7,
-    "loss": 6,
-    "tie": 0,
-    "for": 38,
-    "officialWin": 7,
-    "officialLoss": 5,
-    "against": 34,
-    "elo": 1502.7291921523963,
+    "win": 9,
+    "loss": 8,
+    "tie": 1,
+    "for": 48,
+    "officialWin": 9,
+    "officialLoss": 6,
+    "against": 46,
+    "elo": 1504.4004518124455,
     "upcoming": [
         {
-            "id": "richmond_hill_ringette_u14a_4",
-            "tournament": "richmond_hill_ringette",
+            "id": "newmarket_ringette_u14a_3",
+            "tournament": "newmarket_ringette",
             "type": "RR",
-            "date": "Fri Jan 31",
-            "time": "11:00A",
+            "date": "Fri Feb 14",
+            "time": "9:45A",
             "visitor": "West Ottawa - F",
             "visitorScore": "0",
-            "home": "Richmond Hill",
+            "home": "Oshawa",
             "homeScore": "0",
             "status": "",
-            "isoDate": 1580450400000,
-            "tournamentName": "Richmond Hill",
+            "isoDate": 1581655500000,
+            "tournamentName": "Newmarket",
             "elo": {
                 "pregame": {
-                    "opp": 1554.8425856263245,
-                    "elo": 1502.7291921523963,
-                    "probability": 0.43700623667219163
+                    "opp": 1355.9488849142128,
+                    "elo": 1504.4004518124455,
+                    "probability": 0.6931681292058558
                 }
             }
         },
         {
-            "id": "richmond_hill_ringette_u14a_7",
-            "tournament": "richmond_hill_ringette",
+            "id": "newmarket_ringette_u14a_11",
+            "tournament": "newmarket_ringette",
             "type": "RR",
-            "date": "Fri Jan 31",
-            "time": "3:35P",
-            "visitor": "London",
+            "date": "Fri Feb 14",
+            "time": "5:45P",
+            "visitor": "Kitchener",
             "visitorScore": "0",
             "home": "West Ottawa - F",
             "homeScore": "0",
             "status": "",
-            "isoDate": 1580466900000,
-            "tournamentName": "Richmond Hill",
+            "isoDate": 1581684300000,
+            "tournamentName": "Newmarket",
             "elo": {
                 "pregame": {
-                    "opp": 1486.6560277714414,
-                    "elo": 1502.7291921523963,
-                    "probability": 0.5107999570189626
+                    "opp": 1489.3635376771413,
+                    "elo": 1504.4004518124455,
+                    "probability": 0.509290233030131
                 }
             }
         },
         {
-            "id": "richmond_hill_ringette_u14a_10",
-            "tournament": "richmond_hill_ringette",
+            "id": "newmarket_ringette_u14a_14",
+            "tournament": "newmarket_ringette",
             "type": "RR",
-            "date": "Sat Feb 1",
-            "time": "9:30A",
-            "visitor": "Barrie",
+            "date": "Sat Feb 15",
+            "time": "9:00A",
+            "visitor": "West Ottawa - F",
+            "visitorScore": "0",
+            "home": "Sudbury",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581739200000,
+            "tournamentName": "Newmarket",
+            "elo": {
+                "pregame": {
+                    "opp": 1356.8440970301292,
+                    "elo": 1504.4004518124455,
+                    "probability": 0.6920569844693382
+                }
+            }
+        },
+        {
+            "id": "newmarket_ringette_u14a_21",
+            "tournament": "newmarket_ringette",
+            "type": "RR",
+            "date": "Sat Feb 15",
+            "time": "4:00P",
+            "visitor": "St. Marys",
             "visitorScore": "0",
             "home": "West Ottawa - F",
             "homeScore": "0",
             "status": "",
-            "isoDate": 1580531400000,
-            "tournamentName": "Richmond Hill",
+            "isoDate": 1581764400000,
+            "tournamentName": "Newmarket",
             "elo": {
                 "pregame": {
-                    "opp": 1421.0741687472764,
-                    "elo": 1502.7291921523963,
-                    "probability": 0.6048102603448859
-                }
-            }
-        },
-        {
-            "id": "richmond_hill_ringette_u14a_14",
-            "tournament": "richmond_hill_ringette",
-            "type": "RR",
-            "date": "Sat Feb 1",
-            "time": "5:55P",
-            "visitor": "West Ottawa - F",
-            "visitorScore": "0",
-            "home": "Guelph",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580561700000,
-            "tournamentName": "Richmond Hill",
-            "elo": {
-                "pregame": {
-                    "opp": 1509.5059575542887,
-                    "elo": 1502.7291921523963,
-                    "probability": 0.5027478367624604
+                    "opp": 1494.1311717665844,
+                    "elo": 1504.4004518124455,
+                    "probability": 0.5023424585288405
                 }
             }
         }
@@ -432,18 +432,148 @@
                 }
             },
             "record": "7 - 6 - 0"
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_4",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "11:00A",
+            "visitor": "West Ottawa - F",
+            "visitorScore": "2",
+            "home": "Richmond Hill",
+            "homeScore": "5",
+            "status": "Official",
+            "isoDate": 1580450400000,
+            "tournamentName": "Richmond Hill",
+            "elo": {
+                "pregame": {
+                    "opp": 1554.8425856263245,
+                    "elo": 1502.7291921523963,
+                    "probability": 0.43700623667219163
+                },
+                "postgame": {
+                    "opp": 1568.460512644427,
+                    "elo": 1489.111265134294
+                }
+            },
+            "record": "7 - 7 - 0"
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_7",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "3:35P",
+            "visitor": "London",
+            "visitorScore": "2",
+            "home": "West Ottawa - F",
+            "homeScore": "2",
+            "status": "Official",
+            "isoDate": 1580466900000,
+            "tournamentName": "Richmond Hill",
+            "elo": {
+                "pregame": {
+                    "opp": 1499.6712372410736,
+                    "elo": 1489.111265134294,
+                    "probability": 0.49723386887488796
+                },
+                "postgame": {
+                    "opp": 1499.1850822477234,
+                    "elo": 1489.5974201276442
+                }
+            },
+            "record": "7 - 7 - 1"
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_10",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "9:30A",
+            "visitor": "Barrie",
+            "visitorScore": "0",
+            "home": "West Ottawa - F",
+            "homeScore": "2",
+            "status": "Official",
+            "isoDate": 1580531400000,
+            "tournamentName": "Richmond Hill",
+            "elo": {
+                "pregame": {
+                    "opp": 1398.457606971685,
+                    "elo": 1489.5974201276442,
+                    "probability": 0.6179474154861917
+                },
+                "postgame": {
+                    "opp": 1386.5610565073223,
+                    "elo": 1501.493970592007
+                }
+            },
+            "record": "8 - 7 - 1"
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_14",
+            "tournament": "richmond_hill_ringette",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "5:55P",
+            "visitor": "West Ottawa - F",
+            "visitorScore": "1",
+            "home": "Guelph",
+            "homeScore": "0",
+            "status": "Official",
+            "isoDate": 1580561700000,
+            "tournamentName": "Richmond Hill",
+            "elo": {
+                "pregame": {
+                    "opp": 1519.286478752941,
+                    "elo": 1501.493970592007,
+                    "probability": 0.4866955606815089
+                },
+                "postgame": {
+                    "opp": 1502.467819008638,
+                    "elo": 1518.3126303363101
+                }
+            },
+            "record": "9 - 7 - 1"
+        },
+        {
+            "id": "richmond_hill_ringette_u14a_15",
+            "tournament": "richmond_hill_ringette",
+            "type": "S1",
+            "date": "Sun Feb 2",
+            "time": "8:00A",
+            "visitor": "Metcalfe",
+            "visitorScore": "5",
+            "home": "West Ottawa - F",
+            "homeScore": "3",
+            "status": "Official",
+            "isoDate": 1580612400000,
+            "tournamentName": "Richmond Hill",
+            "elo": {
+                "pregame": {
+                    "opp": 1563.9090787195319,
+                    "elo": 1518.3126303363101,
+                    "probability": 0.4463752130841173
+                },
+                "postgame": {
+                    "opp": 1577.8212572433965,
+                    "elo": 1504.4004518124455
+                }
+            },
+            "record": "9 - 8 - 1"
         }
     ],
-    "pct": 0.5833333333333334,
-    "points": 14,
-    "games": 13,
+    "pct": 0.59375,
+    "points": 19,
+    "games": 18,
     "opponentRecord": {
-        "w": 64,
-        "l": 78,
-        "t": 6,
-        "g": 148
+        "w": 107,
+        "l": 126,
+        "t": 19,
+        "g": 252
     },
-    "strengthOfSchedule": 0.4812889812889813,
-    "record": "7 - 6 - 0",
+    "strengthOfSchedule": 0.48350034967430516,
+    "record": "9 - 8 - 1",
     "image": "West Ottawa.png"
 }

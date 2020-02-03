@@ -5,10 +5,10 @@
     "date": "Fri Jan 31",
     "time": "1:00P",
     "visitor": "Kitchener",
-    "visitorScore": "0",
+    "visitorScore": "7",
     "home": "Sudbury",
-    "homeScore": "0",
-    "status": "",
+    "homeScore": "3",
+    "status": "Official",
     "isoDate": 1580457600000,
     "tournamentName": "Kitchener"
 }

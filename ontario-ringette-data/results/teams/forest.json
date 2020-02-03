@@ -1,99 +1,14 @@
 {
     "name": "Forest",
-    "win": 15,
+    "win": 20,
     "loss": 3,
     "tie": 0,
-    "for": 108,
-    "officialWin": 10,
+    "for": 143,
+    "officialWin": 14,
     "officialLoss": 2,
-    "against": 43,
-    "elo": 1649.442994780456,
-    "upcoming": [
-        {
-            "id": "kitchener_ringette_u14a_1",
-            "tournament": "kitchener_ringette",
-            "type": "RR",
-            "date": "Fri Jan 31",
-            "time": "9:00A",
-            "visitor": "Forest",
-            "visitorScore": "0",
-            "home": "Kitchener",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580443200000,
-            "tournamentName": "Kitchener",
-            "elo": {
-                "pregame": {
-                    "opp": 1495.614176514694,
-                    "elo": 1649.442994780456,
-                    "probability": 0.699795031534034
-                }
-            }
-        },
-        {
-            "id": "kitchener_ringette_u14a_4",
-            "tournament": "kitchener_ringette",
-            "type": "RR",
-            "date": "Fri Jan 31",
-            "time": "2:00P",
-            "visitor": "Forest",
-            "visitorScore": "0",
-            "home": "Waterloo",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580461200000,
-            "tournamentName": "Kitchener",
-            "elo": {
-                "pregame": {
-                    "opp": 1467.7430348540104,
-                    "elo": 1649.442994780456,
-                    "probability": 0.7327873498181059
-                }
-            }
-        },
-        {
-            "id": "kitchener_ringette_u14a_7",
-            "tournament": "kitchener_ringette",
-            "type": "RR",
-            "date": "Sat Feb 1",
-            "time": "10:00A",
-            "visitor": "Markham - F",
-            "visitorScore": "0",
-            "home": "Forest",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580533200000,
-            "tournamentName": "Kitchener",
-            "elo": {
-                "pregame": {
-                    "opp": 1539.85900161892,
-                    "elo": 1649.442994780456,
-                    "probability": 0.6429921350102188
-                }
-            }
-        },
-        {
-            "id": "kitchener_ringette_u14a_10",
-            "tournament": "kitchener_ringette",
-            "type": "RR",
-            "date": "Sat Feb 1",
-            "time": "5:30P",
-            "visitor": "Sudbury",
-            "visitorScore": "0",
-            "home": "Forest",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580560200000,
-            "tournamentName": "Kitchener",
-            "elo": {
-                "pregame": {
-                    "opp": 1395.133417184345,
-                    "elo": 1649.442994780456,
-                    "probability": 0.8072321741597595
-                }
-            }
-        }
-    ],
+    "against": 51,
+    "elo": 1690.1568267855369,
+    "upcoming": [],
     "results": [
         {
             "id": "london_ringette_u14a_1",
@@ -562,18 +477,148 @@
                 }
             },
             "record": "15 - 3 - 0"
+        },
+        {
+            "id": "kitchener_ringette_u14a_1",
+            "tournament": "kitchener_ringette",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "9:00A",
+            "visitor": "Forest",
+            "visitorScore": "8",
+            "home": "Kitchener",
+            "homeScore": "2",
+            "status": "Official",
+            "isoDate": 1580443200000,
+            "tournamentName": "Kitchener",
+            "elo": {
+                "pregame": {
+                    "opp": 1495.614176514694,
+                    "elo": 1649.442994780456,
+                    "probability": 0.699795031534034
+                },
+                "postgame": {
+                    "opp": 1486.268982813305,
+                    "elo": 1658.788188481845
+                }
+            },
+            "record": "16 - 3 - 0"
+        },
+        {
+            "id": "kitchener_ringette_u14a_4",
+            "tournament": "kitchener_ringette",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "2:00P",
+            "visitor": "Forest",
+            "visitorScore": "7",
+            "home": "Waterloo",
+            "homeScore": "0",
+            "status": "Official",
+            "isoDate": 1580461200000,
+            "tournamentName": "Kitchener",
+            "elo": {
+                "pregame": {
+                    "opp": 1487.0172110149754,
+                    "elo": 1658.788188481845,
+                    "probability": 0.7213011244614113
+                },
+                "postgame": {
+                    "opp": 1478.3403949143346,
+                    "elo": 1667.4650045824858
+                }
+            },
+            "record": "17 - 3 - 0"
+        },
+        {
+            "id": "kitchener_ringette_u14a_7",
+            "tournament": "kitchener_ringette",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "10:00A",
+            "visitor": "Markham - F",
+            "visitorScore": "3",
+            "home": "Forest",
+            "homeScore": "4",
+            "status": "Official",
+            "isoDate": 1580533200000,
+            "tournamentName": "Kitchener",
+            "elo": {
+                "pregame": {
+                    "opp": 1530.5698296794767,
+                    "elo": 1667.4650045824858,
+                    "probability": 0.678655279960378
+                },
+                "postgame": {
+                    "opp": 1520.566904905266,
+                    "elo": 1677.4679293566965
+                }
+            },
+            "record": "18 - 3 - 0"
+        },
+        {
+            "id": "kitchener_ringette_u14a_10",
+            "tournament": "kitchener_ringette",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "5:30P",
+            "visitor": "Sudbury",
+            "visitorScore": "1",
+            "home": "Forest",
+            "homeScore": "8",
+            "status": "Official",
+            "isoDate": 1580560200000,
+            "tournamentName": "Kitchener",
+            "elo": {
+                "pregame": {
+                    "opp": 1361.3060811971825,
+                    "elo": 1677.4679293566965,
+                    "probability": 0.8572608702388705
+                },
+                "postgame": {
+                    "opp": 1356.8440970301292,
+                    "elo": 1681.9299135237497
+                }
+            },
+            "record": "19 - 3 - 0"
+        },
+        {
+            "id": "kitchener_ringette_u14a_11",
+            "tournament": "kitchener_ringette",
+            "type": "GS",
+            "date": "Sun Feb 2",
+            "time": "12:15P",
+            "visitor": "Kitchener",
+            "visitorScore": "2",
+            "home": "Forest",
+            "homeScore": "8",
+            "status": "Official",
+            "isoDate": 1580627700000,
+            "tournamentName": "Kitchener",
+            "elo": {
+                "pregame": {
+                    "opp": 1497.5904509389284,
+                    "elo": 1681.9299135237497,
+                    "probability": 0.7357897193647367
+                },
+                "postgame": {
+                    "opp": 1489.3635376771413,
+                    "elo": 1690.1568267855369
+                }
+            },
+            "record": "20 - 3 - 0"
         }
     ],
-    "pct": 0.8333333333333334,
-    "points": 20,
-    "games": 18,
+    "pct": 0.875,
+    "points": 28,
+    "games": 23,
     "opponentRecord": {
-        "w": 127,
-        "l": 100,
-        "t": 15,
-        "g": 242
+        "w": 184,
+        "l": 161,
+        "t": 22,
+        "g": 367
     },
-    "strengthOfSchedule": 0.5549587212610997,
-    "record": "15 - 3 - 0",
+    "strengthOfSchedule": 0.5374265139991043,
+    "record": "20 - 3 - 0",
     "image": "Forest.png"
 }

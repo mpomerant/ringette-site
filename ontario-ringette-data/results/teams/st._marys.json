@@ -45,9 +45,9 @@
             "tournamentName": "Guelph",
             "elo": {
                 "pregame": {
-                    "opp": 1509.5059575542887,
+                    "opp": 1502.467819008638,
                     "elo": 1494.1311717665844,
-                    "probability": 0.4902174982137293
+                    "probability": 0.5004743365024091
                 }
             }
         },
@@ -90,6 +90,90 @@
                     "opp": 1390.3897032828734,
                     "elo": 1494.1311717665844,
                     "probability": 0.6351356045339136
+                }
+            }
+        },
+        {
+            "id": "newmarket_ringette_u14a_2",
+            "tournament": "newmarket_ringette",
+            "type": "RR",
+            "date": "Fri Feb 14",
+            "time": "9:30A",
+            "visitor": "St. Marys",
+            "visitorScore": "0",
+            "home": "Upper Ottawa Valley",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581654600000,
+            "tournamentName": "Newmarket",
+            "elo": {
+                "pregame": {
+                    "opp": 1437.6873344733328,
+                    "elo": 1494.1311717665844,
+                    "probability": 0.5691950100610175
+                }
+            }
+        },
+        {
+            "id": "newmarket_ringette_u14a_8",
+            "tournament": "newmarket_ringette",
+            "type": "RR",
+            "date": "Fri Feb 14",
+            "time": "1:30P",
+            "visitor": "Sudbury",
+            "visitorScore": "0",
+            "home": "St. Marys",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581669000000,
+            "tournamentName": "Newmarket",
+            "elo": {
+                "pregame": {
+                    "opp": 1356.8440970301292,
+                    "elo": 1494.1311717665844,
+                    "probability": 0.6791533456303218
+                }
+            }
+        },
+        {
+            "id": "newmarket_ringette_u14a_17",
+            "tournament": "newmarket_ringette",
+            "type": "RR",
+            "date": "Sat Feb 15",
+            "time": "10:15A",
+            "visitor": "Oshawa",
+            "visitorScore": "0",
+            "home": "St. Marys",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581743700000,
+            "tournamentName": "Newmarket",
+            "elo": {
+                "pregame": {
+                    "opp": 1355.9488849142128,
+                    "elo": 1494.1311717665844,
+                    "probability": 0.6802895409548003
+                }
+            }
+        },
+        {
+            "id": "newmarket_ringette_u14a_21",
+            "tournament": "newmarket_ringette",
+            "type": "RR",
+            "date": "Sat Feb 15",
+            "time": "4:00P",
+            "visitor": "St. Marys",
+            "visitorScore": "0",
+            "home": "West Ottawa - F",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581764400000,
+            "tournamentName": "Newmarket",
+            "elo": {
+                "pregame": {
+                    "opp": 1504.4004518124455,
+                    "elo": 1494.1311717665844,
+                    "probability": 0.4976575414711595
                 }
             }
         }
@@ -334,12 +418,12 @@
     "points": 6,
     "games": 9,
     "opponentRecord": {
-        "w": 57,
-        "l": 42,
-        "t": 6,
-        "g": 105
+        "w": 73,
+        "l": 56,
+        "t": 9,
+        "g": 138
     },
-    "strengthOfSchedule": 0.5572104776140651,
+    "strengthOfSchedule": 0.553509675034978,
     "record": "4 - 5 - 0",
     "image": "St. Marys.png"
 }

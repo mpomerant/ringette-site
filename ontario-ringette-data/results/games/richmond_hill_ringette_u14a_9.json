@@ -5,10 +5,10 @@
     "date": "Sat Feb 1",
     "time": "9:20A",
     "visitor": "Richmond Hill",
-    "visitorScore": "0",
+    "visitorScore": "2",
     "home": "Guelph",
-    "homeScore": "0",
-    "status": "",
+    "homeScore": "3",
+    "status": "Official",
     "isoDate": 1580530800000,
     "tournamentName": "Richmond Hill"
 }

@@ -8,7 +8,92 @@
     "officialLoss": 0,
     "against": 17,
     "elo": 1593.244375295581,
-    "upcoming": [],
+    "upcoming": [
+        {
+            "id": "newmarket_ringette_u14a_1",
+            "tournament": "newmarket_ringette",
+            "type": "RR",
+            "date": "Fri Feb 14",
+            "time": "8:30A",
+            "visitor": "Sudbury",
+            "visitorScore": "0",
+            "home": "Timmins",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581651000000,
+            "tournamentName": "Newmarket",
+            "elo": {
+                "pregame": {
+                    "opp": 1356.8440970301292,
+                    "elo": 1593.244375295581,
+                    "probability": 0.790462189614756
+                }
+            }
+        },
+        {
+            "id": "newmarket_ringette_u14a_7",
+            "tournament": "newmarket_ringette",
+            "type": "RR",
+            "date": "Fri Feb 14",
+            "time": "12:30P",
+            "visitor": "Timmins",
+            "visitorScore": "0",
+            "home": "Markham - A",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581665400000,
+            "tournamentName": "Newmarket",
+            "elo": {
+                "pregame": {
+                    "opp": 1644.7790157032748,
+                    "elo": 1593.244375295581,
+                    "probability": 0.43783655568996593
+                }
+            }
+        },
+        {
+            "id": "newmarket_ringette_u14a_15",
+            "tournament": "newmarket_ringette",
+            "type": "RR",
+            "date": "Sat Feb 15",
+            "time": "9:15A",
+            "visitor": "Timmins",
+            "visitorScore": "0",
+            "home": "Kitchener",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581740100000,
+            "tournamentName": "Newmarket",
+            "elo": {
+                "pregame": {
+                    "opp": 1489.3635376771413,
+                    "elo": 1593.244375295581,
+                    "probability": 0.6353238763865949
+                }
+            }
+        },
+        {
+            "id": "newmarket_ringette_u14a_22",
+            "tournament": "newmarket_ringette",
+            "type": "RR",
+            "date": "Sat Feb 15",
+            "time": "4:45P",
+            "visitor": "Richmond Hill",
+            "visitorScore": "0",
+            "home": "Timmins",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581767100000,
+            "tournamentName": "Newmarket",
+            "elo": {
+                "pregame": {
+                    "opp": 1558.363451821109,
+                    "elo": 1593.244375295581,
+                    "probability": 0.5381397140122741
+                }
+            }
+        }
+    ],
     "results": [
         {
             "id": "nepean_ringette_u14a_5",
@@ -301,12 +386,12 @@
     "points": 16,
     "games": 11,
     "opponentRecord": {
-        "w": 90,
-        "l": 63,
-        "t": 8,
-        "g": 161
+        "w": 112,
+        "l": 82,
+        "t": 14,
+        "g": 208
     },
-    "strengthOfSchedule": 0.566486539384876,
+    "strengthOfSchedule": 0.5601397127945801,
     "record": "9 - 2 - 0",
     "image": "Timmins.png"
 }

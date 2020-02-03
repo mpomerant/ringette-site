@@ -5,10 +5,10 @@
     "date": "Fri Jan 31",
     "time": "10:00A",
     "visitor": "Barrie",
-    "visitorScore": "0",
+    "visitorScore": "2",
     "home": "London",
-    "homeScore": "0",
-    "status": "",
+    "homeScore": "5",
+    "status": "Official",
     "isoDate": 1580446800000,
     "tournamentName": "Richmond Hill"
 }

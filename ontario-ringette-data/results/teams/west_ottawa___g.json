@@ -1,95 +1,95 @@
 {
     "name": "West Ottawa - G",
-    "win": 11,
-    "loss": 4,
+    "win": 16,
+    "loss": 5,
     "tie": 1,
-    "for": 75,
-    "officialWin": 9,
-    "officialLoss": 2,
-    "against": 34,
-    "elo": 1599.6196665104226,
+    "for": 92,
+    "officialWin": 12,
+    "officialLoss": 3,
+    "against": 43,
+    "elo": 1641.1967946088973,
     "upcoming": [
         {
-            "id": "gloucester_cumberland_u14a_3",
-            "tournament": "gloucester_cumberland",
+            "id": "newmarket_ringette_u14a_5",
+            "tournament": "newmarket_ringette",
             "type": "RR",
-            "date": "Fri Jan 31",
-            "time": "9:00A",
-            "visitor": "West Ottawa - G",
-            "visitorScore": "0",
-            "home": "City of Ottawa",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580443200000,
-            "tournamentName": "Gloucester Cumberland",
-            "elo": {
-                "pregame": {
-                    "opp": 1451.0983225386663,
-                    "elo": 1599.6196665104226,
-                    "probability": 0.6932546431731913
-                }
-            }
-        },
-        {
-            "id": "gloucester_cumberland_u14a_5",
-            "tournament": "gloucester_cumberland",
-            "type": "RR",
-            "date": "Fri Jan 31",
-            "time": "1:30P",
-            "visitor": "Gloucester Cumberland - B",
+            "date": "Fri Feb 14",
+            "time": "10:15A",
+            "visitor": "Kitchener",
             "visitorScore": "0",
             "home": "West Ottawa - G",
             "homeScore": "0",
             "status": "",
-            "isoDate": 1580459400000,
-            "tournamentName": "Gloucester Cumberland",
+            "isoDate": 1581657300000,
+            "tournamentName": "Newmarket",
             "elo": {
                 "pregame": {
-                    "opp": 1612.4252491191114,
-                    "elo": 1599.6196665104226,
-                    "probability": 0.4939611570032183
+                    "opp": 1489.3635376771413,
+                    "elo": 1641.1967946088973,
+                    "probability": 0.6973452456823863
                 }
             }
         },
         {
-            "id": "gloucester_cumberland_u14a_10",
-            "tournament": "gloucester_cumberland",
+            "id": "newmarket_ringette_u14a_10",
+            "tournament": "newmarket_ringette",
             "type": "RR",
-            "date": "Sat Feb 1",
-            "time": "10:30A",
-            "visitor": "West Ottawa - G",
-            "visitorScore": "0",
-            "home": "Gloucester Cumberland - D",
-            "homeScore": "0",
-            "status": "",
-            "isoDate": 1580535000000,
-            "tournamentName": "Gloucester Cumberland",
-            "elo": {
-                "pregame": {
-                    "opp": 1434.4688567575197,
-                    "elo": 1599.6196665104226,
-                    "probability": 0.7134765568183645
-                }
-            }
-        },
-        {
-            "id": "gloucester_cumberland_u14a_14",
-            "tournament": "gloucester_cumberland",
-            "type": "RR",
-            "date": "Sat Feb 1",
-            "time": "5:30P",
-            "visitor": "Nepean",
+            "date": "Fri Feb 14",
+            "time": "5:15P",
+            "visitor": "Richmond Hill",
             "visitorScore": "0",
             "home": "West Ottawa - G",
             "homeScore": "0",
             "status": "",
-            "isoDate": 1580560200000,
-            "tournamentName": "Gloucester Cumberland",
+            "isoDate": 1581682500000,
+            "tournamentName": "Newmarket",
             "elo": {
                 "pregame": {
-                    "opp": 1490.2530923118477,
-                    "elo": 1599.6196665104226,
-                    "probability": 0.6427011114936827
+                    "opp": 1558.363451821109,
+                    "elo": 1641.1967946088973,
+                    "probability": 0.6064510091578792
+                }
+            }
+        },
+        {
+            "id": "newmarket_ringette_u14a_20",
+            "tournament": "newmarket_ringette",
+            "type": "RR",
+            "date": "Sat Feb 15",
+            "time": "3:00P",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "0",
+            "home": "Sudbury",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581760800000,
+            "tournamentName": "Newmarket",
+            "elo": {
+                "pregame": {
+                    "opp": 1356.8440970301292,
+                    "elo": 1641.1967946088973,
+                    "probability": 0.8330328828530267
+                }
+            }
+        },
+        {
+            "id": "newmarket_ringette_u14a_26",
+            "tournament": "newmarket_ringette",
+            "type": "RR",
+            "date": "Sat Feb 15",
+            "time": "7:00P",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "0",
+            "home": "London",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581775200000,
+            "tournamentName": "Newmarket",
+            "elo": {
+                "pregame": {
+                    "opp": 1492.132439499934,
+                    "elo": 1641.1967946088973,
+                    "probability": 0.6939274371506623
                 }
             }
         }
@@ -510,18 +510,174 @@
                 }
             },
             "record": "11 - 4 - 1"
+        },
+        {
+            "id": "gloucester_cumberland_u14a_3",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "9:00A",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "2",
+            "home": "City of Ottawa",
+            "homeScore": "0",
+            "status": "Official",
+            "isoDate": 1580443200000,
+            "tournamentName": "Gloucester Cumberland",
+            "elo": {
+                "pregame": {
+                    "opp": 1451.0983225386663,
+                    "elo": 1599.6196665104226,
+                    "probability": 0.6932546431731913
+                },
+                "postgame": {
+                    "opp": 1441.5497168803474,
+                    "elo": 1609.1682721687414
+                }
+            },
+            "record": "12 - 4 - 1"
+        },
+        {
+            "id": "gloucester_cumberland_u14a_5",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Fri Jan 31",
+            "time": "1:30P",
+            "visitor": "Gloucester Cumberland - B",
+            "visitorScore": "4",
+            "home": "West Ottawa - G",
+            "homeScore": "0",
+            "status": "Official",
+            "isoDate": 1580459400000,
+            "tournamentName": "Gloucester Cumberland",
+            "elo": {
+                "pregame": {
+                    "opp": 1612.4252491191114,
+                    "elo": 1609.1682721687414,
+                    "probability": 0.5078773042619282
+                },
+                "postgame": {
+                    "opp": 1628.2752641810678,
+                    "elo": 1593.318257106785
+                }
+            },
+            "record": "12 - 5 - 1"
+        },
+        {
+            "id": "gloucester_cumberland_u14a_10",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "10:30A",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "6",
+            "home": "Gloucester Cumberland - D",
+            "homeScore": "0",
+            "status": "Official",
+            "isoDate": 1580535000000,
+            "tournamentName": "Gloucester Cumberland",
+            "elo": {
+                "pregame": {
+                    "opp": 1422.0120981537925,
+                    "elo": 1593.318257106785,
+                    "probability": 0.7207560396787813
+                },
+                "postgame": {
+                    "opp": 1413.3183502534457,
+                    "elo": 1602.0120050071318
+                }
+            },
+            "record": "13 - 5 - 1"
+        },
+        {
+            "id": "gloucester_cumberland_u14a_14",
+            "tournament": "gloucester_cumberland",
+            "type": "RR",
+            "date": "Sat Feb 1",
+            "time": "5:30P",
+            "visitor": "Nepean",
+            "visitorScore": "1",
+            "home": "West Ottawa - G",
+            "homeScore": "3",
+            "status": "Official",
+            "isoDate": 1580560200000,
+            "tournamentName": "Gloucester Cumberland",
+            "elo": {
+                "pregame": {
+                    "opp": 1474.2272425894168,
+                    "elo": 1602.0120050071318,
+                    "probability": 0.6669639301856274
+                },
+                "postgame": {
+                    "opp": 1463.8602144181948,
+                    "elo": 1612.379033178354
+                }
+            },
+            "record": "14 - 5 - 1"
+        },
+        {
+            "id": "gloucester_cumberland_u14a_16",
+            "tournament": "gloucester_cumberland",
+            "type": "S2",
+            "date": "Sun Feb 2",
+            "time": "10:15A",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "3",
+            "home": "Gloucester Cumberland - B",
+            "homeScore": "2",
+            "status": "Official",
+            "isoDate": 1580620500000,
+            "tournamentName": "Gloucester Cumberland",
+            "elo": {
+                "pregame": {
+                    "opp": 1616.5331807545863,
+                    "elo": 1612.379033178354,
+                    "probability": 0.5065699517522722
+                },
+                "postgame": {
+                    "opp": 1600.341884304765,
+                    "elo": 1628.5703296281752
+                }
+            },
+            "record": "15 - 5 - 1"
+        },
+        {
+            "id": "gloucester_cumberland_u14a_17",
+            "tournament": "gloucester_cumberland",
+            "type": "GS",
+            "date": "Sun Feb 2",
+            "time": "2:15P",
+            "visitor": "West Ottawa - G",
+            "visitorScore": "3",
+            "home": "Nova Scotia",
+            "homeScore": "2",
+            "status": "Official (OT1)",
+            "isoDate": 1580634900000,
+            "tournamentName": "Gloucester Cumberland",
+            "elo": {
+                "pregame": {
+                    "opp": 1554.1994922126946,
+                    "elo": 1628.5703296281752,
+                    "probability": 0.5946162239647732
+                },
+                "postgame": {
+                    "opp": 1541.5730272319724,
+                    "elo": 1641.1967946088973
+                }
+            },
+            "record": "16 - 5 - 1"
         }
     ],
-    "pct": 0.7916666666666666,
-    "points": 19,
-    "games": 16,
+    "pct": 0.78125,
+    "points": 25,
+    "games": 22,
     "opponentRecord": {
-        "w": 120,
-        "l": 89,
-        "t": 11,
-        "g": 220
+        "w": 188,
+        "l": 147,
+        "t": 15,
+        "g": 350
     },
-    "strengthOfSchedule": 0.5656221303948576,
-    "record": "11 - 4 - 1",
+    "strengthOfSchedule": 0.5540381761769865,
+    "record": "16 - 5 - 1",
     "image": "West Ottawa.png"
 }

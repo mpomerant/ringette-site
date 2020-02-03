@@ -8,7 +8,92 @@
     "officialLoss": 11,
     "against": 69,
     "elo": 1355.9488849142128,
-    "upcoming": [],
+    "upcoming": [
+        {
+            "id": "newmarket_ringette_u14a_3",
+            "tournament": "newmarket_ringette",
+            "type": "RR",
+            "date": "Fri Feb 14",
+            "time": "9:45A",
+            "visitor": "West Ottawa - F",
+            "visitorScore": "0",
+            "home": "Oshawa",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581655500000,
+            "tournamentName": "Newmarket",
+            "elo": {
+                "pregame": {
+                    "opp": 1504.4004518124455,
+                    "elo": 1355.9488849142128,
+                    "probability": 0.3068318707941442
+                }
+            }
+        },
+        {
+            "id": "newmarket_ringette_u14a_9",
+            "tournament": "newmarket_ringette",
+            "type": "RR",
+            "date": "Fri Feb 14",
+            "time": "3:45P",
+            "visitor": "London",
+            "visitorScore": "0",
+            "home": "Oshawa",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581677100000,
+            "tournamentName": "Newmarket",
+            "elo": {
+                "pregame": {
+                    "opp": 1492.132439499934,
+                    "elo": 1355.9488849142128,
+                    "probability": 0.3222501579777115
+                }
+            }
+        },
+        {
+            "id": "newmarket_ringette_u14a_17",
+            "tournament": "newmarket_ringette",
+            "type": "RR",
+            "date": "Sat Feb 15",
+            "time": "10:15A",
+            "visitor": "Oshawa",
+            "visitorScore": "0",
+            "home": "St. Marys",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581743700000,
+            "tournamentName": "Newmarket",
+            "elo": {
+                "pregame": {
+                    "opp": 1494.1311717665844,
+                    "elo": 1355.9488849142128,
+                    "probability": 0.3197104590451997
+                }
+            }
+        },
+        {
+            "id": "newmarket_ringette_u14a_23",
+            "tournament": "newmarket_ringette",
+            "type": "RR",
+            "date": "Sat Feb 15",
+            "time": "5:00P",
+            "visitor": "Oshawa",
+            "visitorScore": "0",
+            "home": "Waterloo",
+            "homeScore": "0",
+            "status": "",
+            "isoDate": 1581768000000,
+            "tournamentName": "Newmarket",
+            "elo": {
+                "pregame": {
+                    "opp": 1475.1979936254565,
+                    "elo": 1355.9488849142128,
+                    "probability": 0.3441798376903129
+                }
+            }
+        }
+    ],
     "results": [
         {
             "id": "oshawa_ringette_u14a_2",
@@ -327,12 +412,12 @@
     "points": 1,
     "games": 12,
     "opponentRecord": {
-        "w": 79,
-        "l": 74,
-        "t": 8,
-        "g": 161
+        "w": 93,
+        "l": 93,
+        "t": 16,
+        "g": 202
     },
-    "strengthOfSchedule": 0.5140284374619413,
+    "strengthOfSchedule": 0.5063816209317166,
     "record": "0 - 11 - 1",
     "image": "Oshawa.png"
 }

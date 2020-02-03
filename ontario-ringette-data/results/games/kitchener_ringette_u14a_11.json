@@ -4,11 +4,11 @@
     "type": "GS",
     "date": "Sun Feb 2",
     "time": "12:15P",
-    "visitor": "Not Available",
-    "visitorScore": "0",
-    "home": "Not Available",
-    "homeScore": "0",
-    "status": "",
+    "visitor": "Kitchener",
+    "visitorScore": "2",
+    "home": "Forest",
+    "homeScore": "8",
+    "status": "Official",
     "isoDate": 1580627700000,
     "tournamentName": "Kitchener"
 }

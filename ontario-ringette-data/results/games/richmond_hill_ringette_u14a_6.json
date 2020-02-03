@@ -5,10 +5,10 @@
     "date": "Fri Jan 31",
     "time": "3:10P",
     "visitor": "Metcalfe",
-    "visitorScore": "0",
+    "visitorScore": "5",
     "home": "Barrie",
-    "homeScore": "0",
-    "status": "",
+    "homeScore": "2",
+    "status": "Official",
     "isoDate": 1580465400000,
     "tournamentName": "Richmond Hill"
 }

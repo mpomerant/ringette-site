@@ -5,10 +5,10 @@
     "date": "Sat Feb 1",
     "time": "11:00A",
     "visitor": "Sudbury",
-    "visitorScore": "0",
+    "visitorScore": "2",
     "home": "Waterloo",
-    "homeScore": "0",
-    "status": "",
+    "homeScore": "7",
+    "status": "Official",
     "isoDate": 1580536800000,
     "tournamentName": "Kitchener"
 }

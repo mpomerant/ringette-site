@@ -4,11 +4,11 @@
     "type": "S1",
     "date": "Sun Feb 2",
     "time": "8:00A",
-    "visitor": "Not Available",
-    "visitorScore": "0",
-    "home": "Not Available",
-    "homeScore": "0",
-    "status": "",
+    "visitor": "Metcalfe",
+    "visitorScore": "5",
+    "home": "West Ottawa - F",
+    "homeScore": "3",
+    "status": "Official",
     "isoDate": 1580612400000,
     "tournamentName": "Richmond Hill"
 }

@@ -18,7 +18,7 @@ const fs = require('fs');
             const options = Array.from(document.querySelectorAll('select[name="ctl00$DropDownListEvents"]>option'));
             const map = options.reduce((acc, curr) => {
                 const name = curr.textContent.trim();
-                const include = ['Waterloo', 'Richmond', 'Gloucester', 'Kitchener', 'Guelph'];
+                const include = [ 'Guelph', 'Newmarket'];
                 
                 if (include.find( tour => name.indexOf(tour) > 0)){
                     acc[name] = curr.value;
@@ -94,7 +94,7 @@ const fs = require('fs');
                 return games.map((game) => {
                     const gameData = Array.from(game.querySelectorAll('td'));
                     const status = gameData[9].textContent.trim();
-                    const isOfficial = status === 'Official';
+                    const isOfficial = status.toLowerCase().includes('official');
                     const type = gameData[1].textContent.trim();
                     const isRR = type === 'RR' || type === 'SRR';
                     const visitorLink = gameData[5].querySelector('a');

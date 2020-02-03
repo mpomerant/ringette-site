@@ -5,10 +5,10 @@
     "date": "Sat Feb 1",
     "time": "12:50P",
     "visitor": "Markham - A",
-    "visitorScore": "0",
+    "visitorScore": "5",
     "home": "London",
-    "homeScore": "0",
-    "status": "",
+    "homeScore": "1",
+    "status": "Official",
     "isoDate": 1580543400000,
     "tournamentName": "Richmond Hill"
 }

@@ -5,10 +5,10 @@
     "date": "Sat Feb 1",
     "time": "10:00A",
     "visitor": "Markham - F",
-    "visitorScore": "0",
+    "visitorScore": "3",
     "home": "Forest",
-    "homeScore": "0",
-    "status": "",
+    "homeScore": "4",
+    "status": "Official",
     "isoDate": 1580533200000,
     "tournamentName": "Kitchener"
 }
